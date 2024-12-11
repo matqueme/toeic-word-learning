@@ -13,6 +13,14 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 - 🖖 [Vue 3](https://github.com/vuejs/core) - Composition API and `<script setup>`4s
 - 🚦 [Vue Router](https://github.com/vuejs/router) - The official router for Vue.js.
 - 🔥 [TypeScript](https://github.com/microsoft/TypeScript) - Strongly typed programming language that builds on JavaScript
+- 🔍 [@nuxt/image](https://github.com/nuxt/image) - Optimized images for Nuxt
+- 🤖 [@nuxtjs/robots](https://github.com/nuxt-modules/robots) - Robots.txt module for Nuxt
+- 🗺️ [@nuxtjs/sitemap](https://github.com/nuxt-modules/sitemap) - Sitemap module for Nuxt
+- 📈 [nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag) - Google Analytics module for Nuxt
+- 📚 [nuxt-schema-org](https://github.com/harlan-zw/nuxt-schema-org) - Schema.org integration for Nuxt
+- 🖼️ [nuxt-svgo](https://github.com/cpsoinos/nuxt-svgo) - SVGO module for Nuxt
+- 🎨 [nuxt-phosphor-icons](https://github.com/oyedejioyewole/nuxt-phosphor-icons) - Phosphor icons for Nuxt
+- 🌈 [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - Utility-first CSS framework
 
 ## Coding Style
 
@@ -47,6 +55,9 @@ pnpm install
 
 # Start the development server
 pnpm dev
+
+# Start the development server for all devices
+pnpm dev:host
 ```
 
 > Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -57,3 +68,8 @@ pnpm dev
 - [ ] Remove the example content from `README.md`
 - [ ] Update the `LICENSE` file with your project license
 - [ ] Remove the `.github` directory which contains the funding information
+- [ ] Configure `_robots.txt` file in the `public` directory with the url of your sitemap
+- [ ] Set up Google Analytics id in `nuxt.config.ts`
+- [ ] Add SEO metadata in `nuxt.config.ts`
+- [ ] Update the 'site' object in `nuxt.config.ts` with your site information
+- [ ] Add the favicon in the `public` directory
