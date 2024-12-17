@@ -21,6 +21,7 @@ export default defineNuxtConfig({
         defaultImport: 'component',
       },
     ],
+    '@pinia/nuxt',
   ],
   css: ['~/assets/css/main.css'],
   postcss: {
