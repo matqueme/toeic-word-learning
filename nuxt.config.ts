@@ -22,6 +22,7 @@ export default defineNuxtConfig({
       },
     ],
     '@pinia/nuxt',
+    '@nuxtjs/i18n',
   ],
   css: ['~/assets/css/main.css'],
   postcss: {
@@ -29,6 +30,15 @@ export default defineNuxtConfig({
       tailwindcss: {},
       autoprefixer: {},
     },
+  },
+  i18n: {
+    defaultLocale: 'fr',
+    locales: [
+      { code: 'en', file: 'en/index.ts' },
+      { code: 'fr', file: 'fr/index.ts' },
+    ],
+    langDir: 'locales/',
+    lazy: true,
   },
   site: {
     url: '',
