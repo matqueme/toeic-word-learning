@@ -20,6 +20,14 @@ export default [
           ignores: ['error', 'example', 'index'],
         },
       ],
+      'vue/block-lang': [
+        'error',
+        {
+          script: {
+            lang: 'ts',
+          },
+        },
+      ],
     },
   },
 ];
