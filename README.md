@@ -21,6 +21,8 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 - 🖼️ [nuxt-svgo](https://github.com/cpsoinos/nuxt-svgo) - SVGO module for Nuxt
 - 🎨 [nuxt-phosphor-icons](https://github.com/oyedejioyewole/nuxt-phosphor-icons) - Phosphor icons for Nuxt
 - 🌈 [tailwindcss](https://github.com/tailwindlabs/tailwindcss) - Utility-first CSS framework
+- 🌍 [@nuxtjs/i18n](https://github.com/nuxt-modules/i18n) - Internationalization module for Nuxt
+- 🛠️ [@pinia/nuxt](https://github.com/posva/pinia) - The intuitive store for Vue.js
 
 ## Coding Style
 
