@@ -19,7 +19,7 @@
     "@pinia/nuxt": "0.9.0",
     "nuxt": "^3.14.1592",
     "nuxt-gtag": "3.0.2",
-    "nuxt-schema-org": "^4.0.3",
+    "nuxt-schema-org": "^4.0.4",
     "nuxt-svgo": "^4.0.9",
     "pinia": "^2.3.0",
     "vue": "latest",
@@ -27,19 +27,19 @@
   },
   "packageManager": "pnpm@9.12.3+sha512.cce0f9de9c5a7c95bef944169cc5dfe8741abfb145078c0d508b868056848a87c81e626246cb60967cbd7fd29a6c062ef73ff840d96b3c86c40ac92cf4a813ee",
   "devDependencies": {
-    "@eslint/js": "^9.16.0",
+    "@eslint/js": "^9.17.0",
     "@nuxt/eslint": "^0.6.2",
     "autoprefixer": "^10.4.20",
-    "eslint": "^9.16.0",
+    "eslint": "^9.17.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
     "eslint-plugin-vue": "^9.32.0",
-    "globals": "^15.13.0",
+    "globals": "^15.14.0",
     "nuxt-phosphor-icons": "^1.3.0",
     "postcss": "^8.4.49",
     "prettier": "^3.4.2",
-    "tailwindcss": "^3.4.16",
+    "tailwindcss": "^3.4.17",
     "typescript": "^5.7.2",
-    "typescript-eslint": "^8.18.0"
+    "typescript-eslint": "^8.18.1"
   }
 }
