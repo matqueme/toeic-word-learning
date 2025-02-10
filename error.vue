@@ -1,5 +1,5 @@
 <template>
-  <div class="flex items-center justify-center min-h-screen bg-gray-100">
+  <div class="flex min-h-screen items-center justify-center bg-gray-100">
     <div class="text-center">
       <h1 class="text-6xl font-bold text-red-500">404</h1>
       <p class="mt-4 text-2xl">Page Not Found</p>
@@ -8,7 +8,7 @@
       </p>
       <nuxt-link
         to="/"
-        class="inline-block px-4 py-2 mt-6 text-white bg-blue-500 rounded-full hover:bg-blue-600"
+        class="mt-6 inline-block rounded-full bg-blue-500 px-4 py-2 text-white hover:bg-blue-600"
       >
         Go Back Home
       </nuxt-link>
