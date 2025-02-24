@@ -16,4 +16,16 @@
   </div>
 </template>
 
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { useHead } from '#imports';
+
+useHead({
+  title: '404 - Page Not Found',
+  meta: [
+    {
+      name: 'description',
+      content: 'Sorry, the page you are looking for does not exist.',
+    },
+  ],
+});
+</script>

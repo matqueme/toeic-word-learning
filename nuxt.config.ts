@@ -7,7 +7,6 @@ export default defineNuxtConfig({
   app: {
     head: {
       charset: 'utf-8',
-      viewport: 'width=device-width, initial-scale=1',
     },
   },
   modules: [
@@ -38,9 +37,10 @@ export default defineNuxtConfig({
     ],
     langDir: 'locales/',
     lazy: true,
+    baseUrl: process.env.BASE_URL,
   },
   site: {
-    url: '',
+    url: process.env.BASE_URL,
     name: '',
   },
   gtag: {
