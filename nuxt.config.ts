@@ -23,21 +23,10 @@ export default defineNuxtConfig({
       },
     ],
     '@pinia/nuxt',
-    '@nuxtjs/i18n',
   ],
   css: ['~/assets/css/main.css'],
   vite: {
     plugins: [tailwindcss()],
-  },
-  i18n: {
-    defaultLocale: 'fr',
-    locales: [
-      { code: 'en', file: 'en/index.ts' },
-      { code: 'fr', file: 'fr/index.ts' },
-    ],
-    langDir: 'locales/',
-    lazy: true,
-    baseUrl: process.env.BASE_URL,
   },
   site: {
     url: process.env.BASE_URL,
