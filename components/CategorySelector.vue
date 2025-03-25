@@ -1,6 +1,6 @@
 <template>
   <div class="rounded-lg bg-white p-6 shadow-md">
-    <h2 class="text-(--custom-mauve)-dark mb-4 text-2xl font-semibold">
+    <h2 class="text-(--custom-brown)-dark mb-4 text-2xl font-semibold">
       Étape 1: Choisissez les catégories
     </h2>
 
@@ -17,7 +17,7 @@
           :id="category.id"
           v-model="selected"
           :value="category.id"
-          class="h-5 w-5 rounded border-(--custom-mauve)/50 text-(--custom-mauve) hover:cursor-pointer focus:ring-(--custom-mauve)"
+          class="h-5 w-5 rounded border-(--custom-brown)/50 text-(--custom-brown) hover:cursor-pointer focus:ring-(--custom-brown)"
         />
         <label
           :for="category.id"
@@ -34,7 +34,7 @@
     <div class="mt-6 text-right">
       <button
         @click="next"
-        class="rounded-lg bg-(--custom-mauve) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-mauve-dark) disabled:opacity-50"
+        class="rounded-lg bg-(--custom-brown) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-brown-dark) disabled:opacity-50"
         :disabled="selected.length === 0"
       >
         Suivant

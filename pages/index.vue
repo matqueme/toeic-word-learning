@@ -5,7 +5,7 @@
   >
     <div class="max-w-4xl">
       <h1
-        class="mb-8 text-center text-3xl font-bold text-(--custom-mauve-dark)"
+        class="mb-8 text-center text-3xl font-bold text-(--custom-brown-dark)"
       >
         Apprentissage de vocabulaire TOEIC
       </h1>

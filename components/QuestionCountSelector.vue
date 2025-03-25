@@ -1,6 +1,6 @@
 <template>
   <div class="rounded-lg bg-white p-6 shadow-md">
-    <h2 class="text-(--custom-mauve)-dark mb-4 text-2xl font-semibold">
+    <h2 class="text-(--custom-brown)-dark mb-4 text-2xl font-semibold">
       Étape 2: Combien de questions?
     </h2>
 
@@ -9,13 +9,13 @@
         v-for="count in [5, 10, 20, 30]"
         :key="count"
         @click="selectCount(count)"
-        class="rounded-lg border border-(--custom-mauve)/30 bg-(--custom-mauve-lighter) px-4 py-3 text-center font-semibold transition duration-150 hover:cursor-pointer hover:bg-(--custom-mauve-light) hover:text-white"
+        class="rounded-lg border border-(--custom-brown)/30 bg-(--custom-brown-lighter) px-4 py-3 text-center font-semibold transition duration-150 hover:cursor-pointer hover:bg-(--custom-brown-light) hover:text-white"
       >
         {{ count }} questions
       </button>
       <button
         @click="selectCount(0)"
-        class="col-span-2 rounded-lg border border-(--custom-mauve) bg-(--custom-light) px-4 py-3 text-center font-semibold transition duration-150 hover:cursor-pointer hover:bg-(--custom-light-hover) md:col-span-4"
+        class="col-span-2 rounded-lg border border-(--custom-brown) bg-(--custom-light) px-4 py-3 text-center font-semibold transition duration-150 hover:cursor-pointer hover:bg-(--custom-light-hover) md:col-span-4"
       >
         Toutes les questions
       </button>

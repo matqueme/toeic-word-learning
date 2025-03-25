@@ -1,26 +1,26 @@
 <template>
   <div
-    class="rounded-lg border border-(--custom-mauve)/20 bg-(--custom-light) p-6 shadow-md"
+    class="rounded-lg border border-(--custom-brown)/20 bg-(--custom-light) p-6 shadow-md"
   >
     <div class="mb-4 flex justify-between">
-      <div class="text-(--custom-mauve)-dark">
+      <div class="text-(--custom-brown)-dark">
         Question {{ currentIndex + 1 }}/{{ totalQuestions }}
       </div>
-      <div class="text-(--custom-mauve)-dark font-semibold">
+      <div class="text-(--custom-brown)-dark font-semibold">
         Score: {{ score }}/{{ answeredQuestions }}
       </div>
     </div>
 
     <div class="mb-8" v-if="currentQuestion">
-      <div class="text-(--custom-mauve)-dark mb-1">
+      <div class="text-(--custom-brown)-dark mb-1">
         {{ isFromEnglish ? 'Anglais' : 'Français' }}:
       </div>
-      <div class="mb-4 text-2xl font-bold text-(--custom-mauve)">
+      <div class="mb-4 text-2xl font-bold text-(--custom-brown)">
         {{ displayWord }}
       </div>
 
       <div class="mb-4">
-        <div class="text-(--custom-mauve)-dark mb-1">
+        <div class="text-(--custom-brown)-dark mb-1">
           Choisissez la traduction correcte:
         </div>
         <div class="grid grid-cols-1 gap-3 md:grid-cols-2">
@@ -28,7 +28,7 @@
             v-for="(option, index) in answerOptions"
             :key="index"
             @click="selectAnswer(option)"
-            class="rounded-lg border border-(--custom-mauve)/30 bg-white px-4 py-3 text-left transition duration-150 hover:border-(--custom-mauve)/50 hover:bg-(--custom-light)"
+            class="rounded-lg border border-(--custom-brown)/30 bg-white px-4 py-3 text-left transition duration-150 hover:border-(--custom-brown)/50 hover:bg-(--custom-light)"
             :class="{
               'border-green-500 bg-green-50':
                 showFeedback && option === correctAnswer,
@@ -64,21 +64,21 @@
     <div class="mt-6 flex justify-between">
       <button
         @click="confirmReset"
-        class="rounded-lg bg-(--custom-mauve)/80 px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-mauve)"
+        class="rounded-lg bg-(--custom-brown)/80 px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-brown)"
       >
         Nouvelle partie
       </button>
       <button
         v-if="showFeedback && !isLastQuestion"
         @click="next"
-        class="hover:bg-(--custom-mauve)-dark rounded-lg bg-(--custom-mauve) px-6 py-2 font-bold text-white hover:cursor-pointer"
+        class="hover:bg-(--custom-brown)-dark rounded-lg bg-(--custom-brown) px-6 py-2 font-bold text-white hover:cursor-pointer"
       >
         Question suivante
       </button>
       <button
         v-if="showFeedback && isLastQuestion"
         @click="showResults"
-        class="hover:bg-(--custom-mauve)-dark rounded-lg bg-(--custom-mauve) px-6 py-2 font-bold text-white hover:cursor-pointer"
+        class="hover:bg-(--custom-brown)-dark rounded-lg bg-(--custom-brown) px-6 py-2 font-bold text-white hover:cursor-pointer"
       >
         Voir les résultats
       </button>
