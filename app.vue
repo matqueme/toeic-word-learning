@@ -7,8 +7,13 @@
 import { useHead } from '#imports';
 
 useHead({
-  title: 'Nuxt template',
-  meta: [{ name: 'description', content: 'My awesome Nuxt.js project' }],
+  title: 'Toeic Quiz',
+  meta: [
+    {
+      name: 'description',
+      content: 'Quiz pour réviser le vocabulaire du TOEIC',
+    },
+  ],
   htmlAttrs: {
     lang: 'fr',
     dir: 'ltr',

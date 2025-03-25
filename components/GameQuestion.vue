@@ -4,7 +4,9 @@
       <div class="text-gray-600">
         Question {{ currentIndex + 1 }}/{{ totalQuestions }}
       </div>
-      <div class="font-semibold">Score: {{ score }}/{{ currentIndex }}</div>
+      <div class="font-semibold">
+        Score: {{ score }}/{{ answeredQuestions }}
+      </div>
     </div>
 
     <div class="mb-8" v-if="currentQuestion">
@@ -12,7 +14,7 @@
         {{ isFromEnglish ? 'Anglais' : 'Français' }}:
       </div>
       <div class="mb-4 text-2xl font-bold">
-        {{ isFromEnglish ? currentQuestion.en.word : currentQuestion.fr.word }}
+        {{ displayWord }}
       </div>
 
       <div class="mb-4">
@@ -32,7 +34,7 @@
                 option !== correctAnswer,
             }"
           >
-            {{ option }}
+            {{ option.charAt(0).toUpperCase() + option.slice(1) }}
           </button>
         </div>
       </div>
@@ -43,7 +45,12 @@
         Bonne réponse!
       </div>
       <div v-else class="rounded-lg bg-red-100 p-3 text-red-800">
-        Incorrect. La bonne réponse était: {{ correctAnswer }}
+        Incorrect. La bonne réponse était:
+        {{
+          correctAnswer
+            ? correctAnswer.charAt(0).toUpperCase() + correctAnswer.slice(1)
+            : ''
+        }}
       </div>
     </div>
 
@@ -126,6 +133,14 @@ const emit = defineEmits<{
   (e: 'reset'): void;
 }>();
 
+const displayWord = computed(() => {
+  if (!currentQuestion.value) return '';
+  const word = isFromEnglish.value
+    ? currentQuestion.value.en.word
+    : currentQuestion.value.fr.word;
+  return word.charAt(0).toUpperCase() + word.slice(1);
+});
+
 const currentQuestion = computed(
   () => props.questions[props.currentIndex] || null
 );
@@ -148,6 +163,10 @@ const confirmAndReset = () => {
   showResetConfirmation.value = false;
   emit('reset');
 };
+
+const answeredQuestions = computed(() => {
+  return props.showFeedback ? props.currentIndex + 1 : props.currentIndex;
+});
 
 const selectAnswer = (option: string) => {
   if (props.showFeedback) return;

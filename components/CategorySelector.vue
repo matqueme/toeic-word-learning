@@ -15,13 +15,13 @@
           :id="category.id"
           v-model="selected"
           :value="category.id"
-          class="h-5 w-5 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
+          class="h-5 w-5 rounded border-gray-300 text-blue-600 hover:cursor-pointer focus:ring-blue-500"
         />
         <label :for="category.id" class="ml-2 text-gray-700">
           {{ index + 1 }}. {{ category.nameFr }} <br />
-          <span class="text-sm text-gray-500 italic"
-            >({{ category.nameEn }})</span
-          >
+          <span class="text-sm text-gray-500 italic">
+            ({{ category.nameEn }})
+          </span>
         </label>
       </div>
     </div>
@@ -29,7 +29,7 @@
     <div class="mt-6 text-right">
       <button
         @click="next"
-        class="rounded-lg bg-blue-600 px-6 py-2 font-bold text-white hover:bg-blue-700 disabled:opacity-50"
+        class="rounded-lg bg-blue-600 px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-blue-700 disabled:opacity-50"
         :disabled="selected.length === 0"
       >
         Suivant

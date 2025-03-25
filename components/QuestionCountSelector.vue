@@ -7,13 +7,13 @@
         v-for="count in [5, 10, 20, 30]"
         :key="count"
         @click="selectCount(count)"
-        class="rounded-lg border border-gray-300 bg-gray-100 px-4 py-3 text-center font-semibold transition duration-150 hover:bg-blue-100"
+        class="rounded-lg border border-gray-300 bg-gray-100 px-4 py-3 text-center font-semibold transition duration-150 hover:cursor-pointer hover:bg-blue-100"
       >
         {{ count }} questions
       </button>
       <button
         @click="selectCount(0)"
-        class="col-span-2 rounded-lg border border-blue-300 bg-blue-50 px-4 py-3 text-center font-semibold transition duration-150 hover:bg-blue-100 md:col-span-4"
+        class="col-span-2 rounded-lg border border-blue-300 bg-blue-50 px-4 py-3 text-center font-semibold transition duration-150 hover:cursor-pointer hover:bg-blue-100 md:col-span-4"
       >
         Toutes les questions
       </button>
@@ -22,7 +22,7 @@
     <div class="mt-6 flex justify-between">
       <button
         @click="prev"
-        class="rounded-lg bg-gray-500 px-6 py-2 font-bold text-white hover:bg-gray-600"
+        class="rounded-lg bg-gray-500 px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-gray-600"
       >
         Précédent
       </button>
