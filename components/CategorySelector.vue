@@ -36,8 +36,8 @@
 </template>
 
 <script setup lang="ts">
-import { ref, defineProps, defineEmits, watch } from 'vue';
-import type { Category } from '@/types';
+import { ref, defineEmits, watch } from 'vue';
+import type { Category } from '../types/types';
 
 const props = defineProps<{
   categories: Category[];

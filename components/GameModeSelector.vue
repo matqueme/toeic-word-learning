@@ -1,0 +1,54 @@
+<template>
+  <div class="rounded-lg bg-white p-6 shadow-md">
+    <h2 class="mb-4 text-2xl font-semibold">Étape 3: Mode de jeu</h2>
+
+    <div class="grid grid-cols-1 gap-4 md:grid-cols-3">
+      <button
+        @click="selectMode('en-fr')"
+        class="rounded-lg border border-gray-300 bg-gray-100 px-4 py-4 text-center font-semibold transition duration-150 hover:bg-blue-100"
+      >
+        Anglais → Français
+      </button>
+      <button
+        @click="selectMode('fr-en')"
+        class="rounded-lg border border-gray-300 bg-gray-100 px-4 py-4 text-center font-semibold transition duration-150 hover:bg-blue-100"
+      >
+        Français → Anglais
+      </button>
+      <button
+        @click="selectMode('mixed')"
+        class="rounded-lg border border-gray-300 bg-gray-100 px-4 py-4 text-center font-semibold transition duration-150 hover:bg-blue-100"
+      >
+        Mélangé
+      </button>
+    </div>
+
+    <div class="mt-6 flex justify-between">
+      <button
+        @click="prev"
+        class="rounded-lg bg-gray-500 px-6 py-2 font-bold text-white hover:bg-gray-600"
+      >
+        Précédent
+      </button>
+    </div>
+  </div>
+</template>
+
+<script setup lang="ts">
+import { defineEmits } from 'vue';
+
+const emit = defineEmits<{
+  (e: 'update:modelValue', value: string): void;
+  (e: 'prev'): void;
+  (e: 'start'): void;
+}>();
+
+const selectMode = (mode: string) => {
+  emit('update:modelValue', mode);
+  emit('start');
+};
+
+const prev = () => {
+  emit('prev');
+};
+</script>
