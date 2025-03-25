@@ -197,7 +197,7 @@ const animateCorrectAnswer = () => {
         opacity: 1,
         y: 0,
         scale: 1,
-        duration: 0.8,
+        duration: 0.6,
         ease: 'elastic.out(1.2, 0.5)',
       }
     );
@@ -214,7 +214,7 @@ const animateIncorrectAnswer = () => {
         opacity: 1,
         y: 0,
         scale: 1,
-        duration: 0.8,
+        duration: 0.6,
         ease: 'elastic.out(1.2, 0.5)',
       }
     );
@@ -237,9 +237,9 @@ const animateAnswerButton = () => {
         keyframes: {
           rotate: [0, -6, 6, -6, 6, -3, 3, 0],
         },
-        duration: 1,
+        duration: 0.8,
         ease: 'power1.inOut',
-        delay: 0.2,
+        delay: 0.1,
       });
 
       // Effet de pulsation plus prononcé pour la bonne réponse
@@ -247,12 +247,12 @@ const animateAnswerButton = () => {
         button,
         { scale: 1 },
         {
-          scale: 1.2,
-          duration: 0.7,
+          scale: 1.1,
+          duration: 0.4,
           repeat: 1,
           yoyo: true,
           ease: 'power2.inOut',
-          delay: 0.2,
+          delay: 0.1,
         }
       );
 
@@ -262,11 +262,11 @@ const animateAnswerButton = () => {
         { boxShadow: '0 0 0 rgba(34, 197, 94, 0)' },
         {
           boxShadow: '0 0 30px rgba(34, 197, 94, 0.9)',
-          duration: 0.7,
+          duration: 0.4,
           repeat: 1,
           yoyo: true,
           ease: 'power2.inOut',
-          delay: 0.2,
+          delay: 0.1,
         }
       );
     } else if (isSelectedButton && !isCorrectButton) {
@@ -278,7 +278,7 @@ const animateAnswerButton = () => {
           keyframes: {
             x: [0, -12, 12, -12, 12, -8, 8, -4, 4, 0],
           },
-          duration: 0.8,
+          duration: 0.4,
           ease: 'power1.inOut',
         }
       );
@@ -289,7 +289,7 @@ const animateAnswerButton = () => {
         { boxShadow: '0 0 0 rgba(239, 68, 68, 0)' },
         {
           boxShadow: '0 0 30px rgba(239, 68, 68, 0.8)',
-          duration: 0.7,
+          duration: 0.4,
           repeat: 1,
           yoyo: true,
           ease: 'power2.inOut',
@@ -300,7 +300,7 @@ const animateAnswerButton = () => {
       gsap.to(button, {
         opacity: 0.5,
         scale: 0.9,
-        duration: 0.5,
+        duration: 0.4,
         delay: 0.1,
       });
     }
