@@ -1,5 +1,7 @@
 @import 'tailwindcss';
 
 @theme {
-  --color-custom-color-example: #1e1e1e;
+  --custom-light: #e1ffd9;
+  --custom-mauve: #9370db;
+  --custom-mauve-dark: #7851a9;
 }

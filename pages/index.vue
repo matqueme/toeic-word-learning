@@ -1,54 +1,59 @@
 <template>
-  <main role="main" class="container mx-auto max-w-4xl px-4 py-8">
-    <h1 class="mb-8 text-center text-3xl font-bold">
-      Apprentissage de vocabulaire TOEIC
-    </h1>
+  <main
+    role="main"
+    class="flex min-h-screen min-w-screen flex-col items-center justify-center bg-amber-50 px-4 py-8"
+  >
+    <div class="max-w-4xl">
+      <h1 class="mb-8 text-center text-3xl font-bold">
+        Apprentissage de vocabulaire TOEIC
+      </h1>
 
-    <CategorySelector
-      v-if="currentStep === 1"
-      v-model="selectedCategories"
-      :categories="availableCategories"
-      @next="nextStep"
-    />
+      <CategorySelector
+        v-if="currentStep === 1"
+        v-model="selectedCategories"
+        :categories="availableCategories"
+        @next="nextStep"
+      />
 
-    <QuestionCountSelector
-      v-if="currentStep === 2"
-      v-model="questionCount"
-      @prev="prevStep"
-      @next="nextStep"
-    />
+      <QuestionCountSelector
+        v-if="currentStep === 2"
+        v-model="questionCount"
+        @prev="prevStep"
+        @next="nextStep"
+      />
 
-    <GameModeSelector
-      v-if="currentStep === 3"
-      v-model="translationDirection"
-      @prev="prevStep"
-      @start="startGame"
-    />
+      <GameModeSelector
+        v-if="currentStep === 3"
+        v-model="translationDirection"
+        @prev="prevStep"
+        @start="startGame"
+      />
 
-    <GameQuestion
-      v-if="currentStep === 4"
-      :questions="gameQuestions"
-      :current-index="currentQuestionIndex"
-      :score="score"
-      :answer-options="currentAnswerOptions"
-      :show-feedback="showFeedback"
-      :is-correct="isCorrect"
-      :correct-answer="correctAnswer"
-      :selected-answer="selectedAnswer"
-      @update:current-index="currentQuestionIndex = $event"
-      @update:score="score = $event"
-      @answer="checkAnswer"
-      @next="nextQuestion"
-      @results="showResults"
-      @reset="resetGame"
-    />
+      <GameQuestion
+        v-if="currentStep === 4"
+        :questions="gameQuestions"
+        :current-index="currentQuestionIndex"
+        :score="score"
+        :answer-options="currentAnswerOptions"
+        :show-feedback="showFeedback"
+        :is-correct="isCorrect"
+        :correct-answer="correctAnswer"
+        :selected-answer="selectedAnswer"
+        @update:current-index="currentQuestionIndex = $event"
+        @update:score="score = $event"
+        @answer="checkAnswer"
+        @next="nextQuestion"
+        @results="showResults"
+        @reset="resetGame"
+      />
 
-    <GameResults
-      v-if="currentStep === 5"
-      :score="score"
-      :total="gameQuestions.length"
-      @reset="resetGame"
-    />
+      <GameResults
+        v-if="currentStep === 5"
+        :score="score"
+        :total="gameQuestions.length"
+        @reset="resetGame"
+      />
+    </div>
   </main>
 </template>
 
