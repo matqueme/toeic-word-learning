@@ -1,26 +1,26 @@
 <template>
   <div
-    class="rounded-lg border border-(--custom-brown)/20 bg-(--custom-light) p-6 shadow-md"
+    class="rounded-lg border border-(--custom-brown)/20 bg-white/40 p-6 shadow-md"
   >
     <div class="mb-4 flex justify-between">
-      <div class="text-(--custom-brown)-dark">
+      <div class="font-medium text-(--custom-green-dark)">
         Question {{ currentIndex + 1 }}/{{ totalQuestions }}
       </div>
-      <div class="text-(--custom-brown)-dark font-semibold">
+      <div class="font-semibold text-(--custom-green-dark)">
         Score: {{ score }}/{{ answeredQuestions }}
       </div>
     </div>
 
     <div class="mb-8" v-if="currentQuestion">
-      <div class="text-(--custom-brown)-dark mb-1">
+      <div class="mb-1 font-medium text-(--custom-brown)">
         {{ isFromEnglish ? 'Anglais' : 'Français' }}:
       </div>
-      <div class="mb-4 text-2xl font-bold text-(--custom-brown)">
+      <div class="mb-4 text-2xl font-bold text-(--custom-green-dark)">
         {{ displayWord }}
       </div>
 
       <div class="mb-4">
-        <div class="text-(--custom-brown)-dark mb-1">
+        <div class="mb-2 font-medium text-(--custom-brown)">
           Choisissez la traduction correcte:
         </div>
         <div class="grid grid-cols-1 gap-3 md:grid-cols-2">
@@ -28,14 +28,16 @@
             v-for="(option, index) in answerOptions"
             :key="index"
             @click="selectAnswer(option)"
-            class="rounded-lg border border-(--custom-brown)/30 bg-white px-4 py-3 text-left transition duration-150 hover:border-(--custom-brown)/50 hover:bg-(--custom-light)"
+            class="rounded-lg border border-(--custom-brown-light)/40 bg-(--custom-light) px-4 py-3 text-left text-(--custom-green-dark) transition duration-150"
             :class="{
-              'border-green-500 bg-green-50':
+              'border-2 border-(--custom-green) bg-(--custom-green-dark) text-(--custom-green-dark)':
                 showFeedback && option === correctAnswer,
-              'border-red-500 bg-red-50':
+              'border-2 border-red-500/50 bg-red-50':
                 showFeedback &&
                 selectedAnswer === option &&
                 option !== correctAnswer,
+              'hover:cursor-pointer hover:border-(--custom-brown) hover:bg-(--custom-brown-light)/30':
+                !showFeedback,
             }"
           >
             {{ option.charAt(0).toUpperCase() + option.slice(1) }}
@@ -47,11 +49,14 @@
     <div v-if="showFeedback" class="mb-4">
       <div
         v-if="isCorrect"
-        class="rounded-lg border border-green-500 bg-green-100 p-3 text-green-800"
+        class="rounded-lg border border-(--custom-green)/60 bg-(--custom-green)/20 p-3 text-(--custom-green-dark)"
       >
         Bonne réponse!
       </div>
-      <div v-else class="rounded-lg bg-red-100 p-3 text-red-800">
+      <div
+        v-else
+        class="rounded-lg border border-(--custom-brown)/40 bg-(--custom-brown-light)/20 p-3 text-(--custom-brown-dark)"
+      >
         Incorrect. La bonne réponse était:
         {{
           correctAnswer
@@ -64,21 +69,21 @@
     <div class="mt-6 flex justify-between">
       <button
         @click="confirmReset"
-        class="rounded-lg bg-(--custom-brown)/80 px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-brown)"
+        class="rounded-lg bg-(--custom-brown) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-brown-light)"
       >
         Nouvelle partie
       </button>
       <button
         v-if="showFeedback && !isLastQuestion"
         @click="next"
-        class="hover:bg-(--custom-brown)-dark rounded-lg bg-(--custom-brown) px-6 py-2 font-bold text-white hover:cursor-pointer"
+        class="rounded-lg bg-(--custom-green) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-green-dark)"
       >
         Question suivante
       </button>
       <button
         v-if="showFeedback && isLastQuestion"
         @click="showResults"
-        class="hover:bg-(--custom-brown)-dark rounded-lg bg-(--custom-brown) px-6 py-2 font-bold text-white hover:cursor-pointer"
+        class="rounded-lg bg-(--custom-green) px-6 py-2 font-bold text-(--custom-green-dark) hover:cursor-pointer hover:bg-(--custom-brown-light)"
       >
         Voir les résultats
       </button>
@@ -86,24 +91,26 @@
     <!-- Modal de confirmation pour nouvelle partie -->
     <div
       v-if="showResetConfirmation"
-      class="fixed inset-0 z-50 flex items-center justify-center bg-gray-900/50 backdrop-blur-sm"
+      class="fixed inset-0 z-50 flex items-center justify-center bg-(--custom-green-dark)/40 backdrop-blur-sm"
     >
-      <div class="max-w-md rounded-lg bg-white p-6 shadow-xl">
-        <h3 class="mb-4 text-xl font-bold">Recommencer la partie ?</h3>
-        <p class="mb-6 text-gray-600">
+      <div class="max-w-md rounded-lg bg-(--custom-light) p-6 shadow-xl">
+        <h3 class="mb-4 text-xl font-bold text-(--custom-green-dark)">
+          Recommencer la partie ?
+        </h3>
+        <p class="mb-6 text-(--custom-brown-dark)">
           Êtes-vous sûr de vouloir recommencer ? Votre progression actuelle sera
           perdue.
         </p>
         <div class="flex justify-end space-x-3">
           <button
             @click="showResetConfirmation = false"
-            class="rounded-lg border border-gray-300 bg-white px-4 py-2 font-medium text-gray-700 hover:bg-gray-50"
+            class="rounded-lg border border-(--custom-brown-light) bg-(--custom-light) px-4 py-2 font-medium text-(--custom-green-dark) hover:cursor-pointer hover:bg-(--custom-brown-light)/20"
           >
             Annuler
           </button>
           <button
             @click="confirmAndReset"
-            class="rounded-lg bg-red-600 px-4 py-2 font-medium text-white hover:bg-red-700"
+            class="rounded-lg bg-(--custom-brown) px-4 py-2 font-medium text-white hover:cursor-pointer hover:bg-(--custom-brown-light)"
           >
             Recommencer
           </button>

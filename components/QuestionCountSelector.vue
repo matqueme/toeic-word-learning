@@ -15,7 +15,7 @@
       </button>
       <button
         @click="selectCount(0)"
-        class="col-span-2 rounded-lg border border-(--custom-brown) bg-(--custom-light) px-4 py-3 text-center font-semibold transition duration-150 hover:cursor-pointer hover:bg-(--custom-light-hover) md:col-span-4"
+        class="col-span-2 rounded-lg border border-(--custom-brown) bg-(--custom-light) px-4 py-3 text-center font-semibold transition duration-150 hover:cursor-pointer hover:bg-(--custom-brown-light) hover:text-white md:col-span-4"
       >
         Toutes les questions
       </button>
