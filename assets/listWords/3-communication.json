@@ -1,0 +1,555 @@
+{
+  "categories": [
+    {
+      "id": "communication",
+      "nameEn": "Communication",
+      "nameFr": "Communication",
+      "words": [
+        {
+          "id": "attachment",
+          "type": "noun",
+          "en": {
+            "word": "attachment",
+            "otherAnswers": ["document", "file", "enclosure"]
+          },
+          "fr": {
+            "word": "pièce jointe",
+            "otherAnswers": ["fichier", "document", "annexe"]
+          }
+        },
+        {
+          "id": "attach",
+          "type": "verb",
+          "en": {
+            "word": "attach",
+            "otherAnswers": ["send", "forward", "include"]
+          },
+          "fr": {
+            "word": "joindre",
+            "otherAnswers": ["envoyer", "ajouter", "insérer"]
+          }
+        },
+        {
+          "id": "at_your_earliest_convenience",
+          "type": "expression",
+          "en": {
+            "word": "at your earliest convenience",
+            "otherAnswers": [
+              "when time permits",
+              "promptly if possible",
+              "whenever suitable"
+            ]
+          },
+          "fr": {
+            "word": "le plus tôt possible",
+            "otherAnswers": [
+              "quand vous aurez le temps",
+              "à votre guise",
+              "selon votre disponibilité"
+            ]
+          }
+        },
+        {
+          "id": "bulletin_board",
+          "type": "noun",
+          "en": {
+            "word": "bulletin board",
+            "otherAnswers": [
+              "whiteboard",
+              "display panel",
+              "announcement board"
+            ]
+          },
+          "fr": {
+            "word": "panneau d'affichage",
+            "otherAnswers": [
+              "tableau blanc",
+              "écran d'information",
+              "panneau d'annonces"
+            ]
+          }
+        },
+        {
+          "id": "correspondence",
+          "type": "noun",
+          "en": {
+            "word": "correspondence",
+            "otherAnswers": ["documents", "emails", "messages"]
+          },
+          "fr": {
+            "word": "courrier",
+            "otherAnswers": ["documents", "emails", "messages"]
+          }
+        },
+        {
+          "id": "corresponding",
+          "type": "adjective",
+          "en": {
+            "word": "corresponding",
+            "otherAnswers": ["related", "similar", "parallel"]
+          },
+          "fr": {
+            "word": "correspondant",
+            "otherAnswers": ["relié", "similaire", "parallèle"]
+          }
+        },
+        {
+          "id": "correspond",
+          "type": "verb",
+          "en": {
+            "word": "correspond",
+            "otherAnswers": ["reply", "write", "contact"]
+          },
+          "fr": {
+            "word": "correspondre",
+            "otherAnswers": ["répondre", "écrire", "contacter"]
+          }
+        },
+        {
+          "id": "envelope",
+          "type": "noun",
+          "en": {
+            "word": "envelope",
+            "otherAnswers": ["letter", "package", "parcel"]
+          },
+          "fr": {
+            "word": "enveloppe",
+            "otherAnswers": ["lettre", "colis", "paquet"]
+          }
+        },
+        {
+          "id": "inbox",
+          "type": "noun",
+          "en": {
+            "word": "inbox",
+            "otherAnswers": [
+              "email folder",
+              "message list",
+              "notification center"
+            ]
+          },
+          "fr": {
+            "word": "boîte de réception",
+            "otherAnswers": [
+              "dossier d'emails",
+              "liste de messages",
+              "centre de notifications"
+            ]
+          }
+        },
+        {
+          "id": "letterhead",
+          "type": "noun",
+          "en": {
+            "word": "letterhead",
+            "otherAnswers": ["logo", "company signature", "business header"]
+          },
+          "fr": {
+            "word": "en-tête",
+            "otherAnswers": [
+              "logo",
+              "signature d'entreprise",
+              "papier officiel"
+            ]
+          }
+        },
+        {
+          "id": "look_forward_to",
+          "type": "verb",
+          "en": {
+            "word": "look forward to",
+            "otherAnswers": ["wait for", "be excited about", "hope for"]
+          },
+          "fr": {
+            "word": "attendre avec impatience",
+            "otherAnswers": ["avoir hâte de", "s'attendre à", "désirer"]
+          }
+        },
+        {
+          "id": "mail_noun",
+          "type": "noun",
+          "en": {
+            "word": "mail",
+            "otherAnswers": ["delivery", "shipment", "package"]
+          },
+          "fr": {
+            "word": "courrier",
+            "otherAnswers": ["livraison", "envoi", "colis"]
+          }
+        },
+        {
+          "id": "mail_verb",
+          "type": "verb",
+          "en": {
+            "word": "mail",
+            "otherAnswers": ["deliver", "ship", "forward"]
+          },
+          "fr": {
+            "word": "poster",
+            "otherAnswers": ["livrer", "expédier", "adresser"]
+          }
+        },
+        {
+          "id": "mail_carrier",
+          "type": "noun",
+          "en": {
+            "word": "mail carrier",
+            "otherAnswers": ["delivery person", "courier", "postal employee"]
+          },
+          "fr": {
+            "word": "facteur",
+            "otherAnswers": ["livreur", "coursier", "employé postal"]
+          }
+        },
+        {
+          "id": "mailbox",
+          "type": "noun",
+          "en": {
+            "word": "mailbox",
+            "otherAnswers": ["mail slot", "post office box", "mail receptacle"]
+          },
+          "fr": {
+            "word": "boite à lettres",
+            "otherAnswers": [
+              "fente à courrier",
+              "case postale",
+              "réceptacle à courrier"
+            ]
+          }
+        },
+        {
+          "id": "junk_mail",
+          "type": "noun",
+          "en": {
+            "word": "junk mail",
+            "otherAnswers": [
+              "flyers",
+              "promotional material",
+              "unwanted advertisements"
+            ]
+          },
+          "fr": {
+            "word": "courrier indésirable",
+            "otherAnswers": [
+              "dépliants",
+              "matériel promotionnel",
+              "publicités non sollicitées"
+            ]
+          }
+        },
+        {
+          "id": "memo",
+          "type": "noun",
+          "en": {
+            "word": "memo",
+            "otherAnswers": ["internal message", "office notice", "bulletin"]
+          },
+          "fr": {
+            "word": "note de service",
+            "otherAnswers": ["message interne", "avis de bureau", "bulletin"]
+          }
+        },
+        {
+          "id": "postage",
+          "type": "noun",
+          "en": {
+            "word": "postage",
+            "otherAnswers": ["delivery cost", "shipping rate", "mail fee"]
+          },
+          "fr": {
+            "word": "affranchissement",
+            "otherAnswers": [
+              "coût d'envoi",
+              "tarif d'expédition",
+              "frais de courrier"
+            ]
+          }
+        },
+        {
+          "id": "postal",
+          "type": "adjective",
+          "en": {
+            "word": "postal",
+            "otherAnswers": ["delivery", "shipping", "courier"]
+          },
+          "fr": {
+            "word": "postal",
+            "otherAnswers": ["de livraison", "d'expédition", "de messagerie"]
+          }
+        },
+        {
+          "id": "post_verb",
+          "type": "verb",
+          "en": {
+            "word": "post",
+            "otherAnswers": ["deliver", "send out", "ship"]
+          },
+          "fr": {
+            "word": "envoyer",
+            "otherAnswers": ["livrer", "expédier", "distribuer"]
+          }
+        },
+        {
+          "id": "recipient",
+          "type": "noun",
+          "en": {
+            "word": "recipient",
+            "otherAnswers": ["addressee", "target", "intended person"]
+          },
+          "fr": {
+            "word": "destinataire",
+            "otherAnswers": ["adressé", "cible", "personne visée"]
+          }
+        },
+        {
+          "id": "reception",
+          "type": "noun",
+          "en": {
+            "word": "reception",
+            "otherAnswers": ["information desk", "entrance area", "check-in"]
+          },
+          "fr": {
+            "word": "accueil",
+            "otherAnswers": [
+              "bureau d'information",
+              "zone d'entrée",
+              "enregistrement"
+            ]
+          }
+        },
+        {
+          "id": "receive",
+          "type": "verb",
+          "en": {
+            "word": "receive",
+            "otherAnswers": ["collect", "take delivery of", "be given"]
+          },
+          "fr": {
+            "word": "recevoir",
+            "otherAnswers": [
+              "collecter",
+              "prendre livraison de",
+              "se voir remettre"
+            ]
+          }
+        },
+        {
+          "id": "rest_assured",
+          "type": "expression",
+          "en": {
+            "word": "rest assured",
+            "otherAnswers": ["trust me", "have no doubt", "believe me"]
+          },
+          "fr": {
+            "word": "soyez assuré que",
+            "otherAnswers": [
+              "faites-moi confiance",
+              "n'ayez aucun doute",
+              "croyez-moi"
+            ]
+          }
+        },
+        {
+          "id": "sender",
+          "type": "noun",
+          "en": {
+            "word": "sender",
+            "otherAnswers": ["shipper", "source", "initiator"]
+          },
+          "fr": {
+            "word": "expéditeur",
+            "otherAnswers": ["envoyeur", "source", "initiateur"]
+          }
+        },
+        {
+          "id": "send",
+          "type": "verb",
+          "en": {
+            "word": "send",
+            "otherAnswers": ["ship", "deliver", "transport"]
+          },
+          "fr": {
+            "word": "envoyer",
+            "otherAnswers": ["expédier", "livrer", "transporter"]
+          }
+        },
+        {
+          "id": "stamp_noun",
+          "type": "noun",
+          "en": {
+            "word": "stamp",
+            "otherAnswers": ["label", "sticker", "postal mark"]
+          },
+          "fr": {
+            "word": "timbre",
+            "otherAnswers": ["étiquette", "autocollant", "marque postale"]
+          }
+        },
+        {
+          "id": "stamp_verb",
+          "type": "verb",
+          "en": {
+            "word": "stamp",
+            "otherAnswers": ["postmark", "frank", "validate"]
+          },
+          "fr": {
+            "word": "tamponner",
+            "otherAnswers": [
+              "marquer d'un cachet",
+              "valider",
+              "apposer un sceau"
+            ]
+          }
+        },
+        {
+          "id": "stationery",
+          "type": "noun",
+          "en": {
+            "word": "stationery",
+            "otherAnswers": [
+              "pens and paper",
+              "office items",
+              "writing materials"
+            ]
+          },
+          "fr": {
+            "word": "papeterie",
+            "otherAnswers": [
+              "stylos et papiers",
+              "articles de bureau",
+              "matériel d'écriture"
+            ]
+          }
+        },
+        {
+          "id": "stationer",
+          "type": "noun",
+          "en": {
+            "word": "stationer",
+            "otherAnswers": ["office supply store", "pen shop", "paper shop"]
+          },
+          "fr": {
+            "word": "papeterie",
+            "otherAnswers": [
+              "magasin de fournitures de bureau",
+              "boutique de stylos",
+              "magasin de papiers"
+            ]
+          }
+        },
+        {
+          "id": "submit",
+          "type": "verb",
+          "en": {
+            "word": "submit",
+            "otherAnswers": ["file", "send in", "deliver"]
+          },
+          "fr": {
+            "word": "soumettre",
+            "otherAnswers": ["déposer", "envoyer", "livrer"]
+          }
+        },
+        {
+          "id": "submission",
+          "type": "noun",
+          "en": {
+            "word": "submission",
+            "otherAnswers": ["filing", "delivery", "deposit"]
+          },
+          "fr": {
+            "word": "remise",
+            "otherAnswers": ["dépôt", "livraison", "présentation"]
+          }
+        },
+        {
+          "id": "utmost",
+          "type": "adjective",
+          "en": {
+            "word": "utmost",
+            "otherAnswers": ["highest", "greatest", "top"]
+          },
+          "fr": {
+            "word": "extrême",
+            "otherAnswers": ["le plus haut", "le plus grand", "maximal"]
+          }
+        },
+        {
+          "id": "do_ones_utmost",
+          "type": "expression",
+          "en": {
+            "word": "do one's utmost",
+            "otherAnswers": [
+              "give it all",
+              "spare no effort",
+              "work tirelessly"
+            ]
+          },
+          "fr": {
+            "word": "faire tout son possible",
+            "otherAnswers": [
+              "donner tout ce qu'on a",
+              "ne ménager aucun effort",
+              "travailler sans relâche"
+            ]
+          }
+        },
+        {
+          "id": "weight",
+          "type": "noun",
+          "en": {
+            "word": "weight",
+            "otherAnswers": ["postage rate", "mailing cost", "shipping weight"]
+          },
+          "fr": {
+            "word": "poids",
+            "otherAnswers": [
+              "tarif d'affranchissement",
+              "coût d'envoi",
+              "poids d'expédition"
+            ]
+          }
+        },
+        {
+          "id": "weigh",
+          "type": "verb",
+          "en": {
+            "word": "weigh",
+            "otherAnswers": [
+              "calculate postage",
+              "determine shipping cost",
+              "check mass"
+            ]
+          },
+          "fr": {
+            "word": "peser",
+            "otherAnswers": [
+              "calculer l'affranchissement",
+              "déterminer le coût d'expédition",
+              "vérifier la masse"
+            ]
+          }
+        },
+        {
+          "id": "zip_code",
+          "type": "noun",
+          "en": {
+            "word": "zip code",
+            "otherAnswers": [
+              "address code",
+              "location identifier",
+              "routing number"
+            ]
+          },
+          "fr": {
+            "word": "code postal",
+            "otherAnswers": [
+              "code d'adresse",
+              "identifiant de localisation",
+              "numéro d'acheminement"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

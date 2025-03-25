@@ -1,0 +1,55 @@
+apply (for) (vb) postu=ser sa candidature
+applicant (nom) candidat
+application (nom) candidature
+applied (adj) appliqué
+appoint (vb) nommer
+appointed (adj) (heure) convenu, prevu ; (comité, équipe) nommé
+appointee (nom) personne nommée
+appointment (nom) nomination, rendez-vous
+appraisal (nom) évaluation
+appraise (vb) évaluer
+assess (vb) évaluer
+assessment (nom) évaluation
+assessor (nom) contrôleur, expert
+asset (nom) atout
+assets (nom) l'actif, les avoirs (d'une société)
+attendance (nom) (taux de) présence
+attendant (nom) préposé
+attend (vb) assister à
+clock in / clock out (vb) pointer (en arrivant / en partant)
+credentials (nom) qualifications, références
+dismiss (vb) renvoyer
+dismissal (nom) renvoi
+downsize (vb) réduire les effectifs
+fill out (vb) remplir (formulaire)
+give notice (vb) donner son préavis
+hire (nom) recrue, personne embauchée
+hire (vb) embaucher, engager
+lay off (vb) licencier (pour motif économique)
+layoffs (nom) licenciements économiques
+leave (nom) congé
+leave (vb) partir
+sick leave (nom) congé maladie
+maternity leave (nom) congé maternité
+manpower (nom) main-d'œuvre, effectifs
+provide (vb) fournir
+provided (adj) fourni
+provided (conj) à condition que/de
+provision (nom) disposition, provision
+provider (nom) fournisseur (téléphonie)
+resign (from) (vb) démissionner (de)
+resignation (nom) démission
+resigned (adj) résigné
+resignedly (adv) avec tésignation
+résumé (nom) CV, curriculum vitae
+shortlist (nom) les candidats finalistes
+shortlist (vb) présélectionner
+take on (vb) embaucher
+temp agency (nom) agence d'intérim
+transfer (nom) mutation 
+transfer (vb) muter
+transferable (adj) transférable, polyvalent, applicable
+transferral (nom) transfert
+vacancy (nom) poste vacant
+vacant (adj) libre
+vacantly (adv) d'un air absent

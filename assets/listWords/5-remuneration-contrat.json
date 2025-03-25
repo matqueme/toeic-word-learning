@@ -1,0 +1,579 @@
+{
+  "categories": [
+    {
+      "id": "remuneration-contract",
+      "nameEn": "Remuneration & Contract",
+      "nameFr": "Rémunération & Contrat",
+      "words": [
+        {
+          "id": "abide-by",
+          "type": "verb",
+          "en": {
+            "word": "abide by",
+            "otherAnswers": ["negotiate", "draft", "terminate"]
+          },
+          "fr": {
+            "word": "respecter",
+            "otherAnswers": ["négocier", "rédiger", "résilier"]
+          }
+        },
+        {
+          "id": "agreement",
+          "type": "noun",
+          "en": {
+            "word": "agreement",
+            "otherAnswers": ["invoice", "resume", "paycheck"]
+          },
+          "fr": {
+            "word": "accord",
+            "otherAnswers": ["facture", "CV", "paie"]
+          }
+        },
+        {
+          "id": "agree",
+          "type": "verb",
+          "en": {
+            "word": "agree",
+            "otherAnswers": ["negotiate", "sign", "dispute"]
+          },
+          "fr": {
+            "word": "être d'accord",
+            "otherAnswers": ["négocier", "signer", "contester"]
+          }
+        },
+        {
+          "id": "agree-to",
+          "type": "verb",
+          "en": {
+            "word": "agree to",
+            "otherAnswers": ["reject", "amend", "review"]
+          },
+          "fr": {
+            "word": "accepter",
+            "otherAnswers": ["refuser", "modifier", "examiner"]
+          }
+        },
+        {
+          "id": "amendment",
+          "type": "noun",
+          "en": {
+            "word": "amendment",
+            "otherAnswers": ["contract", "salary", "termination"]
+          },
+          "fr": {
+            "word": "avenant",
+            "otherAnswers": ["contrat", "salaire", "résiliation"]
+          }
+        },
+        {
+          "id": "amend",
+          "type": "verb",
+          "en": {
+            "word": "amend",
+            "otherAnswers": ["sign", "terminate", "draft"]
+          },
+          "fr": {
+            "word": "modifier",
+            "otherAnswers": ["signer", "résilier", "rédiger"]
+          }
+        },
+        {
+          "id": "benefits",
+          "type": "noun",
+          "en": {
+            "word": "benefits",
+            "otherAnswers": ["salary", "taxes", "deductions"]
+          },
+          "fr": {
+            "word": "avantages",
+            "otherAnswers": ["salaire", "impôts", "cotisations"]
+          }
+        },
+        {
+          "id": "beneficial",
+          "type": "adjective",
+          "en": {
+            "word": "beneficial",
+            "otherAnswers": ["legal", "contractual", "binding"]
+          },
+          "fr": {
+            "word": "bénéfique",
+            "otherAnswers": ["juridique", "contractuel", "contraignant"]
+          }
+        },
+        {
+          "id": "beneficiary",
+          "type": "noun",
+          "en": {
+            "word": "beneficiary",
+            "otherAnswers": ["employer", "contractor", "signatory"]
+          },
+          "fr": {
+            "word": "bénéficiaire",
+            "otherAnswers": ["employeur", "prestataire", "signataire"]
+          }
+        },
+        {
+          "id": "benefit",
+          "type": "verb",
+          "en": {
+            "word": "benefit",
+            "otherAnswers": ["pay", "charge", "invoice"]
+          },
+          "fr": {
+            "word": "bénéficier à",
+            "otherAnswers": ["payer", "facturer", "débiter"]
+          }
+        },
+        {
+          "id": "benefit-from",
+          "type": "verb",
+          "en": {
+            "word": "benefit from",
+            "otherAnswers": ["contribute to", "withdraw from", "invest in"]
+          },
+          "fr": {
+            "word": "profiter de",
+            "otherAnswers": ["contribuer à", "se retirer de", "investir dans"]
+          }
+        },
+        {
+          "id": "binding",
+          "type": "adjective",
+          "en": {
+            "word": "binding",
+            "otherAnswers": ["optional", "temporary", "negotiable"]
+          },
+          "fr": {
+            "word": "qui lie, qui engage",
+            "otherAnswers": ["facultatif", "temporaire", "négociable"]
+          }
+        },
+        {
+          "id": "bind",
+          "type": "verb",
+          "en": {
+            "word": "bind",
+            "otherAnswers": ["release", "pay", "compensate"]
+          },
+          "fr": {
+            "word": "obliger, contraindre (à)",
+            "otherAnswers": ["libérer", "payer", "indemniser"]
+          }
+        },
+        {
+          "id": "closely",
+          "type": "adverb",
+          "en": {
+            "word": "closely",
+            "otherAnswers": ["legally", "financially", "contractually"]
+          },
+          "fr": {
+            "word": "de près, avec attention",
+            "otherAnswers": [
+              "légalement",
+              "financièrement",
+              "contractuellement"
+            ]
+          }
+        },
+        {
+          "id": "eligible",
+          "type": "adjective",
+          "en": {
+            "word": "eligible",
+            "otherAnswers": ["employed", "contracted", "insured"]
+          },
+          "fr": {
+            "word": "éligible",
+            "otherAnswers": ["employé", "contractuel", "assuré"]
+          }
+        },
+        {
+          "id": "eligibility",
+          "type": "noun",
+          "en": {
+            "word": "eligibility",
+            "otherAnswers": ["experience", "contract", "payroll"]
+          },
+          "fr": {
+            "word": "éligibilité",
+            "otherAnswers": ["expérience", "contrat", "masse salariale"]
+          }
+        },
+        {
+          "id": "expect",
+          "type": "verb",
+          "en": {
+            "word": "expect",
+            "otherAnswers": ["pay", "invoice", "negotiate"]
+          },
+          "fr": {
+            "word": "s'attendre à",
+            "otherAnswers": ["payer", "facturer", "négocier"]
+          }
+        },
+        {
+          "id": "expectancy",
+          "type": "noun",
+          "en": {
+            "word": "expectancy",
+            "otherAnswers": ["salary", "contract", "benefit"]
+          },
+          "fr": {
+            "word": "espérance (de vie)",
+            "otherAnswers": ["salaire", "contrat", "avantage"]
+          }
+        },
+        {
+          "id": "freelance-adj",
+          "type": "adjective",
+          "en": {
+            "word": "freelance",
+            "otherAnswers": ["salaried", "contracted", "permanent"]
+          },
+          "fr": {
+            "word": "indépendant",
+            "otherAnswers": ["salarié", "contractuel", "permanent"]
+          }
+        },
+        {
+          "id": "freelance-noun",
+          "type": "noun",
+          "en": {
+            "word": "freelance",
+            "otherAnswers": ["employee", "manager", "intern"]
+          },
+          "fr": {
+            "word": "travailleur indépendant",
+            "otherAnswers": ["salarié", "directeur", "stagiaire"]
+          }
+        },
+        {
+          "id": "full-time",
+          "type": "adjective",
+          "en": {
+            "word": "full-time",
+            "otherAnswers": ["temporary", "seasonal", "contract"]
+          },
+          "fr": {
+            "word": "à plein-temps",
+            "otherAnswers": ["temporaire", "saisonnier", "contractuel"]
+          }
+        },
+        {
+          "id": "part-time",
+          "type": "adjective",
+          "en": {
+            "word": "part-time",
+            "otherAnswers": ["permanent", "executive", "salaried"]
+          },
+          "fr": {
+            "word": "à temps partiel",
+            "otherAnswers": ["permanent", "cadre", "mensualisé"]
+          }
+        },
+        {
+          "id": "hereunder",
+          "type": "adverb",
+          "en": {
+            "word": "hereunder",
+            "otherAnswers": ["previously", "annually", "contractually"]
+          },
+          "fr": {
+            "word": "ci-dessous, ci-après",
+            "otherAnswers": [
+              "précédemment",
+              "annuellement",
+              "contractuellement"
+            ]
+          }
+        },
+        {
+          "id": "hourly",
+          "type": "adjective",
+          "en": {
+            "word": "hourly",
+            "otherAnswers": ["monthly", "annual", "weekly"]
+          },
+          "fr": {
+            "word": "horaire",
+            "otherAnswers": ["mensuel", "annuel", "hebdomadaire"]
+          }
+        },
+        {
+          "id": "incentive",
+          "type": "noun",
+          "en": {
+            "word": "incentive",
+            "otherAnswers": ["salary", "contract", "penalty"]
+          },
+          "fr": {
+            "word": "motivation",
+            "otherAnswers": ["salaire", "contrat", "pénalité"]
+          }
+        },
+        {
+          "id": "incentivize",
+          "type": "verb",
+          "en": {
+            "word": "incentivize",
+            "otherAnswers": ["pay", "hire", "fire"]
+          },
+          "fr": {
+            "word": "encourager (à), favoriser",
+            "otherAnswers": ["payer", "embaucher", "licencier"]
+          }
+        },
+        {
+          "id": "initial",
+          "type": "verb",
+          "en": {
+            "word": "initial",
+            "otherAnswers": ["terminate", "amend", "draft"]
+          },
+          "fr": {
+            "word": "parapher",
+            "otherAnswers": ["résilier", "modifier", "rédiger"]
+          }
+        },
+        {
+          "id": "namely",
+          "type": "adverb",
+          "en": {
+            "word": "namely",
+            "otherAnswers": ["contractually", "financially", "legally"]
+          },
+          "fr": {
+            "word": "c'est-à-dire, à savoir",
+            "otherAnswers": [
+              "contractuellement",
+              "financièrement",
+              "légalement"
+            ]
+          }
+        },
+        {
+          "id": "overtime",
+          "type": "noun",
+          "en": {
+            "word": "overtime",
+            "otherAnswers": ["salary", "bonus", "commission"]
+          },
+          "fr": {
+            "word": "heures supplémentaires",
+            "otherAnswers": ["salaire", "prime", "commission"]
+          }
+        },
+        {
+          "id": "party",
+          "type": "noun",
+          "en": {
+            "word": "party",
+            "otherAnswers": ["witness", "lawyer", "mediator"]
+          },
+          "fr": {
+            "word": "partie (personne engagée)",
+            "otherAnswers": ["témoin", "avocat", "médiateur"]
+          }
+        },
+        {
+          "id": "pay-slip",
+          "type": "noun",
+          "en": {
+            "word": "pay slip",
+            "otherAnswers": ["contract", "resume", "tax form"]
+          },
+          "fr": {
+            "word": "bulletin de paie",
+            "otherAnswers": ["contrat", "CV", "déclaration fiscale"]
+          }
+        },
+        {
+          "id": "perks",
+          "type": "noun",
+          "en": {
+            "word": "perks",
+            "otherAnswers": ["salary", "taxes", "deductions"]
+          },
+          "fr": {
+            "word": "avantages (en nature)",
+            "otherAnswers": ["salaire", "impôts", "cotisations"]
+          }
+        },
+        {
+          "id": "raise-noun",
+          "type": "noun",
+          "en": {
+            "word": "raise",
+            "otherAnswers": ["bonus", "deduction", "tax"]
+          },
+          "fr": {
+            "word": "augmentation",
+            "otherAnswers": ["prime", "déduction", "impôt"]
+          }
+        },
+        {
+          "id": "raise-verb",
+          "type": "verb",
+          "en": {
+            "word": "raise",
+            "otherAnswers": ["pay", "deduct", "invoice"]
+          },
+          "fr": {
+            "word": "augmenter",
+            "otherAnswers": ["payer", "déduire", "facturer"]
+          }
+        },
+        {
+          "id": "raise-money",
+          "type": "expression",
+          "en": {
+            "word": "raise money",
+            "otherAnswers": ["pay taxes", "receive salary", "sign contract"]
+          },
+          "fr": {
+            "word": "collecter des fonds",
+            "otherAnswers": [
+              "payer des impôts",
+              "recevoir un salaire",
+              "signer un contrat"
+            ]
+          }
+        },
+        {
+          "id": "salary",
+          "type": "noun",
+          "en": {
+            "word": "salary",
+            "otherAnswers": ["contract", "bonus", "commission"]
+          },
+          "fr": {
+            "word": "salaire",
+            "otherAnswers": ["contrat", "prime", "commission"]
+          }
+        },
+        {
+          "id": "wages",
+          "type": "noun",
+          "en": {
+            "word": "wages",
+            "otherAnswers": ["benefits", "deductions", "taxes"]
+          },
+          "fr": {
+            "word": "salaire",
+            "otherAnswers": ["avantages", "cotisations", "impôts"]
+          }
+        },
+        {
+          "id": "trial-period",
+          "type": "noun",
+          "en": {
+            "word": "trial period",
+            "otherAnswers": ["contract term", "notice period", "vacation time"]
+          },
+          "fr": {
+            "word": "période d'essai",
+            "otherAnswers": ["durée du contrat", "préavis", "congés payés"]
+          }
+        },
+        {
+          "id": "unless",
+          "type": "conjunction",
+          "en": {
+            "word": "unless",
+            "otherAnswers": ["whereas", "therefore", "notwithstanding"]
+          },
+          "fr": {
+            "word": "à moins de/que",
+            "otherAnswers": ["considérant que", "par conséquent", "nonobstant"]
+          }
+        },
+        {
+          "id": "unless-otherwise-noted",
+          "type": "expression",
+          "en": {
+            "word": "unless otherwise noted",
+            "otherAnswers": [
+              "subject to agreement",
+              "as legally required",
+              "for consideration"
+            ]
+          },
+          "fr": {
+            "word": "sauf indication contraire",
+            "otherAnswers": [
+              "sous réserve d'accord",
+              "selon les exigences légales",
+              "en contrepartie"
+            ]
+          }
+        },
+        {
+          "id": "volunteer-noun",
+          "type": "noun",
+          "en": {
+            "word": "volunteer",
+            "otherAnswers": ["employee", "contractor", "consultant"]
+          },
+          "fr": {
+            "word": "bénévole",
+            "otherAnswers": ["salarié", "contractant", "consultant"]
+          }
+        },
+        {
+          "id": "volunteer-verb",
+          "type": "verb",
+          "en": {
+            "word": "volunteer",
+            "otherAnswers": ["hire", "employ", "contract"]
+          },
+          "fr": {
+            "word": "se porter volontaire",
+            "otherAnswers": ["embaucher", "employer", "contracter"]
+          }
+        },
+        {
+          "id": "voluntary",
+          "type": "adjective",
+          "en": {
+            "word": "voluntary",
+            "otherAnswers": ["mandatory", "contractual", "obligatory"]
+          },
+          "fr": {
+            "word": "volontaire",
+            "otherAnswers": ["obligatoire", "contractuel", "impératif"]
+          }
+        },
+        {
+          "id": "voluntarily",
+          "type": "adverb",
+          "en": {
+            "word": "voluntarily",
+            "otherAnswers": ["contractually", "legally", "financially"]
+          },
+          "fr": {
+            "word": "volontairement",
+            "otherAnswers": [
+              "contractuellement",
+              "légalement",
+              "financièrement"
+            ]
+          }
+        },
+        {
+          "id": "whereby",
+          "type": "conjunction",
+          "en": {
+            "word": "whereby",
+            "otherAnswers": ["therefore", "henceforth", "herein"]
+          },
+          "fr": {
+            "word": "selon lequel, par lequel",
+            "otherAnswers": ["par conséquent", "dorénavant", "ci-inclus"]
+          }
+        }
+      ]
+    }
+  ]
+}
