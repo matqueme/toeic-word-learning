@@ -1,5 +1,7 @@
 <template>
-  <div class="rounded-lg bg-white p-6 shadow-md">
+  <div
+    class="rounded-lg border border-(--custom-brown)/20 bg-white/40 p-6 shadow-md"
+  >
     <h2 class="text-(--custom-brown)-dark mb-4 text-2xl font-semibold">
       Étape 2: Combien de questions?
     </h2>
@@ -9,13 +11,13 @@
         v-for="count in [5, 10, 20, 30]"
         :key="count"
         @click="selectCount(count)"
-        class="rounded-lg border border-(--custom-brown)/30 bg-(--custom-brown-lighter) px-4 py-3 text-center font-semibold transition duration-150 hover:cursor-pointer hover:bg-(--custom-brown-light) hover:text-white"
+        class="rounded-lg border border-(--custom-brown-light)/40 bg-(--custom-light) px-4 py-3 text-center font-semibold text-(--custom-green-dark) transition duration-150 hover:cursor-pointer hover:border-(--custom-brown) hover:bg-(--custom-brown-light)/30"
       >
         {{ count }} questions
       </button>
       <button
         @click="selectCount(0)"
-        class="col-span-2 rounded-lg border border-(--custom-brown) bg-(--custom-light) px-4 py-3 text-center font-semibold transition duration-150 hover:cursor-pointer hover:bg-(--custom-brown-light) hover:text-white md:col-span-4"
+        class="col-span-2 rounded-lg border border-(--custom-brown-light)/40 bg-(--custom-light) px-4 py-3 text-center font-semibold text-(--custom-green-dark) transition duration-150 hover:cursor-pointer hover:border-(--custom-brown) hover:bg-(--custom-brown-light)/30 md:col-span-4"
       >
         Toutes les questions
       </button>
@@ -24,7 +26,7 @@
     <div class="mt-6 flex justify-between">
       <button
         @click="prev"
-        class="rounded-lg bg-(--custom-teal) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-teal-dark)"
+        class="rounded-lg bg-(--custom-brown) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-brown-light)"
       >
         Précédent
       </button>

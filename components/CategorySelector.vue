@@ -1,6 +1,8 @@
 <template>
-  <div class="rounded-lg bg-white p-6 shadow-md">
-    <h2 class="text-(--custom-brown)-dark mb-4 text-2xl font-semibold">
+  <div
+    class="rounded-lg border border-(--custom-brown)/20 bg-white/40 p-6 shadow-md"
+  >
+    <h2 class="mb-4 text-2xl font-semibold text-(--custom-green-dark)">
       Étape 1: Choisissez les catégories
     </h2>
 
@@ -17,14 +19,16 @@
           :id="category.id"
           v-model="selected"
           :value="category.id"
-          class="h-5 w-5 rounded border-(--custom-brown)/50 text-(--custom-brown) hover:cursor-pointer focus:ring-(--custom-brown)"
+          class="h-5 w-5 rounded border-(--custom-brown)/50 text-(--custom-green) hover:cursor-pointer focus:ring-(--custom-green)"
         />
         <label
           :for="category.id"
-          class="ml-2 text-gray-700 hover:cursor-pointer"
+          class="ml-2 text-(--custom-green-dark) hover:cursor-pointer"
         >
           {{ index + 1 }}. {{ category.nameFr }} <br />
-          <span class="text-sm text-gray-500 italic hover:cursor-pointer">
+          <span
+            class="text-sm text-(--custom-brown) italic hover:cursor-pointer"
+          >
             ({{ category.nameEn }})
           </span>
         </label>
@@ -34,7 +38,7 @@
     <div class="mt-6 text-right">
       <button
         @click="next"
-        class="rounded-lg bg-(--custom-brown) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-brown-dark) disabled:opacity-50"
+        class="rounded-lg bg-(--custom-green) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-green-dark) disabled:opacity-50"
         :disabled="selected.length === 0"
       >
         Suivant
