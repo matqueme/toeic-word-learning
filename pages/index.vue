@@ -123,7 +123,11 @@ const startGame = async () => {
   }
 
   // Mélanger et sélectionner le nombre de questions demandé
-  const shuffled = [...allWords].sort(() => 0.5 - Math.random());
+  const shuffled = [...allWords];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
   // Sélectionner soit le nombre demandé, soit toutes les questions si questionCount est 0
   let selectedWords =
     questionCount.value === 0
