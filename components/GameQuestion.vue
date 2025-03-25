@@ -49,7 +49,7 @@
 
     <div class="mt-6 flex justify-between">
       <button
-        @click="reset"
+        @click="confirmReset"
         class="rounded-lg bg-gray-500 px-6 py-2 font-bold text-white hover:bg-gray-600"
       >
         Nouvelle partie
@@ -69,11 +69,39 @@
         Voir les résultats
       </button>
     </div>
+
+    <!-- Modal de confirmation pour nouvelle partie -->
+    <div
+      v-if="showResetConfirmation"
+      class="fixed inset-0 z-50 flex items-center justify-center bg-gray-900/50 backdrop-blur-sm"
+    >
+      <div class="max-w-md rounded-lg bg-white p-6 shadow-xl">
+        <h3 class="mb-4 text-xl font-bold">Recommencer la partie ?</h3>
+        <p class="mb-6 text-gray-600">
+          Êtes-vous sûr de vouloir recommencer ? Votre progression actuelle sera
+          perdue.
+        </p>
+        <div class="flex justify-end space-x-3">
+          <button
+            @click="showResetConfirmation = false"
+            class="rounded-lg border border-gray-300 bg-white px-4 py-2 font-medium text-gray-700 hover:bg-gray-50"
+          >
+            Annuler
+          </button>
+          <button
+            @click="confirmAndReset"
+            class="rounded-lg bg-red-600 px-4 py-2 font-medium text-white hover:bg-red-700"
+          >
+            Recommencer
+          </button>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import { computed, defineEmits } from 'vue';
+import { computed, defineEmits, ref } from 'vue';
 import type { Word } from '../types/types';
 
 const props = defineProps<{
@@ -86,6 +114,8 @@ const props = defineProps<{
   correctAnswer: string | null;
   selectedAnswer: string | null;
 }>();
+
+const showResetConfirmation = ref(false);
 
 const emit = defineEmits<{
   (e: 'update:currentIndex', index: number): void;
@@ -110,6 +140,15 @@ const isLastQuestion = computed(
   () => props.currentIndex >= totalQuestions.value - 1
 );
 
+const confirmReset = () => {
+  showResetConfirmation.value = true;
+};
+
+const confirmAndReset = () => {
+  showResetConfirmation.value = false;
+  emit('reset');
+};
+
 const selectAnswer = (option: string) => {
   if (props.showFeedback) return;
   emit('answer', option);
@@ -121,9 +160,5 @@ const next = () => {
 
 const showResults = () => {
   emit('results');
-};
-
-const reset = () => {
-  emit('reset');
 };
 </script>

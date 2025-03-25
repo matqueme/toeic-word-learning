@@ -6,7 +6,7 @@
 
     <div class="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
       <div
-        v-for="category in categories"
+        v-for="(category, index) in categories"
         :key="category.id"
         class="flex items-center"
       >
@@ -18,7 +18,10 @@
           class="h-5 w-5 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
         />
         <label :for="category.id" class="ml-2 text-gray-700">
-          {{ category.nameFr }} <br />({{ category.nameEn }})
+          {{ index + 1 }}. {{ category.nameFr }} <br />
+          <span class="text-sm text-gray-500 italic"
+            >({{ category.nameEn }})</span
+          >
         </label>
       </div>
     </div>
