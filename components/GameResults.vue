@@ -1,9 +1,13 @@
 <template>
-  <div class="rounded-lg bg-white p-6 shadow-md">
-    <h2 class="mb-4 text-2xl font-semibold">Résultats</h2>
+  <div
+    class="rounded-lg border border-(--custom-mauve)/20 bg-white p-6 shadow-md"
+  >
+    <h2 class="text-(--custom-mauve)-dark mb-4 text-2xl font-semibold">
+      Résultats
+    </h2>
 
     <div class="mb-6">
-      <div class="mb-2 text-center text-4xl font-bold">
+      <div class="mb-2 text-center text-4xl font-bold text-(--custom-mauve)">
         {{ score }}/{{ total }}
       </div>
       <div class="text-center text-xl text-gray-600">{{ percentage }}%</div>
@@ -11,7 +15,7 @@
 
     <button
       @click="reset"
-      class="w-full rounded-lg bg-blue-600 px-6 py-3 font-bold text-white hover:bg-blue-700"
+      class="w-full rounded-lg bg-(--custom-mauve) px-6 py-3 font-bold text-white hover:bg-(--custom-mauve-dark)"
     >
       Nouvelle partie
     </button>

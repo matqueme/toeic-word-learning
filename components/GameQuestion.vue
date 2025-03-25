@@ -45,7 +45,10 @@
     </div>
 
     <div v-if="showFeedback" class="mb-4">
-      <div v-if="isCorrect" class="rounded-lg bg-green-100 p-3 text-green-800">
+      <div
+        v-if="isCorrect"
+        class="rounded-lg border border-green-500 bg-green-100 p-3 text-green-800"
+      >
         Bonne réponse!
       </div>
       <div v-else class="rounded-lg bg-red-100 p-3 text-red-800">
