@@ -1,4 +1,5 @@
 export interface Word {
+  type: string;
   en: { word: string; otherAnswers?: string[] };
   fr: { word: string; otherAnswers?: string[] };
   _isFromEnglish?: boolean;

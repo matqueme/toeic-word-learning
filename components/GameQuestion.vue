@@ -17,6 +17,9 @@
       </div>
       <div class="mb-4 text-2xl font-bold text-(--custom-green-dark)">
         {{ displayWord }}
+        <span v-if="wordType" class="text-sm text-(--custom-green)"
+          >({{ wordType }})</span
+        >
       </div>
 
       <div class="mb-4">
@@ -322,6 +325,11 @@ const displayWord = computed(() => {
     ? currentQuestion.value.en.word
     : currentQuestion.value.fr.word;
   return word.charAt(0).toUpperCase() + word.slice(1);
+});
+
+const wordType = computed(() => {
+  if (!currentQuestion.value) return '';
+  return currentQuestion.value.type || '';
 });
 
 const currentQuestion = computed(
