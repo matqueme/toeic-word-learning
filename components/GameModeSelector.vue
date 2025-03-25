@@ -41,6 +41,12 @@
       >
         Précédent
       </button>
+      <button
+        @click="skipWithDefault"
+        class="rounded-lg bg-(--custom-teal) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-teal-dark)"
+      >
+        Continuer avec Français → Anglais
+      </button>
     </div>
   </div>
 </template>
@@ -56,6 +62,13 @@ const emit = defineEmits<{
 
 const selectMode = (mode: string) => {
   emit('update:modelValue', mode);
+  emit('start');
+};
+
+const skipWithDefault = () => {
+  // Vous pouvez changer 'en-fr' par le mode par défaut que vous préférez
+  const defaultMode = 'en-fr';
+  emit('update:modelValue', defaultMode);
   emit('start');
 };
 
