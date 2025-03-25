@@ -49,12 +49,14 @@
     <div v-if="showFeedback" class="mb-4">
       <div
         v-if="isCorrect"
+        ref="correctFeedback"
         class="rounded-lg border border-green-600/60 bg-green-600/20 p-3 text-green-800"
       >
         Bonne réponse!
       </div>
       <div
         v-else
+        ref="incorrectFeedback"
         class="rounded-lg border border-red-500/60 bg-red-500/20 p-3 text-red-500"
       >
         Incorrect. La bonne réponse était:
@@ -121,8 +123,9 @@
 </template>
 
 <script setup lang="ts">
-import { computed, ref } from 'vue';
+import { computed, ref, watch } from 'vue';
 import type { Word } from '../types/types';
+import gsap from 'gsap';
 
 const props = defineProps<{
   questions: Word[];
@@ -136,6 +139,173 @@ const props = defineProps<{
 }>();
 
 const showResetConfirmation = ref(false);
+
+const correctFeedback = ref(null);
+const incorrectFeedback = ref(null);
+
+// Observer les changements de showFeedback pour déclencher les animations
+watch(
+  () => props.showFeedback,
+  (newValue) => {
+    if (newValue) {
+      // Animation déclenchée lorsque le feedback est affiché
+      if (props.isCorrect) {
+        animateCorrectAnswer();
+      } else {
+        animateIncorrectAnswer();
+      }
+
+      // Animer aussi le bouton approprié
+      animateAnswerButton();
+    }
+  }
+);
+watch(
+  () => props.currentIndex,
+  () => {
+    // Réinitialiser les styles des boutons quand on change de question
+    resetButtonStyles();
+  }
+);
+
+// Fonction pour réinitialiser les styles des boutons
+const resetButtonStyles = () => {
+  // Sélectionner tous les boutons
+  const buttons = document.querySelectorAll('.grid button');
+
+  buttons.forEach((button) => {
+    // Réinitialiser tous les styles d'animation
+    gsap.to(button, {
+      opacity: 1,
+      scale: 1,
+      rotation: 0,
+      x: 0,
+      boxShadow: '0 0 0 rgba(0, 0, 0, 0)',
+      duration: 0.1,
+      clearProps: 'all', // Ceci est crucial pour nettoyer toutes les propriétés GSAP
+    });
+  });
+};
+
+// Animation pour une réponse correcte
+const animateCorrectAnswer = () => {
+  if (correctFeedback.value) {
+    gsap.fromTo(
+      correctFeedback.value,
+      { opacity: 0, y: 40, scale: 0.7 },
+      {
+        opacity: 1,
+        y: 0,
+        scale: 1,
+        duration: 0.8,
+        ease: 'elastic.out(1.2, 0.5)',
+      }
+    );
+  }
+};
+
+// Animation pour une réponse incorrecte
+const animateIncorrectAnswer = () => {
+  if (incorrectFeedback.value) {
+    gsap.fromTo(
+      incorrectFeedback.value,
+      { opacity: 0, y: 40, scale: 0.7 },
+      {
+        opacity: 1,
+        y: 0,
+        scale: 1,
+        duration: 0.8,
+        ease: 'elastic.out(1.2, 0.5)',
+      }
+    );
+  }
+};
+
+// Animation pour mettre en évidence les boutons de réponse
+const animateAnswerButton = () => {
+  // Sélectionner tous les boutons
+  const buttons = document.querySelectorAll('.grid button');
+
+  buttons.forEach((button) => {
+    const buttonText = button.textContent?.trim().toLowerCase();
+    const isCorrectButton = buttonText === props.correctAnswer?.toLowerCase();
+    const isSelectedButton = buttonText === props.selectedAnswer?.toLowerCase();
+
+    if (isCorrectButton) {
+      // Animation pour la bonne réponse - rotation plus prononcée
+      gsap.to(button, {
+        keyframes: {
+          rotate: [0, -6, 6, -6, 6, -3, 3, 0],
+        },
+        duration: 1,
+        ease: 'power1.inOut',
+        delay: 0.2,
+      });
+
+      // Effet de pulsation plus prononcé pour la bonne réponse
+      gsap.fromTo(
+        button,
+        { scale: 1 },
+        {
+          scale: 1.2,
+          duration: 0.7,
+          repeat: 1,
+          yoyo: true,
+          ease: 'power2.inOut',
+          delay: 0.2,
+        }
+      );
+
+      // Ajout d'un flash lumineux (box-shadow)
+      gsap.fromTo(
+        button,
+        { boxShadow: '0 0 0 rgba(34, 197, 94, 0)' },
+        {
+          boxShadow: '0 0 30px rgba(34, 197, 94, 0.9)',
+          duration: 0.7,
+          repeat: 1,
+          yoyo: true,
+          ease: 'power2.inOut',
+          delay: 0.2,
+        }
+      );
+    } else if (isSelectedButton && !isCorrectButton) {
+      // Animation de secousse plus forte pour la mauvaise réponse
+      gsap.fromTo(
+        button,
+        { x: 0 },
+        {
+          keyframes: {
+            x: [0, -12, 12, -12, 12, -8, 8, -4, 4, 0],
+          },
+          duration: 0.8,
+          ease: 'power1.inOut',
+        }
+      );
+
+      // Ajout d'un effet de flash rouge
+      gsap.fromTo(
+        button,
+        { boxShadow: '0 0 0 rgba(239, 68, 68, 0)' },
+        {
+          boxShadow: '0 0 30px rgba(239, 68, 68, 0.8)',
+          duration: 0.7,
+          repeat: 1,
+          yoyo: true,
+          ease: 'power2.inOut',
+        }
+      );
+    } else {
+      // Animation plus prononcée pour les autres boutons
+      gsap.to(button, {
+        opacity: 0.5,
+        scale: 0.9,
+        duration: 0.5,
+        delay: 0.1,
+      });
+    }
+  });
+};
 
 const emit = defineEmits<{
   (e: 'update:currentIndex', index: number): void;

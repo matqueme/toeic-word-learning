@@ -36,7 +36,7 @@
       </button>
     </div>
 
-    <div class="mt-6 flex justify-between">
+    <div class="mt-6 flex flex-wrap justify-between gap-2">
       <button
         @click="prev"
         class="rounded-lg bg-(--custom-brown) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-brown-light)"
