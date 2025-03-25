@@ -49,7 +49,7 @@
     <div v-if="showFeedback" class="mb-4">
       <div
         v-if="isCorrect"
-        class="rounded-lg border border-(--custom-green)/60 bg-(--custom-green)/20 p-3 text-(--custom-green-dark)"
+        class="rounded-lg border border-green-600/60 bg-green-600/20 p-3 text-green-800"
       >
         Bonne réponse!
       </div>
