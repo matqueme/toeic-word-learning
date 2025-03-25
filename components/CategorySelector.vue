@@ -19,7 +19,7 @@
           :id="category.id"
           v-model="selected"
           :value="category.id"
-          class="custom-checkbox h-5 w-5 rounded border-2 border-(--custom-brown)/40 bg-white/80 text-(--custom-green) hover:cursor-pointer hover:border-(--custom-green) focus:ring-2 focus:ring-(--custom-green) focus:ring-offset-2 focus:outline-none"
+          class="custom-checkbox h-5 w-5 rounded border-2 border-(--custom-brown)/40 bg-white/80 text-(--custom-green) hover:cursor-pointer hover:border-(--custom-green)"
         />
         <label
           :for="category.id"
