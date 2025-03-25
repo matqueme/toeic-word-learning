@@ -19,7 +19,7 @@
           :id="category.id"
           v-model="selected"
           :value="category.id"
-          class="h-5 w-5 rounded border-(--custom-brown)/50 text-(--custom-green) hover:cursor-pointer focus:ring-(--custom-green)"
+          class="custom-checkbox h-5 w-5 rounded border-2 border-(--custom-brown)/40 bg-white/80 text-(--custom-green) hover:cursor-pointer hover:border-(--custom-green) focus:ring-2 focus:ring-(--custom-green) focus:ring-offset-2 focus:outline-none"
         />
         <label
           :for="category.id"
@@ -71,3 +71,25 @@ const next = () => {
   emit('next');
 };
 </script>
+
+<style scoped>
+.custom-checkbox {
+  appearance: none;
+  -webkit-appearance: none;
+  background-color: white;
+}
+
+.custom-checkbox:checked {
+  background-color: var(--custom-green);
+  border-color: var(--custom-green);
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z'/%3e%3c/svg%3e");
+}
+
+.custom-checkbox:hover {
+  border-color: var(--custom-green);
+}
+
+.custom-checkbox:checked:hover {
+  background-color: var(--custom-green-dark);
+}
+</style>
