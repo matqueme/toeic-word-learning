@@ -55,7 +55,7 @@
       </div>
       <div
         v-else
-        class="rounded-lg border border-(--custom-brown)/40 bg-(--custom-brown-light)/20 p-3 text-(--custom-brown-dark)"
+        class="rounded-lg border border-red-500/60 bg-red-500/20 p-3 text-red-500"
       >
         Incorrect. La bonne réponse était:
         {{
@@ -66,7 +66,7 @@
       </div>
     </div>
 
-    <div class="mt-6 flex justify-between">
+    <div class="mt-6 flex justify-between gap-4">
       <button
         @click="confirmReset"
         class="rounded-lg bg-(--custom-brown) px-6 py-2 font-bold text-white hover:cursor-pointer hover:bg-(--custom-brown-light)"
@@ -101,7 +101,7 @@
           Êtes-vous sûr de vouloir recommencer ? Votre progression actuelle sera
           perdue.
         </p>
-        <div class="flex justify-end space-x-3">
+        <div class="flex justify-end gap-4">
           <button
             @click="showResetConfirmation = false"
             class="rounded-lg border border-(--custom-brown-light) bg-(--custom-light) px-4 py-2 font-medium text-(--custom-green-dark) hover:cursor-pointer hover:bg-(--custom-brown-light)/20"
@@ -121,7 +121,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, defineEmits, ref } from 'vue';
+import { computed, ref } from 'vue';
 import type { Word } from '../types/types';
 
 const props = defineProps<{
