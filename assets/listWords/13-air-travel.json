@@ -1,0 +1,431 @@
+{
+  "categories": [
+    {
+      "id": "air_travel",
+      "nameEn": "Air Travel",
+      "nameFr": "Voyage aérien",
+      "words": [
+        {
+          "id": "airline",
+          "type": "name",
+          "en": {
+            "word": "airline",
+            "otherAnswers": ["airport", "airliner", "airway"]
+          },
+          "fr": {
+            "word": "compagnie aérienne",
+            "otherAnswers": ["aéroport", "transporteur aérien", "voie aérienne"]
+          }
+        },
+        {
+          "id": "aisle",
+          "type": "name",
+          "en": {
+            "word": "aisle",
+            "otherAnswers": ["corridor", "walkway", "passageway"]
+          },
+          "fr": {
+            "word": "couloir",
+            "otherAnswers": ["allée", "passage", "voie de circulation"]
+          }
+        },
+        {
+          "id": "baggage",
+          "type": "name",
+          "en": {
+            "word": "baggage",
+            "otherAnswers": ["suitcase", "carry-on", "belongings"]
+          },
+          "fr": {
+            "word": "bagages",
+            "otherAnswers": ["valises", "sacs", "effets personnels"]
+          }
+        },
+        {
+          "id": "baggage_claim",
+          "type": "name",
+          "en": {
+            "word": "baggage claim",
+            "otherAnswers": [
+              "baggage retrieval",
+              "luggage pickup",
+              "baggage hall"
+            ]
+          },
+          "fr": {
+            "word": "arrivée des bagages",
+            "otherAnswers": [
+              "récupération des bagages",
+              "salle des bagages",
+              "retrait des valises"
+            ]
+          }
+        },
+        {
+          "id": "board",
+          "type": "verb",
+          "en": {
+            "word": "board",
+            "otherAnswers": ["embark", "enter", "access"]
+          },
+          "fr": {
+            "word": "embarquer",
+            "otherAnswers": ["monter", "accéder", "entrer"]
+          }
+        },
+        {
+          "id": "boarding",
+          "type": "name",
+          "en": {
+            "word": "boarding",
+            "otherAnswers": ["embarkation", "entry", "access"]
+          },
+          "fr": {
+            "word": "embarquement",
+            "otherAnswers": ["montée", "accès", "entrée"]
+          }
+        },
+        {
+          "id": "boarding_pass",
+          "type": "name",
+          "en": {
+            "word": "boarding pass",
+            "otherAnswers": ["ticket", "e-ticket", "flight document"]
+          },
+          "fr": {
+            "word": "carte d'embarquement",
+            "otherAnswers": [
+              "billet d'avion",
+              "titre de transport",
+              "coupon de vol"
+            ]
+          }
+        },
+        {
+          "id": "cabin_crew",
+          "type": "name",
+          "en": {
+            "word": "cabin crew",
+            "otherAnswers": ["attendants", "flight staff", "onboard team"]
+          },
+          "fr": {
+            "word": "équipage",
+            "otherAnswers": [
+              "personnel de cabine",
+              "agents de bord",
+              "hôtesses et stewards"
+            ]
+          }
+        },
+        {
+          "id": "carry_on",
+          "type": "adjective",
+          "en": {
+            "word": "carry-on",
+            "otherAnswers": ["cabin luggage", "hand baggage", "onboard bag"]
+          },
+          "fr": {
+            "word": "à main",
+            "otherAnswers": ["de cabine", "bagage cabine", "en soute"]
+          }
+        },
+        {
+          "id": "check_in",
+          "type": "name",
+          "en": {
+            "word": "check-in",
+            "otherAnswers": ["registration", "processing", "validation"]
+          },
+          "fr": {
+            "word": "enregistrement",
+            "otherAnswers": [
+              "vérification",
+              "validation",
+              "procédure de départ"
+            ]
+          }
+        },
+        {
+          "id": "check_in_desk",
+          "type": "name",
+          "en": {
+            "word": "check-in desk",
+            "otherAnswers": ["ticket counter", "reception desk", "baggage drop"]
+          },
+          "fr": {
+            "word": "comptoir d'enregistrement",
+            "otherAnswers": [
+              "guichet de départ",
+              "bureau des billets",
+              "dépôt des bagages"
+            ]
+          }
+        },
+        {
+          "id": "conveyor_belt",
+          "type": "name",
+          "en": {
+            "word": "conveyor belt",
+            "otherAnswers": [
+              "baggage carousel",
+              "luggage conveyor",
+              "baggage track"
+            ]
+          },
+          "fr": {
+            "word": "tapis roulant",
+            "otherAnswers": [
+              "carrousel à bagages",
+              "convoyeur de valises",
+              "bande transporteuse"
+            ]
+          }
+        },
+        {
+          "id": "customs",
+          "type": "name",
+          "en": {
+            "word": "customs",
+            "otherAnswers": ["passport control", "border check", "clearance"]
+          },
+          "fr": {
+            "word": "douane",
+            "otherAnswers": [
+              "contrôle des passeports",
+              "immigration",
+              "contrôle frontalier"
+            ]
+          }
+        },
+        {
+          "id": "delay",
+          "type": "name",
+          "en": {
+            "word": "delay",
+            "otherAnswers": [
+              "postponement",
+              "late departure",
+              "schedule change"
+            ]
+          },
+          "fr": {
+            "word": "retard",
+            "otherAnswers": ["ajournement", "décalage", "report de vol"]
+          }
+        },
+        {
+          "id": "exceed",
+          "type": "verb",
+          "en": {
+            "word": "exceed",
+            "otherAnswers": ["overweight", "overload", "overflow"]
+          },
+          "fr": {
+            "word": "dépasser",
+            "otherAnswers": ["surcharger", "excéder", "surpasser"]
+          }
+        },
+        {
+          "id": "excess",
+          "type": "name",
+          "en": {
+            "word": "excess",
+            "otherAnswers": ["overweight", "surcharge", "extra baggage"]
+          },
+          "fr": {
+            "word": "excédent",
+            "otherAnswers": [
+              "surpoids",
+              "supplément",
+              "bagages supplémentaires"
+            ]
+          }
+        },
+        {
+          "id": "fasten",
+          "type": "verb",
+          "en": {
+            "word": "fasten",
+            "otherAnswers": ["secure", "tighten", "clip"]
+          },
+          "fr": {
+            "word": "attacher",
+            "otherAnswers": ["boucler", "sécuriser", "ajuster"]
+          }
+        },
+        {
+          "id": "unfasten",
+          "type": "verb",
+          "en": {
+            "word": "unfasten",
+            "otherAnswers": ["unbuckle", "loosen", "disconnect"]
+          },
+          "fr": {
+            "word": "défaire",
+            "otherAnswers": ["déboucler", "desserrer", "libérer"]
+          }
+        },
+        {
+          "id": "fly",
+          "type": "verb",
+          "en": {
+            "word": "fly",
+            "otherAnswers": ["travel by air", "jet", "cruise"]
+          },
+          "fr": {
+            "word": "prendre l'avion",
+            "otherAnswers": ["s'envoler", "voyager par air", "faire un vol"]
+          }
+        },
+        {
+          "id": "flight",
+          "type": "name",
+          "en": {
+            "word": "flight",
+            "otherAnswers": ["air trip", "journey", "air travel"]
+          },
+          "fr": {
+            "word": "vol",
+            "otherAnswers": [
+              "voyage aérien",
+              "trajet en avion",
+              "transport aérien"
+            ]
+          }
+        },
+        {
+          "id": "flight_attendant",
+          "type": "name",
+          "en": {
+            "word": "flight attendant",
+            "otherAnswers": ["cabin attendant", "cabin staff", "service agent"]
+          },
+          "fr": {
+            "word": "hôtesse de l'air",
+            "otherAnswers": ["agent de bord", "personnel navigant", "steward"]
+          }
+        },
+        {
+          "id": "gate",
+          "type": "name",
+          "en": {
+            "word": "gate",
+            "otherAnswers": ["boarding area", "departure point", "jetway"]
+          },
+          "fr": {
+            "word": "porte d'embarquement",
+            "otherAnswers": [
+              "zone de départ",
+              "salle d'embarquement",
+              "passerelle"
+            ]
+          }
+        },
+        {
+          "id": "id",
+          "type": "name",
+          "en": {
+            "word": "ID",
+            "otherAnswers": ["passport", "travel document", "boarding document"]
+          },
+          "fr": {
+            "word": "pièce d'identité",
+            "otherAnswers": [
+              "passeport",
+              "document de voyage",
+              "papiers officiels"
+            ]
+          }
+        },
+        {
+          "id": "land",
+          "type": "verb",
+          "en": {
+            "word": "land",
+            "otherAnswers": ["descend", "arrive", "touch down"]
+          },
+          "fr": {
+            "word": "atterrir",
+            "otherAnswers": ["se poser", "descendre", "toucher le sol"]
+          }
+        },
+        {
+          "id": "landing",
+          "type": "name",
+          "en": {
+            "word": "landing",
+            "otherAnswers": ["arrival", "touchdown", "descent"]
+          },
+          "fr": {
+            "word": "atterrissage",
+            "otherAnswers": ["arrivée", "descente", "contact au sol"]
+          }
+        },
+        {
+          "id": "overhead_bin",
+          "type": "name",
+          "en": {
+            "word": "overhead bin",
+            "otherAnswers": [
+              "overhead locker",
+              "cabin storage",
+              "luggage compartment"
+            ]
+          },
+          "fr": {
+            "word": "compartiment supérieur",
+            "otherAnswers": [
+              "casier de rangement",
+              "coffre à bagages",
+              "espace de stockage"
+            ]
+          }
+        },
+        {
+          "id": "runway",
+          "type": "name",
+          "en": {
+            "word": "runway",
+            "otherAnswers": ["landing strip", "airstrip", "taxiway"]
+          },
+          "fr": {
+            "word": "piste",
+            "otherAnswers": [
+              "voie d'atterrissage",
+              "bande d'envol",
+              "voie de circulation"
+            ]
+          }
+        },
+        {
+          "id": "takeoff",
+          "type": "name",
+          "en": {
+            "word": "takeoff",
+            "otherAnswers": ["departure", "liftoff", "ascent"]
+          },
+          "fr": {
+            "word": "décollage",
+            "otherAnswers": ["départ", "envol", "montée"]
+          }
+        },
+        {
+          "id": "tray_table",
+          "type": "name",
+          "en": {
+            "word": "tray table",
+            "otherAnswers": ["meal table", "seat tray", "folding table"]
+          },
+          "fr": {
+            "word": "tablette",
+            "otherAnswers": [
+              "table-plateau",
+              "surface repliable",
+              "tablette de siège"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+airline (nom) compagnie aérienne
+aisle (nom) couloir
+baggage (nom indénombrable) bagages
+baggage claim (nom) arrivée des bagages
+board (vb) embarquer, monter à board
+boarding (nom) embarquement
+boarding pass (nom) carte d'embarquement
+cabin crew (nom) équipage
+carry-on (adj) (bagage) à main
+check-in (nom) enregistrement
+check-in desk (nom) comptoir d'enregistrement
+check in (vb) s'enregistrer
+conveyor belt (nom) tapis roulant, carrousel (à bagages)
+customs (nom) douane
+delay (nom) retard
+day (vb) retarder
+exceed (vb) dépasser
+excessive (adj) excessif
+excessively (adv) excessivement
+exceedinglly (adv) extrêmement
+excess (nom) excédent
+fasten (vb) attacher
+unfasten (vb) défaire
+fly (vb - Prét/PP : flew/flown) (intransitif) prendre l'avion, voyager en avion ; piloter
+flight (nom) vol
+flight attendant (nom) hotess de l'air, steward
+fly over (vb) survoler
+fly (nom) mouche 
+gate (nom) porte d'embarquement
+ID (nom) pièce d'identité
+land (vb) atterir
+landing (nom) atterrissage
+luckily (adv) heureusement
+mindful (adj) soucieux, conscient
+mind (vb) faire attention à ; déranger
+keep in mind (exp) garder à l'esprit, se rappeler de
+overhead bin (nom) compartiement supérieur (à bagages)
+proceed (vb) avancer, procéder
+process, procedure (nom) processus
+proceedings (nom) évènements
+remove (vb) retirer
+removal (nom) retrait 
+runway (nom) piste
+takeoff (nom) décollage
+take off (vb - Prét/PP : took/taken) décoller
+tray table (nom) tablette

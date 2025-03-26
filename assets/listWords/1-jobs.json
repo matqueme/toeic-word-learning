@@ -574,7 +574,7 @@
           "type": "name",
           "en": {
             "word": "manager",
-            "otherAnswers": ["supervisor", "director", "executive"]
+            "otherAnswers": ["director", "executive", "intern"]
           },
           "fr": {
             "word": "directeur(-trice), superviseur",

@@ -1,0 +1,45 @@
+carrier (nom) transporteur 
+carry (vb) porter, transporteur
+consignment (nom) expédition, cargaison
+courier (nom) coursier
+crate (nom) caisse (en bois)
+crate (vb) mettre en caisse
+deliver (vb) livrer
+delivery person (nom) livreur
+delivery truck (nom) camionette de livraison
+dispatch (vb) expédier 
+dispatcher (nom) expéditeur, répartiteur
+drop off (vb) déposer
+expedite (vb) accélérer
+freight (nom) fret, cargaison
+load (nom) chargement
+load (vb) charger
+loading bay (nom) aire de chargement
+unload (vb) décharger
+overnight (adv) en 24h, le lendemain
+pack (vb) emballer
+package (nom) colis
+package (vb) emballer
+packaging (nom) emballage
+unpack (vb) déballer
+pick up (vb) passer prendre
+rush fee (nom) frais d'envoi en express
+seal (nom) sceau, cachet
+seal (vb) sceller, cacheter
+unseal (vb) décacheter
+shipment (nom) expédition, cargaison
+ship (nom) navire
+ship (vb) expédier (par bateau, avion...)
+shipper (nom) transporteur 
+stack (nom) pile 
+stack (vb) empiler
+stackable (adj) empilable
+storage (nom) stockage, garde-meuble, rangement
+store (vb) stocker
+tracking (nom) suivi
+warehouse (nom) entrepôt
+weigh (vb) peser
+weigh up (vb) peser (le pour et le contre)
+wrap (vb) emballer
+wrapper (nom) plastique, papier d'emballage (de bonbon, magazine)
+unwrap (vb) déballer

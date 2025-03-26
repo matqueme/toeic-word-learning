@@ -1,0 +1,659 @@
+{
+  "categories": [
+    {
+      "id": "travel_work",
+      "nameEn": "Travel work",
+      "nameFr": "Voyage travail",
+      "words": [
+        {
+          "id": "announcement",
+          "type": "name",
+          "en": {
+            "word": "announcement",
+            "otherAnswers": [
+              "departure board",
+              "information display",
+              "notification"
+            ]
+          },
+          "fr": {
+            "word": "annonce",
+            "otherAnswers": [
+              "affichage",
+              "information de départ",
+              "notification"
+            ]
+          }
+        },
+        {
+          "id": "announcer",
+          "type": "name",
+          "en": {
+            "word": "announcer",
+            "otherAnswers": [
+              "station officer",
+              "information agent",
+              "train conductor"
+            ]
+          },
+          "fr": {
+            "word": "annonceur",
+            "otherAnswers": [
+              "agent d'information",
+              "personnel de gare",
+              "contrôleur"
+            ]
+          }
+        },
+        {
+          "id": "announce",
+          "type": "verb",
+          "en": {
+            "word": "announce",
+            "otherAnswers": [
+              "broadcast",
+              "notify passengers",
+              "update travelers"
+            ]
+          },
+          "fr": {
+            "word": "annoncer",
+            "otherAnswers": [
+              "diffuser",
+              "informer les voyageurs",
+              "communiquer"
+            ]
+          }
+        },
+        {
+          "id": "board",
+          "type": "name",
+          "en": {
+            "word": "board",
+            "otherAnswers": [
+              "departure display",
+              "schedule screen",
+              "information panel"
+            ]
+          },
+          "fr": {
+            "word": "tableau d'affichage",
+            "otherAnswers": [
+              "écran de départ",
+              "panneau d'information",
+              "moniteur"
+            ]
+          }
+        },
+        {
+          "id": "cab",
+          "type": "name",
+          "en": {
+            "word": "cab",
+            "otherAnswers": ["rideshare", "shuttle", "hired car"]
+          },
+          "fr": {
+            "word": "taxi",
+            "otherAnswers": ["VTC", "navette", "véhicule avec chauffeur"]
+          }
+        },
+        {
+          "id": "carpool_noun",
+          "type": "name",
+          "en": {
+            "word": "carpool",
+            "otherAnswers": ["shared transport", "vanpool", "commuting group"]
+          },
+          "fr": {
+            "word": "covoiturage",
+            "otherAnswers": [
+              "autopartage",
+              "voyage partagé",
+              "transport groupé"
+            ]
+          }
+        },
+        {
+          "id": "carpool_verb",
+          "type": "verb",
+          "en": {
+            "word": "carpool",
+            "otherAnswers": [
+              "share a ride",
+              "arrange transport",
+              "travel jointly"
+            ]
+          },
+          "fr": {
+            "word": "faire du covoiturage",
+            "otherAnswers": [
+              "partager un trajet",
+              "voyager à plusieurs",
+              "organiser un transport commun"
+            ]
+          }
+        },
+        {
+          "id": "catch",
+          "type": "verb",
+          "en": {
+            "word": "catch",
+            "otherAnswers": ["embark on", "get on", "hop on"]
+          },
+          "fr": {
+            "word": "prendre",
+            "otherAnswers": ["embarquer", "monter dans", "accéder à"]
+          }
+        },
+        {
+          "id": "commute_noun",
+          "type": "name",
+          "en": {
+            "word": "commute",
+            "otherAnswers": ["daily travel", "work trip", "regular journey"]
+          },
+          "fr": {
+            "word": "trajet domicile-travail",
+            "otherAnswers": [
+              "navette quotidienne",
+              "déplacement professionnel",
+              "route habituelle"
+            ]
+          }
+        },
+        {
+          "id": "commute_verb",
+          "type": "verb",
+          "en": {
+            "word": "commute",
+            "otherAnswers": [
+              "transit daily",
+              "journey to work",
+              "travel regularly"
+            ]
+          },
+          "fr": {
+            "word": "faire un trajet quotidien",
+            "otherAnswers": [
+              "navetter",
+              "se rendre au travail",
+              "effectuer le parcours quotidien"
+            ]
+          }
+        },
+        {
+          "id": "commuter",
+          "type": "name",
+          "en": {
+            "word": "commuter",
+            "otherAnswers": [
+              "daily traveler",
+              "transit user",
+              "regular passenger"
+            ]
+          },
+          "fr": {
+            "word": "navetteur",
+            "otherAnswers": [
+              "usager quotidien",
+              "voyageur régulier",
+              "travailleur mobile"
+            ]
+          }
+        },
+        {
+          "id": "conductor",
+          "type": "name",
+          "en": {
+            "word": "conductor",
+            "otherAnswers": [
+              "ticket officer",
+              "train attendant",
+              "transit employee"
+            ]
+          },
+          "fr": {
+            "word": "contrôleur",
+            "otherAnswers": [
+              "agent de bord",
+              "employé ferroviaire",
+              "vérificateur de billets"
+            ]
+          }
+        },
+        {
+          "id": "downtown_noun",
+          "type": "name",
+          "en": {
+            "word": "downtown",
+            "otherAnswers": ["business district", "city hub", "urban core"]
+          },
+          "fr": {
+            "word": "centre-ville",
+            "otherAnswers": [
+              "quartier des affaires",
+              "zone urbaine",
+              "hypercentre"
+            ]
+          }
+        },
+        {
+          "id": "downtown_prep",
+          "type": "preposition",
+          "en": {
+            "word": "downtown",
+            "otherAnswers": ["to the city", "towards center", "into town"]
+          },
+          "fr": {
+            "word": "au centre ville",
+            "otherAnswers": [
+              "vers le centre",
+              "dans la ville",
+              "au cœur urbain"
+            ]
+          }
+        },
+        {
+          "id": "fare",
+          "type": "name",
+          "en": {
+            "word": "fare",
+            "otherAnswers": ["ticket cost", "travel expense", "transport rate"]
+          },
+          "fr": {
+            "word": "prix du billet",
+            "otherAnswers": [
+              "frais de transport",
+              "coût du voyage",
+              "tarification"
+            ]
+          }
+        },
+        {
+          "id": "cab_fare",
+          "type": "name",
+          "en": {
+            "word": "cab fare",
+            "otherAnswers": ["meter charge", "ride price", "taxi rate"]
+          },
+          "fr": {
+            "word": "montant de la course",
+            "otherAnswers": [
+              "prix du trajet",
+              "tarif du taxi",
+              "coût de la course"
+            ]
+          }
+        },
+        {
+          "id": "hail",
+          "type": "verb",
+          "en": {
+            "word": "hail",
+            "otherAnswers": ["flag down", "summon", "beckon"]
+          },
+          "fr": {
+            "word": "héler",
+            "otherAnswers": ["faire arrêter", "interpeller", "signaler"]
+          }
+        },
+        {
+          "id": "journey",
+          "type": "name",
+          "en": {
+            "word": "journey",
+            "otherAnswers": ["expedition", "excursion", "transit"]
+          },
+          "fr": {
+            "word": "voyage",
+            "otherAnswers": ["périple", "traversée", "itinéraire"]
+          }
+        },
+        {
+          "id": "lane",
+          "type": "name",
+          "en": {
+            "word": "lane",
+            "otherAnswers": ["traffic line", "highway division", "driving path"]
+          },
+          "fr": {
+            "word": "voie",
+            "otherAnswers": [
+              "couloir routier",
+              "bande de circulation",
+              "ligne de trafic"
+            ]
+          }
+        },
+        {
+          "id": "map_noun",
+          "type": "name",
+          "en": {
+            "word": "map",
+            "otherAnswers": [
+              "navigation guide",
+              "route planner",
+              "location diagram"
+            ]
+          },
+          "fr": {
+            "word": "carte",
+            "otherAnswers": [
+              "guide routier",
+              "plan de navigation",
+              "schéma d'itinéraire"
+            ]
+          }
+        },
+        {
+          "id": "map_verb",
+          "type": "verb",
+          "en": {
+            "word": "map",
+            "otherAnswers": ["route", "navigate", "pinpoint"]
+          },
+          "fr": {
+            "word": "cartographier",
+            "otherAnswers": ["tracer l'itinéraire", "localiser", "orienter"]
+          }
+        },
+        {
+          "id": "road_map",
+          "type": "name",
+          "en": {
+            "word": "road map",
+            "otherAnswers": ["highway guide", "travel atlas", "route directory"]
+          },
+          "fr": {
+            "word": "feuille de route",
+            "otherAnswers": [
+              "carte routière",
+              "guide de voyage",
+              "atlas routier"
+            ]
+          }
+        },
+        {
+          "id": "miss",
+          "type": "verb",
+          "en": {
+            "word": "miss",
+            "otherAnswers": ["fail to catch", "be too late for", "not make"]
+          },
+          "fr": {
+            "word": "manquer",
+            "otherAnswers": [
+              "être en retard pour",
+              "ne pas attraper",
+              "passer à côté de"
+            ]
+          }
+        },
+        {
+          "id": "miss_the_bus",
+          "type": "verb",
+          "en": {
+            "word": "miss the bus",
+            "otherAnswers": [
+              "miss the train",
+              "miss the connection",
+              "miss departure"
+            ]
+          },
+          "fr": {
+            "word": "rater le bus",
+            "otherAnswers": [
+              "manquer le train",
+              "rater la correspondance",
+              "être en retard pour le départ"
+            ]
+          }
+        },
+        {
+          "id": "one_way_ticket",
+          "type": "name",
+          "en": {
+            "word": "one-way ticket",
+            "otherAnswers": [
+              "single journey pass",
+              "outbound ticket",
+              "departure fare"
+            ]
+          },
+          "fr": {
+            "word": "aller simple",
+            "otherAnswers": [
+              "billet de trajet unique",
+              "titre de voyage simple",
+              "coupon de départ"
+            ]
+          }
+        },
+        {
+          "id": "platform",
+          "type": "name",
+          "en": {
+            "word": "platform",
+            "otherAnswers": ["boarding area", "waiting zone", "train bay"]
+          },
+          "fr": {
+            "word": "quai",
+            "otherAnswers": [
+              "zone d'embarquement",
+              "aire d'attente",
+              "voie d'accès"
+            ]
+          }
+        },
+        {
+          "id": "public_transportation",
+          "type": "name",
+          "en": {
+            "word": "public transportation",
+            "otherAnswers": [
+              "collective transit",
+              "municipal transport",
+              "community travel"
+            ]
+          },
+          "fr": {
+            "word": "transports en commun",
+            "otherAnswers": [
+              "réseau public",
+              "service de transport collectif",
+              "mobilité urbaine"
+            ]
+          }
+        },
+        {
+          "id": "round_trip",
+          "type": "name",
+          "en": {
+            "word": "round trip",
+            "otherAnswers": [
+              "return journey",
+              "two-way travel",
+              "complete circuit"
+            ]
+          },
+          "fr": {
+            "word": "aller-retour",
+            "otherAnswers": ["voyage complet", "trajet double", "circuit fermé"]
+          }
+        },
+        {
+          "id": "rush",
+          "type": "verb",
+          "en": {
+            "word": "rush",
+            "otherAnswers": ["race", "sprint", "accelerate"]
+          },
+          "fr": {
+            "word": "se dépêcher",
+            "otherAnswers": ["s'empresser", "accélérer", "foncer"]
+          }
+        },
+        {
+          "id": "rush_hour",
+          "type": "name",
+          "en": {
+            "word": "rush hour",
+            "otherAnswers": ["commuting period", "traffic peak", "busy time"]
+          },
+          "fr": {
+            "word": "heure de pointe",
+            "otherAnswers": [
+              "moment d'affluence",
+              "période de trafic intense",
+              "heure chargée"
+            ]
+          }
+        },
+        {
+          "id": "suburb",
+          "type": "name",
+          "en": {
+            "word": "suburb",
+            "otherAnswers": [
+              "commuter town",
+              "bedroom community",
+              "outer district"
+            ]
+          },
+          "fr": {
+            "word": "banlieue",
+            "otherAnswers": [
+              "zone péri-urbaine",
+              "commune limitrophe",
+              "agglomération"
+            ]
+          }
+        },
+        {
+          "id": "suburban",
+          "type": "adjective",
+          "en": {
+            "word": "suburban",
+            "otherAnswers": ["commuter", "outer-city", "satellite"]
+          },
+          "fr": {
+            "word": "de banlieue",
+            "otherAnswers": ["périurbain", "externe", "limitrophe"]
+          }
+        },
+        {
+          "id": "toll",
+          "type": "name",
+          "en": {
+            "word": "toll",
+            "otherAnswers": ["road charge", "passage fee", "highway payment"]
+          },
+          "fr": {
+            "word": "péage",
+            "otherAnswers": [
+              "droit de passage",
+              "redevance routière",
+              "taxe de circulation"
+            ]
+          }
+        },
+        {
+          "id": "tollbooth",
+          "type": "name",
+          "en": {
+            "word": "tollbooth",
+            "otherAnswers": [
+              "payment station",
+              "collection point",
+              "toll kiosk"
+            ]
+          },
+          "fr": {
+            "word": "poste de péage",
+            "otherAnswers": [
+              "cabine de paiement",
+              "borne de péage",
+              "point de collecte"
+            ]
+          }
+        },
+        {
+          "id": "toll_bridge",
+          "type": "name",
+          "en": {
+            "word": "toll bridge",
+            "otherAnswers": [
+              "toll crossing",
+              "payment span",
+              "fee-based bridge"
+            ]
+          },
+          "fr": {
+            "word": "pont à péage",
+            "otherAnswers": [
+              "ouvrage de traversée payant",
+              "pont avec redevance",
+              "passage tarifé"
+            ]
+          }
+        },
+        {
+          "id": "track",
+          "type": "name",
+          "en": {
+            "word": "track",
+            "otherAnswers": ["railway line", "transit path", "rail route"]
+          },
+          "fr": {
+            "word": "voie ferrée",
+            "otherAnswers": [
+              "ligne ferroviaire",
+              "chemin de rail",
+              "tracé de train"
+            ]
+          }
+        },
+        {
+          "id": "headquarters",
+          "type": "name",
+          "en": {
+            "word": "headquarters",
+            "otherAnswers": [
+              "corporate office",
+              "business center",
+              "company base"
+            ]
+          },
+          "fr": {
+            "word": "siège social",
+            "otherAnswers": [
+              "maison mère",
+              "centre administratif",
+              "bureau principal"
+            ]
+          }
+        },
+        {
+          "id": "be_headquartered",
+          "type": "verb",
+          "en": {
+            "word": "be headquartered",
+            "otherAnswers": [
+              "have offices",
+              "maintain headquarters",
+              "operate from"
+            ]
+          },
+          "fr": {
+            "word": "avoir son siège",
+            "otherAnswers": [
+              "être domicilié",
+              "avoir ses bureaux",
+              "être installé"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

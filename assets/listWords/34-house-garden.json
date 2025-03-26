@@ -1,0 +1,395 @@
+{
+  "categories": [
+    {
+      "id": "house-garden",
+      "nameEn": "House and Garden",
+      "nameFr": "Maison et Jardin",
+      "words": [
+        {
+          "id": "carpet-noun",
+          "type": "name",
+          "en": {
+            "word": "carpet",
+            "otherAnswers": ["rug", "flooring", "tile"]
+          },
+          "fr": {
+            "word": "moquette",
+            "otherAnswers": ["tapis", "parquet", "linoléum"]
+          }
+        },
+        {
+          "id": "carpet-verb",
+          "type": "verb",
+          "en": {
+            "word": "carpet",
+            "otherAnswers": ["tile", "floor", "pave"]
+          },
+          "fr": {
+            "word": "mettre de la moquette",
+            "otherAnswers": ["carreler", "parqueter", "daller"]
+          }
+        },
+        {
+          "id": "carpeted",
+          "type": "adjective",
+          "en": {
+            "word": "carpeted",
+            "otherAnswers": ["tiled", "wooden", "laminated"]
+          },
+          "fr": {
+            "word": "couvert de moquette",
+            "otherAnswers": ["carrelé", "parqueté", "stratifié"]
+          }
+        },
+        {
+          "id": "red-carpet",
+          "type": "name",
+          "en": {
+            "word": "red carpet",
+            "otherAnswers": ["welcome mat", "runner", "doormat"]
+          },
+          "fr": {
+            "word": "tapis rouge",
+            "otherAnswers": ["paillasson", "chemin de table", "tapis d'entrée"]
+          }
+        },
+        {
+          "id": "closet",
+          "type": "name",
+          "en": {
+            "word": "closet",
+            "otherAnswers": ["wardrobe", "pantry", "storage"]
+          },
+          "fr": {
+            "word": "garde-robe",
+            "otherAnswers": ["placard", "dressing", "rangement"]
+          }
+        },
+        {
+          "id": "condominium",
+          "type": "name",
+          "en": {
+            "word": "condominium",
+            "otherAnswers": ["townhouse", "duplex", "penthouse"]
+          },
+          "fr": {
+            "word": "appartement en copropriété",
+            "otherAnswers": ["maison jumelée", "duplex", "penthouse"]
+          }
+        },
+        {
+          "id": "cupboard",
+          "type": "name",
+          "en": {
+            "word": "cupboard",
+            "otherAnswers": ["shelf", "drawer", "hutch"]
+          },
+          "fr": {
+            "word": "placard",
+            "otherAnswers": ["étagère", "tiroir", "buffet"]
+          }
+        },
+        {
+          "id": "deposit",
+          "type": "name",
+          "en": {
+            "word": "deposit",
+            "otherAnswers": ["down payment", "installment", "collateral"]
+          },
+          "fr": {
+            "word": "caution",
+            "otherAnswers": ["arrhes", "acompte", "gage"]
+          }
+        },
+        {
+          "id": "driveway",
+          "type": "name",
+          "en": {
+            "word": "driveway",
+            "otherAnswers": ["sidewalk", "porch", "garage"]
+          },
+          "fr": {
+            "word": "allée",
+            "otherAnswers": ["trottoir", "porche", "garage"]
+          }
+        },
+        {
+          "id": "fence",
+          "type": "name",
+          "en": {
+            "word": "fence",
+            "otherAnswers": ["hedge", "railing", "enclosure"]
+          },
+          "fr": {
+            "word": "clôture",
+            "otherAnswers": ["haie", "balustrade", "muret"]
+          }
+        },
+        {
+          "id": "furnish",
+          "type": "verb",
+          "en": {
+            "word": "furnish",
+            "otherAnswers": ["decorate", "renovate", "arrange"]
+          },
+          "fr": {
+            "word": "meubler",
+            "otherAnswers": ["décorer", "rénover", "agencer"]
+          }
+        },
+        {
+          "id": "furniture",
+          "type": "name",
+          "en": {
+            "word": "furniture",
+            "otherAnswers": ["appliances", "fixtures", "accessories"]
+          },
+          "fr": {
+            "word": "mobilier",
+            "otherAnswers": ["électroménager", "accessoires", "luminaires"]
+          }
+        },
+        {
+          "id": "gate",
+          "type": "name",
+          "en": {
+            "word": "gate",
+            "otherAnswers": ["doorway", "threshold", "entrance"]
+          },
+          "fr": {
+            "word": "portail",
+            "otherAnswers": ["seuil", "entrée", "passage"]
+          }
+        },
+        {
+          "id": "garden-shed",
+          "type": "name",
+          "en": {
+            "word": "garden shed",
+            "otherAnswers": ["greenhouse", "gazebo", "toolshed"]
+          },
+          "fr": {
+            "word": "cabane de jardin",
+            "otherAnswers": ["serre", "kiosque", "remise à outils"]
+          }
+        },
+        {
+          "id": "landlord",
+          "type": "name",
+          "en": {
+            "word": "landlord",
+            "otherAnswers": ["superintendent", "caretaker", "property manager"]
+          },
+          "fr": {
+            "word": "propriétaire",
+            "otherAnswers": ["concierge", "gardien", "gestionnaire immobilier"]
+          }
+        },
+        {
+          "id": "lawn",
+          "type": "name",
+          "en": {
+            "word": "lawn",
+            "otherAnswers": ["garden", "patio", "backyard"]
+          },
+          "fr": {
+            "word": "pelouse",
+            "otherAnswers": ["jardin", "terrasse", "cour"]
+          }
+        },
+        {
+          "id": "lease",
+          "type": "name",
+          "en": {
+            "word": "lease",
+            "otherAnswers": ["deed", "title", "mortgage"]
+          },
+          "fr": {
+            "word": "bail",
+            "otherAnswers": ["acte", "titre", "hypothèque"]
+          }
+        },
+        {
+          "id": "neighbor",
+          "type": "name",
+          "en": {
+            "word": "neighbor",
+            "otherAnswers": ["roommate", "tenant", "landlord"]
+          },
+          "fr": {
+            "word": "voisin",
+            "otherAnswers": ["colocataire", "locataire", "propriétaire"]
+          }
+        },
+        {
+          "id": "neighborhood",
+          "type": "name",
+          "en": {
+            "word": "neighborhood",
+            "otherAnswers": ["suburb", "block", "borough"]
+          },
+          "fr": {
+            "word": "quartier",
+            "otherAnswers": ["banlieue", "pâté de maisons", "arrondissement"]
+          }
+        },
+        {
+          "id": "owner",
+          "type": "name",
+          "en": {
+            "word": "owner",
+            "otherAnswers": ["tenant", "realtor", "occupant"]
+          },
+          "fr": {
+            "word": "propriétaire",
+            "otherAnswers": ["locataire", "agent immobilier", "occupant"]
+          }
+        },
+        {
+          "id": "path",
+          "type": "name",
+          "en": {
+            "word": "path",
+            "otherAnswers": ["driveway", "sidewalk", "steps"]
+          },
+          "fr": {
+            "word": "chemin",
+            "otherAnswers": ["allée", "trottoir", "escalier"]
+          }
+        },
+        {
+          "id": "patio",
+          "type": "name",
+          "en": {
+            "word": "patio",
+            "otherAnswers": ["balcony", "veranda", "deck"]
+          },
+          "fr": {
+            "word": "terrasse",
+            "otherAnswers": ["balcon", "véranda", "pergola"]
+          }
+        },
+        {
+          "id": "pond",
+          "type": "name",
+          "en": {
+            "word": "pond",
+            "otherAnswers": ["fountain", "birdbath", "stream"]
+          },
+          "fr": {
+            "word": "mare",
+            "otherAnswers": ["fontaine", "abreuvoir", "ruisseau"]
+          }
+        },
+        {
+          "id": "property",
+          "type": "name",
+          "en": {
+            "word": "property",
+            "otherAnswers": ["building", "residence", "premises"]
+          },
+          "fr": {
+            "word": "propriété",
+            "otherAnswers": ["bâtiment", "résidence", "local"]
+          }
+        },
+        {
+          "id": "rent",
+          "type": "name",
+          "en": {
+            "word": "rent",
+            "otherAnswers": ["mortgage", "utility", "maintenance fee"]
+          },
+          "fr": {
+            "word": "loyer",
+            "otherAnswers": ["mensualité", "charges", "frais d'entretien"]
+          }
+        },
+        {
+          "id": "rent-verb",
+          "type": "verb",
+          "en": {
+            "word": "rent",
+            "otherAnswers": ["buy", "mortgage", "own"]
+          },
+          "fr": {
+            "word": "louer",
+            "otherAnswers": ["acheter", "hypothéquer", "posséder"]
+          }
+        },
+        {
+          "id": "rug",
+          "type": "name",
+          "en": {
+            "word": "rug",
+            "otherAnswers": ["mat", "carpet", "runner"]
+          },
+          "fr": {
+            "word": "tapis",
+            "otherAnswers": ["paillasson", "moquette", "carpette"]
+          }
+        },
+        {
+          "id": "soil",
+          "type": "name",
+          "en": {
+            "word": "soil",
+            "otherAnswers": ["mulch", "compost", "fertilizer"]
+          },
+          "fr": {
+            "word": "terre",
+            "otherAnswers": ["paillis", "compost", "engrais"]
+          }
+        },
+        {
+          "id": "tenant",
+          "type": "name",
+          "en": {
+            "word": "tenant",
+            "otherAnswers": ["owner", "landlord", "caretaker"]
+          },
+          "fr": {
+            "word": "locataire",
+            "otherAnswers": ["propriétaire", "bailleur", "concierge"]
+          }
+        },
+        {
+          "id": "vacuum",
+          "type": "name",
+          "en": {
+            "word": "vacuum cleaner",
+            "otherAnswers": ["mop", "broom", "duster"]
+          },
+          "fr": {
+            "word": "aspirateur",
+            "otherAnswers": ["balai", "serpillière", "plumeau"]
+          }
+        },
+        {
+          "id": "vacuum-verb",
+          "type": "verb",
+          "en": {
+            "word": "vacuum",
+            "otherAnswers": ["mop", "dust", "scrub"]
+          },
+          "fr": {
+            "word": "passer l'aspirateur",
+            "otherAnswers": ["balayer", "épousseter", "frotter"]
+          }
+        },
+        {
+          "id": "wheelbarrow",
+          "type": "name",
+          "en": {
+            "word": "wheelbarrow",
+            "otherAnswers": ["lawnmower", "rake", "shovel"]
+          },
+          "fr": {
+            "word": "brouette",
+            "otherAnswers": ["tondeuse", "râteau", "pelle"]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+carpet (nom) moquette
+carpet (vb) mettre de la moquette
+carpeted (adj) couvert de moquette
+the red carpet (nom) le tapis rouge
+re-carpet treatment (exp) traitement de faveur, accueil en grande pompe
+closet (nom) garde-robe, penderie
+condominium, condo (nom) immeuble / appartement (en copropriété)
+cupboard (nom) placard
+deposit (nom) caution
+driveway (nom) allée, voie (privée)
+fence (nom) clôture
+fencing (nom) clôture, palissade
+fence in (vb) clôturer, enfermer
+fence off (vb) délimiter, séparer par une barrière
+be on the fence (exp) être indécis
+furnish (vb) meubler
+furnishings (nom) ameublement (ensemble du mobilier, rideaux, décorations)
+furniture (nom indénombrable) mobilier, meubles
+furniture removal company (nom) déménageur
+gate (nom) portail
+garden shed (nom) cabane (de jardin)
+hang (vb - prét/PP : hung/hung) prendre, suspendre, accrocher
+hanging (adj) suspendu (objet)
+hanger (cintre)
+landlord (nom) propriétaire, logeur
+lawn (nom) pelouse
+lease (nom) bail
+lease (vb) louer
+move (vb) déménager
+move in/out (vb) emménager/déménager
+moving company (nom) déménageur
+removal (nom) déménagement
+neighbor (nom) voisin(e)
+neighboring (adj) voisin, limitrophe
+neighborly (adv) de bon voisinage, amical
+neighborhood (nom) voisinage, quartier
+own (vb) posséder
+owner (nom) propriétaire (de maison/appartement)
+ownership (nom) propriété, possession
+path (nom) sentier, chemin
+patio (nom) terrasse
+pond (nom) mare, pièce d'eau
+property (nom) bien immobilier, propriété
+property developer (nom) promoteur immobilier
+property manager (nom) gestionnaire immobilier, syndic
+private property (nom) propriété privée
+remodel (nom) rénovation
+remodel (vb) rénover
+rent (nom) loyer
+rent (vb) louer
+rent out (vb) louer
+rug (nom) tapis
+soil (nom) sol, terre
+soiled (adj) sali
+stylish (adj) élégant
+stylishly (adv) élégamment
+subdivision (nom) lotissement
+surround (by) (vb) entourer (de)
+surrounding (adj) environnant
+surroundings (nom) environs
+tenant (nom) locataire
+upholstery (nom) tissu d'ameublement 
+upholsterer (nom) tapissier, garnisseur
+vacuum (cleaner) (nom) aspirateur
+vacuum (cleaner) (vb) passer l'aspirateur 
+walkway (nom) chemin, passerelle
+wheelbarrow (nom) brouette 

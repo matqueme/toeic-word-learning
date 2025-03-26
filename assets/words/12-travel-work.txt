@@ -1,0 +1,38 @@
+announcement (nom) annonce 
+announcer (nom) annonceur, présentateur
+announce (vb) annonceur
+board (nom) tableau d'affichage
+cab (nom) taxi
+carpool (nom) covoiturage
+carpool (vb) faire du covoiturage 
+catch (vb - Prét/PP : caught/caught) prendre, attraper
+commute (nom) trajet domicile-travail
+commute (vb) faire un trajet quotidien
+commuter (nom) banlieusard, navetteur
+conductor (nom) contrôleur
+downtown (nom) centre-ville 
+downtown (prép) dans le/au centre ville
+fare (nom) prix du ticket, du billet
+cab fare (nom) montant de la course
+hail (vb) héler
+headquarters (nom) siège social
+be headquartered (vb) avoir son siège
+journey (nom) trajet, voyage
+lane (nom) voie (routière)
+map (nom) plan, carte
+map (vb) cartographier
+road map (nom) feuile de route
+miss (vb) manquer
+miss the bus (vb) rater le bus
+one-way ticket, single ticket (nom) aller simple
+platform (nom) quai
+public transportation (nom) transports en commun
+round trip, return ticket (nom) aller-retour
+rush (vb) se dépêcher
+rush hour (nom) heure de pointe
+suburb / the suburbs (nom) banlieue / la banlieue
+suburban (adj) de banlieue
+toll (nom) péage
+tollbooth (nom) poste de péage
+toll bridge (nom) pont à péage
+track (nom) voie (ferrée)

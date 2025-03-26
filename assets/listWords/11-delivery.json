@@ -1,0 +1,851 @@
+{
+  "categories": [
+    {
+      "id": "delivery",
+      "nameEn": "Delivery",
+      "nameFr": "Livraison",
+      "words": [
+        {
+          "id": "carrier",
+          "type": "name",
+          "en": {
+            "word": "carrier",
+            "otherAnswers": [
+              "delivery service",
+              "shipping company",
+              "freight forwarder"
+            ]
+          },
+          "fr": {
+            "word": "transporteur",
+            "otherAnswers": [
+              "service de livraison",
+              "société d'expédition",
+              "logisticien"
+            ]
+          }
+        },
+        {
+          "id": "carry",
+          "type": "verb",
+          "en": {
+            "word": "carry",
+            "otherAnswers": ["haul", "move", "bear"]
+          },
+          "fr": {
+            "word": "porter",
+            "otherAnswers": ["soulever", "déplacer", "soutenir"]
+          }
+        },
+        {
+          "id": "consignment",
+          "type": "name",
+          "en": {
+            "word": "consignment",
+            "otherAnswers": ["delivery batch", "goods transfer", "shipping lot"]
+          },
+          "fr": {
+            "word": "expédition",
+            "otherAnswers": [
+              "lot de livraison",
+              "transfert de marchandises",
+              "envoi groupé"
+            ]
+          }
+        },
+        {
+          "id": "courier",
+          "type": "name",
+          "en": {
+            "word": "courier",
+            "otherAnswers": [
+              "delivery agent",
+              "parcel handler",
+              "express carrier"
+            ]
+          },
+          "fr": {
+            "word": "coursier",
+            "otherAnswers": [
+              "agent de livraison",
+              "préposé aux colis",
+              "transporteur express"
+            ]
+          }
+        },
+        {
+          "id": "crate_noun",
+          "type": "name",
+          "en": {
+            "word": "crate",
+            "otherAnswers": ["pallet", "shipping container", "wooden box"]
+          },
+          "fr": {
+            "word": "caisse",
+            "otherAnswers": [
+              "palette",
+              "conteneur d'expédition",
+              "coffre en bois"
+            ]
+          }
+        },
+        {
+          "id": "crate_verb",
+          "type": "verb",
+          "en": {
+            "word": "crate",
+            "otherAnswers": ["containerize", "encase", "package securely"]
+          },
+          "fr": {
+            "word": "mettre en caisse",
+            "otherAnswers": [
+              "conteneuriser",
+              "enfermer",
+              "sécuriser dans un emballage"
+            ]
+          }
+        },
+        {
+          "id": "deliver",
+          "type": "verb",
+          "en": {
+            "word": "deliver",
+            "otherAnswers": ["convey", "bring", "distribute"]
+          },
+          "fr": {
+            "word": "livrer",
+            "otherAnswers": ["remettre", "déposer", "distribuer"]
+          }
+        },
+        {
+          "id": "delivery_person",
+          "type": "name",
+          "en": {
+            "word": "delivery person",
+            "otherAnswers": [
+              "package handler",
+              "delivery agent",
+              "dispatch rider"
+            ]
+          },
+          "fr": {
+            "word": "livreur",
+            "otherAnswers": [
+              "préposé aux colis",
+              "agent de livraison",
+              "distributeur"
+            ]
+          }
+        },
+        {
+          "id": "delivery_truck",
+          "type": "name",
+          "en": {
+            "word": "delivery truck",
+            "otherAnswers": [
+              "cargo vehicle",
+              "transport van",
+              "shipping vehicle"
+            ]
+          },
+          "fr": {
+            "word": "camionnette de livraison",
+            "otherAnswers": [
+              "véhicule de fret",
+              "fourgon de transport",
+              "véhicule d'expédition"
+            ]
+          }
+        },
+        {
+          "id": "dispatch",
+          "type": "verb",
+          "en": {
+            "word": "dispatch",
+            "otherAnswers": ["release", "forward", "route"]
+          },
+          "fr": {
+            "word": "expédier",
+            "otherAnswers": ["envoyer", "transmettre", "acheminer"]
+          }
+        },
+        {
+          "id": "dispatcher",
+          "type": "name",
+          "en": {
+            "word": "dispatcher",
+            "otherAnswers": [
+              "logistics coordinator",
+              "routing manager",
+              "shipping supervisor"
+            ]
+          },
+          "fr": {
+            "word": "expéditeur",
+            "otherAnswers": [
+              "coordinateur logistique",
+              "responsable d'acheminement",
+              "superviseur d'expédition"
+            ]
+          }
+        },
+        {
+          "id": "drop_off",
+          "type": "verb",
+          "en": {
+            "word": "drop off",
+            "otherAnswers": [
+              "unload at location",
+              "release at destination",
+              "hand over"
+            ]
+          },
+          "fr": {
+            "word": "déposer",
+            "otherAnswers": ["laisser à destination", "remettre", "descendre"]
+          }
+        },
+        {
+          "id": "expedite",
+          "type": "verb",
+          "en": {
+            "word": "expedite",
+            "otherAnswers": ["prioritize delivery", "fast-track", "hasten"]
+          },
+          "fr": {
+            "word": "accélérer",
+            "otherAnswers": [
+              "prioriser la livraison",
+              "traiter en urgence",
+              "presser"
+            ]
+          }
+        },
+        {
+          "id": "freight",
+          "type": "name",
+          "en": {
+            "word": "freight",
+            "otherAnswers": [
+              "transport goods",
+              "shipping items",
+              "commercial cargo"
+            ]
+          },
+          "fr": {
+            "word": "fret",
+            "otherAnswers": [
+              "marchandises de transport",
+              "articles d'expédition",
+              "cargo commercial"
+            ]
+          }
+        },
+        {
+          "id": "load_noun",
+          "type": "name",
+          "en": {
+            "word": "load",
+            "otherAnswers": [
+              "shipment volume",
+              "transport batch",
+              "delivery weight"
+            ]
+          },
+          "fr": {
+            "word": "chargement",
+            "otherAnswers": [
+              "volume d'expédition",
+              "lot de transport",
+              "poids de livraison"
+            ]
+          }
+        },
+        {
+          "id": "load_verb",
+          "type": "verb",
+          "en": {
+            "word": "load",
+            "otherAnswers": ["place cargo", "stock vehicle", "fill container"]
+          },
+          "fr": {
+            "word": "charger",
+            "otherAnswers": [
+              "placer le cargo",
+              "stocker dans le véhicule",
+              "remplir le conteneur"
+            ]
+          }
+        },
+        {
+          "id": "loading_bay",
+          "type": "name",
+          "en": {
+            "word": "loading bay",
+            "otherAnswers": [
+              "freight entrance",
+              "shipping zone",
+              "cargo reception"
+            ]
+          },
+          "fr": {
+            "word": "aire de chargement",
+            "otherAnswers": [
+              "entrée de marchandises",
+              "zone d'expédition",
+              "réception de cargo"
+            ]
+          }
+        },
+        {
+          "id": "unload",
+          "type": "verb",
+          "en": {
+            "word": "unload",
+            "otherAnswers": ["remove cargo", "extract freight", "clear vehicle"]
+          },
+          "fr": {
+            "word": "décharger",
+            "otherAnswers": [
+              "retirer le cargo",
+              "extraire le fret",
+              "vider le véhicule"
+            ]
+          }
+        },
+        {
+          "id": "overnight",
+          "type": "adverb",
+          "en": {
+            "word": "overnight",
+            "otherAnswers": [
+              "same-day",
+              "priority shipping",
+              "expedited delivery"
+            ]
+          },
+          "fr": {
+            "word": "en 24h",
+            "otherAnswers": [
+              "jour même",
+              "livraison prioritaire",
+              "envoi accéléré"
+            ]
+          }
+        },
+        {
+          "id": "pack",
+          "type": "verb",
+          "en": {
+            "word": "pack",
+            "otherAnswers": [
+              "prepare for shipping",
+              "secure for transport",
+              "arrange in container"
+            ]
+          },
+          "fr": {
+            "word": "emballer",
+            "otherAnswers": [
+              "préparer pour l'expédition",
+              "sécuriser pour le transport",
+              "arranger dans un conteneur"
+            ]
+          }
+        },
+        {
+          "id": "package_noun",
+          "type": "name",
+          "en": {
+            "word": "package",
+            "otherAnswers": ["delivery item", "shipping unit", "postal object"]
+          },
+          "fr": {
+            "word": "colis",
+            "otherAnswers": [
+              "article de livraison",
+              "unité d'expédition",
+              "objet postal"
+            ]
+          }
+        },
+        {
+          "id": "package_verb",
+          "type": "verb",
+          "en": {
+            "word": "package",
+            "otherAnswers": [
+              "prepare for shipping",
+              "encase for delivery",
+              "ready for transport"
+            ]
+          },
+          "fr": {
+            "word": "emballer",
+            "otherAnswers": [
+              "préparer pour l'expédition",
+              "envelopper pour la livraison",
+              "apprêter pour le transport"
+            ]
+          }
+        },
+        {
+          "id": "packaging",
+          "type": "name",
+          "en": {
+            "word": "packaging",
+            "otherAnswers": [
+              "protective material",
+              "shipping container",
+              "delivery covering"
+            ]
+          },
+          "fr": {
+            "word": "emballage",
+            "otherAnswers": [
+              "matériel de protection",
+              "conteneur d'expédition",
+              "revêtement de livraison"
+            ]
+          }
+        },
+        {
+          "id": "unpack",
+          "type": "verb",
+          "en": {
+            "word": "unpack",
+            "otherAnswers": [
+              "remove from packaging",
+              "extract contents",
+              "retrieve from shipping material"
+            ]
+          },
+          "fr": {
+            "word": "déballer",
+            "otherAnswers": [
+              "retirer de l'emballage",
+              "extraire le contenu",
+              "récupérer du matériel d'expédition"
+            ]
+          }
+        },
+        {
+          "id": "pick_up",
+          "type": "verb",
+          "en": {
+            "word": "pick up",
+            "otherAnswers": [
+              "collect shipment",
+              "gather packages",
+              "obtain delivery items"
+            ]
+          },
+          "fr": {
+            "word": "passer prendre",
+            "otherAnswers": [
+              "collecter l'expédition",
+              "récupérer les colis",
+              "obtenir les articles de livraison"
+            ]
+          }
+        },
+        {
+          "id": "rush_fee",
+          "type": "name",
+          "en": {
+            "word": "rush fee",
+            "otherAnswers": [
+              "expedited shipping cost",
+              "priority delivery charge",
+              "fast service surcharge"
+            ]
+          },
+          "fr": {
+            "word": "frais d'envoi en express",
+            "otherAnswers": [
+              "coût d'expédition accélérée",
+              "frais de livraison prioritaire",
+              "supplément pour service rapide"
+            ]
+          }
+        },
+        {
+          "id": "seal_noun",
+          "type": "name",
+          "en": {
+            "word": "seal",
+            "otherAnswers": [
+              "shipping safeguard",
+              "package security",
+              "tamper indicator"
+            ]
+          },
+          "fr": {
+            "word": "sceau",
+            "otherAnswers": [
+              "protection d'expédition",
+              "sécurité de colis",
+              "indicateur d'altération"
+            ]
+          }
+        },
+        {
+          "id": "seal_verb",
+          "type": "verb",
+          "en": {
+            "word": "seal",
+            "otherAnswers": [
+              "secure package",
+              "safeguard shipment",
+              "make tamper-evident"
+            ]
+          },
+          "fr": {
+            "word": "sceller",
+            "otherAnswers": [
+              "sécuriser le colis",
+              "protéger l'envoi",
+              "rendre inviolable"
+            ]
+          }
+        },
+        {
+          "id": "unseal",
+          "type": "verb",
+          "en": {
+            "word": "unseal",
+            "otherAnswers": [
+              "break security",
+              "remove package protection",
+              "open shipping safeguard"
+            ]
+          },
+          "fr": {
+            "word": "décacheter",
+            "otherAnswers": [
+              "briser la sécurité",
+              "retirer la protection du colis",
+              "ouvrir la protection d'expédition"
+            ]
+          }
+        },
+        {
+          "id": "shipment",
+          "type": "name",
+          "en": {
+            "word": "shipment",
+            "otherAnswers": [
+              "transport batch",
+              "delivery consignment",
+              "logistics package"
+            ]
+          },
+          "fr": {
+            "word": "expédition",
+            "otherAnswers": [
+              "lot de transport",
+              "envoi de livraison",
+              "ensemble logistique"
+            ]
+          }
+        },
+        {
+          "id": "ship_noun",
+          "type": "name",
+          "en": {
+            "word": "ship",
+            "otherAnswers": [
+              "cargo vessel",
+              "freight carrier",
+              "maritime transport"
+            ]
+          },
+          "fr": {
+            "word": "navire",
+            "otherAnswers": [
+              "vaisseau de cargo",
+              "transporteur de fret",
+              "transport maritime"
+            ]
+          }
+        },
+        {
+          "id": "ship_verb",
+          "type": "verb",
+          "en": {
+            "word": "ship",
+            "otherAnswers": ["send goods", "dispatch cargo", "forward freight"]
+          },
+          "fr": {
+            "word": "expédier",
+            "otherAnswers": [
+              "envoyer des marchandises",
+              "dispatcher du cargo",
+              "transmettre du fret"
+            ]
+          }
+        },
+        {
+          "id": "shipper",
+          "type": "name",
+          "en": {
+            "word": "shipper",
+            "otherAnswers": [
+              "freight company",
+              "logistics provider",
+              "transport service"
+            ]
+          },
+          "fr": {
+            "word": "transporteur",
+            "otherAnswers": [
+              "société de fret",
+              "prestataire logistique",
+              "service de transport"
+            ]
+          }
+        },
+        {
+          "id": "stack_noun",
+          "type": "name",
+          "en": {
+            "word": "stack",
+            "otherAnswers": [
+              "vertical arrangement",
+              "tiered formation",
+              "layered structure"
+            ]
+          },
+          "fr": {
+            "word": "pile",
+            "otherAnswers": [
+              "arrangement vertical",
+              "formation en étages",
+              "structure en couches"
+            ]
+          }
+        },
+        {
+          "id": "stack_verb",
+          "type": "verb",
+          "en": {
+            "word": "stack",
+            "otherAnswers": [
+              "arrange vertically",
+              "layer items",
+              "place in tiers"
+            ]
+          },
+          "fr": {
+            "word": "empiler",
+            "otherAnswers": [
+              "arranger verticalement",
+              "disposer en couches",
+              "placer en étages"
+            ]
+          }
+        },
+        {
+          "id": "stackable",
+          "type": "adjective",
+          "en": {
+            "word": "stackable",
+            "otherAnswers": [
+              "able to be tiered",
+              "vertically arrangeable",
+              "designed for layering"
+            ]
+          },
+          "fr": {
+            "word": "empilable",
+            "otherAnswers": [
+              "pouvant être étagé",
+              "arrangeable verticalement",
+              "conçu pour être en couches"
+            ]
+          }
+        },
+        {
+          "id": "storage",
+          "type": "name",
+          "en": {
+            "word": "storage",
+            "otherAnswers": [
+              "holding facility",
+              "inventory space",
+              "goods keeping"
+            ]
+          },
+          "fr": {
+            "word": "stockage",
+            "otherAnswers": [
+              "installation de garde",
+              "espace d'inventaire",
+              "conservation de marchandises"
+            ]
+          }
+        },
+        {
+          "id": "store",
+          "type": "verb",
+          "en": {
+            "word": "store",
+            "otherAnswers": [
+              "hold inventory",
+              "maintain stock",
+              "keep in facility"
+            ]
+          },
+          "fr": {
+            "word": "stocker",
+            "otherAnswers": [
+              "tenir l'inventaire",
+              "maintenir le stock",
+              "garder en installation"
+            ]
+          }
+        },
+        {
+          "id": "tracking",
+          "type": "name",
+          "en": {
+            "word": "tracking",
+            "otherAnswers": [
+              "shipment monitoring",
+              "delivery status",
+              "package location"
+            ]
+          },
+          "fr": {
+            "word": "suivi",
+            "otherAnswers": [
+              "surveillance d'expédition",
+              "statut de livraison",
+              "localisation de colis"
+            ]
+          }
+        },
+        {
+          "id": "warehouse",
+          "type": "name",
+          "en": {
+            "word": "warehouse",
+            "otherAnswers": [
+              "distribution center",
+              "logistics hub",
+              "storage facility"
+            ]
+          },
+          "fr": {
+            "word": "entrepôt",
+            "otherAnswers": [
+              "centre de distribution",
+              "hub logistique",
+              "installation de stockage"
+            ]
+          }
+        },
+        {
+          "id": "weigh",
+          "type": "verb",
+          "en": {
+            "word": "weigh",
+            "otherAnswers": [
+              "determine mass",
+              "check heaviness",
+              "assess weight"
+            ]
+          },
+          "fr": {
+            "word": "peser",
+            "otherAnswers": [
+              "déterminer la masse",
+              "vérifier la lourdeur",
+              "évaluer le poids"
+            ]
+          }
+        },
+        {
+          "id": "weigh_up",
+          "type": "verb",
+          "en": {
+            "word": "weigh up",
+            "otherAnswers": [
+              "analyze options",
+              "balance choices",
+              "judge alternatives"
+            ]
+          },
+          "fr": {
+            "word": "peser le pour et le contre",
+            "otherAnswers": [
+              "analyser les options",
+              "équilibrer les choix",
+              "juger les alternatives"
+            ]
+          }
+        },
+        {
+          "id": "wrap",
+          "type": "verb",
+          "en": {
+            "word": "wrap",
+            "otherAnswers": [
+              "enclose in material",
+              "cover for shipping",
+              "protect with covering"
+            ]
+          },
+          "fr": {
+            "word": "emballer",
+            "otherAnswers": [
+              "enfermer dans un matériau",
+              "couvrir pour l'expédition",
+              "protéger avec un revêtement"
+            ]
+          }
+        },
+        {
+          "id": "wrapper",
+          "type": "name",
+          "en": {
+            "word": "wrapper",
+            "otherAnswers": [
+              "protective covering",
+              "shipping material",
+              "packaging layer"
+            ]
+          },
+          "fr": {
+            "word": "emballage",
+            "otherAnswers": [
+              "revêtement protecteur",
+              "matériel d'expédition",
+              "couche de conditionnement"
+            ]
+          }
+        },
+        {
+          "id": "unwrap",
+          "type": "verb",
+          "en": {
+            "word": "unwrap",
+            "otherAnswers": [
+              "remove covering",
+              "expose contents",
+              "take off packaging"
+            ]
+          },
+          "fr": {
+            "word": "déballer",
+            "otherAnswers": [
+              "retirer la couverture",
+              "exposer le contenu",
+              "enlever l'emballage"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
