@@ -1,0 +1,607 @@
+{
+  "categories": [
+    {
+      "id": "car-rental",
+      "nameEn": "Car Rental",
+      "nameFr": "Location de Voitures",
+      "words": [
+        {
+          "id": "automatic",
+          "type": "adjective",
+          "en": {
+            "word": "automatic",
+            "otherAnswers": ["manual", "electric", "hybrid"]
+          },
+          "fr": {
+            "word": "automatique",
+            "otherAnswers": ["manuel", "électrique", "hybride"]
+          }
+        },
+        {
+          "id": "brake-noun",
+          "type": "name",
+          "en": {
+            "word": "brake",
+            "otherAnswers": ["clutch", "accelerator", "gear"]
+          },
+          "fr": {
+            "word": "frein",
+            "otherAnswers": ["embrayage", "accélérateur", "levier de vitesse"]
+          }
+        },
+        {
+          "id": "brake-verb",
+          "type": "verb",
+          "en": {
+            "word": "brake",
+            "otherAnswers": ["accelerate", "steer", "park"]
+          },
+          "fr": {
+            "word": "freiner",
+            "otherAnswers": ["accélérer", "diriger", "stationner"]
+          }
+        },
+        {
+          "id": "breakdown",
+          "type": "name",
+          "en": {
+            "word": "breakdown",
+            "otherAnswers": ["accident", "collision", "flat tire"]
+          },
+          "fr": {
+            "word": "panne",
+            "otherAnswers": ["accident", "collision", "crevaison"]
+          }
+        },
+        {
+          "id": "break-down",
+          "type": "verb",
+          "en": {
+            "word": "break down",
+            "otherAnswers": ["crash", "collide", "stall"]
+          },
+          "fr": {
+            "word": "tomber en panne",
+            "otherAnswers": ["s'écraser", "entrer en collision", "caler"]
+          }
+        },
+        {
+          "id": "dashboard",
+          "type": "name",
+          "en": {
+            "word": "dashboard",
+            "otherAnswers": ["glove box", "console", "control panel"]
+          },
+          "fr": {
+            "word": "tableau de bord",
+            "otherAnswers": ["boîte à gants", "console", "panneau de contrôle"]
+          }
+        },
+        {
+          "id": "drive",
+          "type": "verb",
+          "en": {
+            "word": "drive",
+            "otherAnswers": ["steer", "navigate", "operate"]
+          },
+          "fr": {
+            "word": "conduire",
+            "otherAnswers": ["diriger", "naviguer", "opérer"]
+          }
+        },
+        {
+          "id": "driver",
+          "type": "name",
+          "en": {
+            "word": "driver",
+            "otherAnswers": ["passenger", "mechanic", "attendant"]
+          },
+          "fr": {
+            "word": "conducteur",
+            "otherAnswers": ["passager", "mécanicien", "préposé"]
+          }
+        },
+        {
+          "id": "drivers-license",
+          "type": "name",
+          "en": {
+            "word": "driver's license",
+            "otherAnswers": ["insurance card", "registration", "ID card"]
+          },
+          "fr": {
+            "word": "permis de conduire",
+            "otherAnswers": [
+              "carte d'assurance",
+              "carte grise",
+              "carte d'identité"
+            ]
+          }
+        },
+        {
+          "id": "economy-car",
+          "type": "name",
+          "en": {
+            "word": "economy car",
+            "otherAnswers": ["SUV", "luxury car", "sports car"]
+          },
+          "fr": {
+            "word": "citadine",
+            "otherAnswers": ["SUV", "voiture de luxe", "voiture de sport"]
+          }
+        },
+        {
+          "id": "economical",
+          "type": "adjective",
+          "en": {
+            "word": "economical",
+            "otherAnswers": ["powerful", "spacious", "luxurious"]
+          },
+          "fr": {
+            "word": "économique",
+            "otherAnswers": ["puissant", "spacieux", "luxueux"]
+          }
+        },
+        {
+          "id": "economic",
+          "type": "adjective",
+          "en": {
+            "word": "economic",
+            "otherAnswers": ["financial", "budgetary", "monetary"]
+          },
+          "fr": {
+            "word": "économique",
+            "otherAnswers": ["financier", "budgétaire", "monétaire"]
+          }
+        },
+        {
+          "id": "economics",
+          "type": "name",
+          "en": {
+            "word": "economics",
+            "otherAnswers": ["finance", "business", "commerce"]
+          },
+          "fr": {
+            "word": "économie",
+            "otherAnswers": ["finance", "affaires", "commerce"]
+          }
+        },
+        {
+          "id": "fill",
+          "type": "verb",
+          "en": {
+            "word": "fill",
+            "otherAnswers": ["empty", "drain", "check"]
+          },
+          "fr": {
+            "word": "remplir",
+            "otherAnswers": ["vider", "drainer", "vérifier"]
+          }
+        },
+        {
+          "id": "fill-up",
+          "type": "verb",
+          "en": {
+            "word": "fill up",
+            "otherAnswers": ["check oil", "change oil", "check pressure"]
+          },
+          "fr": {
+            "word": "faire le plein",
+            "otherAnswers": [
+              "vérifier l'huile",
+              "changer l'huile",
+              "vérifier la pression"
+            ]
+          }
+        },
+        {
+          "id": "fleet-of-vehicles",
+          "type": "name",
+          "en": {
+            "word": "fleet of vehicles",
+            "otherAnswers": [
+              "rental options",
+              "car inventory",
+              "vehicle selection"
+            ]
+          },
+          "fr": {
+            "word": "parc automobile",
+            "otherAnswers": [
+              "options de location",
+              "inventaire de voitures",
+              "sélection de véhicules"
+            ]
+          }
+        },
+        {
+          "id": "four-wheel-drive",
+          "type": "name",
+          "en": {
+            "word": "four-wheel drive",
+            "otherAnswers": [
+              "front-wheel drive",
+              "rear-wheel drive",
+              "all-terrain vehicle"
+            ]
+          },
+          "fr": {
+            "word": "quatre-quatre",
+            "otherAnswers": [
+              "traction avant",
+              "propulsion",
+              "véhicule tout-terrain"
+            ]
+          }
+        },
+        {
+          "id": "fuel",
+          "type": "name",
+          "en": {
+            "word": "fuel",
+            "otherAnswers": ["oil", "coolant", "brake fluid"]
+          },
+          "fr": {
+            "word": "carburant",
+            "otherAnswers": [
+              "huile",
+              "liquide de refroidissement",
+              "liquide de frein"
+            ]
+          }
+        },
+        {
+          "id": "refuel",
+          "type": "verb",
+          "en": {
+            "word": "refuel",
+            "otherAnswers": ["recharge", "service", "maintain"]
+          },
+          "fr": {
+            "word": "se ravitailler en carburant",
+            "otherAnswers": ["recharger", "entretenir", "faire réviser"]
+          }
+        },
+        {
+          "id": "gas-station",
+          "type": "name",
+          "en": {
+            "word": "gas station",
+            "otherAnswers": ["garage", "car wash", "repair shop"]
+          },
+          "fr": {
+            "word": "station-service",
+            "otherAnswers": ["garage", "lave-auto", "atelier de réparation"]
+          }
+        },
+        {
+          "id": "light",
+          "type": "name",
+          "en": {
+            "word": "light",
+            "otherAnswers": ["signal", "indicator", "display"]
+          },
+          "fr": {
+            "word": "lumière",
+            "otherAnswers": ["signal", "indicateur", "affichage"]
+          }
+        },
+        {
+          "id": "headlights",
+          "type": "name",
+          "en": {
+            "word": "headlights",
+            "otherAnswers": ["taillights", "fog lights", "turn signals"]
+          },
+          "fr": {
+            "word": "phares",
+            "otherAnswers": [
+              "feux arrière",
+              "feux antibrouillard",
+              "clignotants"
+            ]
+          }
+        },
+        {
+          "id": "hazard-lights",
+          "type": "name",
+          "en": {
+            "word": "hazard lights",
+            "otherAnswers": [
+              "brake lights",
+              "reversing lights",
+              "interior lights"
+            ]
+          },
+          "fr": {
+            "word": "feux de détresse",
+            "otherAnswers": [
+              "feux de freinage",
+              "feux de recul",
+              "éclairage intérieur"
+            ]
+          }
+        },
+        {
+          "id": "streetlights",
+          "type": "name",
+          "en": {
+            "word": "streetlights",
+            "otherAnswers": ["road signs", "traffic cones", "guard rails"]
+          },
+          "fr": {
+            "word": "réverbères",
+            "otherAnswers": [
+              "panneaux routiers",
+              "cônes de signalisation",
+              "glissières de sécurité"
+            ]
+          }
+        },
+        {
+          "id": "traffic-lights",
+          "type": "name",
+          "en": {
+            "word": "traffic lights",
+            "otherAnswers": ["stop signs", "yield signs", "crosswalks"]
+          },
+          "fr": {
+            "word": "feu tricolore",
+            "otherAnswers": [
+              "panneau stop",
+              "panneau cédez le passage",
+              "passage piéton"
+            ]
+          }
+        },
+        {
+          "id": "mechanic",
+          "type": "name",
+          "en": {
+            "word": "mechanic",
+            "otherAnswers": [
+              "rental agent",
+              "tow truck driver",
+              "car wash attendant"
+            ]
+          },
+          "fr": {
+            "word": "garagiste",
+            "otherAnswers": [
+              "agent de location",
+              "dépanneur",
+              "préposé au lavage"
+            ]
+          }
+        },
+        {
+          "id": "nearly",
+          "type": "adverb",
+          "en": {
+            "word": "nearly",
+            "otherAnswers": ["exactly", "completely", "fully"]
+          },
+          "fr": {
+            "word": "presque",
+            "otherAnswers": ["exactement", "complètement", "entièrement"]
+          }
+        },
+        {
+          "id": "policy",
+          "type": "name",
+          "en": {
+            "word": "policy",
+            "otherAnswers": ["contract", "agreement", "receipt"]
+          },
+          "fr": {
+            "word": "police d'assurance",
+            "otherAnswers": ["contrat", "accord", "reçu"]
+          }
+        },
+        {
+          "id": "puncture",
+          "type": "name",
+          "en": {
+            "word": "puncture",
+            "otherAnswers": ["worn tire", "alignment issue", "wheel damage"]
+          },
+          "fr": {
+            "word": "crevaison",
+            "otherAnswers": [
+              "pneu usé",
+              "problème d'alignement",
+              "dommage à la roue"
+            ]
+          }
+        },
+        {
+          "id": "rent",
+          "type": "verb",
+          "en": {
+            "word": "rent",
+            "otherAnswers": ["buy", "insure", "service"]
+          },
+          "fr": {
+            "word": "louer",
+            "otherAnswers": ["acheter", "assurer", "entretenir"]
+          }
+        },
+        {
+          "id": "rental-agency",
+          "type": "name",
+          "en": {
+            "word": "rental agency",
+            "otherAnswers": ["dealership", "repair shop", "insurance company"]
+          },
+          "fr": {
+            "word": "agence de location",
+            "otherAnswers": [
+              "concessionnaire",
+              "garage",
+              "compagnie d'assurance"
+            ]
+          }
+        },
+        {
+          "id": "reverse",
+          "type": "verb",
+          "en": {
+            "word": "reverse",
+            "otherAnswers": ["drive forward", "park", "turn"]
+          },
+          "fr": {
+            "word": "faire marche arrière",
+            "otherAnswers": ["avancer", "se garer", "tourner"]
+          }
+        },
+        {
+          "id": "reversal",
+          "type": "name",
+          "en": {
+            "word": "reversal",
+            "otherAnswers": ["cancellation", "adjustment", "change"]
+          },
+          "fr": {
+            "word": "revirement",
+            "otherAnswers": ["annulation", "ajustement", "changement"]
+          }
+        },
+        {
+          "id": "seatbelt",
+          "type": "name",
+          "en": {
+            "word": "seatbelt",
+            "otherAnswers": ["headrest", "armrest", "footrest"]
+          },
+          "fr": {
+            "word": "ceinture de sécurité",
+            "otherAnswers": ["appui-tête", "accoudoir", "repose-pieds"]
+          }
+        },
+        {
+          "id": "car-seat",
+          "type": "name",
+          "en": {
+            "word": "car seat",
+            "otherAnswers": ["passenger seat", "driver seat", "bench seat"]
+          },
+          "fr": {
+            "word": "siège auto",
+            "otherAnswers": ["siège passager", "siège conducteur", "banquette"]
+          }
+        },
+        {
+          "id": "steering-wheel",
+          "type": "name",
+          "en": {
+            "word": "steering wheel",
+            "otherAnswers": ["gear shift", "pedal", "handbrake"]
+          },
+          "fr": {
+            "word": "volant",
+            "otherAnswers": ["levier de vitesse", "pédale", "frein à main"]
+          }
+        },
+        {
+          "id": "tank",
+          "type": "name",
+          "en": {
+            "word": "tank",
+            "otherAnswers": ["engine", "radiator", "battery"]
+          },
+          "fr": {
+            "word": "réservoir",
+            "otherAnswers": ["moteur", "radiateur", "batterie"]
+          }
+        },
+        {
+          "id": "tanker",
+          "type": "name",
+          "en": {
+            "word": "tanker",
+            "otherAnswers": ["tow truck", "delivery van", "service vehicle"]
+          },
+          "fr": {
+            "word": "camion-citerne",
+            "otherAnswers": [
+              "dépanneuse",
+              "camionnette de livraison",
+              "véhicule de service"
+            ]
+          }
+        },
+        {
+          "id": "tankage",
+          "type": "name",
+          "en": {
+            "word": "tankage",
+            "otherAnswers": ["mileage", "engine capacity", "cargo capacity"]
+          },
+          "fr": {
+            "word": "capacité du réservoir",
+            "otherAnswers": [
+              "kilométrage",
+              "cylindrée",
+              "capacité de chargement"
+            ]
+          }
+        },
+        {
+          "id": "tire",
+          "type": "name",
+          "en": {
+            "word": "tire",
+            "otherAnswers": ["rim", "hubcap", "axle"]
+          },
+          "fr": {
+            "word": "pneu",
+            "otherAnswers": ["jante", "enjoliveur", "essieu"]
+          }
+        },
+        {
+          "id": "trunk",
+          "type": "name",
+          "en": {
+            "word": "trunk",
+            "otherAnswers": ["backseat", "glove compartment", "hood"]
+          },
+          "fr": {
+            "word": "coffre",
+            "otherAnswers": ["siège arrière", "boîte à gants", "capot"]
+          }
+        },
+        {
+          "id": "windshield",
+          "type": "name",
+          "en": {
+            "word": "windshield",
+            "otherAnswers": ["rear window", "side window", "sunroof"]
+          },
+          "fr": {
+            "word": "pare-brise",
+            "otherAnswers": [
+              "lunette arrière",
+              "vitre latérale",
+              "toit ouvrant"
+            ]
+          }
+        },
+        {
+          "id": "winterize",
+          "type": "verb",
+          "en": {
+            "word": "winterize",
+            "otherAnswers": ["service", "tune up", "detail"]
+          },
+          "fr": {
+            "word": "équiper pour l'hiver",
+            "otherAnswers": [
+              "entretenir",
+              "mettre au point",
+              "nettoyer en profondeur"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

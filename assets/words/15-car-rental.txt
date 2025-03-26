@@ -1,0 +1,43 @@
+automatic (adj) automatique
+brake (nom) frein 
+brake (vb) freiner
+breakdown (nom) panne
+break down (vb) tomber en panne
+dashboard (nom) tableau de bord 
+drive (vb - Prép/PP : drove/driven) conduire
+driver (nom) conducteur, chauffeur
+driver's license (nom) permis de conduire
+economy car (nom) (voiture) citadine
+economical (adj) économique, econome
+economic (adj) économique (qui est relatif à l'économie)
+economics (nom) l'économie (la discipline) 
+fill (vb) remplir
+fill up (vb) faire le plein, remplir
+fleet of vehicles (nom) parc automobile
+four-wheel drive (nom) 4x4, quatre-quatre
+fuel (nom) carburant
+refuel (vb) se ravitailler en carburant
+gas station (nom) station-service
+light (nom) lumière, éclairage
+headlights (nom) phares
+hazard lights (nom) feux de detresse
+streetlights (nom) réverbères
+(traffic) lights (nom) feu tricolore
+mechanic (nom) garagiste
+nearly (adv) presque
+policy (nom) politique ; police (d'assurance)
+puncture (nom) crevaison
+rent (vb) louer
+rental agency (nom) agence de location
+reverse (vb) faire marche arrière
+reversal (nom) revirement, inversion
+seatbelt (nom) ceinture de sécurité
+car seat (nom) siège auto
+steering wheel (nom) volant
+tank (nom) réservoir
+tanker (nom) camion-citerne
+tankage (nom) capacité du réservoir
+tire (nom) pneu
+trunk (nom) coffre
+windshield (nom) pare-brise
+winterize (vb) équiper pour l'hiver

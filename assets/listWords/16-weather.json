@@ -1,0 +1,359 @@
+{
+  "categories": [
+    {
+      "id": "weather",
+      "nameEn": "Weather",
+      "nameFr": "Météo",
+      "words": [
+        {
+          "id": "black_ice",
+          "type": "name",
+          "en": {
+            "word": "black ice",
+            "otherAnswers": ["frost", "sleet", "hail"]
+          },
+          "fr": {
+            "word": "verglas",
+            "otherAnswers": ["givre", "grêle", "gelée"]
+          }
+        },
+        {
+          "id": "blow",
+          "type": "verb",
+          "en": {
+            "word": "blow",
+            "otherAnswers": ["gust", "sweep", "drift"]
+          },
+          "fr": {
+            "word": "souffler",
+            "otherAnswers": ["ventiler", "rafaler", "tourbillonner"]
+          }
+        },
+        {
+          "id": "breeze",
+          "type": "name",
+          "en": {
+            "word": "breeze",
+            "otherAnswers": ["gust", "wind", "draft"]
+          },
+          "fr": {
+            "word": "brise",
+            "otherAnswers": ["vent", "courant", "souffle"]
+          }
+        },
+        {
+          "id": "bright",
+          "type": "adjective",
+          "en": {
+            "word": "bright",
+            "otherAnswers": ["sunny", "clear", "radiant"]
+          },
+          "fr": {
+            "word": "ensoleillé",
+            "otherAnswers": ["lumineux", "clair", "radieux"]
+          }
+        },
+        {
+          "id": "cloud",
+          "type": "name",
+          "en": {
+            "word": "cloud",
+            "otherAnswers": ["fog", "mist", "haze"]
+          },
+          "fr": {
+            "word": "nuage",
+            "otherAnswers": ["brume", "vapeur", "brouillard"]
+          }
+        },
+        {
+          "id": "cloudy",
+          "type": "adjective",
+          "en": {
+            "word": "cloudy",
+            "otherAnswers": ["overcast", "gloomy", "hazy"]
+          },
+          "fr": {
+            "word": "nuageux",
+            "otherAnswers": ["couvert", "sombre", "gris"]
+          }
+        },
+        {
+          "id": "draft",
+          "type": "name",
+          "en": {
+            "word": "draft",
+            "otherAnswers": ["breeze", "airflow", "gust"]
+          },
+          "fr": {
+            "word": "courant d'air",
+            "otherAnswers": ["brise", "flux d'air", "ventilation"]
+          }
+        },
+        {
+          "id": "drought",
+          "type": "name",
+          "en": {
+            "word": "drought",
+            "otherAnswers": ["aridity", "dryness", "heatwave"]
+          },
+          "fr": {
+            "word": "sécheresse",
+            "otherAnswers": ["aridité", "canicule", "déshydratation"]
+          }
+        },
+        {
+          "id": "flood",
+          "type": "name",
+          "en": {
+            "word": "flood",
+            "otherAnswers": ["deluge", "downpour", "overflow"]
+          },
+          "fr": {
+            "word": "inondation",
+            "otherAnswers": ["déluge", "crue", "débordement"]
+          }
+        },
+        {
+          "id": "fog",
+          "type": "name",
+          "en": {
+            "word": "fog",
+            "otherAnswers": ["mist", "haze", "smog"]
+          },
+          "fr": {
+            "word": "brouillard",
+            "otherAnswers": ["brume", "vapeur", "buée"]
+          }
+        },
+        {
+          "id": "foggy",
+          "type": "adjective",
+          "en": {
+            "word": "foggy",
+            "otherAnswers": ["misty", "hazy", "murky"]
+          },
+          "fr": {
+            "word": "brumeux",
+            "otherAnswers": ["embrumé", "vaporeux", "nébuleux"]
+          }
+        },
+        {
+          "id": "forecast",
+          "type": "name",
+          "en": {
+            "word": "forecast",
+            "otherAnswers": ["prediction", "outlook", "bulletin"]
+          },
+          "fr": {
+            "word": "prévision",
+            "otherAnswers": ["bulletin", "météo", "pronostic"]
+          }
+        },
+        {
+          "id": "frost",
+          "type": "name",
+          "en": {
+            "word": "frost",
+            "otherAnswers": ["ice", "rime", "hoarfrost"]
+          },
+          "fr": {
+            "word": "gel",
+            "otherAnswers": ["givre", "frimas", "verglas"]
+          }
+        },
+        {
+          "id": "freezing",
+          "type": "adjective",
+          "en": {
+            "word": "freezing",
+            "otherAnswers": ["icy", "frigid", "wintry"]
+          },
+          "fr": {
+            "word": "glacial",
+            "otherAnswers": ["hivernal", "gelé", "polaire"]
+          }
+        },
+        {
+          "id": "heatwave",
+          "type": "name",
+          "en": {
+            "word": "heatwave",
+            "otherAnswers": ["scorcher", "hot spell", "drought"]
+          },
+          "fr": {
+            "word": "canicule",
+            "otherAnswers": ["chaleur", "vague de chaleur", "sécheresse"]
+          }
+        },
+        {
+          "id": "lightning",
+          "type": "name",
+          "en": {
+            "word": "lightning",
+            "otherAnswers": ["thunder", "flash", "bolt"]
+          },
+          "fr": {
+            "word": "éclair",
+            "otherAnswers": ["foudre", "tonnerre", "orage"]
+          }
+        },
+        {
+          "id": "mild",
+          "type": "adjective",
+          "en": {
+            "word": "mild",
+            "otherAnswers": ["temperate", "pleasant", "calm"]
+          },
+          "fr": {
+            "word": "doux",
+            "otherAnswers": ["tempéré", "clément", "modéré"]
+          }
+        },
+        {
+          "id": "overcast",
+          "type": "adjective",
+          "en": {
+            "word": "overcast",
+            "otherAnswers": ["cloudy", "gloomy", "dark"]
+          },
+          "fr": {
+            "word": "couvert",
+            "otherAnswers": ["nuageux", "gris", "sombre"]
+          }
+        },
+        {
+          "id": "rainfall",
+          "type": "name",
+          "en": {
+            "word": "rainfall",
+            "otherAnswers": ["precipitation", "downpour", "shower"]
+          },
+          "fr": {
+            "word": "précipitations",
+            "otherAnswers": ["pluviosité", "pluie", "averse"]
+          }
+        },
+        {
+          "id": "rain",
+          "type": "name",
+          "en": {
+            "word": "rain",
+            "otherAnswers": ["drizzle", "shower", "downpour"]
+          },
+          "fr": {
+            "word": "pluie",
+            "otherAnswers": ["bruine", "averse", "ondée"]
+          }
+        },
+        {
+          "id": "shower",
+          "type": "name",
+          "en": {
+            "word": "shower",
+            "otherAnswers": ["rainfall", "drizzle", "sprinkle"]
+          },
+          "fr": {
+            "word": "averse",
+            "otherAnswers": ["ondée", "giboulée", "pluie"]
+          }
+        },
+        {
+          "id": "slippery",
+          "type": "adjective",
+          "en": {
+            "word": "slippery",
+            "otherAnswers": ["icy", "wet", "slick"]
+          },
+          "fr": {
+            "word": "glissant",
+            "otherAnswers": ["verglacé", "mouillé", "patinant"]
+          }
+        },
+        {
+          "id": "snowfall",
+          "type": "name",
+          "en": {
+            "word": "snowfall",
+            "otherAnswers": ["blizzard", "flurry", "snow shower"]
+          },
+          "fr": {
+            "word": "chute de neige",
+            "otherAnswers": ["tempête de neige", "bourrasque", "flocons"]
+          }
+        },
+        {
+          "id": "snow",
+          "type": "name",
+          "en": {
+            "word": "snow",
+            "otherAnswers": ["sleet", "hail", "frost"]
+          },
+          "fr": {
+            "word": "neige",
+            "otherAnswers": ["grésil", "grêle", "givre"]
+          }
+        },
+        {
+          "id": "storm",
+          "type": "name",
+          "en": {
+            "word": "storm",
+            "otherAnswers": ["tempest", "squall", "gale"]
+          },
+          "fr": {
+            "word": "tempête",
+            "otherAnswers": ["orage", "bourrasque", "ouragan"]
+          }
+        },
+        {
+          "id": "thunder",
+          "type": "name",
+          "en": {
+            "word": "thunder",
+            "otherAnswers": ["lightning", "rumble", "storm"]
+          },
+          "fr": {
+            "word": "tonnerre",
+            "otherAnswers": ["éclair", "orage", "foudre"]
+          }
+        },
+        {
+          "id": "thunderstorm",
+          "type": "name",
+          "en": {
+            "word": "thunderstorm",
+            "otherAnswers": ["lightning storm", "electrical storm", "tempest"]
+          },
+          "fr": {
+            "word": "orage",
+            "otherAnswers": ["tempête", "bourrasque", "averse"]
+          }
+        },
+        {
+          "id": "wind",
+          "type": "name",
+          "en": {
+            "word": "wind",
+            "otherAnswers": ["breeze", "gust", "draft"]
+          },
+          "fr": {
+            "word": "vent",
+            "otherAnswers": ["brise", "rafale", "souffle"]
+          }
+        },
+        {
+          "id": "windy",
+          "type": "adjective",
+          "en": {
+            "word": "windy",
+            "otherAnswers": ["breezy", "gusty", "blustery"]
+          },
+          "fr": {
+            "word": "venteux",
+            "otherAnswers": ["tempétueux", "orageux", "agité"]
+          }
+        }
+      ]
+    }
+  ]
+}

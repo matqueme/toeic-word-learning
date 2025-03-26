@@ -1,0 +1,50 @@
+black ice (nom) verglas
+blow (vb - Prét/PP : blew/blown) souffler
+breeze (nom) brise
+bright (adj) ensoleillé
+cloud (nom) nuage
+cloudy (adj) nuageux
+draft (nom) courant d'air
+drafty (adj) plein de / dans les courants d'air
+drought (nom) sécheresse
+flood, flooding (nom) inondation, crue
+flood in (vb) affluer
+fog (nom) brouillard
+foggy (adj) brumeux
+forecast (nom) prévision
+forecast (vb - Prét/PP : forecast/forecast) prévoir
+weather forecaster (nom) présentateur (-trice) de la météo
+frost (nom) gel, gelée
+freezing (adj) gelé, glacial
+freeze (vb - Pret/PP : froze/frozen) geler
+hazardous (adj) dangereux
+hazar (nom) danger, risque
+heatwave (nom) canicume
+heat (nom) chaleur
+heating (nom) chauffage
+high (nom) température maximale
+high pressure (nom) anticyclone
+light (adj) léger
+lightly (adv) légèrement
+lightning (nom) éclair
+mild (adj) doux
+overcast (adj) couvert
+rainfall (nom indénombrable) précipitations 
+rain (nom) pluie
+torrential rain (nom) pluie diluvienne
+shower (nom) averse
+slippery (adj) glissant
+slip (vb) glisser
+snowfall (nom) chute de neige
+snow (nom) neige
+snow (vb) neiger
+storm (nom) orage, tempête
+stormy (adj) orageux
+snowstorm (nom) tempête de neige
+thunder (nom) tonnerre
+thunder (vb) tonner
+thunderstorm (nom) orage (avec éclair)
+sunny interval (nom) éclaircie
+wet (nom) pluvieux
+wind (adj) vent
+windy (nom) venteux

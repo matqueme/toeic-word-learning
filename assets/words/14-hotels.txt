@@ -1,0 +1,42 @@
+amenities (nom) aménagements, équipements
+blanket (nom) couverture
+book(vb) réserver
+booked up (exp) complet
+booking (nom) réservation
+check out (vb) régler sa note
+convenient (adj) bien situé, pratique
+conveniently (adv) à proximité immédiate, commodément
+convenience (nom) confort, avantage
+inconvenient (adj) inopportun, gênant
+inconvenience (nom) inconvénient, désagrément
+elevator (nom) ascenseur
+facilities (nom) aménagements, équipements
+front desk (nom) réception
+guest (nom) client(e)
+host (nom) hôte, hôtesse
+host (vb) acceuillir 
+housekeeper (nom) femme de chambre, gouvernante
+housekeeping service (nom) service d'entretien
+included (adj) compris
+all-inclusive (adj) tout compris
+include (vb) inclure
+keycard (nom) clé magnétique
+lobby (nom)hall d'entrée
+location (nom) emplacement, situation
+located (adj) localisé
+locate (vb) localiser
+pillow (nom) oreiller
+plenty (adj) un grand nombre de, beaucoup de
+plentiful (adj) abondant
+porter (nom bagagiste)
+rate (nom) tarif
+rate (vb) évaluer, classer
+rating (nom) note, classement
+room service (nom) service d'étage, service de chambre
+shuttle (nom) navette
+towel (nom) serviette
+vacate (vb) quitter
+vacant (adj) libre, non occupé
+vacancy (nom) chambre libre
+view (nom) vue 
+viewing (nom) visite (d'un appartement, d'une maison)

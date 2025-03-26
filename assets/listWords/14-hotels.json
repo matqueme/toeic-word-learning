@@ -1,0 +1,539 @@
+{
+  "categories": [
+    {
+      "id": "hotels",
+      "nameEn": "Hotels",
+      "nameFr": "Hôtels",
+      "words": [
+        {
+          "id": "amenities",
+          "type": "name",
+          "en": {
+            "word": "amenities",
+            "otherAnswers": ["furnishings", "appliances", "comforts"]
+          },
+          "fr": {
+            "word": "aménagements",
+            "otherAnswers": ["accessoires", "prestations", "services"]
+          }
+        },
+        {
+          "id": "blanket",
+          "type": "name",
+          "en": {
+            "word": "blanket",
+            "otherAnswers": ["pillow", "sheet", "duvet"]
+          },
+          "fr": {
+            "word": "couverture",
+            "otherAnswers": ["drap", "édredon", "plaid"]
+          }
+        },
+        {
+          "id": "book",
+          "type": "verb",
+          "en": {
+            "word": "book",
+            "otherAnswers": ["reserve", "arrange", "schedule"]
+          },
+          "fr": {
+            "word": "réserver",
+            "otherAnswers": ["commander", "louer", "retenir"]
+          }
+        },
+        {
+          "id": "booked_up",
+          "type": "expression",
+          "en": {
+            "word": "booked up",
+            "otherAnswers": ["fully occupied", "no vacancy", "at capacity"]
+          },
+          "fr": {
+            "word": "complet",
+            "otherAnswers": ["plein", "sans disponibilité", "tout réservé"]
+          }
+        },
+        {
+          "id": "booking",
+          "type": "name",
+          "en": {
+            "word": "booking",
+            "otherAnswers": ["reservation", "appointment", "arrangement"]
+          },
+          "fr": {
+            "word": "réservation",
+            "otherAnswers": ["commande", "engagement", "location"]
+          }
+        },
+        {
+          "id": "check_out",
+          "type": "verb",
+          "en": {
+            "word": "check out",
+            "otherAnswers": ["depart", "leave", "settle bill"]
+          },
+          "fr": {
+            "word": "régler sa note",
+            "otherAnswers": ["départ", "sortie", "libérer la chambre"]
+          }
+        },
+        {
+          "id": "convenient",
+          "type": "adjective",
+          "en": {
+            "word": "convenient",
+            "otherAnswers": ["practical", "accessible", "handy"]
+          },
+          "fr": {
+            "word": "bien situé",
+            "otherAnswers": ["accessible", "avantageux", "fonctionnel"]
+          }
+        },
+        {
+          "id": "conveniently",
+          "type": "adverb",
+          "en": {
+            "word": "conveniently",
+            "otherAnswers": ["suitably", "handily", "accessibly"]
+          },
+          "fr": {
+            "word": "à proximité immédiate",
+            "otherAnswers": ["avantageusement", "idéalement", "stratégiquement"]
+          }
+        },
+        {
+          "id": "convenience",
+          "type": "name",
+          "en": {
+            "word": "convenience",
+            "otherAnswers": ["accessibility", "practicality", "handiness"]
+          },
+          "fr": {
+            "word": "confort",
+            "otherAnswers": ["praticité", "avantage", "aisance"]
+          }
+        },
+        {
+          "id": "inconvenient",
+          "type": "adjective",
+          "en": {
+            "word": "inconvenient",
+            "otherAnswers": ["unsuitable", "troublesome", "awkward"]
+          },
+          "fr": {
+            "word": "inopportun",
+            "otherAnswers": ["mal situé", "peu pratique", "contraignant"]
+          }
+        },
+        {
+          "id": "inconvenience",
+          "type": "name",
+          "en": {
+            "word": "inconvenience",
+            "otherAnswers": ["nuisance", "trouble", "drawback"]
+          },
+          "fr": {
+            "word": "inconvénient",
+            "otherAnswers": ["gêne", "complication", "problème"]
+          }
+        },
+        {
+          "id": "elevator",
+          "type": "name",
+          "en": {
+            "word": "elevator",
+            "otherAnswers": ["staircase", "lift", "escalator"]
+          },
+          "fr": {
+            "word": "ascenseur",
+            "otherAnswers": ["escalier", "monte-charge", "élévateur"]
+          }
+        },
+        {
+          "id": "facilities",
+          "type": "name",
+          "en": {
+            "word": "facilities",
+            "otherAnswers": ["services", "accommodations", "resources"]
+          },
+          "fr": {
+            "word": "aménagements",
+            "otherAnswers": ["installations", "structures", "dispositifs"]
+          }
+        },
+        {
+          "id": "front_desk",
+          "type": "name",
+          "en": {
+            "word": "front desk",
+            "otherAnswers": ["reception", "concierge", "lobby"]
+          },
+          "fr": {
+            "word": "réception",
+            "otherAnswers": ["accueil", "bureau d'entrée", "conciergerie"]
+          }
+        },
+        {
+          "id": "guest",
+          "type": "name",
+          "en": {
+            "word": "guest",
+            "otherAnswers": ["visitor", "patron", "resident"]
+          },
+          "fr": {
+            "word": "client",
+            "otherAnswers": ["résident", "séjourneur", "voyageur"]
+          }
+        },
+        {
+          "id": "host_noun",
+          "type": "name",
+          "en": {
+            "word": "host",
+            "otherAnswers": ["manager", "proprietor", "innkeeper"]
+          },
+          "fr": {
+            "word": "hôte",
+            "otherAnswers": ["propriétaire", "gérant", "accueillant"]
+          }
+        },
+        {
+          "id": "host_verb",
+          "type": "verb",
+          "en": {
+            "word": "host",
+            "otherAnswers": ["accommodate", "welcome", "entertain"]
+          },
+          "fr": {
+            "word": "accueillir",
+            "otherAnswers": ["recevoir", "héberger", "abriter"]
+          }
+        },
+        {
+          "id": "housekeeper",
+          "type": "name",
+          "en": {
+            "word": "housekeeper",
+            "otherAnswers": ["maid", "cleaner", "attendant"]
+          },
+          "fr": {
+            "word": "femme de chambre",
+            "otherAnswers": [
+              "agent d'entretien",
+              "personnel de ménage",
+              "préposé aux chambres"
+            ]
+          }
+        },
+        {
+          "id": "housekeeping_service",
+          "type": "name",
+          "en": {
+            "word": "housekeeping service",
+            "otherAnswers": [
+              "cleaning staff",
+              "maintenance service",
+              "janitorial service"
+            ]
+          },
+          "fr": {
+            "word": "service d'entretien",
+            "otherAnswers": [
+              "service de chambre",
+              "équipe de nettoyage",
+              "service ménager"
+            ]
+          }
+        },
+        {
+          "id": "included",
+          "type": "adjective",
+          "en": {
+            "word": "included",
+            "otherAnswers": ["provided", "covered", "contained"]
+          },
+          "fr": {
+            "word": "compris",
+            "otherAnswers": ["fourni", "proposé", "offert"]
+          }
+        },
+        {
+          "id": "all_inclusive",
+          "type": "adjective",
+          "en": {
+            "word": "all-inclusive",
+            "otherAnswers": ["full-board", "comprehensive", "package deal"]
+          },
+          "fr": {
+            "word": "tout compris",
+            "otherAnswers": [
+              "pension complète",
+              "forfait intégral",
+              "formule complète"
+            ]
+          }
+        },
+        {
+          "id": "include",
+          "type": "verb",
+          "en": {
+            "word": "include",
+            "otherAnswers": ["provide", "offer", "cover"]
+          },
+          "fr": {
+            "word": "inclure",
+            "otherAnswers": ["comporter", "comprendre", "contenir"]
+          }
+        },
+        {
+          "id": "keycard",
+          "type": "name",
+          "en": {
+            "word": "keycard",
+            "otherAnswers": ["room key", "access card", "entry pass"]
+          },
+          "fr": {
+            "word": "clé magnétique",
+            "otherAnswers": ["carte d'accès", "pass", "clé électronique"]
+          }
+        },
+        {
+          "id": "lobby",
+          "type": "name",
+          "en": {
+            "word": "lobby",
+            "otherAnswers": ["foyer", "entrance hall", "reception area"]
+          },
+          "fr": {
+            "word": "hall d'entrée",
+            "otherAnswers": ["hall", "accueil", "atrium"]
+          }
+        },
+        {
+          "id": "location",
+          "type": "name",
+          "en": {
+            "word": "location",
+            "otherAnswers": ["position", "site", "place"]
+          },
+          "fr": {
+            "word": "emplacement",
+            "otherAnswers": ["endroit", "lieu", "site"]
+          }
+        },
+        {
+          "id": "located",
+          "type": "adjective",
+          "en": {
+            "word": "located",
+            "otherAnswers": ["positioned", "situated", "based"]
+          },
+          "fr": {
+            "word": "localisé",
+            "otherAnswers": ["situé", "installé", "établi"]
+          }
+        },
+        {
+          "id": "locate",
+          "type": "verb",
+          "en": {
+            "word": "locate",
+            "otherAnswers": ["find", "position", "place"]
+          },
+          "fr": {
+            "word": "localiser",
+            "otherAnswers": ["trouver", "repérer", "positionner"]
+          }
+        },
+        {
+          "id": "pillow",
+          "type": "name",
+          "en": {
+            "word": "pillow",
+            "otherAnswers": ["cushion", "bolster", "headrest"]
+          },
+          "fr": {
+            "word": "oreiller",
+            "otherAnswers": ["coussin", "traversin", "appuie-tête"]
+          }
+        },
+        {
+          "id": "plenty",
+          "type": "adjective",
+          "en": {
+            "word": "plenty",
+            "otherAnswers": ["ample", "abundant", "numerous"]
+          },
+          "fr": {
+            "word": "beaucoup de",
+            "otherAnswers": ["en quantité", "abondance de", "pléthore de"]
+          }
+        },
+        {
+          "id": "plentiful",
+          "type": "adjective",
+          "en": {
+            "word": "plentiful",
+            "otherAnswers": ["abundant", "copious", "ample"]
+          },
+          "fr": {
+            "word": "abondant",
+            "otherAnswers": ["nombreux", "copieux", "généreux"]
+          }
+        },
+        {
+          "id": "porter",
+          "type": "name",
+          "en": {
+            "word": "porter",
+            "otherAnswers": ["bellhop", "bellboy", "baggage handler"]
+          },
+          "fr": {
+            "word": "bagagiste",
+            "otherAnswers": ["porteur", "voiturier", "chasseur"]
+          }
+        },
+        {
+          "id": "rate_noun",
+          "type": "name",
+          "en": {
+            "word": "rate",
+            "otherAnswers": ["price", "fee", "charge"]
+          },
+          "fr": {
+            "word": "tarif",
+            "otherAnswers": ["prix", "coût", "frais"]
+          }
+        },
+        {
+          "id": "rate_verb",
+          "type": "verb",
+          "en": {
+            "word": "rate",
+            "otherAnswers": ["evaluate", "assess", "review"]
+          },
+          "fr": {
+            "word": "évaluer",
+            "otherAnswers": ["noter", "juger", "apprécier"]
+          }
+        },
+        {
+          "id": "rating",
+          "type": "name",
+          "en": {
+            "word": "rating",
+            "otherAnswers": ["score", "evaluation", "assessment"]
+          },
+          "fr": {
+            "word": "note",
+            "otherAnswers": ["évaluation", "classement", "appréciation"]
+          }
+        },
+        {
+          "id": "room_service",
+          "type": "name",
+          "en": {
+            "word": "room service",
+            "otherAnswers": ["in-room dining", "meal delivery", "food service"]
+          },
+          "fr": {
+            "word": "service d'étage",
+            "otherAnswers": [
+              "restauration en chambre",
+              "service de repas",
+              "livraison de repas"
+            ]
+          }
+        },
+        {
+          "id": "shuttle",
+          "type": "name",
+          "en": {
+            "word": "shuttle",
+            "otherAnswers": ["transfer", "minibus", "courtesy bus"]
+          },
+          "fr": {
+            "word": "navette",
+            "otherAnswers": ["minibus", "transfert", "bus de courtoisie"]
+          }
+        },
+        {
+          "id": "towel",
+          "type": "name",
+          "en": {
+            "word": "towel",
+            "otherAnswers": ["washcloth", "bathrobe", "bath mat"]
+          },
+          "fr": {
+            "word": "serviette",
+            "otherAnswers": ["drap de bain", "peignoir", "gant de toilette"]
+          }
+        },
+        {
+          "id": "vacate",
+          "type": "verb",
+          "en": {
+            "word": "vacate",
+            "otherAnswers": ["leave", "depart", "check out"]
+          },
+          "fr": {
+            "word": "quitter",
+            "otherAnswers": ["libérer", "partir", "évacuer"]
+          }
+        },
+        {
+          "id": "vacant",
+          "type": "adjective",
+          "en": {
+            "word": "vacant",
+            "otherAnswers": ["empty", "unoccupied", "available"]
+          },
+          "fr": {
+            "word": "libre",
+            "otherAnswers": ["inoccupé", "vacant", "disponible"]
+          }
+        },
+        {
+          "id": "vacancy",
+          "type": "name",
+          "en": {
+            "word": "vacancy",
+            "otherAnswers": ["availability", "opening", "free room"]
+          },
+          "fr": {
+            "word": "chambre libre",
+            "otherAnswers": [
+              "disponibilité",
+              "logement vacant",
+              "hébergement libre"
+            ]
+          }
+        },
+        {
+          "id": "view",
+          "type": "name",
+          "en": {
+            "word": "view",
+            "otherAnswers": ["outlook", "vista", "scenery"]
+          },
+          "fr": {
+            "word": "vue",
+            "otherAnswers": ["panorama", "paysage", "perspective"]
+          }
+        },
+        {
+          "id": "viewing",
+          "type": "name",
+          "en": {
+            "word": "viewing",
+            "otherAnswers": ["sightseeing", "observation", "looking"]
+          },
+          "fr": {
+            "word": "visite",
+            "otherAnswers": ["observation", "découverte", "contemplation"]
+          }
+        }
+      ]
+    }
+  ]
+}
