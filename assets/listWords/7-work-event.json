@@ -1,0 +1,439 @@
+{
+  "categories": [
+    {
+      "id": "work_event",
+      "nameEn": "Work Event",
+      "nameFr": "Événement Professionnel",
+      "words": [
+        {
+          "id": "accommodate",
+          "type": "verb",
+          "en": {
+            "word": "accommodate",
+            "otherAnswers": ["host", "welcome", "arrange"]
+          },
+          "fr": {
+            "word": "accueillir",
+            "otherAnswers": ["héberger", "recevoir", "loger"]
+          }
+        },
+        {
+          "id": "accommodation",
+          "type": "noun",
+          "en": {
+            "word": "accommodation",
+            "otherAnswers": ["lodging", "housing", "venue"]
+          },
+          "fr": {
+            "word": "hébergement",
+            "otherAnswers": ["logement", "résidence", "hôtel"]
+          }
+        },
+        {
+          "id": "attendee",
+          "type": "noun",
+          "en": {
+            "word": "attendee",
+            "otherAnswers": ["participant", "guest", "delegate"]
+          },
+          "fr": {
+            "word": "participant",
+            "otherAnswers": ["invité", "délégué", "membre"]
+          }
+        },
+        {
+          "id": "attendant",
+          "type": "noun",
+          "en": {
+            "word": "attendant",
+            "otherAnswers": ["assistant", "server", "helper"]
+          },
+          "fr": {
+            "word": "préposé",
+            "otherAnswers": ["assistant", "serveur", "agent"]
+          }
+        },
+        {
+          "id": "attend",
+          "type": "verb",
+          "en": {
+            "word": "attend",
+            "otherAnswers": ["participate", "join", "visit"]
+          },
+          "fr": {
+            "word": "assister",
+            "otherAnswers": ["participer", "rejoindre", "fréquenter"]
+          }
+        },
+        {
+          "id": "booth",
+          "type": "noun",
+          "en": {
+            "word": "booth",
+            "otherAnswers": ["stand", "stall", "kiosk"]
+          },
+          "fr": {
+            "word": "stand",
+            "otherAnswers": ["kiosque", "comptoir", "emplacement"]
+          }
+        },
+        {
+          "id": "caterer",
+          "type": "noun",
+          "en": {
+            "word": "caterer",
+            "otherAnswers": ["chef", "food provider", "restaurateur"]
+          },
+          "fr": {
+            "word": "traiteur",
+            "otherAnswers": ["chef", "restaurateur", "cuisinier"]
+          }
+        },
+        {
+          "id": "catering",
+          "type": "noun",
+          "en": {
+            "word": "catering",
+            "otherAnswers": ["food service", "refreshments", "dining"]
+          },
+          "fr": {
+            "word": "restauration",
+            "otherAnswers": ["service de repas", "buffet", "gastronomie"]
+          }
+        },
+        {
+          "id": "cater",
+          "type": "verb",
+          "en": {
+            "word": "cater",
+            "otherAnswers": ["serve", "provide food", "feed"]
+          },
+          "fr": {
+            "word": "traiteur",
+            "otherAnswers": ["servir", "nourrir", "approvisionner"]
+          }
+        },
+        {
+          "id": "charity_event",
+          "type": "noun",
+          "en": {
+            "word": "charity event",
+            "otherAnswers": [
+              "fundraising gala",
+              "benefit concert",
+              "donation drive"
+            ]
+          },
+          "fr": {
+            "word": "événement caritatif",
+            "otherAnswers": [
+              "gala de bienfaisance",
+              "soirée de charité",
+              "collecte solidaire"
+            ]
+          }
+        },
+        {
+          "id": "company_retreat",
+          "type": "noun",
+          "en": {
+            "word": "company retreat",
+            "otherAnswers": [
+              "team building",
+              "corporate getaway",
+              "business trip"
+            ]
+          },
+          "fr": {
+            "word": "séminaire d'entreprise",
+            "otherAnswers": [
+              "cohésion d'équipe",
+              "retraite professionnelle",
+              "voyage d'affaires"
+            ]
+          }
+        },
+        {
+          "id": "convention",
+          "type": "noun",
+          "en": {
+            "word": "convention",
+            "otherAnswers": ["conference", "summit", "symposium"]
+          },
+          "fr": {
+            "word": "congrès",
+            "otherAnswers": ["conférence", "sommet", "colloque"]
+          }
+        },
+        {
+          "id": "eager",
+          "type": "adjective",
+          "en": {
+            "word": "eager",
+            "otherAnswers": ["enthusiastic", "motivated", "excited"]
+          },
+          "fr": {
+            "word": "enthousiaste",
+            "otherAnswers": ["motivé", "impatient", "passionné"]
+          }
+        },
+        {
+          "id": "employee_appreciation",
+          "type": "noun",
+          "en": {
+            "word": "employee appreciation dinner",
+            "otherAnswers": [
+              "staff recognition ceremony",
+              "worker celebration",
+              "team reward event"
+            ]
+          },
+          "fr": {
+            "word": "repas de remerciement aux employés",
+            "otherAnswers": [
+              "cérémonie de reconnaissance",
+              "soirée de gratification",
+              "événement de valorisation"
+            ]
+          }
+        },
+        {
+          "id": "employee_of_the_month",
+          "type": "noun",
+          "en": {
+            "word": "employee of the month",
+            "otherAnswers": [
+              "top performer award",
+              "star employee",
+              "excellence recognition"
+            ]
+          },
+          "fr": {
+            "word": "employé du mois",
+            "otherAnswers": [
+              "meilleur collaborateur",
+              "salarié star",
+              "talent du mois"
+            ]
+          }
+        },
+        {
+          "id": "entertain",
+          "type": "verb",
+          "en": {
+            "word": "entertain",
+            "otherAnswers": ["amuse", "delight", "engage"]
+          },
+          "fr": {
+            "word": "inviter",
+            "otherAnswers": ["divertir", "amuser", "recevoir"]
+          }
+        },
+        {
+          "id": "entertainment",
+          "type": "noun",
+          "en": {
+            "word": "entertainment",
+            "otherAnswers": ["amusement", "performance", "recreation"]
+          },
+          "fr": {
+            "word": "divertissement",
+            "otherAnswers": ["animation", "spectacle", "loisir"]
+          }
+        },
+        {
+          "id": "farewell",
+          "type": "noun",
+          "en": {
+            "word": "farewell",
+            "otherAnswers": ["goodbye", "departure", "sendoff"]
+          },
+          "fr": {
+            "word": "adieu",
+            "otherAnswers": ["au revoir", "départ", "séparation"]
+          }
+        },
+        {
+          "id": "fundraiser",
+          "type": "noun",
+          "en": {
+            "word": "fundraiser",
+            "otherAnswers": [
+              "charity drive",
+              "donation campaign",
+              "benefit event"
+            ]
+          },
+          "fr": {
+            "word": "collecte de fonds",
+            "otherAnswers": [
+              "campagne de dons",
+              "événement de bienfaisance",
+              "appel aux dons"
+            ]
+          }
+        },
+        {
+          "id": "induction",
+          "type": "noun",
+          "en": {
+            "word": "induction",
+            "otherAnswers": ["onboarding", "orientation", "training"]
+          },
+          "fr": {
+            "word": "parcours d'intégration",
+            "otherAnswers": [
+              "accueil des nouveaux",
+              "formation initiale",
+              "orientation professionnelle"
+            ]
+          }
+        },
+        {
+          "id": "on_behalf_of",
+          "type": "expression",
+          "en": {
+            "word": "on behalf of",
+            "otherAnswers": [
+              "representing",
+              "for the sake of",
+              "in the name of"
+            ]
+          },
+          "fr": {
+            "word": "de la part de",
+            "otherAnswers": ["au nom de", "représentant", "pour le compte de"]
+          }
+        },
+        {
+          "id": "outing",
+          "type": "noun",
+          "en": {
+            "word": "outing",
+            "otherAnswers": ["excursion", "trip", "activity"]
+          },
+          "fr": {
+            "word": "sortie",
+            "otherAnswers": ["excursion", "activité", "balade"]
+          }
+        },
+        {
+          "id": "retirement",
+          "type": "noun",
+          "en": {
+            "word": "retirement",
+            "otherAnswers": ["pension", "departure", "exit"]
+          },
+          "fr": {
+            "word": "retraite",
+            "otherAnswers": ["pension", "cessation d'activité", "départ"]
+          }
+        },
+        {
+          "id": "retiree",
+          "type": "noun",
+          "en": {
+            "word": "retiree",
+            "otherAnswers": ["pensioner", "former employee", "senior"]
+          },
+          "fr": {
+            "word": "retraité",
+            "otherAnswers": ["pensionné", "ancien employé", "senior"]
+          }
+        },
+        {
+          "id": "retire",
+          "type": "verb",
+          "en": {
+            "word": "retire",
+            "otherAnswers": ["leave", "depart", "resign"]
+          },
+          "fr": {
+            "word": "prendre sa retraite",
+            "otherAnswers": [
+              "se retirer",
+              "quitter son emploi",
+              "cesser de travailler"
+            ]
+          }
+        },
+        {
+          "id": "schedule",
+          "type": "noun",
+          "en": {
+            "word": "schedule",
+            "otherAnswers": ["agenda", "timetable", "program"]
+          },
+          "fr": {
+            "word": "planning",
+            "otherAnswers": ["agenda", "programme", "calendrier"]
+          }
+        },
+        {
+          "id": "smooth",
+          "type": "adjective",
+          "en": {
+            "word": "smooth",
+            "otherAnswers": ["seamless", "effortless", "flowing"]
+          },
+          "fr": {
+            "word": "en douceur",
+            "otherAnswers": ["fluide", "sans heurt", "harmonieux"]
+          }
+        },
+        {
+          "id": "smoothly",
+          "type": "adverb",
+          "en": {
+            "word": "smoothly",
+            "otherAnswers": ["effortlessly", "fluidly", "seamlessly"]
+          },
+          "fr": {
+            "word": "sans encombre",
+            "otherAnswers": ["facilement", "fluidement", "sans accroc"]
+          }
+        },
+        {
+          "id": "trade_show",
+          "type": "noun",
+          "en": {
+            "word": "trade show",
+            "otherAnswers": ["exhibition", "expo", "industry fair"]
+          },
+          "fr": {
+            "word": "salon professionnel",
+            "otherAnswers": [
+              "exposition commerciale",
+              "foire",
+              "salon d'affaires"
+            ]
+          }
+        },
+        {
+          "id": "unconventional",
+          "type": "adjective",
+          "en": {
+            "word": "unconventional",
+            "otherAnswers": ["innovative", "unique", "creative"]
+          },
+          "fr": {
+            "word": "non conventionnel",
+            "otherAnswers": ["original", "innovant", "différent"]
+          }
+        },
+        {
+          "id": "workshop",
+          "type": "noun",
+          "en": {
+            "word": "workshop",
+            "otherAnswers": ["seminar", "training session", "class"]
+          },
+          "fr": {
+            "word": "atelier",
+            "otherAnswers": ["séminaire", "formation", "cours"]
+          }
+        }
+      ]
+    }
+  ]
+}

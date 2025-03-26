@@ -1,0 +1,539 @@
+{
+  "categories": [
+    {
+      "id": "invoicing",
+      "nameEn": "Invoicing",
+      "nameFr": "Facturation",
+      "words": [
+        {
+          "id": "actually",
+          "type": "adv",
+          "en": {
+            "word": "actually",
+            "otherAnswers": ["currently", "presently", "practically"]
+          },
+          "fr": {
+            "word": "en fait",
+            "otherAnswers": ["actuellement", "présentement", "concrètement"]
+          }
+        },
+        {
+          "id": "amount",
+          "type": "noun",
+          "en": {
+            "word": "amount",
+            "otherAnswers": ["balance", "price", "value"]
+          },
+          "fr": {
+            "word": "montant",
+            "otherAnswers": ["solde", "prix", "valeur"]
+          }
+        },
+        {
+          "id": "bill_noun",
+          "type": "noun",
+          "en": {
+            "word": "bill",
+            "otherAnswers": ["statement", "account", "charge"]
+          },
+          "fr": {
+            "word": "facture",
+            "otherAnswers": ["relevé", "décompte", "bordereau"]
+          }
+        },
+        {
+          "id": "bill_verb",
+          "type": "verb",
+          "en": {
+            "word": "bill",
+            "otherAnswers": ["record", "register", "calculate"]
+          },
+          "fr": {
+            "word": "facturer",
+            "otherAnswers": ["enregistrer", "comptabiliser", "calculer"]
+          }
+        },
+        {
+          "id": "charge_noun",
+          "type": "noun",
+          "en": {
+            "word": "charge",
+            "otherAnswers": ["payment", "rate", "price"]
+          },
+          "fr": {
+            "word": "frais",
+            "otherAnswers": ["paiement", "taux", "prix"]
+          }
+        },
+        {
+          "id": "charge_verb",
+          "type": "verb",
+          "en": {
+            "word": "charge",
+            "otherAnswers": ["debit", "request", "assess"]
+          },
+          "fr": {
+            "word": "facturer",
+            "otherAnswers": ["débiter", "demander", "évaluer"]
+          }
+        },
+        {
+          "id": "overcharge",
+          "type": "verb",
+          "en": {
+            "word": "overcharge",
+            "otherAnswers": ["inflate", "markup", "increase"]
+          },
+          "fr": {
+            "word": "surfacturer",
+            "otherAnswers": ["gonfler", "majorer", "augmenter"]
+          }
+        },
+        {
+          "id": "undercharge",
+          "type": "verb",
+          "en": {
+            "word": "undercharge",
+            "otherAnswers": ["reduce", "lower", "minimize"]
+          },
+          "fr": {
+            "word": "sous-facturer",
+            "otherAnswers": ["diminuer", "minorer", "réduire"]
+          }
+        },
+        {
+          "id": "creditor",
+          "type": "noun",
+          "en": {
+            "word": "creditor",
+            "otherAnswers": ["vendor", "supplier", "seller"]
+          },
+          "fr": {
+            "word": "créancier",
+            "otherAnswers": ["vendeur", "fournisseur", "prestataire"]
+          }
+        },
+        {
+          "id": "disregard",
+          "type": "verb",
+          "en": {
+            "word": "disregard",
+            "otherAnswers": ["dismiss", "exclude", "reject"]
+          },
+          "fr": {
+            "word": "ne pas tenir compte de",
+            "otherAnswers": ["écarter", "exclure", "rejeter"]
+          }
+        },
+        {
+          "id": "regarding",
+          "type": "prep",
+          "en": {
+            "word": "regarding",
+            "otherAnswers": [
+              "pertaining to",
+              "with reference to",
+              "in regards to"
+            ]
+          },
+          "fr": {
+            "word": "concernant",
+            "otherAnswers": [
+              "se rapportant à",
+              "en référence à",
+              "en ce qui concerne"
+            ]
+          }
+        },
+        {
+          "id": "regardless_of",
+          "type": "prep",
+          "en": {
+            "word": "regardless of",
+            "otherAnswers": [
+              "independent of",
+              "apart from",
+              "without reference to"
+            ]
+          },
+          "fr": {
+            "word": "sans tenir compte de",
+            "otherAnswers": [
+              "indifféremment de",
+              "abstraction faite de",
+              "sans égard à"
+            ]
+          }
+        },
+        {
+          "id": "due",
+          "type": "adj",
+          "en": {
+            "word": "due",
+            "otherAnswers": ["pending", "outstanding", "unpaid"]
+          },
+          "fr": {
+            "word": "dû",
+            "otherAnswers": ["en attente", "impayé", "non réglé"]
+          }
+        },
+        {
+          "id": "due_to",
+          "type": "prep",
+          "en": {
+            "word": "due to",
+            "otherAnswers": [
+              "resulting from",
+              "stemming from",
+              "as a result of"
+            ]
+          },
+          "fr": {
+            "word": "en raison de",
+            "otherAnswers": ["résultant de", "découlant de", "suite à"]
+          }
+        },
+        {
+          "id": "fee",
+          "type": "noun",
+          "en": {
+            "word": "fee",
+            "otherAnswers": ["rate", "tariff", "dues"]
+          },
+          "fr": {
+            "word": "frais",
+            "otherAnswers": ["tarif", "barème", "cotisation"]
+          }
+        },
+        {
+          "id": "fine_noun",
+          "type": "noun",
+          "en": {
+            "word": "fine",
+            "otherAnswers": ["surcharge", "fee", "charge"]
+          },
+          "fr": {
+            "word": "amende",
+            "otherAnswers": ["majoration", "supplément", "frais supplémentaire"]
+          }
+        },
+        {
+          "id": "fine_verb",
+          "type": "verb",
+          "en": {
+            "word": "fine",
+            "otherAnswers": ["surcharge", "bill extra", "impose"]
+          },
+          "fr": {
+            "word": "infliger une amende",
+            "otherAnswers": ["majorer", "surfacturer", "imposer"]
+          }
+        },
+        {
+          "id": "fine_print",
+          "type": "exp",
+          "en": {
+            "word": "fine print",
+            "otherAnswers": ["terms", "details", "specifications"]
+          },
+          "fr": {
+            "word": "petits caractères",
+            "otherAnswers": ["termes", "détails", "spécifications"]
+          }
+        },
+        {
+          "id": "hopefully",
+          "type": "adv",
+          "en": {
+            "word": "hopefully",
+            "otherAnswers": ["presumably", "probably", "likely"]
+          },
+          "fr": {
+            "word": "avec un peu de chance",
+            "otherAnswers": ["probablement", "normalement", "vraisemblablement"]
+          }
+        },
+        {
+          "id": "hope",
+          "type": "verb",
+          "en": {
+            "word": "hope",
+            "otherAnswers": ["anticipate", "look forward to", "await"]
+          },
+          "fr": {
+            "word": "espérer",
+            "otherAnswers": ["anticiper", "attendre avec impatience", "prévoir"]
+          }
+        },
+        {
+          "id": "invoice_noun",
+          "type": "noun",
+          "en": {
+            "word": "invoice",
+            "otherAnswers": ["document", "form", "record"]
+          },
+          "fr": {
+            "word": "facture",
+            "otherAnswers": ["document", "formulaire", "justificatif"]
+          }
+        },
+        {
+          "id": "invoice_verb",
+          "type": "verb",
+          "en": {
+            "word": "invoice",
+            "otherAnswers": ["document", "record", "submit"]
+          },
+          "fr": {
+            "word": "facturer",
+            "otherAnswers": ["documenter", "enregistrer", "soumettre"]
+          }
+        },
+        {
+          "id": "invoicing_noun",
+          "type": "noun",
+          "en": {
+            "word": "invoicing",
+            "otherAnswers": ["documentation", "processing", "administration"]
+          },
+          "fr": {
+            "word": "facturation",
+            "otherAnswers": ["documentation", "traitement", "administration"]
+          }
+        },
+        {
+          "id": "invoicing_adj",
+          "type": "adj",
+          "en": {
+            "word": "invoicing",
+            "otherAnswers": ["financial", "administrative", "clerical"]
+          },
+          "fr": {
+            "word": "de facturation",
+            "otherAnswers": ["financier", "administratif", "de bureau"]
+          }
+        },
+        {
+          "id": "issue",
+          "type": "verb",
+          "en": {
+            "word": "issue",
+            "otherAnswers": ["generate", "create", "produce"]
+          },
+          "fr": {
+            "word": "émettre",
+            "otherAnswers": ["générer", "créer", "produire"]
+          }
+        },
+        {
+          "id": "issuer",
+          "type": "noun",
+          "en": {
+            "word": "issuer",
+            "otherAnswers": ["sender", "originator", "creator"]
+          },
+          "fr": {
+            "word": "émetteur",
+            "otherAnswers": ["expéditeur", "initiateur", "créateur"]
+          }
+        },
+        {
+          "id": "outstanding",
+          "type": "adj",
+          "en": {
+            "word": "outstanding",
+            "otherAnswers": ["overdue", "late", "unprocessed"]
+          },
+          "fr": {
+            "word": "impayé",
+            "otherAnswers": ["en retard", "échu", "non traité"]
+          }
+        },
+        {
+          "id": "payable",
+          "type": "adj",
+          "en": {
+            "word": "payable",
+            "otherAnswers": ["requestable", "collectible", "demandable"]
+          },
+          "fr": {
+            "word": "payable",
+            "otherAnswers": ["réclamable", "recouvrable", "exigible"]
+          }
+        },
+        {
+          "id": "payer",
+          "type": "noun",
+          "en": {
+            "word": "payer",
+            "otherAnswers": ["purchaser", "buyer", "consumer"]
+          },
+          "fr": {
+            "word": "payeur",
+            "otherAnswers": ["acheteur", "acquéreur", "consommateur"]
+          }
+        },
+        {
+          "id": "payee",
+          "type": "noun",
+          "en": {
+            "word": "payee",
+            "otherAnswers": ["seller", "vendor", "merchant"]
+          },
+          "fr": {
+            "word": "bénéficiaire",
+            "otherAnswers": ["vendeur", "commerçant", "marchand"]
+          }
+        },
+        {
+          "id": "pending",
+          "type": "adj",
+          "en": {
+            "word": "pending",
+            "otherAnswers": ["processing", "ongoing", "unfinished"]
+          },
+          "fr": {
+            "word": "en attente",
+            "otherAnswers": ["en cours", "en traitement", "non finalisé"]
+          }
+        },
+        {
+          "id": "reminder",
+          "type": "noun",
+          "en": {
+            "word": "reminder",
+            "otherAnswers": ["alert", "follow-up", "memo"]
+          },
+          "fr": {
+            "word": "rappel",
+            "otherAnswers": ["alerte", "suivi", "mémo"]
+          }
+        },
+        {
+          "id": "remind",
+          "type": "verb",
+          "en": {
+            "word": "remind",
+            "otherAnswers": ["inform", "update", "follow up"]
+          },
+          "fr": {
+            "word": "rappeler",
+            "otherAnswers": ["informer", "actualiser", "suivre"]
+          }
+        },
+        {
+          "id": "shipping_and_handling",
+          "type": "noun",
+          "en": {
+            "word": "shipping and handling",
+            "otherAnswers": [
+              "logistics costs",
+              "processing charges",
+              "transport fees"
+            ]
+          },
+          "fr": {
+            "word": "frais de port et de manutention",
+            "otherAnswers": [
+              "coûts logistiques",
+              "frais de traitement",
+              "coûts de transport"
+            ]
+          }
+        },
+        {
+          "id": "term_of_payment",
+          "type": "noun",
+          "en": {
+            "word": "term of payment",
+            "otherAnswers": [
+              "payment schedule",
+              "payment arrangement",
+              "payment policy"
+            ]
+          },
+          "fr": {
+            "word": "condition de paiement",
+            "otherAnswers": [
+              "échéancier de paiement",
+              "arrangement de paiement",
+              "politique de paiement"
+            ]
+          }
+        },
+        {
+          "id": "unit",
+          "type": "noun",
+          "en": {
+            "word": "unit",
+            "otherAnswers": ["quantity", "measure", "component"]
+          },
+          "fr": {
+            "word": "unité",
+            "otherAnswers": ["quantité", "mesure", "composant"]
+          }
+        },
+        {
+          "id": "void_adj",
+          "type": "adj",
+          "en": {
+            "word": "void",
+            "otherAnswers": ["canceled", "revoked", "rescinded"]
+          },
+          "fr": {
+            "word": "nul",
+            "otherAnswers": ["annulé", "révoqué", "rescindé"]
+          }
+        },
+        {
+          "id": "void_verb",
+          "type": "verb",
+          "en": {
+            "word": "void",
+            "otherAnswers": ["revoke", "delete", "terminate"]
+          },
+          "fr": {
+            "word": "annuler",
+            "otherAnswers": ["révoquer", "supprimer", "résilier"]
+          }
+        },
+        {
+          "id": "waive",
+          "type": "verb",
+          "en": {
+            "word": "waive",
+            "otherAnswers": ["dismiss", "cancel", "remove"]
+          },
+          "fr": {
+            "word": "renoncer à",
+            "otherAnswers": ["annuler", "effacer", "supprimer"]
+          }
+        },
+        {
+          "id": "waiver",
+          "type": "noun",
+          "en": {
+            "word": "waiver",
+            "otherAnswers": ["cancellation", "discharge", "removal"]
+          },
+          "fr": {
+            "word": "renonciation",
+            "otherAnswers": ["annulation", "libération", "suppression"]
+          }
+        },
+        {
+          "id": "within",
+          "type": "prep",
+          "en": {
+            "word": "within",
+            "otherAnswers": ["before", "under", "by"]
+          },
+          "fr": {
+            "word": "dans les",
+            "otherAnswers": ["avant", "sous", "d'ici à"]
+          }
+        }
+      ]
+    }
+  ]
+}

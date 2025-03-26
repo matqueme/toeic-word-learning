@@ -1,0 +1,327 @@
+{
+  "categories": [
+    {
+      "id": "retail",
+      "nameEn": "Retail",
+      "nameFr": "Commerce de détail",
+      "words": [
+        {
+          "id": "aisle",
+          "type": "name",
+          "en": {
+            "word": "aisle",
+            "otherAnswers": ["shelf", "counter", "checkout"]
+          },
+          "fr": {
+            "word": "allée",
+            "otherAnswers": ["rayon", "étagère", "comptoir"]
+          }
+        },
+        {
+          "id": "apparel",
+          "type": "name",
+          "en": {
+            "word": "apparel",
+            "otherAnswers": ["clothing", "garment", "fashion"]
+          },
+          "fr": {
+            "word": "vêtements",
+            "otherAnswers": ["habillement", "mode", "textile"]
+          }
+        },
+        {
+          "id": "appliance",
+          "type": "name",
+          "en": {
+            "word": "appliance",
+            "otherAnswers": ["device", "equipment", "gadget"]
+          },
+          "fr": {
+            "word": "appareil électroménager",
+            "otherAnswers": [
+              "équipement ménager",
+              "électronique",
+              "machine domestique"
+            ]
+          }
+        },
+        {
+          "id": "browse",
+          "type": "verb",
+          "en": {
+            "word": "browse",
+            "otherAnswers": ["shop", "search", "look"]
+          },
+          "fr": {
+            "word": "regarder",
+            "otherAnswers": ["parcourir", "examiner", "feuilleter"]
+          }
+        },
+        {
+          "id": "carry",
+          "type": "verb",
+          "en": {
+            "word": "carry",
+            "otherAnswers": ["stock", "offer", "display"]
+          },
+          "fr": {
+            "word": "vendre",
+            "otherAnswers": ["proposer", "stocker", "présenter"]
+          }
+        },
+        {
+          "id": "cart",
+          "type": "name",
+          "en": {
+            "word": "cart",
+            "otherAnswers": ["basket", "trolley", "buggy"]
+          },
+          "fr": {
+            "word": "chariot",
+            "otherAnswers": ["panier", "caddie", "charrette"]
+          }
+        },
+        {
+          "id": "cashier",
+          "type": "name",
+          "en": {
+            "word": "cashier",
+            "otherAnswers": ["clerk", "attendant", "salesperson"]
+          },
+          "fr": {
+            "word": "caissier",
+            "otherAnswers": ["vendeur", "employé", "préposé"]
+          }
+        },
+        {
+          "id": "cash_register",
+          "type": "name",
+          "en": {
+            "word": "cash register",
+            "otherAnswers": ["point of sale", "terminal", "checkout counter"]
+          },
+          "fr": {
+            "word": "caisse",
+            "otherAnswers": ["caisse enregistreuse", "terminal", "comptoir"]
+          }
+        },
+        {
+          "id": "change",
+          "type": "name",
+          "en": {
+            "word": "change",
+            "otherAnswers": ["coins", "cash", "refund"]
+          },
+          "fr": {
+            "word": "monnaie",
+            "otherAnswers": ["pièces", "espèces", "remboursement"]
+          }
+        },
+        {
+          "id": "checkout",
+          "type": "name",
+          "en": {
+            "word": "checkout",
+            "otherAnswers": ["register", "counter", "payment area"]
+          },
+          "fr": {
+            "word": "caisse",
+            "otherAnswers": ["comptoir", "paiement", "sortie"]
+          }
+        },
+        {
+          "id": "coupon",
+          "type": "name",
+          "en": {
+            "word": "coupon",
+            "otherAnswers": ["voucher", "discount", "promo code"]
+          },
+          "fr": {
+            "word": "bon",
+            "otherAnswers": ["coupon", "réduction", "remise"]
+          }
+        },
+        {
+          "id": "dairy_products",
+          "type": "name",
+          "en": {
+            "word": "dairy products",
+            "otherAnswers": ["baked goods", "frozen food", "produce"]
+          },
+          "fr": {
+            "word": "produits laitiers",
+            "otherAnswers": ["produits frais", "pâtisseries", "surgelés"]
+          }
+        },
+        {
+          "id": "discount",
+          "type": "name",
+          "en": {
+            "word": "discount",
+            "otherAnswers": ["sale", "reduction", "markdown"]
+          },
+          "fr": {
+            "word": "réduction",
+            "otherAnswers": ["promotion", "solde", "remise"]
+          }
+        },
+        {
+          "id": "display",
+          "type": "name",
+          "en": {
+            "word": "display",
+            "otherAnswers": ["showcase", "exhibit", "stand"]
+          },
+          "fr": {
+            "word": "présentoir",
+            "otherAnswers": ["vitrine", "étalage", "exposition"]
+          }
+        },
+        {
+          "id": "fabric",
+          "type": "name",
+          "en": {
+            "word": "fabric",
+            "otherAnswers": ["textile", "material", "cloth"]
+          },
+          "fr": {
+            "word": "tissu",
+            "otherAnswers": ["textile", "étoffe", "toile"]
+          }
+        },
+        {
+          "id": "fitting_room",
+          "type": "name",
+          "en": {
+            "word": "fitting room",
+            "otherAnswers": ["changing room", "dressing area", "try-on booth"]
+          },
+          "fr": {
+            "word": "cabine d'essayage",
+            "otherAnswers": ["vestiaire", "salle d'essayage", "loge"]
+          }
+        },
+        {
+          "id": "garment",
+          "type": "name",
+          "en": {
+            "word": "garment",
+            "otherAnswers": ["clothing", "outfit", "attire"]
+          },
+          "fr": {
+            "word": "vêtement",
+            "otherAnswers": ["habit", "tenue", "article"]
+          }
+        },
+        {
+          "id": "label",
+          "type": "name",
+          "en": {
+            "word": "label",
+            "otherAnswers": ["tag", "sticker", "brand"]
+          },
+          "fr": {
+            "word": "étiquette",
+            "otherAnswers": ["marque", "label", "badge"]
+          }
+        },
+        {
+          "id": "mall",
+          "type": "name",
+          "en": {
+            "word": "mall",
+            "otherAnswers": ["shopping center", "plaza", "outlet"]
+          },
+          "fr": {
+            "word": "centre commercial",
+            "otherAnswers": ["galerie marchande", "complexe commercial", "mail"]
+          }
+        },
+        {
+          "id": "produce",
+          "type": "name",
+          "en": {
+            "word": "produce",
+            "otherAnswers": ["groceries", "vegetables", "fresh food"]
+          },
+          "fr": {
+            "word": "fruits et légumes",
+            "otherAnswers": ["produits frais", "primeurs", "denrées fraîches"]
+          }
+        },
+        {
+          "id": "receipt",
+          "type": "name",
+          "en": {
+            "word": "receipt",
+            "otherAnswers": ["invoice", "bill", "ticket"]
+          },
+          "fr": {
+            "word": "ticket de caisse",
+            "otherAnswers": ["reçu", "facture", "note"]
+          }
+        },
+        {
+          "id": "sale",
+          "type": "name",
+          "en": {
+            "word": "sale",
+            "otherAnswers": ["clearance", "discount", "promotion"]
+          },
+          "fr": {
+            "word": "promotion",
+            "otherAnswers": ["solde", "remise", "offre spéciale"]
+          }
+        },
+        {
+          "id": "salesperson",
+          "type": "name",
+          "en": {
+            "word": "salesperson",
+            "otherAnswers": ["associate", "clerk", "representative"]
+          },
+          "fr": {
+            "word": "vendeur",
+            "otherAnswers": ["conseiller", "employé", "commercial"]
+          }
+        },
+        {
+          "id": "stock",
+          "type": "name",
+          "en": {
+            "word": "stock",
+            "otherAnswers": ["inventory", "supply", "merchandise"]
+          },
+          "fr": {
+            "word": "stock",
+            "otherAnswers": ["inventaire", "réserve", "marchandise"]
+          }
+        },
+        {
+          "id": "store",
+          "type": "name",
+          "en": {
+            "word": "store",
+            "otherAnswers": ["shop", "boutique", "retail outlet"]
+          },
+          "fr": {
+            "word": "magasin",
+            "otherAnswers": ["boutique", "commerce", "enseigne"]
+          }
+        },
+        {
+          "id": "suit",
+          "type": "name",
+          "en": {
+            "word": "suit",
+            "otherAnswers": ["blazer", "tuxedo", "ensemble"]
+          },
+          "fr": {
+            "word": "costume",
+            "otherAnswers": ["complet", "tailleur", "ensemble"]
+          }
+        }
+      ]
+    }
+  ]
+}

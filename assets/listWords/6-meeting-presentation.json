@@ -1,0 +1,519 @@
+{
+  "categories": [
+    {
+      "id": "meeting_presentation",
+      "nameEn": "Meeting Presentation",
+      "nameFr": "Présentation de Réunion",
+      "words": [
+        {
+          "id": "agenda",
+          "type": "name",
+          "en": {
+            "word": "agenda",
+            "otherAnswers": ["minutes", "handout", "presentation"]
+          },
+          "fr": {
+            "word": "ordre du jour",
+            "otherAnswers": ["compte-rendu", "document", "présentation"]
+          }
+        },
+        {
+          "id": "hidden_agenda",
+          "type": "name",
+          "en": {
+            "word": "hidden agenda",
+            "otherAnswers": [
+              "private note",
+              "meeting strategy",
+              "confidential topic"
+            ]
+          },
+          "fr": {
+            "word": "arrière-pensée",
+            "otherAnswers": [
+              "note confidentielle",
+              "stratégie de réunion",
+              "sujet sensible"
+            ]
+          }
+        },
+        {
+          "id": "be_set_for",
+          "type": "vb",
+          "en": {
+            "word": "be set for",
+            "otherAnswers": ["schedule", "organize", "coordinate"]
+          },
+          "fr": {
+            "word": "être prêt pour",
+            "otherAnswers": ["programmer", "organiser", "coordonner"]
+          }
+        },
+        {
+          "id": "cancel",
+          "type": "vb",
+          "en": {
+            "word": "cancel",
+            "otherAnswers": ["postpone", "reschedule", "adjourn"]
+          },
+          "fr": {
+            "word": "annuler",
+            "otherAnswers": ["reporter", "reprogrammer", "ajourner"]
+          }
+        },
+        {
+          "id": "cancellation",
+          "type": "name",
+          "en": {
+            "word": "cancellation",
+            "otherAnswers": ["postponement", "rescheduling", "adjournment"]
+          },
+          "fr": {
+            "word": "annulation",
+            "otherAnswers": ["report", "reprogrammation", "ajournement"]
+          }
+        },
+        {
+          "id": "chair_vb",
+          "type": "vb",
+          "en": {
+            "word": "chair",
+            "otherAnswers": ["present", "lead", "conduct"]
+          },
+          "fr": {
+            "word": "présider",
+            "otherAnswers": ["présenter", "mener", "conduire"]
+          }
+        },
+        {
+          "id": "chairperson",
+          "type": "name",
+          "en": {
+            "word": "chairperson",
+            "otherAnswers": ["presenter", "speaker", "facilitator"]
+          },
+          "fr": {
+            "word": "président",
+            "otherAnswers": ["présentateur", "orateur", "facilitateur"]
+          }
+        },
+        {
+          "id": "chart",
+          "type": "name",
+          "en": {
+            "word": "chart",
+            "otherAnswers": ["slide", "presentation", "handout"]
+          },
+          "fr": {
+            "word": "graphique",
+            "otherAnswers": ["diapositive", "présentation", "document"]
+          }
+        },
+        {
+          "id": "bar_chart",
+          "type": "name",
+          "en": {
+            "word": "bar chart",
+            "otherAnswers": ["pie chart", "line graph", "data table"]
+          },
+          "fr": {
+            "word": "histogramme",
+            "otherAnswers": [
+              "camembert",
+              "graphique linéaire",
+              "tableau de données"
+            ]
+          }
+        },
+        {
+          "id": "pie_chart",
+          "type": "name",
+          "en": {
+            "word": "pie chart",
+            "otherAnswers": ["bar chart", "scatter plot", "data visualization"]
+          },
+          "fr": {
+            "word": "camembert",
+            "otherAnswers": [
+              "histogramme",
+              "nuage de points",
+              "visualisation de données"
+            ]
+          }
+        },
+        {
+          "id": "closed",
+          "type": "adj",
+          "en": {
+            "word": "closed",
+            "otherAnswers": ["adjourned", "postponed", "cancelled"]
+          },
+          "fr": {
+            "word": "fini",
+            "otherAnswers": ["ajourné", "reporté", "annulé"]
+          }
+        },
+        {
+          "id": "conclude",
+          "type": "vb",
+          "en": {
+            "word": "conclude",
+            "otherAnswers": ["summarize", "wrap up", "adjourn"]
+          },
+          "fr": {
+            "word": "conclure",
+            "otherAnswers": ["résumer", "terminer", "ajourner"]
+          }
+        },
+        {
+          "id": "inconclusive",
+          "type": "adj",
+          "en": {
+            "word": "inconclusive",
+            "otherAnswers": ["unresolved", "pending", "ongoing"]
+          },
+          "fr": {
+            "word": "peu concluant",
+            "otherAnswers": ["non résolu", "en attente", "en cours"]
+          }
+        },
+        {
+          "id": "conclusively",
+          "type": "adv",
+          "en": {
+            "word": "conclusively",
+            "otherAnswers": ["certainly", "clearly", "finally"]
+          },
+          "fr": {
+            "word": "définitivement",
+            "otherAnswers": ["certainement", "clairement", "finalement"]
+          }
+        },
+        {
+          "id": "flip_chart",
+          "type": "name",
+          "en": {
+            "word": "flip chart",
+            "otherAnswers": ["whiteboard", "projector", "screen"]
+          },
+          "fr": {
+            "word": "paper-board",
+            "otherAnswers": ["tableau blanc", "projecteur", "écran"]
+          }
+        },
+        {
+          "id": "flip_over",
+          "type": "vb",
+          "en": {
+            "word": "flip over",
+            "otherAnswers": ["change slide", "advance", "rotate"]
+          },
+          "fr": {
+            "word": "retourner",
+            "otherAnswers": ["changer de diapositive", "avancer", "pivoter"]
+          }
+        },
+        {
+          "id": "flip_through",
+          "type": "vb",
+          "en": {
+            "word": "flip through",
+            "otherAnswers": ["review", "scroll", "navigate"]
+          },
+          "fr": {
+            "word": "feuilleter",
+            "otherAnswers": ["examiner", "faire défiler", "naviguer"]
+          }
+        },
+        {
+          "id": "graph",
+          "type": "name",
+          "en": {
+            "word": "graph",
+            "otherAnswers": ["table", "illustration", "visual aid"]
+          },
+          "fr": {
+            "word": "graphique",
+            "otherAnswers": ["tableau", "illustration", "support visuel"]
+          }
+        },
+        {
+          "id": "hold",
+          "type": "vb",
+          "en": {
+            "word": "hold",
+            "otherAnswers": ["schedule", "attend", "participate in"]
+          },
+          "fr": {
+            "word": "organiser",
+            "otherAnswers": ["programmer", "assister à", "participer à"]
+          }
+        },
+        {
+          "id": "item",
+          "type": "name",
+          "en": {
+            "word": "item",
+            "otherAnswers": ["subject", "agenda point", "discussion"]
+          },
+          "fr": {
+            "word": "sujet",
+            "otherAnswers": ["point à l'ordre du jour", "discussion", "thème"]
+          }
+        },
+        {
+          "id": "itemize",
+          "type": "vb",
+          "en": {
+            "word": "itemize",
+            "otherAnswers": ["organize", "structure", "arrange"]
+          },
+          "fr": {
+            "word": "lister",
+            "otherAnswers": ["organiser", "structurer", "agencer"]
+          }
+        },
+        {
+          "id": "lead",
+          "type": "vb",
+          "en": {
+            "word": "lead",
+            "otherAnswers": ["facilitate", "chair", "run"]
+          },
+          "fr": {
+            "word": "mener",
+            "otherAnswers": ["faciliter", "présider", "gérer"]
+          }
+        },
+        {
+          "id": "leading",
+          "type": "adj",
+          "en": {
+            "word": "leading",
+            "otherAnswers": ["chairing", "directing", "facilitating"]
+          },
+          "fr": {
+            "word": "premier",
+            "otherAnswers": ["présidant", "dirigeant", "facilitant"]
+          }
+        },
+        {
+          "id": "leader",
+          "type": "name",
+          "en": {
+            "word": "leader",
+            "otherAnswers": ["chairperson", "facilitator", "moderator"]
+          },
+          "fr": {
+            "word": "leader",
+            "otherAnswers": ["président", "facilitateur", "modérateur"]
+          }
+        },
+        {
+          "id": "minutes",
+          "type": "name",
+          "en": {
+            "word": "minutes",
+            "otherAnswers": ["agenda", "handouts", "summary"]
+          },
+          "fr": {
+            "word": "compte-rendu",
+            "otherAnswers": ["ordre du jour", "documents", "résumé"]
+          }
+        },
+        {
+          "id": "move_up",
+          "type": "vb",
+          "en": {
+            "word": "move up",
+            "otherAnswers": ["reschedule", "prioritize", "advance"]
+          },
+          "fr": {
+            "word": "avancer",
+            "otherAnswers": ["reprogrammer", "prioriser", "progresser"]
+          }
+        },
+        {
+          "id": "overview",
+          "type": "name",
+          "en": {
+            "word": "overview",
+            "otherAnswers": ["introduction", "presentation", "briefing"]
+          },
+          "fr": {
+            "word": "vue d'ensemble",
+            "otherAnswers": ["introduction", "présentation", "briefing"]
+          }
+        },
+        {
+          "id": "postpone",
+          "type": "vb",
+          "en": {
+            "word": "postpone",
+            "otherAnswers": ["cancel", "reschedule", "delay"]
+          },
+          "fr": {
+            "word": "reporter",
+            "otherAnswers": ["annuler", "reprogrammer", "retarder"]
+          }
+        },
+        {
+          "id": "postponement",
+          "type": "name",
+          "en": {
+            "word": "postponement",
+            "otherAnswers": ["cancellation", "rescheduling", "delay"]
+          },
+          "fr": {
+            "word": "report",
+            "otherAnswers": ["annulation", "reprogrammation", "retard"]
+          }
+        },
+        {
+          "id": "projector",
+          "type": "name",
+          "en": {
+            "word": "projector",
+            "otherAnswers": ["screen", "monitor", "flip chart"]
+          },
+          "fr": {
+            "word": "projecteur",
+            "otherAnswers": ["écran", "moniteur", "paper-board"]
+          }
+        },
+        {
+          "id": "project_vb",
+          "type": "vb",
+          "en": {
+            "word": "project",
+            "otherAnswers": ["display", "present", "show"]
+          },
+          "fr": {
+            "word": "projeter",
+            "otherAnswers": ["afficher", "présenter", "montrer"]
+          }
+        },
+        {
+          "id": "resume_vb",
+          "type": "vb",
+          "en": {
+            "word": "resume",
+            "otherAnswers": ["reconvene", "start again", "continue"]
+          },
+          "fr": {
+            "word": "reprendre",
+            "otherAnswers": ["se réunir à nouveau", "recommencer", "continuer"]
+          }
+        },
+        {
+          "id": "resumption",
+          "type": "name",
+          "en": {
+            "word": "resumption",
+            "otherAnswers": ["reconvening", "continuation", "restart"]
+          },
+          "fr": {
+            "word": "reprise",
+            "otherAnswers": ["réunion à nouveau", "continuation", "redémarrage"]
+          }
+        },
+        {
+          "id": "review_name",
+          "type": "name",
+          "en": {
+            "word": "review",
+            "otherAnswers": ["feedback", "analysis", "examination"]
+          },
+          "fr": {
+            "word": "avis",
+            "otherAnswers": ["retour", "analyse", "examen"]
+          }
+        },
+        {
+          "id": "review_vb",
+          "type": "vb",
+          "en": {
+            "word": "review",
+            "otherAnswers": ["check", "analyze", "go through"]
+          },
+          "fr": {
+            "word": "passer en revue",
+            "otherAnswers": ["vérifier", "analyser", "parcourir"]
+          }
+        },
+        {
+          "id": "reviewer",
+          "type": "name",
+          "en": {
+            "word": "reviewer",
+            "otherAnswers": ["assessor", "analyst", "commentator"]
+          },
+          "fr": {
+            "word": "critique",
+            "otherAnswers": ["évaluateur", "analyste", "commentateur"]
+          }
+        },
+        {
+          "id": "screen",
+          "type": "name",
+          "en": {
+            "word": "screen",
+            "otherAnswers": ["projector", "monitor", "display panel"]
+          },
+          "fr": {
+            "word": "écran",
+            "otherAnswers": ["projecteur", "moniteur", "panneau d'affichage"]
+          }
+        },
+        {
+          "id": "sum_up",
+          "type": "vb",
+          "en": {
+            "word": "sum up",
+            "otherAnswers": ["conclude", "end", "close"]
+          },
+          "fr": {
+            "word": "résumer",
+            "otherAnswers": ["conclure", "terminer", "clore"]
+          }
+        },
+        {
+          "id": "summary",
+          "type": "name",
+          "en": {
+            "word": "summary",
+            "otherAnswers": ["conclusion", "wrap-up", "closing remarks"]
+          },
+          "fr": {
+            "word": "résumé",
+            "otherAnswers": ["conclusion", "clôture", "remarques finales"]
+          }
+        },
+        {
+          "id": "summarize",
+          "type": "vb",
+          "en": {
+            "word": "summarize",
+            "otherAnswers": ["conclude", "wrap up", "close"]
+          },
+          "fr": {
+            "word": "résumer",
+            "otherAnswers": ["conclure", "finaliser", "clôturer"]
+          }
+        },
+        {
+          "id": "take_place",
+          "type": "vb",
+          "en": {
+            "word": "take place",
+            "otherAnswers": ["be scheduled", "be organized", "be conducted"]
+          },
+          "fr": {
+            "word": "avoir lieu",
+            "otherAnswers": ["être programmé", "être organisé", "être mené"]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "categories": [
+    {
+      "id": "ordering",
+      "nameEn": "Ordering",
+      "nameFr": "Commander",
+      "words": [
+        {
+          "id": "after-sales-service",
+          "type": "name",
+          "en": {
+            "word": "after-sales service",
+            "otherAnswers": [
+              "product return",
+              "maintenance department",
+              "repair service"
+            ]
+          },
+          "fr": {
+            "word": "SAV",
+            "otherAnswers": [
+              "service client",
+              "service de réparation",
+              "service après-vente"
+            ]
+          }
+        },
+        {
+          "id": "batch",
+          "type": "name",
+          "en": {
+            "word": "batch",
+            "otherAnswers": ["shipment", "consignment", "delivery lot"]
+          },
+          "fr": {
+            "word": "lot",
+            "otherAnswers": ["livraison", "envoi groupé", "cargaison"]
+          }
+        },
+        {
+          "id": "click-and-collect",
+          "type": "verb",
+          "en": {
+            "word": "click and collect",
+            "otherAnswers": [
+              "reserve online",
+              "drive-through pickup",
+              "curbside collection"
+            ]
+          },
+          "fr": {
+            "word": "commander en ligne et retirer en magasin",
+            "otherAnswers": [
+              "retrait en drive",
+              "click & collect",
+              "retrait express"
+            ]
+          }
+        },
+        {
+          "id": "complimentary",
+          "type": "adjective",
+          "en": {
+            "word": "complimentary",
+            "otherAnswers": ["courtesy", "promotional", "bonus"]
+          },
+          "fr": {
+            "word": "gratuit",
+            "otherAnswers": ["en cadeau", "promotionnel", "en prime"]
+          }
+        },
+        {
+          "id": "compliment",
+          "type": "name",
+          "en": {
+            "word": "compliment",
+            "otherAnswers": [
+              "positive review",
+              "customer feedback",
+              "appreciation note"
+            ]
+          },
+          "fr": {
+            "word": "compliment",
+            "otherAnswers": [
+              "avis positif",
+              "commentaire favorable",
+              "retour client"
+            ]
+          }
+        },
+        {
+          "id": "deadline",
+          "type": "name",
+          "en": {
+            "word": "deadline",
+            "otherAnswers": ["delivery date", "order cutoff", "shipping window"]
+          },
+          "fr": {
+            "word": "date limite",
+            "otherAnswers": [
+              "date de livraison",
+              "fin de commande",
+              "période d'expédition"
+            ]
+          }
+        },
+        {
+          "id": "deal",
+          "type": "name",
+          "en": {
+            "word": "deal",
+            "otherAnswers": [
+              "special offer",
+              "promotion",
+              "discount opportunity"
+            ]
+          },
+          "fr": {
+            "word": "affaire",
+            "otherAnswers": ["promotion", "offre spéciale", "bon plan"]
+          }
+        },
+        {
+          "id": "deal-in",
+          "type": "verb",
+          "en": {
+            "word": "deal in",
+            "otherAnswers": ["specialize in", "stock", "supply"]
+          },
+          "fr": {
+            "word": "vendre",
+            "otherAnswers": ["proposer", "distribuer", "fournir"]
+          }
+        },
+        {
+          "id": "defective",
+          "type": "adjective",
+          "en": {
+            "word": "defective",
+            "otherAnswers": ["damaged", "malfunctioning", "substandard"]
+          },
+          "fr": {
+            "word": "défectueux",
+            "otherAnswers": ["détérioré", "en panne", "de mauvaise qualité"]
+          }
+        },
+        {
+          "id": "defect",
+          "type": "name",
+          "en": {
+            "word": "defect",
+            "otherAnswers": ["damage", "malfunction", "manufacturing error"]
+          },
+          "fr": {
+            "word": "défaut",
+            "otherAnswers": [
+              "dommage",
+              "dysfonctionnement",
+              "erreur de fabrication"
+            ]
+          }
+        },
+        {
+          "id": "discard",
+          "type": "verb",
+          "en": {
+            "word": "discard",
+            "otherAnswers": ["return", "cancel order", "reject"]
+          },
+          "fr": {
+            "word": "jeter",
+            "otherAnswers": ["retourner", "annuler la commande", "rejeter"]
+          }
+        },
+        {
+          "id": "goods",
+          "type": "name",
+          "en": {
+            "word": "goods",
+            "otherAnswers": ["inventory", "stock items", "shipment"]
+          },
+          "fr": {
+            "word": "marchandises",
+            "otherAnswers": ["stock", "inventaire", "livraison"]
+          }
+        },
+        {
+          "id": "item",
+          "type": "name",
+          "en": {
+            "word": "item",
+            "otherAnswers": ["unit", "SKU", "listing"]
+          },
+          "fr": {
+            "word": "article",
+            "otherAnswers": ["unité", "référence", "produit catalogué"]
+          }
+        },
+        {
+          "id": "merchandise-noun",
+          "type": "name",
+          "en": {
+            "word": "merchandise",
+            "otherAnswers": ["inventory", "retail items", "store products"]
+          },
+          "fr": {
+            "word": "marchandise",
+            "otherAnswers": [
+              "stock",
+              "produits en magasin",
+              "articles de vente"
+            ]
+          }
+        },
+        {
+          "id": "merchandise-verb",
+          "type": "verb",
+          "en": {
+            "word": "merchandise",
+            "otherAnswers": ["display", "advertise", "retail"]
+          },
+          "fr": {
+            "word": "commercialiser",
+            "otherAnswers": ["présenter", "exposer", "mettre en rayon"]
+          }
+        },
+        {
+          "id": "place-an-order",
+          "type": "verb",
+          "en": {
+            "word": "place an order",
+            "otherAnswers": [
+              "reserve items",
+              "submit a purchase",
+              "request products"
+            ]
+          },
+          "fr": {
+            "word": "passer une commande",
+            "otherAnswers": [
+              "réserver des articles",
+              "demander des produits",
+              "soumettre un achat"
+            ]
+          }
+        },
+        {
+          "id": "purchaser",
+          "type": "name",
+          "en": {
+            "word": "purchaser",
+            "otherAnswers": ["shopper", "consumer", "patron"]
+          },
+          "fr": {
+            "word": "acheteur",
+            "otherAnswers": ["client", "consommateur", "chaland"]
+          }
+        },
+        {
+          "id": "purchasing-noun",
+          "type": "name",
+          "en": {
+            "word": "purchasing",
+            "otherAnswers": ["ordering", "shopping", "sourcing"]
+          },
+          "fr": {
+            "word": "achat",
+            "otherAnswers": ["commande", "shopping", "approvisionnement"]
+          }
+        },
+        {
+          "id": "purchasing-adj",
+          "type": "adjective",
+          "en": {
+            "word": "purchasing",
+            "otherAnswers": ["shopping", "ordering", "procurement"]
+          },
+          "fr": {
+            "word": "d'achat",
+            "otherAnswers": ["de commande", "d'acquisition", "commercial"]
+          }
+        },
+        {
+          "id": "purchase",
+          "type": "verb",
+          "en": {
+            "word": "purchase",
+            "otherAnswers": ["order", "shop for", "procure"]
+          },
+          "fr": {
+            "word": "acheter",
+            "otherAnswers": ["commander", "faire des emplettes", "se procurer"]
+          }
+        },
+        {
+          "id": "quote-noun",
+          "type": "name",
+          "en": {
+            "word": "quote",
+            "otherAnswers": ["price proposal", "cost estimate", "pricing"]
+          },
+          "fr": {
+            "word": "devis",
+            "otherAnswers": [
+              "proposition de prix",
+              "tarification",
+              "prix estimé"
+            ]
+          }
+        },
+        {
+          "id": "quote-verb",
+          "type": "verb",
+          "en": {
+            "word": "quote",
+            "otherAnswers": ["provide cost", "set price", "calculate charges"]
+          },
+          "fr": {
+            "word": "donner un prix",
+            "otherAnswers": [
+              "établir un devis",
+              "proposer un tarif",
+              "calculer le coût"
+            ]
+          }
+        },
+        {
+          "id": "rebate",
+          "type": "name",
+          "en": {
+            "word": "rebate",
+            "otherAnswers": ["cashback", "price adjustment", "money-back offer"]
+          },
+          "fr": {
+            "word": "remise",
+            "otherAnswers": [
+              "cashback",
+              "remboursement partiel",
+              "réduction après achat"
+            ]
+          }
+        },
+        {
+          "id": "recall",
+          "type": "verb",
+          "en": {
+            "word": "recall",
+            "otherAnswers": [
+              "request return",
+              "pull from market",
+              "discontinue"
+            ]
+          },
+          "fr": {
+            "word": "rappeler",
+            "otherAnswers": [
+              "demander le retour",
+              "retirer du marché",
+              "interrompre la vente"
+            ]
+          }
+        },
+        {
+          "id": "refund-noun",
+          "type": "name",
+          "en": {
+            "word": "refund",
+            "otherAnswers": ["money return", "credit note", "payment reversal"]
+          },
+          "fr": {
+            "word": "remboursement",
+            "otherAnswers": ["avoir", "crédit client", "annulation de paiement"]
+          }
+        },
+        {
+          "id": "refund-verb",
+          "type": "verb",
+          "en": {
+            "word": "refund",
+            "otherAnswers": ["credit back", "return payment", "issue refund"]
+          },
+          "fr": {
+            "word": "rembourser",
+            "otherAnswers": [
+              "créditer",
+              "restituer le paiement",
+              "émettre un avoir"
+            ]
+          }
+        },
+        {
+          "id": "refundable",
+          "type": "adjective",
+          "en": {
+            "word": "refundable",
+            "otherAnswers": [
+              "exchangeable",
+              "money-back",
+              "returnable for credit"
+            ]
+          },
+          "fr": {
+            "word": "remboursable",
+            "otherAnswers": [
+              "échangeable",
+              "avec garantie satisfait ou remboursé",
+              "retournable avec avoir"
+            ]
+          }
+        },
+        {
+          "id": "retailer",
+          "type": "name",
+          "en": {
+            "word": "retailer",
+            "otherAnswers": ["shop owner", "store", "retail outlet"]
+          },
+          "fr": {
+            "word": "détaillant",
+            "otherAnswers": ["magasin", "commerce", "point de vente"]
+          }
+        },
+        {
+          "id": "retail",
+          "type": "adjective",
+          "en": {
+            "word": "retail",
+            "otherAnswers": ["store", "shop", "consumer"]
+          },
+          "fr": {
+            "word": "de détail",
+            "otherAnswers": ["de magasin", "de commerce", "grand public"]
+          }
+        },
+        {
+          "id": "return",
+          "type": "verb",
+          "en": {
+            "word": "return",
+            "otherAnswers": [
+              "exchange",
+              "send back merchandise",
+              "request refund"
+            ]
+          },
+          "fr": {
+            "word": "retourner",
+            "otherAnswers": [
+              "échanger",
+              "renvoyer la marchandise",
+              "demander un remboursement"
+            ]
+          }
+        },
+        {
+          "id": "shipping-cost",
+          "type": "name",
+          "en": {
+            "word": "shipping cost",
+            "otherAnswers": [
+              "transportation fee",
+              "delivery expense",
+              "shipping charge"
+            ]
+          },
+          "fr": {
+            "word": "frais de port",
+            "otherAnswers": [
+              "coût de transport",
+              "frais d'acheminement",
+              "tarif d'envoi"
+            ]
+          }
+        },
+        {
+          "id": "stock",
+          "type": "name",
+          "en": {
+            "word": "stock",
+            "otherAnswers": [
+              "merchandise on hand",
+              "product availability",
+              "warehouse items"
+            ]
+          },
+          "fr": {
+            "word": "inventaire",
+            "otherAnswers": [
+              "stock disponible",
+              "produits en magasin",
+              "articles en entrepôt"
+            ]
+          }
+        },
+        {
+          "id": "stocktaking",
+          "type": "name",
+          "en": {
+            "word": "stocktaking",
+            "otherAnswers": [
+              "merchandise count",
+              "inventory review",
+              "product auditing"
+            ]
+          },
+          "fr": {
+            "word": "inventaire",
+            "otherAnswers": [
+              "comptage des marchandises",
+              "contrôle de stock",
+              "audit des produits"
+            ]
+          }
+        },
+        {
+          "id": "stockpile",
+          "type": "verb",
+          "en": {
+            "word": "stockpile",
+            "otherAnswers": [
+              "build inventory",
+              "store excess",
+              "maintain reserves"
+            ]
+          },
+          "fr": {
+            "word": "constituer un stock",
+            "otherAnswers": [
+              "augmenter les réserves",
+              "approvisionner",
+              "conserver des surplus"
+            ]
+          }
+        },
+        {
+          "id": "supplier",
+          "type": "name",
+          "en": {
+            "word": "supplier",
+            "otherAnswers": ["manufacturer", "producer", "source company"]
+          },
+          "fr": {
+            "word": "fournisseur",
+            "otherAnswers": [
+              "fabricant",
+              "producteur",
+              "société d'approvisionnement"
+            ]
+          }
+        },
+        {
+          "id": "variety",
+          "type": "name",
+          "en": {
+            "word": "variety",
+            "otherAnswers": [
+              "product lineup",
+              "merchandise options",
+              "catalog choices"
+            ]
+          },
+          "fr": {
+            "word": "variété",
+            "otherAnswers": [
+              "gamme de produits",
+              "choix de marchandises",
+              "options du catalogue"
+            ]
+          }
+        },
+        {
+          "id": "various",
+          "type": "adjective",
+          "en": {
+            "word": "various",
+            "otherAnswers": [
+              "multiple product",
+              "diverse merchandise",
+              "wide range"
+            ]
+          },
+          "fr": {
+            "word": "divers",
+            "otherAnswers": [
+              "produits multiples",
+              "marchandises variées",
+              "large gamme"
+            ]
+          }
+        },
+        {
+          "id": "vary",
+          "type": "verb",
+          "en": {
+            "word": "vary",
+            "otherAnswers": [
+              "diversify products",
+              "change offerings",
+              "modify selection"
+            ]
+          },
+          "fr": {
+            "word": "varier",
+            "otherAnswers": [
+              "diversifier les produits",
+              "modifier l'offre",
+              "changer la sélection"
+            ]
+          }
+        },
+        {
+          "id": "warranty",
+          "type": "name",
+          "en": {
+            "word": "warranty",
+            "otherAnswers": [
+              "quality promise",
+              "product coverage",
+              "service agreement"
+            ]
+          },
+          "fr": {
+            "word": "garantie",
+            "otherAnswers": [
+              "promesse de qualité",
+              "couverture produit",
+              "contrat de service"
+            ]
+          }
+        },
+        {
+          "id": "wholesaler",
+          "type": "name",
+          "en": {
+            "word": "wholesaler",
+            "otherAnswers": ["bulk seller", "trade supplier", "B2B provider"]
+          },
+          "fr": {
+            "word": "grossiste",
+            "otherAnswers": [
+              "vendeur en gros",
+              "fournisseur professionnel",
+              "prestataire B2B"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
