@@ -35,8 +35,6 @@
 </template>
 
 <script setup lang="ts">
-import { defineEmits } from 'vue';
-
 const emit = defineEmits<{
   (e: 'update:modelValue', value: number): void;
   (e: 'prev'): void;

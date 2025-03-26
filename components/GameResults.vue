@@ -35,7 +35,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, defineEmits, ref, onMounted, watch } from 'vue';
+import { computed, ref, onMounted, watch } from 'vue';
 import { gsap } from 'gsap';
 
 const confettiContainer = ref<HTMLDivElement | null>(null);
