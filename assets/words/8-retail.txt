@@ -1,0 +1,58 @@
+aisle (nom) allée
+apparel (nom indénombrable) les vêtements
+appliance (nom) appareil électroménager
+browse (vb) regarder, jeter un coup d'œil
+carry (vb) vendre
+cart (nom) chariot
+cart (vb) transporter
+cart away (vb) enlever
+cashier (nom) caissier, caissière
+cash register (nom) caisse (machine)
+change (nom indénombrable) monnaie
+checkout (nom) caisse
+coupon (nom) bon (de réduction)
+dairy products (nom) produits laitiers
+discount (nom) réduction, remise
+discount (vb) solder
+discounter (nom) magasin discount
+display (nom) présentoir
+display (vb) exposer
+fabric (nom) tissu
+fabrication (nom) fabrication
+fit (vb) aller à (taille)
+fitting (adj) approprié, juste
+fitting room (nom) cabine d'essayage
+garment (nom) vêtement
+label (nom) étiquette
+label (vb) étiqueter
+labeling (nom) étiquetage
+loyal (adj) fidèle, loyal
+loyalty (nom) loyauté, fidélité
+make (vb) fabriquer
+mall (nom) centre commercial
+mark down (vb) baisser un prix
+markdown (nom) rabais, réduction
+markup (nom) marge
+outlet (nom) point de vente
+factory outlet (nom) magasin d'usine
+power outlet (nom) prise électrique
+produce (nom) fruits et légumes
+produce (vb) produire
+product (nom) produit
+producer (nom) producteur
+receipt (nom) ticket de caisse
+sale (nom) promotion
+sales (nom) soldes
+salesperson (nom) vendeur
+sleeve (nom) manche
+in shirtsleeves (exp) en manches de chemise
+have something up your sleeve (exp) avoir plus d'un tour dans son sac
+stock (nom) avoir en stock
+stocked (adj) approvisionné
+out of stock (exp) en rupture de stock
+shelf stocker (nom) employé de libre-service
+restock (vb) regarnir, réapprovisionner
+store (nom) magasin
+store associate (nom) employé de magasin
+suit (nom) costume
+suit (vb) aller à

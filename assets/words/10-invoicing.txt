@@ -1,0 +1,41 @@
+actually (adv) en fait
+amout (nom) montant
+bill (nom) facture
+bill (vb) facturer
+charge (nom) frais
+charge (vb) facturer
+overcharge (vb) surfacturer
+undercharge (vb) sous-facturer
+creditor (nom) créancier
+desregard (vb) ne pas tenir compte de
+regarding (prep) concernant
+regardless of (prep) sans tenir compte de
+due (adj) dû (somme), attendu (personne), a rendre (projet)
+due to (prep) en raison de
+fee (nom) frais
+fine (nom) amende
+fine (vb) infliger une amende
+fine print (exp) petits caractères
+hopefully (adv) avec un peu de chance
+hope (vb) espérer
+invoice (nom) facture
+invoice (vb) facturer
+invoicing (nom) facturation
+invoicing (adj) de facturation
+issue (vb) émettre
+issuer (nom) émetteur
+oustanding (adj) impayé
+payable (adj) payable
+payer (nom) payeur
+payee (nom) bénéficiaire
+pending (adj) en attente
+reminder (nom) rappel
+remind (vb) rappeler
+shipping and handling (nom) frais de port et de manutention
+term of payment (nom) condition de paiement
+unit (nom) unité
+void (adj) nul
+void (vb) annuler
+waive (vb) renoncer à
+waiver (nom) renonciation
+within (prep) dans les, d'ici

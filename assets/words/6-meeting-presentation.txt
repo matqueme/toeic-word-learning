@@ -1,0 +1,41 @@
+agenda (nom) ordre du jour
+hidden agenda (nom) arriere-pensée
+be Set for (vb) être prêt pour
+cancel (vb) annuler
+cancellation (nom) annulation
+chair (Yb) présider
+chair, chairman, chairwoman, chairperson (nom) président(e)
+chart (nom) graphique, diagramme, tableau
+bar chart (nom) histogramme
+pie chart (nom) graphique à secteurs, camembert
+closed (adj) fini
+conclude (vb) conclure, terminer, finir
+inconclusive (adj) peu concluant
+conclusivety (adv) définitivement
+flip chart (nom) paper-board
+flip over (vb) retourner
+flip through (vb) feuilleter
+graph (nom) graphique
+hold (vb) organiser, se tenir
+item (nom) sujet
+itemize (vb) lister
+lead (vb) mener, conduire
+leading (adj) premier, de tête
+leader (nom) leader
+minutes (nom) compte-rendu, procès-verbal
+move up (vb) avancer (date)
+overview (nom) vue d'ensemble, aperçu
+postpone (vb) reporter
+postponement (nom) report
+projector (nom) projecteur
+project (vb) projeter, avoir le projet de
+resume (vb) reprendre
+resumption (nom) reprise
+review (nom) avis, critique,
+review (vb) passer en revue
+reviewer (nom) critique (métier)
+screen (nom) écran
+sum up (vb) résumer
+summary (nom) résumé
+summarize (vb) résumer
+take place (vb) avoir lieu

@@ -1,0 +1,40 @@
+after-sales service (nom) SAV
+batch (nom) lot
+click and collect (vb) commander en ligne et retirer en magasin
+complimentary (adj) gratuit, offert
+compliment (nom) compliment
+deadline (nom) date butoir, date limite
+deal (nom) affaire
+deal in (vb) vendre
+defective (adj) défectueux
+defect (nom) défaut
+descard (vb) jeter
+goods (nom) marchandises
+item (nom) article
+merchandise (nom) marchandise
+merchandise (vb) commercialiser
+place an order (vb) passer une commande
+purchaser (nom) acheteur
+purchasing (nom) achat
+purchasing (adj) d'achat
+purchase (vb) acheter
+quote (nom) devis
+quote (vb) donner un prix
+rebate (nom) remise
+recall (vb) rappeler
+refund (nom) remboursement
+refund (vb) rembourser
+refondable (adj) remboursable
+retailer (nom) détaillant
+retail (adj) de détail
+return (vb) retourner (un article)
+shipping cost (nom) frais de port
+stock (nom) inventaire
+stocktaking (nom) inventaire (action)
+stockpile (vb) constituer un stock
+supplier (nom) fournisseur
+variety (nom) variété
+various (adj) divers
+vary (vb) varier
+waranty (nom) garantie
+wholesaler (nom) grossiste
