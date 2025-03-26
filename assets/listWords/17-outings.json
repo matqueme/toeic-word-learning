@@ -1,0 +1,639 @@
+{
+  "categories": [
+    {
+      "id": "outings",
+      "nameEn": "Outings",
+      "nameFr": "Sorties",
+      "words": [
+        {
+          "id": "cast_noun",
+          "type": "name",
+          "en": {
+            "word": "cast",
+            "otherAnswers": ["ensemble", "performers", "troupe"]
+          },
+          "fr": {
+            "word": "distribution",
+            "otherAnswers": ["casting", "interprètes", "ensemble"]
+          }
+        },
+        {
+          "id": "cast_verb",
+          "type": "verb",
+          "en": {
+            "word": "cast",
+            "otherAnswers": ["select", "choose", "appoint"]
+          },
+          "fr": {
+            "word": "attribuer",
+            "otherAnswers": ["choisir", "sélectionner", "nommer"]
+          }
+        },
+        {
+          "id": "character",
+          "type": "name",
+          "en": {
+            "word": "character",
+            "otherAnswers": ["part", "protagonist", "personality"]
+          },
+          "fr": {
+            "word": "personnage",
+            "otherAnswers": ["héros", "interprète", "caractère"]
+          }
+        },
+        {
+          "id": "characterization",
+          "type": "name",
+          "en": {
+            "word": "characterization",
+            "otherAnswers": ["interpretation", "rendering", "personification"]
+          },
+          "fr": {
+            "word": "caractérisation",
+            "otherAnswers": ["interprétation", "incarnation", "mise en valeur"]
+          }
+        },
+        {
+          "id": "characterize",
+          "type": "verb",
+          "en": {
+            "word": "characterize",
+            "otherAnswers": ["depict", "portray", "represent"]
+          },
+          "fr": {
+            "word": "définir",
+            "otherAnswers": ["incarner", "interpréter", "représenter"]
+          }
+        },
+        {
+          "id": "comedian",
+          "type": "name",
+          "en": {
+            "word": "comedian",
+            "otherAnswers": ["entertainer", "stand-up", "jester"]
+          },
+          "fr": {
+            "word": "humoriste",
+            "otherAnswers": ["amuseur", "artiste comique", "bouffon"]
+          }
+        },
+        {
+          "id": "conduct",
+          "type": "verb",
+          "en": {
+            "word": "conduct",
+            "otherAnswers": ["guide", "coordinate", "supervise"]
+          },
+          "fr": {
+            "word": "diriger",
+            "otherAnswers": ["guider", "coordonner", "superviser"]
+          }
+        },
+        {
+          "id": "conductor",
+          "type": "name",
+          "en": {
+            "word": "conductor",
+            "otherAnswers": ["orchestrator", "bandleader", "music director"]
+          },
+          "fr": {
+            "word": "chef d'orchestre",
+            "otherAnswers": [
+              "orchestrateur",
+              "directeur musical",
+              "maître de musique"
+            ]
+          }
+        },
+        {
+          "id": "critic",
+          "type": "name",
+          "en": {
+            "word": "critic",
+            "otherAnswers": ["columnist", "appraiser", "pundit"]
+          },
+          "fr": {
+            "word": "critique",
+            "otherAnswers": ["chroniqueur", "journaliste culturel", "expert"]
+          }
+        },
+        {
+          "id": "criticism",
+          "type": "name",
+          "en": {
+            "word": "criticism",
+            "otherAnswers": ["commentary", "opinion", "analysis"]
+          },
+          "fr": {
+            "word": "critique",
+            "otherAnswers": ["analyse", "commentaire", "opinion"]
+          }
+        },
+        {
+          "id": "criticize",
+          "type": "verb",
+          "en": {
+            "word": "criticize",
+            "otherAnswers": ["analyze", "comment on", "examine"]
+          },
+          "fr": {
+            "word": "critiquer",
+            "otherAnswers": ["analyser", "commenter", "examiner"]
+          }
+        },
+        {
+          "id": "crowd_noun",
+          "type": "name",
+          "en": {
+            "word": "crowd",
+            "otherAnswers": ["gathering", "spectators", "group"]
+          },
+          "fr": {
+            "word": "foule",
+            "otherAnswers": ["assistance", "spectateurs", "auditoire"]
+          }
+        },
+        {
+          "id": "crowd_verb",
+          "type": "verb",
+          "en": {
+            "word": "crowd",
+            "otherAnswers": ["assemble", "swarm", "cluster"]
+          },
+          "fr": {
+            "word": "s'attrouper",
+            "otherAnswers": ["s'amasser", "se réunir", "converger"]
+          }
+        },
+        {
+          "id": "crowded",
+          "type": "adjective",
+          "en": {
+            "word": "crowded",
+            "otherAnswers": ["cramped", "congested", "thronged"]
+          },
+          "fr": {
+            "word": "bondé",
+            "otherAnswers": ["surpeuplé", "encombré", "surchargé"]
+          }
+        },
+        {
+          "id": "director",
+          "type": "name",
+          "en": {
+            "word": "director",
+            "otherAnswers": ["supervisor", "helmer", "auteur"]
+          },
+          "fr": {
+            "word": "réalisateur",
+            "otherAnswers": ["metteur en scène", "producteur", "superviseur"]
+          }
+        },
+        {
+          "id": "direct",
+          "type": "verb",
+          "en": {
+            "word": "direct",
+            "otherAnswers": ["guide", "orchestrate", "oversee"]
+          },
+          "fr": {
+            "word": "réaliser",
+            "otherAnswers": ["orchestrer", "superviser", "guider"]
+          }
+        },
+        {
+          "id": "exhibition",
+          "type": "name",
+          "en": {
+            "word": "exhibition",
+            "otherAnswers": ["expo", "gallery", "collection"]
+          },
+          "fr": {
+            "word": "exposition",
+            "otherAnswers": ["expo", "collection", "salon"]
+          }
+        },
+        {
+          "id": "exhibitor",
+          "type": "name",
+          "en": {
+            "word": "exhibitor",
+            "otherAnswers": ["vendor", "artist", "contributor"]
+          },
+          "fr": {
+            "word": "exposant",
+            "otherAnswers": ["vendeur", "contributeur", "galeriste"]
+          }
+        },
+        {
+          "id": "exhibit",
+          "type": "verb",
+          "en": {
+            "word": "exhibit",
+            "otherAnswers": ["showcase", "demonstrate", "feature"]
+          },
+          "fr": {
+            "word": "exposer",
+            "otherAnswers": ["mettre en valeur", "démontrer", "présenter"]
+          }
+        },
+        {
+          "id": "intermission",
+          "type": "name",
+          "en": {
+            "word": "intermission",
+            "otherAnswers": ["recess", "interlude", "halftime"]
+          },
+          "fr": {
+            "word": "entracte",
+            "otherAnswers": ["récréation", "interlude", "mi-temps"]
+          }
+        },
+        {
+          "id": "matinee",
+          "type": "name",
+          "en": {
+            "word": "matinee",
+            "otherAnswers": ["performance", "screening", "show"]
+          },
+          "fr": {
+            "word": "matinée",
+            "otherAnswers": ["représentation", "spectacle", "séance"]
+          }
+        },
+        {
+          "id": "opening",
+          "type": "name",
+          "en": {
+            "word": "opening",
+            "otherAnswers": ["first night", "inauguration", "introduction"]
+          },
+          "fr": {
+            "word": "ouverture",
+            "otherAnswers": ["première", "lancement", "début"]
+          }
+        },
+        {
+          "id": "painting_noun",
+          "type": "name",
+          "en": {
+            "word": "painting",
+            "otherAnswers": ["composition", "portrait", "masterpiece"]
+          },
+          "fr": {
+            "word": "tableau",
+            "otherAnswers": ["composition", "portrait", "chef-d'œuvre"]
+          }
+        },
+        {
+          "id": "paint_noun",
+          "type": "name",
+          "en": {
+            "word": "paint",
+            "otherAnswers": ["medium", "oil", "acrylic"]
+          },
+          "fr": {
+            "word": "peinture",
+            "otherAnswers": ["médium", "huile", "acrylique"]
+          }
+        },
+        {
+          "id": "paint_verb",
+          "type": "verb",
+          "en": {
+            "word": "paint",
+            "otherAnswers": ["create", "brush", "render"]
+          },
+          "fr": {
+            "word": "peindre",
+            "otherAnswers": ["créer", "brosser", "représenter"]
+          }
+        },
+        {
+          "id": "painter",
+          "type": "name",
+          "en": {
+            "word": "painter",
+            "otherAnswers": ["illustrator", "muralist", "colorist"]
+          },
+          "fr": {
+            "word": "peintre",
+            "otherAnswers": ["illustrateur", "muraliste", "coloriste"]
+          }
+        },
+        {
+          "id": "paintbrush",
+          "type": "name",
+          "en": {
+            "word": "paintbrush",
+            "otherAnswers": ["bristle", "sable brush", "fan brush"]
+          },
+          "fr": {
+            "word": "pinceau",
+            "otherAnswers": [
+              "brosse d'artiste",
+              "pinceau à poils fins",
+              "brosse éventail"
+            ]
+          }
+        },
+        {
+          "id": "play_noun",
+          "type": "name",
+          "en": {
+            "word": "play",
+            "otherAnswers": ["production", "theatrical", "script"]
+          },
+          "fr": {
+            "word": "pièce de théâtre",
+            "otherAnswers": ["œuvre théâtrale", "production", "comédie"]
+          }
+        },
+        {
+          "id": "play_verb",
+          "type": "verb",
+          "en": {
+            "word": "play",
+            "otherAnswers": ["stream", "air", "present"]
+          },
+          "fr": {
+            "word": "passer",
+            "otherAnswers": ["présenter", "diffuser", "projeter"]
+          }
+        },
+        {
+          "id": "plot",
+          "type": "name",
+          "en": {
+            "word": "plot",
+            "otherAnswers": ["action", "scenario", "theme"]
+          },
+          "fr": {
+            "word": "intrigue",
+            "otherAnswers": ["action", "scénario", "thème"]
+          }
+        },
+        {
+          "id": "rehearsal_noun",
+          "type": "name",
+          "en": {
+            "word": "rehearsal",
+            "otherAnswers": ["dry run", "trial", "walkthrough"]
+          },
+          "fr": {
+            "word": "répétition",
+            "otherAnswers": ["filage", "essai", "préparation"]
+          }
+        },
+        {
+          "id": "rehearsal_verb",
+          "type": "verb",
+          "en": {
+            "word": "rehearse",
+            "otherAnswers": ["drill", "run through", "go over"]
+          },
+          "fr": {
+            "word": "répéter",
+            "otherAnswers": ["filer", "travailler", "perfectionner"]
+          }
+        },
+        {
+          "id": "review_noun",
+          "type": "name",
+          "en": {
+            "word": "review",
+            "otherAnswers": ["appraisal", "write-up", "notice"]
+          },
+          "fr": {
+            "word": "critique",
+            "otherAnswers": ["appréciation", "article", "avis"]
+          }
+        },
+        {
+          "id": "review_verb",
+          "type": "verb",
+          "en": {
+            "word": "review",
+            "otherAnswers": ["appraise", "rate", "write about"]
+          },
+          "fr": {
+            "word": "faire la critique de",
+            "otherAnswers": ["analyser", "noter", "commenter"]
+          }
+        },
+        {
+          "id": "reviewer",
+          "type": "name",
+          "en": {
+            "word": "reviewer",
+            "otherAnswers": ["journalist", "columnist", "writer"]
+          },
+          "fr": {
+            "word": "critique",
+            "otherAnswers": ["journaliste", "chroniqueur", "rédacteur"]
+          }
+        },
+        {
+          "id": "runway",
+          "type": "name",
+          "en": {
+            "word": "runway",
+            "otherAnswers": ["ramp", "walkway", "aisle"]
+          },
+          "fr": {
+            "word": "podium",
+            "otherAnswers": ["passerelle", "estrade de défilé", "piste"]
+          }
+        },
+        {
+          "id": "sculptor",
+          "type": "name",
+          "en": {
+            "word": "sculptor",
+            "otherAnswers": ["statue maker", "modeler", "stoneworker"]
+          },
+          "fr": {
+            "word": "sculpteur",
+            "otherAnswers": ["statuaire", "modeleur", "tailleur de pierre"]
+          }
+        },
+        {
+          "id": "sculpt",
+          "type": "verb",
+          "en": {
+            "word": "sculpt",
+            "otherAnswers": ["chisel", "form", "craft"]
+          },
+          "fr": {
+            "word": "sculpter",
+            "otherAnswers": ["ciseler", "former", "modeler"]
+          }
+        },
+        {
+          "id": "sequel",
+          "type": "name",
+          "en": {
+            "word": "sequel",
+            "otherAnswers": ["successor", "second part", "installment"]
+          },
+          "fr": {
+            "word": "suite",
+            "otherAnswers": ["second volet", "opus", "épisode suivant"]
+          }
+        },
+        {
+          "id": "prequel",
+          "type": "name",
+          "en": {
+            "word": "prequel",
+            "otherAnswers": ["backstory", "antecedent", "forerunner"]
+          },
+          "fr": {
+            "word": "préquel",
+            "otherAnswers": ["antépisode", "histoire antérieure", "préhistoire"]
+          }
+        },
+        {
+          "id": "shoot",
+          "type": "verb",
+          "en": {
+            "word": "shoot",
+            "otherAnswers": ["photograph", "tape", "record"]
+          },
+          "fr": {
+            "word": "tourner",
+            "otherAnswers": ["photographier", "enregistrer", "capturer"]
+          }
+        },
+        {
+          "id": "showing",
+          "type": "name",
+          "en": {
+            "word": "showing",
+            "otherAnswers": ["performance", "viewing", "display"]
+          },
+          "fr": {
+            "word": "projection",
+            "otherAnswers": ["visionnage", "présentation", "séance"]
+          }
+        },
+        {
+          "id": "show_noun",
+          "type": "name",
+          "en": {
+            "word": "show",
+            "otherAnswers": ["exhibit", "presentation", "event"]
+          },
+          "fr": {
+            "word": "spectacle",
+            "otherAnswers": ["exhibition", "présentation", "événement"]
+          }
+        },
+        {
+          "id": "show_verb",
+          "type": "verb",
+          "en": {
+            "word": "show",
+            "otherAnswers": ["reveal", "demonstrate", "showcase"]
+          },
+          "fr": {
+            "word": "passer",
+            "otherAnswers": ["révéler", "démontrer", "mettre en valeur"]
+          }
+        },
+        {
+          "id": "stage_noun",
+          "type": "name",
+          "en": {
+            "word": "stage",
+            "otherAnswers": ["boards", "theater", "podium"]
+          },
+          "fr": {
+            "word": "scène",
+            "otherAnswers": ["tréteaux", "théâtre", "podium"]
+          }
+        },
+        {
+          "id": "stage_verb",
+          "type": "verb",
+          "en": {
+            "word": "stage",
+            "otherAnswers": ["mount", "orchestrate", "organize"]
+          },
+          "fr": {
+            "word": "mettre en scène",
+            "otherAnswers": ["monter", "orchestrer", "organiser"]
+          }
+        },
+        {
+          "id": "star_noun",
+          "type": "name",
+          "en": {
+            "word": "star",
+            "otherAnswers": ["headliner", "luminary", "superstar"]
+          },
+          "fr": {
+            "word": "vedette",
+            "otherAnswers": ["tête d'affiche", "personnalité", "superstar"]
+          }
+        },
+        {
+          "id": "star_verb",
+          "type": "verb",
+          "en": {
+            "word": "star",
+            "otherAnswers": ["appear in", "perform in", "play in"]
+          },
+          "fr": {
+            "word": "jouer le rôle principal",
+            "otherAnswers": [
+              "figurer dans",
+              "apparaître dans",
+              "tenir l'affiche"
+            ]
+          }
+        },
+        {
+          "id": "theater",
+          "type": "name",
+          "en": {
+            "word": "theater",
+            "otherAnswers": ["playhouse", "stage", "amphitheater"]
+          },
+          "fr": {
+            "word": "théâtre",
+            "otherAnswers": ["salle de spectacle", "scène", "amphithéâtre"]
+          }
+        },
+        {
+          "id": "movie_theater",
+          "type": "name",
+          "en": {
+            "word": "movie theater",
+            "otherAnswers": ["picture house", "screening room", "film venue"]
+          },
+          "fr": {
+            "word": "cinéma",
+            "otherAnswers": [
+              "salle de projection",
+              "complexe cinématographique",
+              "cinématographe"
+            ]
+          }
+        },
+        {
+          "id": "work_of_art",
+          "type": "name",
+          "en": {
+            "word": "work of art",
+            "otherAnswers": ["piece", "composition", "creative work"]
+          },
+          "fr": {
+            "word": "œuvre d'art",
+            "otherAnswers": ["création artistique", "pièce", "composition"]
+          }
+        }
+      ]
+    }
+  ]
+}

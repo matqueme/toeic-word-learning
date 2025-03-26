@@ -1,0 +1,45 @@
+beverage (nom) boisson
+check (nom) addition
+course (nom) plat (au cours d'un repas)
+main course (nom) plat principal
+cutlery (nom indénombrable) couverts
+diner (nom) client(e)
+dine (vb) dîner, manger
+dine in/out (vb) manger chez soi/au restaurant
+dish (nom) plat (nourriture et récipient)
+do the dishes (exp) faire la vaisselle
+healthful (adj) sein (bon pour la santé)
+healthy (adj) en bonne santé, bon pour la santé
+health (nom) santé
+junk food (nom) malbouffe
+moist (adj) moelleux
+moisture (nom) humidité
+moisten (vb) humidifier
+napkin (nom) serviette de tableau
+nutritious (adj) nutritif, nourrissant
+nutrition (nom) nutrition
+recipe (nom) recette 
+recommend (vb) recommander, conseiller
+highly recommended (exp) vivement conseillé
+recommendation (nom) recommandation
+seafood (nom indénombrable) fruits de mer 
+self-service (adj) libre-service
+sound/look/smell good (vb) avoir l'air bien/bon
+sparkling (adj) pétillant, gazeux
+sparkle (vb) pétiller étinceler
+spicy (adj) épicé
+spice (nom) épice
+starter/appetizer (nom) entrée
+still (adj) plat
+tablecloth (nom) nappe
+takeout (nom) (nourriture) repas à emporter ; (lieu) restaurant de vente à emporter
+take-out (adj) à emporter
+take out (vb - Prét/PP : took/ taken) prendre à emporter (repas)
+tasty (adj) savoureux
+taste (vb) goûtern avoir un goûtern
+tip (nom) pourboire
+tip (vb) donner un pourboire
+waiter/waitress, server (nom) serveur, serveuse
+waitstaff (nom) ensemble des serveurs
+wait on somebody (vb) servir quelqu'un
+wholesome / healthful (adj) sain 

@@ -1,0 +1,583 @@
+{
+  "categories": [
+    {
+      "id": "restaurant",
+      "nameEn": "Restaurant",
+      "nameFr": "Restaurant",
+      "words": [
+        {
+          "id": "beverage",
+          "type": "name",
+          "en": {
+            "word": "beverage",
+            "otherAnswers": ["appetizer", "dessert", "entree"]
+          },
+          "fr": {
+            "word": "boisson",
+            "otherAnswers": ["apéritif", "dessert", "plat"]
+          }
+        },
+        {
+          "id": "check",
+          "type": "name",
+          "en": {
+            "word": "check",
+            "otherAnswers": ["menu", "receipt", "tip"]
+          },
+          "fr": {
+            "word": "addition",
+            "otherAnswers": ["menu", "pourboire", "facture"]
+          }
+        },
+        {
+          "id": "course",
+          "type": "name",
+          "en": {
+            "word": "course",
+            "otherAnswers": ["dish", "meal", "serving"]
+          },
+          "fr": {
+            "word": "plat",
+            "otherAnswers": ["assiette", "portion", "service"]
+          }
+        },
+        {
+          "id": "main_course",
+          "type": "name",
+          "en": {
+            "word": "main course",
+            "otherAnswers": ["appetizer", "dessert", "side dish"]
+          },
+          "fr": {
+            "word": "plat principal",
+            "otherAnswers": ["entrée", "dessert", "accompagnement"]
+          }
+        },
+        {
+          "id": "cutlery",
+          "type": "name",
+          "en": {
+            "word": "cutlery",
+            "otherAnswers": ["crockery", "glassware", "napkins"]
+          },
+          "fr": {
+            "word": "couverts",
+            "otherAnswers": ["vaisselle", "verres", "serviettes"]
+          }
+        },
+        {
+          "id": "diner",
+          "type": "name",
+          "en": {
+            "word": "diner",
+            "otherAnswers": ["patron", "chef", "waiter"]
+          },
+          "fr": {
+            "word": "client",
+            "otherAnswers": ["serveur", "chef", "gérant"]
+          }
+        },
+        {
+          "id": "dine",
+          "type": "verb",
+          "en": {
+            "word": "dine",
+            "otherAnswers": ["eat", "order", "taste"]
+          },
+          "fr": {
+            "word": "dîner",
+            "otherAnswers": ["manger", "commander", "goûter"]
+          }
+        },
+        {
+          "id": "dine_in",
+          "type": "verb",
+          "en": {
+            "word": "dine in",
+            "otherAnswers": ["take out", "reserve", "deliver"]
+          },
+          "fr": {
+            "word": "manger chez soi",
+            "otherAnswers": [
+              "manger au restaurant",
+              "commander",
+              "se faire livrer"
+            ]
+          }
+        },
+        {
+          "id": "dine_out",
+          "type": "verb",
+          "en": {
+            "word": "dine out",
+            "otherAnswers": ["order in", "cook", "deliver"]
+          },
+          "fr": {
+            "word": "manger au restaurant",
+            "otherAnswers": [
+              "cuisiner",
+              "se faire livrer",
+              "commander à emporter"
+            ]
+          }
+        },
+        {
+          "id": "dish",
+          "type": "name",
+          "en": {
+            "word": "dish",
+            "otherAnswers": ["plate", "bowl", "cup"]
+          },
+          "fr": {
+            "word": "plat",
+            "otherAnswers": ["assiette", "bol", "tasse"]
+          }
+        },
+        {
+          "id": "do_the_dishes",
+          "type": "expression",
+          "en": {
+            "word": "do the dishes",
+            "otherAnswers": [
+              "set the table",
+              "clear the table",
+              "cook the meal"
+            ]
+          },
+          "fr": {
+            "word": "faire la vaisselle",
+            "otherAnswers": [
+              "mettre la table",
+              "débarrasser la table",
+              "préparer le repas"
+            ]
+          }
+        },
+        {
+          "id": "healthful",
+          "type": "adjective",
+          "en": {
+            "word": "healthful",
+            "otherAnswers": ["nutritious", "organic", "balanced"]
+          },
+          "fr": {
+            "word": "sain",
+            "otherAnswers": ["nutritif", "bio", "équilibré"]
+          }
+        },
+        {
+          "id": "healthy",
+          "type": "adjective",
+          "en": {
+            "word": "healthy",
+            "otherAnswers": ["natural", "fresh", "organic"]
+          },
+          "fr": {
+            "word": "en bonne santé",
+            "otherAnswers": ["naturel", "frais", "bio"]
+          }
+        },
+        {
+          "id": "health",
+          "type": "name",
+          "en": {
+            "word": "health",
+            "otherAnswers": ["nutrition", "diet", "wellness"]
+          },
+          "fr": {
+            "word": "santé",
+            "otherAnswers": ["nutrition", "régime", "bien-être"]
+          }
+        },
+        {
+          "id": "junk_food",
+          "type": "name",
+          "en": {
+            "word": "junk food",
+            "otherAnswers": ["fast food", "health food", "comfort food"]
+          },
+          "fr": {
+            "word": "malbouffe",
+            "otherAnswers": [
+              "restauration rapide",
+              "aliments sains",
+              "plats réconfortants"
+            ]
+          }
+        },
+        {
+          "id": "moist",
+          "type": "adjective",
+          "en": {
+            "word": "moist",
+            "otherAnswers": ["juicy", "tender", "crispy"]
+          },
+          "fr": {
+            "word": "moelleux",
+            "otherAnswers": ["juteux", "tendre", "croustillant"]
+          }
+        },
+        {
+          "id": "moisture",
+          "type": "name",
+          "en": {
+            "word": "moisture",
+            "otherAnswers": ["texture", "flavor", "aroma"]
+          },
+          "fr": {
+            "word": "humidité",
+            "otherAnswers": ["texture", "saveur", "arôme"]
+          }
+        },
+        {
+          "id": "moisten",
+          "type": "verb",
+          "en": {
+            "word": "moisten",
+            "otherAnswers": ["season", "marinate", "tenderize"]
+          },
+          "fr": {
+            "word": "humidifier",
+            "otherAnswers": ["assaisonner", "mariner", "attendrir"]
+          }
+        },
+        {
+          "id": "napkin",
+          "type": "name",
+          "en": {
+            "word": "napkin",
+            "otherAnswers": ["tablecloth", "placemat", "coaster"]
+          },
+          "fr": {
+            "word": "serviette de table",
+            "otherAnswers": ["nappe", "set de table", "sous-verre"]
+          }
+        },
+        {
+          "id": "nutritious",
+          "type": "adjective",
+          "en": {
+            "word": "nutritious",
+            "otherAnswers": ["delicious", "organic", "fresh"]
+          },
+          "fr": {
+            "word": "nutritif",
+            "otherAnswers": ["délicieux", "bio", "frais"]
+          }
+        },
+        {
+          "id": "nutrition",
+          "type": "name",
+          "en": {
+            "word": "nutrition",
+            "otherAnswers": ["diet", "calories", "vitamins"]
+          },
+          "fr": {
+            "word": "nutrition",
+            "otherAnswers": ["régime", "calories", "vitamines"]
+          }
+        },
+        {
+          "id": "recipe",
+          "type": "name",
+          "en": {
+            "word": "recipe",
+            "otherAnswers": ["menu", "cookbook", "ingredient"]
+          },
+          "fr": {
+            "word": "recette",
+            "otherAnswers": ["menu", "livre de cuisine", "ingrédient"]
+          }
+        },
+        {
+          "id": "recommend",
+          "type": "verb",
+          "en": {
+            "word": "recommend",
+            "otherAnswers": ["suggest", "order", "serve"]
+          },
+          "fr": {
+            "word": "recommander",
+            "otherAnswers": ["suggérer", "commander", "servir"]
+          }
+        },
+        {
+          "id": "highly_recommended",
+          "type": "expression",
+          "en": {
+            "word": "highly recommended",
+            "otherAnswers": [
+              "customer favorite",
+              "chef's special",
+              "best-selling"
+            ]
+          },
+          "fr": {
+            "word": "vivement conseillé",
+            "otherAnswers": [
+              "favori des clients",
+              "spécialité du chef",
+              "meilleures ventes"
+            ]
+          }
+        },
+        {
+          "id": "recommendation",
+          "type": "name",
+          "en": {
+            "word": "recommendation",
+            "otherAnswers": ["suggestion", "special", "favorite"]
+          },
+          "fr": {
+            "word": "recommandation",
+            "otherAnswers": ["suggestion", "spécialité", "favori"]
+          }
+        },
+        {
+          "id": "seafood",
+          "type": "name",
+          "en": {
+            "word": "seafood",
+            "otherAnswers": ["beef", "poultry", "vegetarian"]
+          },
+          "fr": {
+            "word": "fruits de mer",
+            "otherAnswers": ["viande", "volaille", "plat végétarien"]
+          }
+        },
+        {
+          "id": "self_service",
+          "type": "adjective",
+          "en": {
+            "word": "self-service",
+            "otherAnswers": ["full-service", "buffet", "à la carte"]
+          },
+          "fr": {
+            "word": "libre-service",
+            "otherAnswers": ["service complet", "buffet", "à la carte"]
+          }
+        },
+        {
+          "id": "sound_good",
+          "type": "verb",
+          "en": {
+            "word": "sound good",
+            "otherAnswers": ["taste good", "look good", "smell good"]
+          },
+          "fr": {
+            "word": "avoir l'air bien",
+            "otherAnswers": ["avoir bon goût", "paraître bon", "sentir bon"]
+          }
+        },
+        {
+          "id": "sparkling",
+          "type": "adjective",
+          "en": {
+            "word": "sparkling",
+            "otherAnswers": ["still", "fizzy", "flat"]
+          },
+          "fr": {
+            "word": "pétillant",
+            "otherAnswers": ["plat", "gazeux", "sans bulles"]
+          }
+        },
+        {
+          "id": "sparkle",
+          "type": "verb",
+          "en": {
+            "word": "sparkle",
+            "otherAnswers": ["bubble", "foam", "fizz"]
+          },
+          "fr": {
+            "word": "pétiller",
+            "otherAnswers": ["mousser", "bouillonner", "faire des bulles"]
+          }
+        },
+        {
+          "id": "spicy",
+          "type": "adjective",
+          "en": {
+            "word": "spicy",
+            "otherAnswers": ["mild", "sweet", "savory"]
+          },
+          "fr": {
+            "word": "épicé",
+            "otherAnswers": ["doux", "sucré", "salé"]
+          }
+        },
+        {
+          "id": "spice",
+          "type": "name",
+          "en": {
+            "word": "spice",
+            "otherAnswers": ["herb", "seasoning", "flavor"]
+          },
+          "fr": {
+            "word": "épice",
+            "otherAnswers": ["herbe", "assaisonnement", "saveur"]
+          }
+        },
+        {
+          "id": "starter",
+          "type": "name",
+          "en": {
+            "word": "starter",
+            "otherAnswers": ["main course", "dessert", "side dish"]
+          },
+          "fr": {
+            "word": "entrée",
+            "otherAnswers": ["plat principal", "dessert", "accompagnement"]
+          }
+        },
+        {
+          "id": "still",
+          "type": "adjective",
+          "en": {
+            "word": "still",
+            "otherAnswers": ["sparkling", "carbonated", "fizzy"]
+          },
+          "fr": {
+            "word": "plat",
+            "otherAnswers": ["pétillant", "gazeux", "avec bulles"]
+          }
+        },
+        {
+          "id": "tablecloth",
+          "type": "name",
+          "en": {
+            "word": "tablecloth",
+            "otherAnswers": ["napkin", "placemat", "runner"]
+          },
+          "fr": {
+            "word": "nappe",
+            "otherAnswers": ["serviette", "set de table", "chemin de table"]
+          }
+        },
+        {
+          "id": "takeout",
+          "type": "name",
+          "en": {
+            "word": "takeout",
+            "otherAnswers": ["delivery", "dine-in", "catering"]
+          },
+          "fr": {
+            "word": "repas à emporter",
+            "otherAnswers": ["livraison", "repas sur place", "service traiteur"]
+          }
+        },
+        {
+          "id": "take_out",
+          "type": "verb",
+          "en": {
+            "word": "take out",
+            "otherAnswers": ["deliver", "dine in", "reserve"]
+          },
+          "fr": {
+            "word": "prendre à emporter",
+            "otherAnswers": ["se faire livrer", "manger sur place", "réserver"]
+          }
+        },
+        {
+          "id": "tasty",
+          "type": "adjective",
+          "en": {
+            "word": "tasty",
+            "otherAnswers": ["delicious", "flavorful", "appetizing"]
+          },
+          "fr": {
+            "word": "savoureux",
+            "otherAnswers": ["délicieux", "goûteux", "appétissant"]
+          }
+        },
+        {
+          "id": "taste",
+          "type": "verb",
+          "en": {
+            "word": "taste",
+            "otherAnswers": ["sample", "savor", "try"]
+          },
+          "fr": {
+            "word": "goûter",
+            "otherAnswers": ["déguster", "savourer", "essayer"]
+          }
+        },
+        {
+          "id": "tip",
+          "type": "name",
+          "en": {
+            "word": "tip",
+            "otherAnswers": ["bill", "check", "gratuity"]
+          },
+          "fr": {
+            "word": "pourboire",
+            "otherAnswers": ["addition", "facture", "gratification"]
+          }
+        },
+        {
+          "id": "tip_verb",
+          "type": "verb",
+          "en": {
+            "word": "tip",
+            "otherAnswers": ["pay", "thank", "reward"]
+          },
+          "fr": {
+            "word": "donner un pourboire",
+            "otherAnswers": ["payer", "remercier", "récompenser"]
+          }
+        },
+        {
+          "id": "waiter",
+          "type": "name",
+          "en": {
+            "word": "waiter",
+            "otherAnswers": ["server", "chef", "host"]
+          },
+          "fr": {
+            "word": "serveur",
+            "otherAnswers": ["chef", "maître d'hôtel", "barman"]
+          }
+        },
+        {
+          "id": "waitstaff",
+          "type": "name",
+          "en": {
+            "word": "waitstaff",
+            "otherAnswers": ["kitchen staff", "management", "hosts"]
+          },
+          "fr": {
+            "word": "ensemble des serveurs",
+            "otherAnswers": [
+              "personnel de cuisine",
+              "direction",
+              "hôtes d'accueil"
+            ]
+          }
+        },
+        {
+          "id": "wait_on",
+          "type": "verb",
+          "en": {
+            "word": "wait on",
+            "otherAnswers": ["serve", "attend to", "help"]
+          },
+          "fr": {
+            "word": "servir",
+            "otherAnswers": ["s'occuper de", "assister", "aider"]
+          }
+        },
+        {
+          "id": "wholesome",
+          "type": "adjective",
+          "en": {
+            "word": "wholesome",
+            "otherAnswers": ["nutritious", "healthy", "balanced"]
+          },
+          "fr": {
+            "word": "sain",
+            "otherAnswers": ["nutritif", "équilibré", "naturel"]
+          }
+        }
+      ]
+    }
+  ]
+}
