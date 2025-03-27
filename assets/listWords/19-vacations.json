@@ -1,0 +1,527 @@
+{
+    "categories": [
+      {
+        "id": "vacations",
+        "nameEn": "Vacations",
+        "nameFr": "Vacances",
+        "words": [
+          {
+            "id": "accommodation",
+            "type": "name",
+            "en": {
+              "word": "accommodation",
+              "otherAnswers": ["lodging", "housing", "quarters"]
+            },
+            "fr": {
+              "word": "logement",
+              "otherAnswers": ["hébergement", "domicile", "habitation"]
+            }
+          },
+          {
+            "id": "accommodating",
+            "type": "adjective",
+            "en": {
+              "word": "accommodating",
+              "otherAnswers": ["helpful", "obliging", "agreeable"]
+            },
+            "fr": {
+              "word": "arrangeant",
+              "otherAnswers": ["serviable", "conciliant", "agréable"]
+            }
+          },
+          {
+            "id": "beach",
+            "type": "name",
+            "en": {
+              "word": "beach",
+              "otherAnswers": ["shore", "coast", "strand"]
+            },
+            "fr": {
+              "word": "plage",
+              "otherAnswers": ["rivage", "littoral", "bord de mer"]
+            }
+          },
+          {
+            "id": "beach_towel",
+            "type": "name",
+            "en": {
+              "word": "beach towel",
+              "otherAnswers": ["towel", "blanket", "mat"]
+            },
+            "fr": {
+              "word": "serviette de plage",
+              "otherAnswers": ["drap de bain", "essuie", "tapis de plage"]
+            }
+          },
+          {
+            "id": "camping_trip",
+            "type": "name",
+            "en": {
+              "word": "camping trip",
+              "otherAnswers": ["tent trip", "campout", "outdoor excursion"]
+            },
+            "fr": {
+              "word": "vacances sous la tente",
+              "otherAnswers": ["séjour en camping", "excursion", "sortie"]
+            }
+          },
+          {
+            "id": "camper",
+            "type": "name",
+            "en": {
+              "word": "camper",
+              "otherAnswers": ["camping enthusiast", "outdoorsman", "hiker"]
+            },
+            "fr": {
+              "word": "campeur",
+              "otherAnswers": ["randonneur", "aventurier", "outdoor"]
+            }
+          },
+          {
+            "id": "campsite",
+            "type": "name",
+            "en": {
+              "word": "campsite",
+              "otherAnswers": ["campground", "tent site", "camp area"]
+            },
+            "fr": {
+              "word": "camping",
+              "otherAnswers": ["aire de camping", "emplacement", "terrain de camping"]
+            }
+          },
+          {
+            "id": "couch_surfing",
+            "type": "name",
+            "en": {
+              "word": "couch surfing",
+              "otherAnswers": ["sleeping at someone's place", "homestay", "temporary lodging"]
+            },
+            "fr": {
+              "word": "squatter chez quelqu'un pour dormir",
+              "otherAnswers": ["séjour chez l'habitant", "hébergement temporaire", "logement provisoire"]
+            }
+          },
+          {
+            "id": "cruise",
+            "type": "name",
+            "en": {
+              "word": "cruise",
+              "otherAnswers": ["voyage", "sail", "sea trip"]
+            },
+            "fr": {
+              "word": "croisière",
+              "otherAnswers": ["voyage en mer", "balade en bateau", "périple"]
+            }
+          },
+          {
+            "id": "cruising",
+            "type": "adjective",
+            "en": {
+              "word": "cruising",
+              "otherAnswers": ["sailing", "navigating", "boating"]
+            },
+            "fr": {
+              "word": "de croisière",
+              "otherAnswers": ["navigant", "en mer", "à bord"]
+            }
+          },
+          {
+            "id": "get_away",
+            "type": "verb",
+            "en": {
+              "word": "get away",
+              "otherAnswers": ["escape", "flee", "break free"]
+            },
+            "fr": {
+              "word": "s'échapper",
+              "otherAnswers": ["fuir", "se sauver", "prendre la fuite"]
+            }
+          },
+          {
+            "id": "getaway",
+            "type": "name",
+            "en": {
+              "word": "getaway",
+              "otherAnswers": ["escape", "retreat", "holiday"]
+            },
+            "fr": {
+              "word": "escapade",
+              "otherAnswers": ["retraite", "fuite", "évasion"]
+            }
+          },
+          {
+            "id": "itinerary",
+            "type": "name",
+            "en": {
+              "word": "itinerary",
+              "otherAnswers": ["route", "plan", "schedule"]
+            },
+            "fr": {
+              "word": "itinéraire",
+              "otherAnswers": ["trajet", "parcours", "programme"]
+            }
+          },
+          {
+            "id": "local_adj",
+            "type": "adjective",
+            "en": {
+              "word": "local",
+              "otherAnswers": ["regional", "nearby", "indigenous"]
+            },
+            "fr": {
+              "word": "local",
+              "otherAnswers": ["du coin", "de la région", "régional"]
+            }
+          },
+          {
+            "id": "local_noun",
+            "type": "name",
+            "en": {
+              "word": "local",
+              "otherAnswers": ["inhabitant", "resident", "native"]
+            },
+            "fr": {
+              "word": "habitant",
+              "otherAnswers": ["personne de la région", "résident", "autochtone"]
+            }
+          },
+          {
+            "id": "locally",
+            "type": "adverb",
+            "en": {
+              "word": "locally",
+              "otherAnswers": ["nearby", "regionally", "locally"]
+            },
+            "fr": {
+              "word": "localement",
+              "otherAnswers": ["à proximité", "dans la région", "sur place"]
+            }
+          },
+          {
+            "id": "lost_property",
+            "type": "name",
+            "en": {
+              "word": "lost property",
+              "otherAnswers": ["lost and found", "missing items", "left belongings"]
+            },
+            "fr": {
+              "word": "objets trouvés",
+              "otherAnswers": ["objets perdus", "affaires retrouvées", "biens trouvés"]
+            }
+          },
+          {
+            "id": "pack",
+            "type": "verb",
+            "en": {
+              "word": "pack",
+              "otherAnswers": ["prepare luggage", "pack up", "bundle"]
+            },
+            "fr": {
+              "word": "faire ses bagages",
+              "otherAnswers": ["emballer", "préparer ses affaires", "paqueter"]
+            }
+          },
+          {
+            "id": "backpack",
+            "type": "name",
+            "en": {
+              "word": "backpack",
+              "otherAnswers": ["pack", "knapsack", "rucksack"]
+            },
+            "fr": {
+              "word": "sac à dos",
+              "otherAnswers": ["sac", "sac de randonnée", "sac de voyage"]
+            }
+          },
+          {
+            "id": "pack_up",
+            "type": "verb",
+            "en": {
+              "word": "pack up",
+              "otherAnswers": ["tidy up", "gather", "collect"]
+            },
+            "fr": {
+              "word": "ranger",
+              "otherAnswers": ["ramasser", "mettre en ordre", "mettre de côté"]
+            }
+          },
+          {
+            "id": "unpack",
+            "type": "verb",
+            "en": {
+              "word": "unpack",
+              "otherAnswers": ["unload luggage", "unpack bags", "empty"]
+            },
+            "fr": {
+              "word": "défaire",
+              "otherAnswers": ["vider", "déballer", "sortir ses affaires"]
+            }
+          },
+          {
+            "id": "resort",
+            "type": "name",
+            "en": {
+              "word": "resort",
+              "otherAnswers": ["vacation spot", "holiday destination", "retreat"]
+            },
+            "fr": {
+              "word": "station",
+              "otherAnswers": ["lieu de vacances", "destination", "retraite"]
+            }
+          },
+          {
+            "id": "sea",
+            "type": "name",
+            "en": {
+              "word": "sea",
+              "otherAnswers": ["ocean", "water", "maritime"]
+            },
+            "fr": {
+              "word": "mer",
+              "otherAnswers": ["océan", "eau", "marin"]
+            }
+          },
+          {
+            "id": "seaside_adj",
+            "type": "adjective",
+            "en": {
+              "word": "seaside",
+              "otherAnswers": ["coastal", "beachside", "marine"]
+            },
+            "fr": {
+              "word": "balnéaire",
+              "otherAnswers": ["en bord de mer", "côtier", "maritime"]
+            }
+          },
+          {
+            "id": "seaside_noun",
+            "type": "name",
+            "en": {
+              "word": "seaside",
+              "otherAnswers": ["shore", "beach", "waterfront"]
+            },
+            "fr": {
+              "word": "bord de la mer",
+              "otherAnswers": ["rivage", "plage", "littoral"]
+            }
+          },
+          {
+            "id": "sightseeing",
+            "type": "name",
+            "en": {
+              "word": "sightseeing",
+              "otherAnswers": ["touring", "exploring", "visiting"]
+            },
+            "fr": {
+              "word": "tourisme",
+              "otherAnswers": ["excursion", "visite", "exploration"]
+            }
+          },
+          {
+            "id": "sightseer",
+            "type": "name",
+            "en": {
+              "word": "sightseer",
+              "otherAnswers": ["tourist", "visitor", "explorer"]
+            },
+            "fr": {
+              "word": "touriste",
+              "otherAnswers": ["visiteur", "explorateur", "voyageur"]
+            }
+          },
+          {
+            "id": "suitcase",
+            "type": "name",
+            "en": {
+              "word": "suitcase",
+              "otherAnswers": ["luggage", "baggage", "travel bag"]
+            },
+            "fr": {
+              "word": "valise",
+              "otherAnswers": ["bagage", "malle", "sac de voyage"]
+            }
+          },
+          {
+            "id": "sun",
+            "type": "name",
+            "en": {
+              "word": "sun",
+              "otherAnswers": ["sunlight", "solar", "daylight"]
+            },
+            "fr": {
+              "word": "soleil",
+              "otherAnswers": ["lumière", "rayon", "ensoleillement"]
+            }
+          },
+          {
+            "id": "sunglasses",
+            "type": "name",
+            "en": {
+              "word": "sunglasses",
+              "otherAnswers": ["shades", "eyewear", "sunnies"]
+            },
+            "fr": {
+              "word": "lunettes de soleil",
+              "otherAnswers": ["lunettes", "oculaires", "verres teintés"]
+            }
+          },
+          {
+            "id": "sunscreen",
+            "type": "name",
+            "en": {
+              "word": "sunscreen",
+              "otherAnswers": ["sunblock", "sun cream", "UV protection"]
+            },
+            "fr": {
+              "word": "crème solaire",
+              "otherAnswers": ["lotion solaire", "protection solaire", "écran solaire"]
+            }
+          },
+          {
+            "id": "sunburn",
+            "type": "name",
+            "en": {
+              "word": "sunburn",
+              "otherAnswers": ["burn", "sun damage", "skin burn"]
+            },
+            "fr": {
+              "word": "coup de soleil",
+              "otherAnswers": ["brûlure", "brûlure solaire", "dommage cutané"]
+            }
+          },
+          {
+            "id": "sunbathe",
+            "type": "verb",
+            "en": {
+              "word": "sunbathe",
+              "otherAnswers": ["tan", "bask", "sunbask"]
+            },
+            "fr": {
+              "word": "bronzer",
+              "otherAnswers": ["prendre le soleil", "se dorer", "se bronzer"]
+            }
+          },
+          {
+            "id": "tan_adj",
+            "type": "adjective",
+            "en": {
+              "word": "tan",
+              "otherAnswers": ["bronzed", "tanned", "sun-kissed"]
+            },
+            "fr": {
+              "word": "hâlé",
+              "otherAnswers": ["brun clair", "doré", "bronzé"]
+            }
+          },
+          {
+            "id": "tan_noun",
+            "type": "name",
+            "en": {
+              "word": "tan",
+              "otherAnswers": ["suntan", "bronze", "tan lines"]
+            },
+            "fr": {
+              "word": "bronzage",
+              "otherAnswers": ["teinte", "couleur", "dorure"]
+            }
+          },
+          {
+            "id": "tan_verb",
+            "type": "verb",
+            "en": {
+              "word": "tan",
+              "otherAnswers": ["sunbathe", "brown", "darken"]
+            },
+            "fr": {
+              "word": "bronzer",
+              "otherAnswers": ["se bronzer", "se dorer", "s'assombrir"]
+            }
+          },
+          {
+            "id": "suntan",
+            "type": "name",
+            "en": {
+              "word": "suntan",
+              "otherAnswers": ["tan", "bronze", "tan lines"]
+            },
+            "fr": {
+              "word": "bronzage",
+              "otherAnswers": ["teinte", "couleur", "dorure"]
+            }
+          },
+          {
+            "id": "travel_verb",
+            "type": "verb",
+            "en": {
+              "word": "travel",
+              "otherAnswers": ["journey", "voyage", "explore"]
+            },
+            "fr": {
+              "word": "voyager",
+              "otherAnswers": ["parcourir", "explorer", "se déplacer"]
+            }
+          },
+          {
+            "id": "travel_agent",
+            "type": "name",
+            "en": {
+              "word": "travel agent",
+              "otherAnswers": ["trip planner", "travel consultant", "tour guide"]
+            },
+            "fr": {
+              "word": "agent de voyage",
+              "otherAnswers": ["conseiller en voyages", "planificateur de voyages", "guide touristique"]
+            }
+          },
+          {
+            "id": "travel_agency",
+            "type": "name",
+            "en": {
+              "word": "travel agency",
+              "otherAnswers": ["tour operator", "travel service", "holiday planner"]
+            },
+            "fr": {
+              "word": "agence de voyage",
+              "otherAnswers": ["bureau de voyages", "service de voyages", "planificateur de vacances"]
+            }
+          },
+          {
+            "id": "vacation",
+            "type": "name",
+            "en": {
+              "word": "vacation",
+              "otherAnswers": ["holiday", "break", "time off"]
+            },
+            "fr": {
+              "word": "vacances",
+              "otherAnswers": ["congés", "repos", "pause"]
+            }
+          },
+          {
+            "id": "vacationer",
+            "type": "name",
+            "en": {
+              "word": "vacationer",
+              "otherAnswers": ["traveler", "tourist", "holidaymaker"]
+            },
+            "fr": {
+              "word": "vacancier",
+              "otherAnswers": ["touriste", "voyageur", "globe-trotter"]
+            }
+          },
+          {
+            "id": "well_being",
+            "type": "name",
+            "en": {
+              "word": "well-being",
+              "otherAnswers": ["wellness", "health", "comfort"]
+            },
+            "fr": {
+              "word": "bien-être",
+              "otherAnswers": ["santé", "confort", "équilibre"]
+            }
+          }
+        ]
+      }
+    ]
+  }

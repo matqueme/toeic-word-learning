@@ -1,0 +1,45 @@
+VACATIONS Les vacances
+
+accomodation (nom) logement, hébergement
+accommodating (adj) arrangeant
+beach (nom) plage
+beach towel (nom) serviette de plage
+camping trip (nom) vacances sous la tente
+camper (nom) campeur
+campsite, camping site (nom) camping (lieu)
+couch surfing (nom) squatter chez quelqu'un pour dormir
+cruise (nom) croisière
+cruising (adj) de croisière
+get away (vb - Prét//PP : got/got) s'échapper
+getaway (nom) escapade (week-end)
+itinerary (nom) itinéraire
+local (adj) local, du coin, de la région
+local (nom) habitant, personne de la région
+locally (adv) localement
+lost property (nom) objets trouvés
+pack (vb) faire ses bagages
+pack, backpack (nom) sac à dos
+pack up (vb) ranger
+unpack (vb) défaire (bagages)
+resort (nom) station (balnéaire, de ski)
+sea (nom) mer
+seaside (adj) balnéaire, en bord de mer
+seaside (nom) bord de la mer
+sightseeing (nom) tourisme
+sightseer (nom) touriste
+suitcase (nom) valise
+sun (nom) soleil
+sunglasses (nom) lunettes de soleil
+suncreen (nom) crème solaire
+sunburn (nom) coup de soleil
+sunbathe (vb) bronzer
+tan (adj) hâlé, brun clair
+tan (nom) bronzage
+tan (vb) bronzer
+suntan (nom) bronzage
+travel (vb) voyager
+travel agent (nom) agent de voyage
+travel agency (nom) agence de voyage
+vacation (nom) vacances, congés
+vacationer (nom) vacancier
+well-being (nom) bien-être
