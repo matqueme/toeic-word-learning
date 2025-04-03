@@ -1,0 +1,50 @@
+appointment (nom) rendez-vous
+blood (nom) sang
+blood pressure (nom) tension artérielle 
+blood test (nom) bilan sanguin
+bleed (vb - Prét/PP : bled/bled) saigner
+checkup (nom) bilan de santé
+consult (vb) consulter
+consultation room, consulting room (nom) salle d'examen
+consultant (nom) spécialiste
+cure (nom) remède
+cure (vb) guérir 
+cured (adj) guéri
+curable (adj) guérissable
+GP (generral practitioner) (nom) (médecin) généraliste
+harm (vb) nuire, blesser
+harmful (adj) nuisible
+harmless (adj) inoffensif
+headache (nom) maél de tête 
+health insurance (nom) mutuelle de santé
+ill (adj) malade
+illness (nom) maladie
+ill-(+adj) mal-
+injury (nom) blessure
+injured (adj) blessé
+injure/injure oneself (vb) blesser / se blesser
+leaflet (nom) notice
+medication (nom) médicamment
+medicated (adj) médicamenteux, traitant
+medicate (vb) traiter avec des médicamments
+physician (nom) médecin
+physical condition (nom) condition physique
+potent (adj) puissant, fort
+potency (nom) force, puissance
+practice (nom) cabinet
+practising (adj) en exercice, en activité
+prescription (nom) ordonnance
+fill a prescription (vb) aller chercher, (se faire) délivrer une ordonnance
+prescribe (vb) prescrire
+relapse (nom) rechute
+relapse (vb) rechuter
+sibling (nom) frère ou soeur
+sick (adj) malade
+sickness (nom) maladie
+side effects (nom) effets secondaires
+stomach (nom) estomac, ventre
+on an empty stomach (exp) le ventre vide
+stomachache (nom) mal de ventre
+tablet (nom) comprimé
+treatment (nom) traitement
+treat (vb) soigner

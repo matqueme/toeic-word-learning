@@ -1,0 +1,851 @@
+{
+  "categories": [
+    {
+      "id": "works",
+      "nameEn": "Works",
+      "nameFr": "Travaux",
+      "words": [
+        {
+          "id": "assemble",
+          "type": "verb",
+          "en": {
+            "word": "assemble",
+            "otherAnswers": ["gather", "collect", "compile"]
+          },
+          "fr": {
+            "word": "monter",
+            "otherAnswers": ["monrer", "monner", "mouter"]
+          }
+        },
+        {
+          "id": "assembly_line",
+          "type": "name",
+          "en": {
+            "word": "assembly line",
+            "otherAnswers": [
+              "production line",
+              "conveyor belt",
+              "manufacturing line"
+            ]
+          },
+          "fr": {
+            "word": "chaîne de montage",
+            "otherAnswers": [
+              "ligne de production",
+              "ligne d'assemblage",
+              "chaîne de fabrication"
+            ]
+          }
+        },
+        {
+          "id": "disassemble",
+          "type": "verb",
+          "en": {
+            "word": "disassemble",
+            "otherAnswers": ["take apart", "dismantle", "deconstruct"]
+          },
+          "fr": {
+            "word": "démonter",
+            "otherAnswers": ["désassembler", "défaire", "démonrer"]
+          }
+        },
+        {
+          "id": "civil_engineering",
+          "type": "name",
+          "en": {
+            "word": "civil engineering",
+            "otherAnswers": [
+              "structural engineering",
+              "construction engineering",
+              "public works"
+            ]
+          },
+          "fr": {
+            "word": "génie civil",
+            "otherAnswers": [
+              "ingénierie civile",
+              "travaux publics",
+              "construction civile"
+            ]
+          }
+        },
+        {
+          "id": "equip",
+          "type": "verb",
+          "en": {
+            "word": "equip",
+            "otherAnswers": ["outfit", "supply", "furnish"]
+          },
+          "fr": {
+            "word": "équiper",
+            "otherAnswers": ["munir", "doter", "pourvoir"]
+          }
+        },
+        {
+          "id": "equipped",
+          "type": "adjective",
+          "en": {
+            "word": "equipped",
+            "otherAnswers": ["supplied", "furnished", "outfitted"]
+          },
+          "fr": {
+            "word": "équipé",
+            "otherAnswers": ["muni", "doté", "pourvu"]
+          }
+        },
+        {
+          "id": "ill_equipped",
+          "type": "adjective",
+          "en": {
+            "word": "ill-equipped",
+            "otherAnswers": ["unprepared", "unequipped", "under-equipped"]
+          },
+          "fr": {
+            "word": "mal équipé",
+            "otherAnswers": [
+              "sous-équipé",
+              "insuffisamment équipé",
+              "peu préparé"
+            ]
+          }
+        },
+        {
+          "id": "equipment",
+          "type": "name",
+          "en": {
+            "word": "equipment",
+            "otherAnswers": ["gear", "apparatus", "machinery"]
+          },
+          "fr": {
+            "word": "matériel",
+            "otherAnswers": ["équipement", "appareillage", "outillage"]
+          }
+        },
+        {
+          "id": "face_mask",
+          "type": "name",
+          "en": {
+            "word": "face mask",
+            "otherAnswers": ["respirator", "face shield", "face covering"]
+          },
+          "fr": {
+            "word": "masque",
+            "otherAnswers": ["visière", "protection faciale", "masque facial"]
+          }
+        },
+        {
+          "id": "factory",
+          "type": "name",
+          "en": {
+            "word": "factory",
+            "otherAnswers": ["plant", "manufacturing facility", "mill"]
+          },
+          "fr": {
+            "word": "usine",
+            "otherAnswers": ["fabrique", "manufacture", "atelier"]
+          }
+        },
+        {
+          "id": "factory_made",
+          "type": "adjective",
+          "en": {
+            "word": "factory-made",
+            "otherAnswers": ["manufactured", "mass-produced", "machine-made"]
+          },
+          "fr": {
+            "word": "industriel",
+            "otherAnswers": ["usiné", "fabriqué en série", "manufacturé"]
+          }
+        },
+        {
+          "id": "factory_worker",
+          "type": "name",
+          "en": {
+            "word": "factory worker",
+            "otherAnswers": [
+              "plant worker",
+              "industrial worker",
+              "assembly worker"
+            ]
+          },
+          "fr": {
+            "word": "ouvrier d'usine",
+            "otherAnswers": [
+              "employé d'usine",
+              "travailleur industriel",
+              "opérateur"
+            ]
+          }
+        },
+        {
+          "id": "fix",
+          "type": "verb",
+          "en": {
+            "word": "fix",
+            "otherAnswers": ["repair", "mend", "correct"]
+          },
+          "fr": {
+            "word": "réparer",
+            "otherAnswers": ["fixer", "arranger", "corriger"]
+          }
+        },
+        {
+          "id": "foreman",
+          "type": "name",
+          "en": {
+            "word": "foreman",
+            "otherAnswers": ["supervisor", "overseer", "manager"]
+          },
+          "fr": {
+            "word": "contremaître",
+            "otherAnswers": ["chef d'équipe", "superviseur", "chef de chantier"]
+          }
+        },
+        {
+          "id": "forklift_truck",
+          "type": "name",
+          "en": {
+            "word": "forklift truck",
+            "otherAnswers": ["lift truck", "fork truck", "pallet truck"]
+          },
+          "fr": {
+            "word": "chariot élévateur",
+            "otherAnswers": ["élévateur", "transpalette", "fenwick"]
+          }
+        },
+        {
+          "id": "fully",
+          "type": "adverb",
+          "en": {
+            "word": "fully",
+            "otherAnswers": ["completely", "entirely", "totally"]
+          },
+          "fr": {
+            "word": "complètement",
+            "otherAnswers": ["entièrement", "totalement", "pleinement"]
+          }
+        },
+        {
+          "id": "fully_equipped",
+          "type": "adjective",
+          "en": {
+            "word": "fully equipped",
+            "otherAnswers": [
+              "fully outfitted",
+              "completely furnished",
+              "well-equipped"
+            ]
+          },
+          "fr": {
+            "word": "tout équipé",
+            "otherAnswers": [
+              "entièrement équipé",
+              "parfaitement doté",
+              "complètement pourvu"
+            ]
+          }
+        },
+        {
+          "id": "glove",
+          "type": "name",
+          "en": {
+            "word": "glove",
+            "otherAnswers": ["mitten", "gauntlet", "hand covering"]
+          },
+          "fr": {
+            "word": "gant",
+            "otherAnswers": ["mitaine", "moufle", "protection pour main"]
+          }
+        },
+        {
+          "id": "hard_hat",
+          "type": "name",
+          "en": {
+            "word": "hard hat",
+            "otherAnswers": [
+              "safety helmet",
+              "construction helmet",
+              "protective hat"
+            ]
+          },
+          "fr": {
+            "word": "casque de chantier",
+            "otherAnswers": [
+              "casque de protection",
+              "casque de sécurité",
+              "casque"
+            ]
+          }
+        },
+        {
+          "id": "high_visibility",
+          "type": "name",
+          "en": {
+            "word": "high visibility",
+            "otherAnswers": ["hi-vis", "reflective vest", "safety vest"]
+          },
+          "fr": {
+            "word": "gilet fluo",
+            "otherAnswers": [
+              "gilet haute visibilité",
+              "gilet réfléchissant",
+              "chasuble"
+            ]
+          }
+        },
+        {
+          "id": "hone",
+          "type": "verb",
+          "en": {
+            "word": "hone",
+            "otherAnswers": ["sharpen", "refine", "perfect"]
+          },
+          "fr": {
+            "word": "aiguiser",
+            "otherAnswers": ["perfectionner", "affiner", "affûter"]
+          }
+        },
+        {
+          "id": "hone_your_skills",
+          "type": "verb",
+          "en": {
+            "word": "hone your skills",
+            "otherAnswers": [
+              "perfect your abilities",
+              "refine your talents",
+              "sharpen your expertise"
+            ]
+          },
+          "fr": {
+            "word": "affiner ses compétences",
+            "otherAnswers": [
+              "perfectionner ses aptitudes",
+              "développer son savoir-faire",
+              "améliorer ses talents"
+            ]
+          }
+        },
+        {
+          "id": "laboratory",
+          "type": "name",
+          "en": {
+            "word": "laboratory",
+            "otherAnswers": ["lab", "research facility", "testing facility"]
+          },
+          "fr": {
+            "word": "laboratoire",
+            "otherAnswers": [
+              "labo",
+              "centre de recherche",
+              "installation d'essai"
+            ]
+          }
+        },
+        {
+          "id": "laboratory_apparatus",
+          "type": "name",
+          "en": {
+            "word": "laboratory apparatus",
+            "otherAnswers": [
+              "lab equipment",
+              "scientific instruments",
+              "research tools"
+            ]
+          },
+          "fr": {
+            "word": "matériel de laboratoire",
+            "otherAnswers": [
+              "équipement de laboratoire",
+              "instruments scientifiques",
+              "appareils de recherche"
+            ]
+          }
+        },
+        {
+          "id": "lab_coat",
+          "type": "name",
+          "en": {
+            "word": "lab coat",
+            "otherAnswers": ["laboratory coat", "white coat", "science coat"]
+          },
+          "fr": {
+            "word": "blouse blanche",
+            "otherAnswers": [
+              "blouse de laboratoire",
+              "sarrau",
+              "blouse de chimie"
+            ]
+          }
+        },
+        {
+          "id": "ladder",
+          "type": "name",
+          "en": {
+            "word": "ladder",
+            "otherAnswers": ["stepladder", "stairway", "rungs"]
+          },
+          "fr": {
+            "word": "échelle",
+            "otherAnswers": ["escabeau", "marchepied", "échelon"]
+          }
+        },
+        {
+          "id": "machinery",
+          "type": "name",
+          "en": {
+            "word": "machinery",
+            "otherAnswers": ["equipment", "apparatus", "mechanisms"]
+          },
+          "fr": {
+            "word": "machines",
+            "otherAnswers": ["machinerie", "appareillage", "mécanismes"]
+          }
+        },
+        {
+          "id": "maintain",
+          "type": "verb",
+          "en": {
+            "word": "maintain",
+            "otherAnswers": ["upkeep", "preserve", "service"]
+          },
+          "fr": {
+            "word": "maintenir",
+            "otherAnswers": ["entretenir", "conserver", "préserver"]
+          }
+        },
+        {
+          "id": "well_maintained",
+          "type": "adjective",
+          "en": {
+            "word": "well-maintained",
+            "otherAnswers": ["well-kept", "well-preserved", "in good condition"]
+          },
+          "fr": {
+            "word": "bien entretenu",
+            "otherAnswers": ["en bon état", "soigné", "conservé"]
+          }
+        },
+        {
+          "id": "maintenance",
+          "type": "name",
+          "en": {
+            "word": "maintenance",
+            "otherAnswers": ["upkeep", "servicing", "preservation"]
+          },
+          "fr": {
+            "word": "maintenance",
+            "otherAnswers": ["entretien", "conservation", "service"]
+          }
+        },
+        {
+          "id": "maintenance_crew",
+          "type": "name",
+          "en": {
+            "word": "maintenance crew",
+            "otherAnswers": ["service team", "repair team", "maintenance staff"]
+          },
+          "fr": {
+            "word": "équipe d'entretien",
+            "otherAnswers": [
+              "personnel de maintenance",
+              "équipe de service",
+              "équipe technique"
+            ]
+          }
+        },
+        {
+          "id": "operate",
+          "type": "verb",
+          "en": {
+            "word": "operate",
+            "otherAnswers": ["run", "function", "work"]
+          },
+          "fr": {
+            "word": "fonctionner",
+            "otherAnswers": ["opérer", "faire marcher", "actionner"]
+          }
+        },
+        {
+          "id": "operational",
+          "type": "adjective",
+          "en": {
+            "word": "operational",
+            "otherAnswers": ["functioning", "working", "in service"]
+          },
+          "fr": {
+            "word": "opérationnel",
+            "otherAnswers": ["fonctionnel", "en service", "en état de marche"]
+          }
+        },
+        {
+          "id": "operator",
+          "type": "name",
+          "en": {
+            "word": "operator",
+            "otherAnswers": ["controller", "user", "handler"]
+          },
+          "fr": {
+            "word": "opérateur",
+            "otherAnswers": ["utilisateur", "manipulateur", "conducteur"]
+          }
+        },
+        {
+          "id": "oversee",
+          "type": "verb",
+          "en": {
+            "word": "oversee",
+            "otherAnswers": ["supervise", "manage", "monitor"]
+          },
+          "fr": {
+            "word": "superviser",
+            "otherAnswers": ["surveiller", "contrôler", "diriger"]
+          }
+        },
+        {
+          "id": "overseer",
+          "type": "name",
+          "en": {
+            "word": "overseer",
+            "otherAnswers": ["supervisor", "manager", "controller"]
+          },
+          "fr": {
+            "word": "superviseur",
+            "otherAnswers": ["contremaître", "surveillant", "chef"]
+          }
+        },
+        {
+          "id": "plant",
+          "type": "name",
+          "en": {
+            "word": "plant",
+            "otherAnswers": ["factory", "facility", "works"]
+          },
+          "fr": {
+            "word": "usine",
+            "otherAnswers": ["installation", "fabrique", "établissement"]
+          }
+        },
+        {
+          "id": "power_plant",
+          "type": "name",
+          "en": {
+            "word": "power plant",
+            "otherAnswers": [
+              "generating station",
+              "power station",
+              "energy facility"
+            ]
+          },
+          "fr": {
+            "word": "centrale électrique",
+            "otherAnswers": [
+              "centrale d'énergie",
+              "usine électrique",
+              "centrale"
+            ]
+          }
+        },
+        {
+          "id": "repair_noun",
+          "type": "name",
+          "en": {
+            "word": "repair",
+            "otherAnswers": ["fix", "mend", "restoration"]
+          },
+          "fr": {
+            "word": "réparation",
+            "otherAnswers": ["dépannage", "remise en état", "réfection"]
+          }
+        },
+        {
+          "id": "repair_verb",
+          "type": "verb",
+          "en": {
+            "word": "repair",
+            "otherAnswers": ["fix", "mend", "restore"]
+          },
+          "fr": {
+            "word": "réparer",
+            "otherAnswers": ["remettre en état", "dépanner", "raccommoder"]
+          }
+        },
+        {
+          "id": "repairman",
+          "type": "name",
+          "en": {
+            "word": "repairman",
+            "otherAnswers": ["technician", "mechanic", "fixer"]
+          },
+          "fr": {
+            "word": "réparateur",
+            "otherAnswers": ["dépanneur", "technicien", "mécanicien"]
+          }
+        },
+        {
+          "id": "disrepair",
+          "type": "name",
+          "en": {
+            "word": "disrepair",
+            "otherAnswers": ["deterioration", "decay", "dilapidation"]
+          },
+          "fr": {
+            "word": "mauvais état",
+            "otherAnswers": ["délabrement", "dégradation", "détérioration"]
+          }
+        },
+        {
+          "id": "safe",
+          "type": "adjective",
+          "en": {
+            "word": "safe",
+            "otherAnswers": ["secure", "protected", "risk-free"]
+          },
+          "fr": {
+            "word": "en sécurité",
+            "otherAnswers": ["sûr", "sans danger", "protégé"]
+          }
+        },
+        {
+          "id": "safely",
+          "type": "adverb",
+          "en": {
+            "word": "safely",
+            "otherAnswers": ["securely", "cautiously", "without risk"]
+          },
+          "fr": {
+            "word": "prudemment",
+            "otherAnswers": ["sans danger", "en sécurité", "avec précaution"]
+          }
+        },
+        {
+          "id": "safety",
+          "type": "name",
+          "en": {
+            "word": "safety",
+            "otherAnswers": ["security", "protection", "safeness"]
+          },
+          "fr": {
+            "word": "sécurité",
+            "otherAnswers": ["protection", "sûreté", "sauvegarde"]
+          }
+        },
+        {
+          "id": "safety_hazard",
+          "type": "name",
+          "en": {
+            "word": "safety hazard",
+            "otherAnswers": ["danger", "risk", "peril"]
+          },
+          "fr": {
+            "word": "danger",
+            "otherAnswers": ["risque", "péril", "menace"]
+          }
+        },
+        {
+          "id": "safety_measures",
+          "type": "name",
+          "en": {
+            "word": "safety measures",
+            "otherAnswers": ["precautions", "safeguards", "protective measures"]
+          },
+          "fr": {
+            "word": "mesures de sécurité",
+            "otherAnswers": [
+              "précautions",
+              "dispositifs de protection",
+              "mesures préventives"
+            ]
+          }
+        },
+        {
+          "id": "safety_net",
+          "type": "name",
+          "en": {
+            "word": "safety net",
+            "otherAnswers": ["fallback", "backup", "protection system"]
+          },
+          "fr": {
+            "word": "filet de sécurité",
+            "otherAnswers": [
+              "protection sociale",
+              "système de secours",
+              "filet de protection"
+            ]
+          }
+        },
+        {
+          "id": "safety_goggles",
+          "type": "name",
+          "en": {
+            "word": "safety goggles",
+            "otherAnswers": [
+              "protective eyewear",
+              "eye protection",
+              "safety glasses"
+            ]
+          },
+          "fr": {
+            "word": "lunettes de protection",
+            "otherAnswers": [
+              "lunettes de sécurité",
+              "protection oculaire",
+              "lunettes protectrices"
+            ]
+          }
+        },
+        {
+          "id": "shift",
+          "type": "name",
+          "en": {
+            "word": "shift",
+            "otherAnswers": ["work period", "duty period", "rotation"]
+          },
+          "fr": {
+            "word": "poste",
+            "otherAnswers": ["équipe", "quart", "période de travail"]
+          }
+        },
+        {
+          "id": "work_in_shifts",
+          "type": "verb",
+          "en": {
+            "word": "work in shifts",
+            "otherAnswers": ["do shift work", "rotate duties", "work rotations"]
+          },
+          "fr": {
+            "word": "travailler par équipes",
+            "otherAnswers": [
+              "faire les 3/8",
+              "travailler en rotation",
+              "faire les postes"
+            ]
+          }
+        },
+        {
+          "id": "shovel_noun",
+          "type": "name",
+          "en": {
+            "word": "shovel",
+            "otherAnswers": ["spade", "trowel", "scoop"]
+          },
+          "fr": {
+            "word": "pelle",
+            "otherAnswers": ["bêche", "pioche", "truelle"]
+          }
+        },
+        {
+          "id": "shovel_verb",
+          "type": "verb",
+          "en": {
+            "word": "shovel",
+            "otherAnswers": ["dig", "scoop", "excavate"]
+          },
+          "fr": {
+            "word": "déblayer",
+            "otherAnswers": ["creuser", "pelleter", "excaver"]
+          }
+        },
+        {
+          "id": "shut_down",
+          "type": "verb",
+          "en": {
+            "word": "shut down",
+            "otherAnswers": ["close", "turn off", "power down"]
+          },
+          "fr": {
+            "word": "fermer",
+            "otherAnswers": ["arrêter", "éteindre", "mettre hors service"]
+          }
+        },
+        {
+          "id": "shutdown",
+          "type": "name",
+          "en": {
+            "word": "shutdown",
+            "otherAnswers": ["closure", "closedown", "outage"]
+          },
+          "fr": {
+            "word": "arrêt",
+            "otherAnswers": ["fermeture", "interruption", "mise hors service"]
+          }
+        },
+        {
+          "id": "undergo",
+          "type": "verb",
+          "en": {
+            "word": "undergo",
+            "otherAnswers": ["experience", "go through", "be subjected to"]
+          },
+          "fr": {
+            "word": "subir",
+            "otherAnswers": ["éprouver", "passer par", "traverser"]
+          }
+        },
+        {
+          "id": "undergo_changes",
+          "type": "verb",
+          "en": {
+            "word": "undergo changes",
+            "otherAnswers": ["change", "transform", "evolve"]
+          },
+          "fr": {
+            "word": "subir des modifications",
+            "otherAnswers": ["changer", "évoluer", "se transformer"]
+          }
+        },
+        {
+          "id": "undergo_renovations",
+          "type": "verb",
+          "en": {
+            "word": "undergo renovations",
+            "otherAnswers": ["be renovated", "be refurbished", "be remodeled"]
+          },
+          "fr": {
+            "word": "être en travaux",
+            "otherAnswers": [
+              "subir des rénovations",
+              "être rénové",
+              "être en réfection"
+            ]
+          }
+        },
+        {
+          "id": "utility",
+          "type": "name",
+          "en": {
+            "word": "utility",
+            "otherAnswers": ["public service", "amenity", "facility"]
+          },
+          "fr": {
+            "word": "service public",
+            "otherAnswers": ["utilité", "service collectif", "commodité"]
+          }
+        },
+        {
+          "id": "utilitarian",
+          "type": "adjective",
+          "en": {
+            "word": "utilitarian",
+            "otherAnswers": ["functional", "practical", "useful"]
+          },
+          "fr": {
+            "word": "fonctionnel",
+            "otherAnswers": ["utilitaire", "pratique", "pragmatique"]
+          }
+        },
+        {
+          "id": "utilize",
+          "type": "verb",
+          "en": {
+            "word": "utilize",
+            "otherAnswers": ["use", "employ", "apply"]
+          },
+          "fr": {
+            "word": "se servir de",
+            "otherAnswers": ["utiliser", "employer", "faire usage de"]
+          }
+        }
+      ]
+    }
+  ]
+}

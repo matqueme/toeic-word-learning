@@ -1,0 +1,54 @@
+assets (nom) actifs
+bankruptcy (nom) faillite, dépot de bilan
+bankrupt (adj) insolvable, en faillite
+go bankrupt (vb) faire faillite
+bid (nom) offre, enchère
+bid (vb - Prét/PP : bid/bid) faire une offre, faire une enchère
+the hightest bidder (exp) le plus offrant
+bidding (nom) les enchères
+make a bid (vb) faire une offre, enchérir 
+boom (nom) boom, forte expansion
+boom (vb) être en plein essor,être en forte hausse
+brooker (nom) courtier
+commodity (nom) produit de base, marchandise 
+diversify (vb) (se) diversifier 
+diverse (adj) varié
+diversity (nom) diversité, variété
+diversification (nom) diversification
+dramatic (adj) spectaculaire 
+dramatically (adv) de façon spectaculaire
+equity (nom) fonds propres
+increase (nom) augmentation
+increasingly  (adv) de plus en plus 
+decrease (vb) baisser, diminuer
+initial outlay (nom) mise de fonds initiale, investissement initial
+interest rate (vb) investir (dans)
+investment (nom) investissement
+investor (nom) investisseur
+level off (vb) se stabiliser
+level (adj) horizontal, plat, au même niveau
+liabilities (nom) passif
+liable (adj) responsable
+be liable to (vb) risquer de, être suscesptible
+plummet (vb) chuter
+portfolio (nom) portefeuille (d'action)
+proper (adj) correct
+properly (adv) correctement, convenablement
+real estate (nom) immobilier
+realtor (nom) agent immobilier
+share (nom) action (finance) ; part, portion
+shareholder (nom) actionnaire
+skyrocket (vb) flamber
+slump (nom) effondrement, creux
+slump (vb) décliner
+speculator (nom) spéculateur 
+speculate (vb) spéculer
+stake (nom) intérêt, part
+at stake (adj) en jeu
+stakeholder (nom) partie prenante, acteur
+stakes (nom) enjeu
+stocks (nom) actions, valeurs
+srock market (nom) bourse
+stockbroker (nom) agent de change
+yield (nom) rendement
+yield (vb) rapporter (investissement) ; céder (ne pas résister)

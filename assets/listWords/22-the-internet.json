@@ -1,0 +1,491 @@
+{
+  "categories": [
+    {
+      "id": "the-internet",
+      "nameEn": "The Internet",
+      "nameFr": "L'Internet",
+      "words": [
+        {
+          "id": "at-sign",
+          "type": "name",
+          "en": {
+            "word": "at sign",
+            "otherAnswers": ["ampersand", "asterisk", "backslash"]
+          },
+          "fr": {
+            "word": "arobase",
+            "otherAnswers": ["astérisque", "parenthèse", "guillemet"]
+          }
+        },
+        {
+          "id": "banner",
+          "type": "name",
+          "en": {
+            "word": "banner",
+            "otherAnswers": ["sidebar", "popup", "thumbnail"]
+          },
+          "fr": {
+            "word": "bannière",
+            "otherAnswers": ["encart", "vignette", "bandeau"]
+          }
+        },
+        {
+          "id": "chat-vb",
+          "type": "verb",
+          "en": {
+            "word": "chat",
+            "otherAnswers": ["browse", "download", "stream"]
+          },
+          "fr": {
+            "word": "bavarder",
+            "otherAnswers": ["naviguer", "télécharger", "diffuser"]
+          }
+        },
+        {
+          "id": "comment-nm",
+          "type": "name",
+          "en": {
+            "word": "comment",
+            "otherAnswers": ["review", "feedback", "mention"]
+          },
+          "fr": {
+            "word": "commentaire",
+            "otherAnswers": ["évaluation", "réaction", "mention"]
+          }
+        },
+        {
+          "id": "comment-vb",
+          "type": "verb",
+          "en": {
+            "word": "comment",
+            "otherAnswers": ["review", "evaluate", "rate"]
+          },
+          "fr": {
+            "word": "laisser un commentaire",
+            "otherAnswers": ["évaluer", "noter", "réagir"]
+          }
+        },
+        {
+          "id": "commentator",
+          "type": "name",
+          "en": {
+            "word": "commentator",
+            "otherAnswers": ["blogger", "influencer", "moderator"]
+          },
+          "fr": {
+            "word": "commentateur",
+            "otherAnswers": ["blogueur", "influenceur", "modérateur"]
+          }
+        },
+        {
+          "id": "commentary",
+          "type": "name",
+          "en": {
+            "word": "commentary",
+            "otherAnswers": ["feedback", "reaction", "opinion"]
+          },
+          "fr": {
+            "word": "commentaires",
+            "otherAnswers": ["réactions", "critiques", "opinions"]
+          }
+        },
+        {
+          "id": "down",
+          "type": "adjective",
+          "en": {
+            "word": "down",
+            "otherAnswers": ["unavailable", "inaccessible", "malfunctioning"]
+          },
+          "fr": {
+            "word": "panne",
+            "otherAnswers": ["défectueux", "inaccessible", "dysfonctionnel"]
+          }
+        },
+        {
+          "id": "enter",
+          "type": "verb",
+          "en": {
+            "word": "enter",
+            "otherAnswers": ["upload", "process", "scan"]
+          },
+          "fr": {
+            "word": "entrer",
+            "otherAnswers": ["importer", "traiter", "numériser"]
+          }
+        },
+        {
+          "id": "follow",
+          "type": "verb",
+          "en": {
+            "word": "follow",
+            "otherAnswers": ["bookmark", "join", "visit"]
+          },
+          "fr": {
+            "word": "suivre",
+            "otherAnswers": ["marquer", "rejoindre", "visiter"]
+          }
+        },
+        {
+          "id": "follower",
+          "type": "name",
+          "en": {
+            "word": "follower",
+            "otherAnswers": ["member", "viewer", "contact"]
+          },
+          "fr": {
+            "word": "abonné",
+            "otherAnswers": ["membre", "spectateur", "contact"]
+          }
+        },
+        {
+          "id": "following",
+          "type": "name",
+          "en": {
+            "word": "following",
+            "otherAnswers": ["community", "network", "membership"]
+          },
+          "fr": {
+            "word": "des fans",
+            "otherAnswers": ["communauté", "réseau", "adhérents"]
+          }
+        },
+        {
+          "id": "font",
+          "type": "name",
+          "en": {
+            "word": "font",
+            "otherAnswers": ["layout", "template", "theme"]
+          },
+          "fr": {
+            "word": "police de caractère",
+            "otherAnswers": ["mise en page", "modèle", "thème"]
+          }
+        },
+        {
+          "id": "hyphen",
+          "type": "name",
+          "en": {
+            "word": "hyphen",
+            "otherAnswers": ["bracket", "colon", "semicolon"]
+          },
+          "fr": {
+            "word": "trait d'union",
+            "otherAnswers": ["crochet", "deux-points", "point-virgule"]
+          }
+        },
+        {
+          "id": "isp",
+          "type": "name",
+          "en": {
+            "word": "Internet service provider",
+            "otherAnswers": [
+              "web hosting service",
+              "domain registrar",
+              "cloud platform"
+            ]
+          },
+          "fr": {
+            "word": "fournisseur d'accès à Internet",
+            "otherAnswers": [
+              "hébergeur web",
+              "registraire de domaine",
+              "plateforme cloud"
+            ]
+          }
+        },
+        {
+          "id": "link",
+          "type": "name",
+          "en": {
+            "word": "link",
+            "otherAnswers": ["bookmark", "shortcut", "portal"]
+          },
+          "fr": {
+            "word": "lien",
+            "otherAnswers": ["signet", "raccourci", "portail"]
+          }
+        },
+        {
+          "id": "linked",
+          "type": "adjective",
+          "en": {
+            "word": "linked",
+            "otherAnswers": ["integrated", "embedded", "synchronized"]
+          },
+          "fr": {
+            "word": "relié",
+            "otherAnswers": ["intégré", "incorporé", "synchronisé"]
+          }
+        },
+        {
+          "id": "load",
+          "type": "verb",
+          "en": {
+            "word": "load",
+            "otherAnswers": ["refresh", "buffer", "cache"]
+          },
+          "fr": {
+            "word": "charger",
+            "otherAnswers": ["actualiser", "stocker", "mettre en cache"]
+          }
+        },
+        {
+          "id": "upload",
+          "type": "verb",
+          "en": {
+            "word": "upload",
+            "otherAnswers": ["transfer", "export", "backup"]
+          },
+          "fr": {
+            "word": "mettre en ligne",
+            "otherAnswers": ["transférer", "exporter", "sauvegarder"]
+          }
+        },
+        {
+          "id": "download",
+          "type": "verb",
+          "en": {
+            "word": "download",
+            "otherAnswers": ["install", "archive", "extract"]
+          },
+          "fr": {
+            "word": "télécharger",
+            "otherAnswers": ["installer", "archiver", "extraire"]
+          }
+        },
+        {
+          "id": "networking",
+          "type": "name",
+          "en": {
+            "word": "networking",
+            "otherAnswers": ["communication", "collaboration", "engagement"]
+          },
+          "fr": {
+            "word": "réseautage",
+            "otherAnswers": ["communication", "collaboration", "engagement"]
+          }
+        },
+        {
+          "id": "network-nm",
+          "type": "name",
+          "en": {
+            "word": "network",
+            "otherAnswers": ["platform", "ecosystem", "infrastructure"]
+          },
+          "fr": {
+            "word": "réseau",
+            "otherAnswers": ["plateforme", "écosystème", "infrastructure"]
+          }
+        },
+        {
+          "id": "network-vb",
+          "type": "verb",
+          "en": {
+            "word": "network",
+            "otherAnswers": ["collaborate", "interface", "interact"]
+          },
+          "fr": {
+            "word": "réseauter",
+            "otherAnswers": ["collaborer", "communiquer", "échanger"]
+          }
+        },
+        {
+          "id": "online",
+          "type": "adverb",
+          "en": {
+            "word": "online",
+            "otherAnswers": ["remotely", "virtually", "digitally"]
+          },
+          "fr": {
+            "word": "en ligne",
+            "otherAnswers": ["à distance", "virtuellement", "numériquement"]
+          }
+        },
+        {
+          "id": "offline",
+          "type": "adverb",
+          "en": {
+            "word": "offline",
+            "otherAnswers": ["locally", "physically", "manually"]
+          },
+          "fr": {
+            "word": "hors ligne",
+            "otherAnswers": ["localement", "physiquement", "manuellement"]
+          }
+        },
+        {
+          "id": "password",
+          "type": "name",
+          "en": {
+            "word": "password",
+            "otherAnswers": ["credential", "authentication", "verification"]
+          },
+          "fr": {
+            "word": "mot de passe",
+            "otherAnswers": [
+              "accréditation",
+              "authentification",
+              "vérification"
+            ]
+          }
+        },
+        {
+          "id": "password-protected",
+          "type": "adjective",
+          "en": {
+            "word": "password-protected",
+            "otherAnswers": ["authenticated", "restricted", "confidential"]
+          },
+          "fr": {
+            "word": "protégé par un mot de passe",
+            "otherAnswers": ["authentifié", "restreint", "confidentiel"]
+          }
+        },
+        {
+          "id": "post-nm",
+          "type": "name",
+          "en": {
+            "word": "post",
+            "otherAnswers": ["article", "content", "submission"]
+          },
+          "fr": {
+            "word": "message",
+            "otherAnswers": ["article", "contenu", "contribution"]
+          }
+        },
+        {
+          "id": "post-vb",
+          "type": "verb",
+          "en": {
+            "word": "post",
+            "otherAnswers": ["submit", "broadcast", "distribute"]
+          },
+          "fr": {
+            "word": "poster",
+            "otherAnswers": ["soumettre", "diffuser", "distribuer"]
+          }
+        },
+        {
+          "id": "poster",
+          "type": "name",
+          "en": {
+            "word": "poster",
+            "otherAnswers": ["publisher", "creator", "uploader"]
+          },
+          "fr": {
+            "word": "personne qui écrit un message",
+            "otherAnswers": ["éditeur", "créateur", "publicateur"]
+          }
+        },
+        {
+          "id": "sign-in",
+          "type": "verb",
+          "en": {
+            "word": "sign in",
+            "otherAnswers": ["register", "subscribe", "activate"]
+          },
+          "fr": {
+            "word": "se connecter",
+            "otherAnswers": ["s'enregistrer", "s'abonner", "activer"]
+          }
+        },
+        {
+          "id": "sign-out",
+          "type": "verb",
+          "en": {
+            "word": "sign out",
+            "otherAnswers": ["terminate", "deactivate", "unsubscribe"]
+          },
+          "fr": {
+            "word": "se déconnecter",
+            "otherAnswers": ["terminer", "désactiver", "se désabonner"]
+          }
+        },
+        {
+          "id": "slash",
+          "type": "name",
+          "en": {
+            "word": "slash",
+            "otherAnswers": ["period", "comma", "apostrophe"]
+          },
+          "fr": {
+            "word": "barre oblique",
+            "otherAnswers": ["point", "virgule", "apostrophe"]
+          }
+        },
+        {
+          "id": "tweet-nm",
+          "type": "name",
+          "en": {
+            "word": "tweet",
+            "otherAnswers": ["status", "thread", "hashtag"]
+          },
+          "fr": {
+            "word": "tweet",
+            "otherAnswers": ["statut", "fil", "mot-dièse"]
+          }
+        },
+        {
+          "id": "tweet-vb",
+          "type": "verb",
+          "en": {
+            "word": "tweet",
+            "otherAnswers": ["broadcast", "announce", "communicate"]
+          },
+          "fr": {
+            "word": "tweeter",
+            "otherAnswers": ["diffuser", "annoncer", "communiquer"]
+          }
+        },
+        {
+          "id": "underscore",
+          "type": "name",
+          "en": {
+            "word": "underscore",
+            "otherAnswers": ["parenthesis", "quotation mark", "tilde"]
+          },
+          "fr": {
+            "word": "tiret bas",
+            "otherAnswers": ["parenthèse", "guillemet", "tilde"]
+          }
+        },
+        {
+          "id": "update-nm",
+          "type": "name",
+          "en": {
+            "word": "update",
+            "otherAnswers": ["newsletter", "notification", "patch"]
+          },
+          "fr": {
+            "word": "mise à jour",
+            "otherAnswers": ["bulletin", "nouveauté", "version"]
+          }
+        },
+        {
+          "id": "update-vb",
+          "type": "verb",
+          "en": {
+            "word": "update",
+            "otherAnswers": ["revise", "renew", "enhance"]
+          },
+          "fr": {
+            "word": "mettre à jour",
+            "otherAnswers": ["renouveler", "améliorer", "enrichir"]
+          }
+        },
+        {
+          "id": "username",
+          "type": "name",
+          "en": {
+            "word": "username",
+            "otherAnswers": ["profile", "ID", "nickname"]
+          },
+          "fr": {
+            "word": "nom d'utilisateur",
+            "otherAnswers": ["compte", "profil", "signature"]
+          }
+        }
+      ]
+    }
+  ]
+}

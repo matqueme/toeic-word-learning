@@ -1,0 +1,587 @@
+{
+  "categories": [
+    {
+      "id": "office-equipment",
+      "nameEn": "Office Equipment",
+      "nameFr": "Équipement de Bureau",
+      "words": [
+        {
+          "id": "backup-verb",
+          "type": "verb",
+          "en": {
+            "word": "back up",
+            "otherAnswers": ["store", "archive", "save"]
+          },
+          "fr": {
+            "word": "sauvegarder",
+            "otherAnswers": ["archiver", "conserver", "stocker"]
+          }
+        },
+        {
+          "id": "backup-noun",
+          "type": "noun",
+          "en": {
+            "word": "backup",
+            "otherAnswers": ["archive", "copy", "duplicate"]
+          },
+          "fr": {
+            "word": "sauvegarde",
+            "otherAnswers": ["archive", "copie", "doublon"]
+          }
+        },
+        {
+          "id": "click",
+          "type": "verb",
+          "en": {
+            "word": "click",
+            "otherAnswers": ["tap", "press", "select"]
+          },
+          "fr": {
+            "word": "cliquer",
+            "otherAnswers": ["appuyer", "taper", "sélectionner"]
+          }
+        },
+        {
+          "id": "coating",
+          "type": "noun",
+          "en": {
+            "word": "coating",
+            "otherAnswers": ["layer", "cover", "finish"]
+          },
+          "fr": {
+            "word": "revêtement",
+            "otherAnswers": ["couche", "finition", "pellicule"]
+          }
+        },
+        {
+          "id": "coated",
+          "type": "adjective",
+          "en": {
+            "word": "coated",
+            "otherAnswers": ["covered", "layered", "finished"]
+          },
+          "fr": {
+            "word": "recouvert",
+            "otherAnswers": ["enduit", "verni", "revêtu"]
+          }
+        },
+        {
+          "id": "coat-noun",
+          "type": "noun",
+          "en": {
+            "word": "coat",
+            "otherAnswers": ["layer", "film", "cover"]
+          },
+          "fr": {
+            "word": "couche",
+            "otherAnswers": ["film", "enduit", "pellicule"]
+          }
+        },
+        {
+          "id": "coat-verb",
+          "type": "verb",
+          "en": {
+            "word": "coat",
+            "otherAnswers": ["cover", "layer", "apply"]
+          },
+          "fr": {
+            "word": "enduire",
+            "otherAnswers": ["couvrir", "appliquer", "recouvrir"]
+          }
+        },
+        {
+          "id": "copier",
+          "type": "noun",
+          "en": {
+            "word": "copier",
+            "otherAnswers": ["printer", "scanner", "duplicator"]
+          },
+          "fr": {
+            "word": "photocopieuse",
+            "otherAnswers": ["imprimante", "scanneur", "duplicateur"]
+          }
+        },
+        {
+          "id": "desktop",
+          "type": "noun",
+          "en": {
+            "word": "desktop",
+            "otherAnswers": ["workstation", "screen", "monitor"]
+          },
+          "fr": {
+            "word": "bureau",
+            "otherAnswers": ["poste de travail", "écran", "moniteur"]
+          }
+        },
+        {
+          "id": "device",
+          "type": "noun",
+          "en": {
+            "word": "device",
+            "otherAnswers": ["equipment", "machine", "gadget"]
+          },
+          "fr": {
+            "word": "appareil",
+            "otherAnswers": ["équipement", "machine", "accessoire"]
+          }
+        },
+        {
+          "id": "handheld-device",
+          "type": "noun",
+          "en": {
+            "word": "hand-held device",
+            "otherAnswers": ["tablet", "smartphone", "PDA"]
+          },
+          "fr": {
+            "word": "appareil portable",
+            "otherAnswers": ["tablette", "smartphone", "assistant numérique"]
+          }
+        },
+        {
+          "id": "drag-and-drop",
+          "type": "verb",
+          "en": {
+            "word": "drag and drop",
+            "otherAnswers": [
+              "click and move",
+              "cut and paste",
+              "point and place"
+            ]
+          },
+          "fr": {
+            "word": "glisser-déposer",
+            "otherAnswers": [
+              "cliquer-déplacer",
+              "couper-coller",
+              "pointer-placer"
+            ]
+          }
+        },
+        {
+          "id": "feature",
+          "type": "noun",
+          "en": {
+            "word": "feature",
+            "otherAnswers": ["option", "function", "capability"]
+          },
+          "fr": {
+            "word": "caractéristique",
+            "otherAnswers": ["option", "fonctionnalité", "capacité"]
+          }
+        },
+        {
+          "id": "function-noun",
+          "type": "noun",
+          "en": {
+            "word": "function",
+            "otherAnswers": ["operation", "procedure", "capability"]
+          },
+          "fr": {
+            "word": "fonction",
+            "otherAnswers": ["opération", "procédure", "capacité"]
+          }
+        },
+        {
+          "id": "function-verb",
+          "type": "verb",
+          "en": {
+            "word": "function",
+            "otherAnswers": ["operate", "work", "perform"]
+          },
+          "fr": {
+            "word": "fonctionner",
+            "otherAnswers": ["opérer", "marcher", "performer"]
+          }
+        },
+        {
+          "id": "functional",
+          "type": "adjective",
+          "en": {
+            "word": "functional",
+            "otherAnswers": ["working", "operational", "practical"]
+          },
+          "fr": {
+            "word": "fonctionnel",
+            "otherAnswers": ["pratique", "opérationnel", "utile"]
+          }
+        },
+        {
+          "id": "hardware",
+          "type": "noun",
+          "en": {
+            "word": "hardware",
+            "otherAnswers": ["equipment", "device", "component"]
+          },
+          "fr": {
+            "word": "matériel informatique",
+            "otherAnswers": ["composants", "périphériques", "équipement"]
+          }
+        },
+        {
+          "id": "key",
+          "type": "noun",
+          "en": {
+            "word": "key",
+            "otherAnswers": ["button", "switch", "pad"]
+          },
+          "fr": {
+            "word": "touche",
+            "otherAnswers": ["bouton", "interrupteur", "pavé"]
+          }
+        },
+        {
+          "id": "keyboard",
+          "type": "noun",
+          "en": {
+            "word": "keyboard",
+            "otherAnswers": ["console", "pad", "input device"]
+          },
+          "fr": {
+            "word": "clavier",
+            "otherAnswers": ["console", "tablette", "périphérique d'entrée"]
+          }
+        },
+        {
+          "id": "key-in",
+          "type": "verb",
+          "en": {
+            "word": "key in",
+            "otherAnswers": ["enter", "input", "type"]
+          },
+          "fr": {
+            "word": "saisir",
+            "otherAnswers": ["entrer", "introduire", "encoder"]
+          }
+        },
+        {
+          "id": "laptop",
+          "type": "noun",
+          "en": {
+            "word": "laptop",
+            "otherAnswers": ["notebook", "computer", "tablet"]
+          },
+          "fr": {
+            "word": "ordinateur portable",
+            "otherAnswers": ["laptop", "tablette", "notebook"]
+          }
+        },
+        {
+          "id": "lap",
+          "type": "noun",
+          "en": {
+            "word": "lap",
+            "otherAnswers": ["knees", "thighs", "limbs"]
+          },
+          "fr": {
+            "word": "genoux",
+            "otherAnswers": ["cuisse", "membre", "jambe"]
+          }
+        },
+        {
+          "id": "model",
+          "type": "noun",
+          "en": {
+            "word": "model",
+            "otherAnswers": ["version", "type", "design"]
+          },
+          "fr": {
+            "word": "modèle",
+            "otherAnswers": ["version", "conception", "type"]
+          }
+        },
+        {
+          "id": "monitor-noun",
+          "type": "noun",
+          "en": {
+            "word": "monitor",
+            "otherAnswers": ["screen", "display", "output device"]
+          },
+          "fr": {
+            "word": "moniteur",
+            "otherAnswers": ["écran", "affichage", "périphérique de sortie"]
+          }
+        },
+        {
+          "id": "monitor-verb",
+          "type": "verb",
+          "en": {
+            "word": "monitor",
+            "otherAnswers": ["track", "watch", "check"]
+          },
+          "fr": {
+            "word": "surveiller",
+            "otherAnswers": ["vérifier", "examiner", "scruter"]
+          }
+        },
+        {
+          "id": "monitoring",
+          "type": "noun",
+          "en": {
+            "word": "monitoring",
+            "otherAnswers": ["tracking", "checking", "observing"]
+          },
+          "fr": {
+            "word": "surveillance",
+            "otherAnswers": ["contrôle", "vérification", "supervision"]
+          }
+        },
+        {
+          "id": "mouse",
+          "type": "noun",
+          "en": {
+            "word": "mouse",
+            "otherAnswers": ["pointer", "cursor", "device"]
+          },
+          "fr": {
+            "word": "souris",
+            "otherAnswers": ["dispositif", "pointeur", "périphérique"]
+          }
+        },
+        {
+          "id": "mousepad",
+          "type": "noun",
+          "en": {
+            "word": "mousepad",
+            "otherAnswers": ["mouse mat", "mouse surface", "desk pad"]
+          },
+          "fr": {
+            "word": "tapis de souris",
+            "otherAnswers": ["surface de souris", "dessous de souris", "pad"]
+          }
+        },
+        {
+          "id": "mouse-over",
+          "type": "verb",
+          "en": {
+            "word": "mouse over",
+            "otherAnswers": ["hover", "point at", "position over"]
+          },
+          "fr": {
+            "word": "passer la souris sur",
+            "otherAnswers": [
+              "positionner sur",
+              "pointer vers",
+              "placer au-dessus"
+            ]
+          }
+        },
+        {
+          "id": "plug-in",
+          "type": "verb",
+          "en": {
+            "word": "plug in",
+            "otherAnswers": ["connect", "insert", "attach"]
+          },
+          "fr": {
+            "word": "brancher",
+            "otherAnswers": ["raccorder", "insérer", "attacher"]
+          }
+        },
+        {
+          "id": "plug",
+          "type": "noun",
+          "en": {
+            "word": "plug",
+            "otherAnswers": ["connector", "jack", "port"]
+          },
+          "fr": {
+            "word": "fiche",
+            "otherAnswers": ["connecteur", "prise mâle", "broche"]
+          }
+        },
+        {
+          "id": "printer",
+          "type": "noun",
+          "en": {
+            "word": "printer",
+            "otherAnswers": ["copier", "scanner", "device"]
+          },
+          "fr": {
+            "word": "imprimante",
+            "otherAnswers": ["appareil", "machine", "périphérique"]
+          }
+        },
+        {
+          "id": "printer-shop",
+          "type": "noun",
+          "en": {
+            "word": "printer shop",
+            "otherAnswers": ["copy center", "publishing house", "office store"]
+          },
+          "fr": {
+            "word": "imprimerie",
+            "otherAnswers": ["centre de copie", "maison d'édition", "papeterie"]
+          }
+        },
+        {
+          "id": "printing",
+          "type": "noun",
+          "en": {
+            "word": "printing",
+            "otherAnswers": ["output", "reproduction", "copying"]
+          },
+          "fr": {
+            "word": "impression",
+            "otherAnswers": ["production", "reproduction", "copie"]
+          }
+        },
+        {
+          "id": "print",
+          "type": "verb",
+          "en": {
+            "word": "print",
+            "otherAnswers": ["output", "produce", "copy"]
+          },
+          "fr": {
+            "word": "imprimer",
+            "otherAnswers": ["produire", "reproduire", "copier"]
+          }
+        },
+        {
+          "id": "recharge",
+          "type": "verb",
+          "en": {
+            "word": "recharge",
+            "otherAnswers": ["refill", "replenish", "reload"]
+          },
+          "fr": {
+            "word": "recharger",
+            "otherAnswers": ["remplir", "réapprovisionner", "ravitailler"]
+          }
+        },
+        {
+          "id": "rechargeable-battery",
+          "type": "name",
+          "en": {
+            "word": "rechargeable battery",
+            "otherAnswers": ["power cell", "energy pack", "battery pack"]
+          },
+          "fr": {
+            "word": "pile rechargeable",
+            "otherAnswers": ["batterie", "accumulateur", "cellule d'énergie"]
+          }
+        },
+        {
+          "id": "select",
+          "type": "verb",
+          "en": {
+            "word": "select",
+            "otherAnswers": ["choose", "pick", "mark"]
+          },
+          "fr": {
+            "word": "sélectionner",
+            "otherAnswers": ["choisir", "marquer", "désigner"]
+          }
+        },
+        {
+          "id": "selection",
+          "type": "name",
+          "en": {
+            "word": "selection",
+            "otherAnswers": ["choice", "option", "pick"]
+          },
+          "fr": {
+            "word": "sélection",
+            "otherAnswers": ["choix", "option", "préférence"]
+          }
+        },
+        {
+          "id": "share",
+          "type": "verb",
+          "en": {
+            "word": "share",
+            "otherAnswers": ["distribute", "allocate", "provide"]
+          },
+          "fr": {
+            "word": "partager",
+            "otherAnswers": ["distribuer", "allouer", "fournir"]
+          }
+        },
+        {
+          "id": "significant",
+          "type": "adjective",
+          "en": {
+            "word": "significant",
+            "otherAnswers": ["major", "important", "crucial"]
+          },
+          "fr": {
+            "word": "significatif",
+            "otherAnswers": ["majeur", "important", "crucial"]
+          }
+        },
+        {
+          "id": "significantly",
+          "type": "adverb",
+          "en": {
+            "word": "significantly",
+            "otherAnswers": ["greatly", "majorly", "extensively"]
+          },
+          "fr": {
+            "word": "significativement",
+            "otherAnswers": ["grandement", "largement", "fortement"]
+          }
+        },
+        {
+          "id": "significance",
+          "type": "name",
+          "en": {
+            "word": "significance",
+            "otherAnswers": ["importance", "relevance", "weight"]
+          },
+          "fr": {
+            "word": "signification",
+            "otherAnswers": ["importance", "portée", "poids"]
+          }
+        },
+        {
+          "id": "software",
+          "type": "name",
+          "en": {
+            "word": "software",
+            "otherAnswers": ["program", "application", "system"]
+          },
+          "fr": {
+            "word": "logiciel",
+            "otherAnswers": ["programme", "application", "système"]
+          }
+        },
+        {
+          "id": "swipe",
+          "type": "verb",
+          "en": {
+            "word": "swipe",
+            "otherAnswers": ["slide", "glide", "brush"]
+          },
+          "fr": {
+            "word": "balayer",
+            "otherAnswers": ["glisser", "effleurer", "frôler"]
+          }
+        },
+        {
+          "id": "user-friendly",
+          "type": "adjective",
+          "en": {
+            "word": "user-friendly",
+            "otherAnswers": ["intuitive", "easy", "simple"]
+          },
+          "fr": {
+            "word": "convivial",
+            "otherAnswers": ["intuitif", "facile", "simple"]
+          }
+        },
+        {
+          "id": "voicemail",
+          "type": "name",
+          "en": {
+            "word": "voicemail",
+            "otherAnswers": ["message", "recording", "audio note"]
+          },
+          "fr": {
+            "word": "messagerie vocale",
+            "otherAnswers": ["message audio", "enregistrement", "note vocale"]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -10,11 +10,11 @@
           "type": "noun",
           "en": {
             "word": "attachment",
-            "otherAnswers": ["document", "file", "enclosure"]
+            "otherAnswers": ["transcript", "signature", "letterhead"]
           },
           "fr": {
             "word": "pièce jointe",
-            "otherAnswers": ["fichier", "document", "annexe"]
+            "otherAnswers": ["brochure", "carton", "signature"]
           }
         },
         {
@@ -22,11 +22,11 @@
           "type": "verb",
           "en": {
             "word": "attach",
-            "otherAnswers": ["send", "forward", "include"]
+            "otherAnswers": ["compose", "print", "address"]
           },
           "fr": {
             "word": "joindre",
-            "otherAnswers": ["envoyer", "ajouter", "insérer"]
+            "otherAnswers": ["imprimer", "rédiger", "signer"]
           }
         },
         {
@@ -35,17 +35,17 @@
           "en": {
             "word": "at your earliest convenience",
             "otherAnswers": [
-              "when time permits",
-              "promptly if possible",
-              "whenever suitable"
+              "urgently required",
+              "by next week",
+              "pending your approval"
             ]
           },
           "fr": {
             "word": "le plus tôt possible",
             "otherAnswers": [
-              "quand vous aurez le temps",
-              "à votre guise",
-              "selon votre disponibilité"
+              "dès réception",
+              "en priorité absolue",
+              "avant la date limite"
             ]
           }
         },
@@ -54,19 +54,11 @@
           "type": "noun",
           "en": {
             "word": "bulletin board",
-            "otherAnswers": [
-              "whiteboard",
-              "display panel",
-              "announcement board"
-            ]
+            "otherAnswers": ["newsletter", "pamphlet", "directory"]
           },
           "fr": {
             "word": "panneau d'affichage",
-            "otherAnswers": [
-              "tableau blanc",
-              "écran d'information",
-              "panneau d'annonces"
-            ]
+            "otherAnswers": ["messagerie", "circulaire", "journal interne"]
           }
         },
         {
@@ -74,11 +66,11 @@
           "type": "noun",
           "en": {
             "word": "correspondence",
-            "otherAnswers": ["documents", "emails", "messages"]
+            "otherAnswers": ["broadcasts", "presentations", "newsletters"]
           },
           "fr": {
             "word": "courrier",
-            "otherAnswers": ["documents", "emails", "messages"]
+            "otherAnswers": ["chronique", "diffusion", "communiqué"]
           }
         },
         {
@@ -86,11 +78,11 @@
           "type": "adjective",
           "en": {
             "word": "corresponding",
-            "otherAnswers": ["related", "similar", "parallel"]
+            "otherAnswers": ["sequential", "matching", "equivalent"]
           },
           "fr": {
             "word": "correspondant",
-            "otherAnswers": ["relié", "similaire", "parallèle"]
+            "otherAnswers": ["associé", "équivalent", "coordonné"]
           }
         },
         {
@@ -98,11 +90,11 @@
           "type": "verb",
           "en": {
             "word": "correspond",
-            "otherAnswers": ["reply", "write", "contact"]
+            "otherAnswers": ["broadcast", "publish", "negotiate"]
           },
           "fr": {
             "word": "correspondre",
-            "otherAnswers": ["répondre", "écrire", "contacter"]
+            "otherAnswers": ["diffuser", "publier", "communiquer"]
           }
         },
         {
@@ -110,11 +102,11 @@
           "type": "noun",
           "en": {
             "word": "envelope",
-            "otherAnswers": ["letter", "package", "parcel"]
+            "otherAnswers": ["folder", "binder", "clipboard"]
           },
           "fr": {
             "word": "enveloppe",
-            "otherAnswers": ["lettre", "colis", "paquet"]
+            "otherAnswers": ["chemise", "dossier", "classeur"]
           }
         },
         {
@@ -122,19 +114,11 @@
           "type": "noun",
           "en": {
             "word": "inbox",
-            "otherAnswers": [
-              "email folder",
-              "message list",
-              "notification center"
-            ]
+            "otherAnswers": ["archive", "directory", "dashboard"]
           },
           "fr": {
             "word": "boîte de réception",
-            "otherAnswers": [
-              "dossier d'emails",
-              "liste de messages",
-              "centre de notifications"
-            ]
+            "otherAnswers": ["registre", "classeur", "tableau de bord"]
           }
         },
         {
@@ -142,15 +126,11 @@
           "type": "noun",
           "en": {
             "word": "letterhead",
-            "otherAnswers": ["logo", "company signature", "business header"]
+            "otherAnswers": ["watermark", "stamp", "brochure"]
           },
           "fr": {
             "word": "en-tête",
-            "otherAnswers": [
-              "logo",
-              "signature d'entreprise",
-              "papier officiel"
-            ]
+            "otherAnswers": ["filigrane", "cachet", "inscription"]
           }
         },
         {
@@ -158,11 +138,11 @@
           "type": "verb",
           "en": {
             "word": "look forward to",
-            "otherAnswers": ["wait for", "be excited about", "hope for"]
+            "otherAnswers": ["respond to", "follow up on", "inquire about"]
           },
           "fr": {
             "word": "attendre avec impatience",
-            "otherAnswers": ["avoir hâte de", "s'attendre à", "désirer"]
+            "otherAnswers": ["répondre à", "donner suite à", "s'enquérir de"]
           }
         },
         {
@@ -170,11 +150,11 @@
           "type": "noun",
           "en": {
             "word": "mail",
-            "otherAnswers": ["delivery", "shipment", "package"]
+            "otherAnswers": ["telegram", "newsletter", "bulletin"]
           },
           "fr": {
             "word": "courrier",
-            "otherAnswers": ["livraison", "envoi", "colis"]
+            "otherAnswers": ["télégramme", "bulletin", "communiqué"]
           }
         },
         {
@@ -182,11 +162,11 @@
           "type": "verb",
           "en": {
             "word": "mail",
-            "otherAnswers": ["deliver", "ship", "forward"]
+            "otherAnswers": ["broadcast", "publish", "announce"]
           },
           "fr": {
             "word": "poster",
-            "otherAnswers": ["livrer", "expédier", "adresser"]
+            "otherAnswers": ["diffuser", "publier", "annoncer"]
           }
         },
         {
@@ -194,11 +174,11 @@
           "type": "noun",
           "en": {
             "word": "mail carrier",
-            "otherAnswers": ["delivery person", "courier", "postal employee"]
+            "otherAnswers": ["messenger", "secretary", "receptionist"]
           },
           "fr": {
             "word": "facteur",
-            "otherAnswers": ["livreur", "coursier", "employé postal"]
+            "otherAnswers": ["messager", "secrétaire", "réceptionniste"]
           }
         },
         {
@@ -206,15 +186,11 @@
           "type": "noun",
           "en": {
             "word": "mailbox",
-            "otherAnswers": ["mail slot", "post office box", "mail receptacle"]
+            "otherAnswers": ["cabinet", "drawer", "tray"]
           },
           "fr": {
             "word": "boite à lettres",
-            "otherAnswers": [
-              "fente à courrier",
-              "case postale",
-              "réceptacle à courrier"
-            ]
+            "otherAnswers": ["armoire", "tiroir", "plateau"]
           }
         },
         {
@@ -222,19 +198,11 @@
           "type": "noun",
           "en": {
             "word": "junk mail",
-            "otherAnswers": [
-              "flyers",
-              "promotional material",
-              "unwanted advertisements"
-            ]
+            "otherAnswers": ["newsletter", "catalog", "bulletin"]
           },
           "fr": {
             "word": "courrier indésirable",
-            "otherAnswers": [
-              "dépliants",
-              "matériel promotionnel",
-              "publicités non sollicitées"
-            ]
+            "otherAnswers": ["catalogue", "bulletin", "brochure"]
           }
         },
         {
@@ -242,11 +210,11 @@
           "type": "noun",
           "en": {
             "word": "memo",
-            "otherAnswers": ["internal message", "office notice", "bulletin"]
+            "otherAnswers": ["report", "newsletter", "transcript"]
           },
           "fr": {
             "word": "note de service",
-            "otherAnswers": ["message interne", "avis de bureau", "bulletin"]
+            "otherAnswers": ["rapport", "chronique", "procès-verbal"]
           }
         },
         {
@@ -254,15 +222,11 @@
           "type": "noun",
           "en": {
             "word": "postage",
-            "otherAnswers": ["delivery cost", "shipping rate", "mail fee"]
+            "otherAnswers": ["subscription", "registration", "customs"]
           },
           "fr": {
             "word": "affranchissement",
-            "otherAnswers": [
-              "coût d'envoi",
-              "tarif d'expédition",
-              "frais de courrier"
-            ]
+            "otherAnswers": ["abonnement", "inscription", "douane"]
           }
         },
         {
@@ -270,11 +234,11 @@
           "type": "adjective",
           "en": {
             "word": "postal",
-            "otherAnswers": ["delivery", "shipping", "courier"]
+            "otherAnswers": ["digital", "express", "commercial"]
           },
           "fr": {
             "word": "postal",
-            "otherAnswers": ["de livraison", "d'expédition", "de messagerie"]
+            "otherAnswers": ["numérique", "express", "commercial"]
           }
         },
         {
@@ -282,11 +246,11 @@
           "type": "verb",
           "en": {
             "word": "post",
-            "otherAnswers": ["deliver", "send out", "ship"]
+            "otherAnswers": ["archive", "register", "distribute"]
           },
           "fr": {
             "word": "envoyer",
-            "otherAnswers": ["livrer", "expédier", "distribuer"]
+            "otherAnswers": ["archiver", "enregistrer", "distribuer"]
           }
         },
         {
@@ -294,11 +258,11 @@
           "type": "noun",
           "en": {
             "word": "recipient",
-            "otherAnswers": ["addressee", "target", "intended person"]
+            "otherAnswers": ["publisher", "correspondent", "subscriber"]
           },
           "fr": {
             "word": "destinataire",
-            "otherAnswers": ["adressé", "cible", "personne visée"]
+            "otherAnswers": ["éditeur", "correspondant", "abonné"]
           }
         },
         {
@@ -306,15 +270,11 @@
           "type": "noun",
           "en": {
             "word": "reception",
-            "otherAnswers": ["information desk", "entrance area", "check-in"]
+            "otherAnswers": ["mailroom", "dispatch", "registry"]
           },
           "fr": {
             "word": "accueil",
-            "otherAnswers": [
-              "bureau d'information",
-              "zone d'entrée",
-              "enregistrement"
-            ]
+            "otherAnswers": ["salle de courrier", "expédition", "registre"]
           }
         },
         {
@@ -322,15 +282,11 @@
           "type": "verb",
           "en": {
             "word": "receive",
-            "otherAnswers": ["collect", "take delivery of", "be given"]
+            "otherAnswers": ["distribute", "archive", "register"]
           },
           "fr": {
             "word": "recevoir",
-            "otherAnswers": [
-              "collecter",
-              "prendre livraison de",
-              "se voir remettre"
-            ]
+            "otherAnswers": ["distribuer", "archiver", "enregistrer"]
           }
         },
         {
@@ -338,15 +294,11 @@
           "type": "expression",
           "en": {
             "word": "rest assured",
-            "otherAnswers": ["trust me", "have no doubt", "believe me"]
+            "otherAnswers": ["keep in mind", "please note", "be informed"]
           },
           "fr": {
             "word": "soyez assuré que",
-            "otherAnswers": [
-              "faites-moi confiance",
-              "n'ayez aucun doute",
-              "croyez-moi"
-            ]
+            "otherAnswers": ["veuillez noter", "sachez que", "tenez compte de"]
           }
         },
         {
@@ -354,11 +306,11 @@
           "type": "noun",
           "en": {
             "word": "sender",
-            "otherAnswers": ["shipper", "source", "initiator"]
+            "otherAnswers": ["publisher", "distributor", "subscriber"]
           },
           "fr": {
             "word": "expéditeur",
-            "otherAnswers": ["envoyeur", "source", "initiateur"]
+            "otherAnswers": ["éditeur", "distributeur", "abonné"]
           }
         },
         {
@@ -366,11 +318,11 @@
           "type": "verb",
           "en": {
             "word": "send",
-            "otherAnswers": ["ship", "deliver", "transport"]
+            "otherAnswers": ["publish", "announce", "distribute"]
           },
           "fr": {
             "word": "envoyer",
-            "otherAnswers": ["expédier", "livrer", "transporter"]
+            "otherAnswers": ["publier", "annoncer", "distribuer"]
           }
         },
         {
@@ -378,11 +330,11 @@
           "type": "noun",
           "en": {
             "word": "stamp",
-            "otherAnswers": ["label", "sticker", "postal mark"]
+            "otherAnswers": ["seal", "badge", "sticker"]
           },
           "fr": {
             "word": "timbre",
-            "otherAnswers": ["étiquette", "autocollant", "marque postale"]
+            "otherAnswers": ["sceau", "insigne", "vignette"]
           }
         },
         {
@@ -390,15 +342,11 @@
           "type": "verb",
           "en": {
             "word": "stamp",
-            "otherAnswers": ["postmark", "frank", "validate"]
+            "otherAnswers": ["seal", "certify", "authorize"]
           },
           "fr": {
             "word": "tamponner",
-            "otherAnswers": [
-              "marquer d'un cachet",
-              "valider",
-              "apposer un sceau"
-            ]
+            "otherAnswers": ["sceller", "certifier", "authentifier"]
           }
         },
         {
@@ -406,19 +354,11 @@
           "type": "noun",
           "en": {
             "word": "stationery",
-            "otherAnswers": [
-              "pens and paper",
-              "office items",
-              "writing materials"
-            ]
+            "otherAnswers": ["supplies", "equipment", "accessories"]
           },
           "fr": {
             "word": "papeterie",
-            "otherAnswers": [
-              "stylos et papiers",
-              "articles de bureau",
-              "matériel d'écriture"
-            ]
+            "otherAnswers": ["fournitures", "équipement", "accessoires"]
           }
         },
         {
@@ -426,15 +366,11 @@
           "type": "noun",
           "en": {
             "word": "stationer",
-            "otherAnswers": ["office supply store", "pen shop", "paper shop"]
+            "otherAnswers": ["bookstore", "newsstand", "post office"]
           },
           "fr": {
             "word": "papeterie",
-            "otherAnswers": [
-              "magasin de fournitures de bureau",
-              "boutique de stylos",
-              "magasin de papiers"
-            ]
+            "otherAnswers": ["librairie", "kiosque", "bureau de poste"]
           }
         },
         {
@@ -442,11 +378,11 @@
           "type": "verb",
           "en": {
             "word": "submit",
-            "otherAnswers": ["file", "send in", "deliver"]
+            "otherAnswers": ["broadcast", "distribute", "publish"]
           },
           "fr": {
             "word": "soumettre",
-            "otherAnswers": ["déposer", "envoyer", "livrer"]
+            "otherAnswers": ["diffuser", "distribuer", "publier"]
           }
         },
         {
@@ -454,11 +390,11 @@
           "type": "noun",
           "en": {
             "word": "submission",
-            "otherAnswers": ["filing", "delivery", "deposit"]
+            "otherAnswers": ["broadcast", "distribution", "publication"]
           },
           "fr": {
             "word": "remise",
-            "otherAnswers": ["dépôt", "livraison", "présentation"]
+            "otherAnswers": ["diffusion", "distribution", "publication"]
           }
         },
         {
@@ -466,11 +402,11 @@
           "type": "adjective",
           "en": {
             "word": "utmost",
-            "otherAnswers": ["highest", "greatest", "top"]
+            "otherAnswers": ["optimal", "primary", "crucial"]
           },
           "fr": {
             "word": "extrême",
-            "otherAnswers": ["le plus haut", "le plus grand", "maximal"]
+            "otherAnswers": ["optimal", "primordial", "crucial"]
           }
         },
         {
@@ -479,17 +415,17 @@
           "en": {
             "word": "do one's utmost",
             "otherAnswers": [
-              "give it all",
-              "spare no effort",
-              "work tirelessly"
+              "make haste",
+              "consider carefully",
+              "take initiative"
             ]
           },
           "fr": {
             "word": "faire tout son possible",
             "otherAnswers": [
-              "donner tout ce qu'on a",
-              "ne ménager aucun effort",
-              "travailler sans relâche"
+              "se dépêcher",
+              "examiner attentivement",
+              "prendre l'initiative"
             ]
           }
         },
@@ -498,15 +434,11 @@
           "type": "noun",
           "en": {
             "word": "weight",
-            "otherAnswers": ["postage rate", "mailing cost", "shipping weight"]
+            "otherAnswers": ["dimension", "volume", "quantity"]
           },
           "fr": {
             "word": "poids",
-            "otherAnswers": [
-              "tarif d'affranchissement",
-              "coût d'envoi",
-              "poids d'expédition"
-            ]
+            "otherAnswers": ["dimension", "volume", "quantité"]
           }
         },
         {
@@ -514,19 +446,11 @@
           "type": "verb",
           "en": {
             "word": "weigh",
-            "otherAnswers": [
-              "calculate postage",
-              "determine shipping cost",
-              "check mass"
-            ]
+            "otherAnswers": ["measure", "count", "estimate"]
           },
           "fr": {
             "word": "peser",
-            "otherAnswers": [
-              "calculer l'affranchissement",
-              "déterminer le coût d'expédition",
-              "vérifier la masse"
-            ]
+            "otherAnswers": ["mesurer", "compter", "estimer"]
           }
         },
         {
@@ -534,19 +458,11 @@
           "type": "noun",
           "en": {
             "word": "zip code",
-            "otherAnswers": [
-              "address code",
-              "location identifier",
-              "routing number"
-            ]
+            "otherAnswers": ["region", "district", "county"]
           },
           "fr": {
             "word": "code postal",
-            "otherAnswers": [
-              "code d'adresse",
-              "identifiant de localisation",
-              "numéro d'acheminement"
-            ]
+            "otherAnswers": ["région", "district", "département"]
           }
         }
       ]

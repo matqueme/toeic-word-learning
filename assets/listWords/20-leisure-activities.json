@@ -1,571 +1,603 @@
 {
-    "id": "leisure-activities",
-    "nameEn": "Leisure Activities",
-    "nameFr": "Activités de loisirs",
-    "words": [
-      {
-        "id": "afterward",
-        "type": "adv",
-        "en": {
-          "word": "afterward",
-          "otherAnswers": ["later", "subsequently", "eventually"]
+  "categories": [
+    {
+      "id": "leisure-activities",
+      "nameEn": "Leisure Activities",
+      "nameFr": "Activités de loisirs",
+      "words": [
+        {
+          "id": "afterward",
+          "type": "adv",
+          "en": {
+            "word": "afterward",
+            "otherAnswers": ["later", "subsequently", "eventually"]
+          },
+          "fr": {
+            "word": "après",
+            "otherAnswers": ["ensuite", "plus tard", "ultérieurement"]
+          }
         },
-        "fr": {
-          "word": "après",
-          "otherAnswers": ["ensuite", "plus tard", "ultérieurement"]
-        }
-      },
-      {
-        "id": "amusement-park",
-        "type": "noun",
-        "en": {
-          "word": "amusement park",
-          "otherAnswers": ["theme park", "funfair", "carnival"]
+        {
+          "id": "amusement-park",
+          "type": "noun",
+          "en": {
+            "word": "amusement park",
+            "otherAnswers": ["theme park", "funfair", "carnival"]
+          },
+          "fr": {
+            "word": "parc d'attractions",
+            "otherAnswers": ["foire", "fête foraine", "parc à thème"]
+          }
         },
-        "fr": {
-          "word": "parc d'attractions",
-          "otherAnswers": ["foire", "fête foraine", "parc à thème"]
-        }
-      },
-      {
-        "id": "attraction",
-        "type": "noun",
-        "en": {
-          "word": "attraction",
-          "otherAnswers": ["sight", "feature", "highlight"]
+        {
+          "id": "attraction",
+          "type": "noun",
+          "en": {
+            "word": "attraction",
+            "otherAnswers": ["sight", "feature", "highlight"]
+          },
+          "fr": {
+            "word": "attraction (touristique)",
+            "otherAnswers": ["attrait", "curiosité", "point d'intérêt"]
+          }
         },
-        "fr": {
-          "word": "attraction (touristique)",
-          "otherAnswers": ["attrait", "curiosité", "point d'intérêt"]
-        }
-      },
-      {
-        "id": "attractive",
-        "type": "adv",
-        "en": {
-          "word": "attractive",
-          "otherAnswers": ["appealing", "charming", "engaging"]
+        {
+          "id": "attractive",
+          "type": "adv",
+          "en": {
+            "word": "attractive",
+            "otherAnswers": ["appealing", "charming", "engaging"]
+          },
+          "fr": {
+            "word": "attrayant",
+            "otherAnswers": ["séduisant", "plaisant", "agréable"]
+          }
         },
-        "fr": {
-          "word": "attrayant",
-          "otherAnswers": ["séduisant", "plaisant", "agréable"]
-        }
-      },
-      {
-        "id": "attract",
-        "type": "verb",
-        "en": {
-          "word": "attract",
-          "otherAnswers": ["draw", "entice", "lure"]
+        {
+          "id": "attract",
+          "type": "verb",
+          "en": {
+            "word": "attract",
+            "otherAnswers": ["draw", "entice", "lure"]
+          },
+          "fr": {
+            "word": "attirer",
+            "otherAnswers": ["séduire", "charmer", "captiver"]
+          }
         },
-        "fr": {
-          "word": "attirer",
-          "otherAnswers": ["séduire", "charmer", "captiver"]
-        }
-      },
-      {
-        "id": "beforehand",
-        "type": "adv",
-        "en": {
-          "word": "beforehand",
-          "otherAnswers": ["previously", "earlier", "in advance"]
+        {
+          "id": "beforehand",
+          "type": "adv",
+          "en": {
+            "word": "beforehand",
+            "otherAnswers": ["previously", "earlier", "in advance"]
+          },
+          "fr": {
+            "word": "avant",
+            "otherAnswers": ["préalablement", "antérieurement", "auparavant"]
+          }
         },
-        "fr": {
-          "word": "avant",
-          "otherAnswers": ["préalablement", "antérieurement", "auparavant"]
-        }
-      },
-      {
-        "id": "board-game",
-        "type": "noun",
-        "en": {
-          "word": "board game",
-          "otherAnswers": ["card game", "tabletop game", "puzzle"]
+        {
+          "id": "board-game",
+          "type": "noun",
+          "en": {
+            "word": "board game",
+            "otherAnswers": ["card game", "tabletop game", "puzzle"]
+          },
+          "fr": {
+            "word": "jeu de société",
+            "otherAnswers": ["jeu de cartes", "jeu de plateau", "puzzle"]
+          }
         },
-        "fr": {
-          "word": "jeu de société",
-          "otherAnswers": ["jeu de cartes", "jeu de plateau", "puzzle"]
-        }
-      },
-      {
-        "id": "chess",
-        "type": "noun",
-        "en": {
-          "word": "chess",
-          "otherAnswers": ["checkers", "backgammon", "go"]
+        {
+          "id": "chess",
+          "type": "noun",
+          "en": {
+            "word": "chess",
+            "otherAnswers": ["checkers", "backgammon", "go"]
+          },
+          "fr": {
+            "word": "échecs",
+            "otherAnswers": ["dames", "backgammon", "go"]
+          }
         },
-        "fr": {
-          "word": "échecs",
-          "otherAnswers": ["dames", "backgammon", "go"]
-        }
-      },
-      {
-        "id": "chessboard",
-        "type": "noun",
-        "en": {
-          "word": "chessboard",
-          "otherAnswers": ["board", "playing board", "checkered board"]
+        {
+          "id": "chessboard",
+          "type": "noun",
+          "en": {
+            "word": "chessboard",
+            "otherAnswers": ["board", "playing board", "checkered board"]
+          },
+          "fr": {
+            "word": "échiquier",
+            "otherAnswers": ["plateau", "table de jeu", "damier"]
+          }
         },
-        "fr": {
-          "word": "échiquier",
-          "otherAnswers": ["plateau", "table de jeu", "damier"]
-        }
-      },
-      {
-        "id": "collect",
-        "type": "verb",
-        "en": {
-          "word": "collect",
-          "otherAnswers": ["gather", "accumulate", "amass"]
+        {
+          "id": "collect",
+          "type": "verb",
+          "en": {
+            "word": "collect",
+            "otherAnswers": ["gather", "accumulate", "amass"]
+          },
+          "fr": {
+            "word": "collectionner",
+            "otherAnswers": ["réunir", "rassembler", "accumuler"]
+          }
         },
-        "fr": {
-          "word": "collectionner",
-          "otherAnswers": ["réunir", "rassembler", "accumuler"]
-        }
-      },
-      {
-        "id": "collector",
-        "type": "noun",
-        "en": {
-          "word": "collector",
-          "otherAnswers": ["curator", "gatherer", "accumulator"]
+        {
+          "id": "collector",
+          "type": "noun",
+          "en": {
+            "word": "collector",
+            "otherAnswers": ["curator", "gatherer", "accumulator"]
+          },
+          "fr": {
+            "word": "collectionneur(-euse)",
+            "otherAnswers": ["conservateur", "ramasseur", "accumulateur"]
+          }
         },
-        "fr": {
-          "word": "collectionneur(-euse)",
-          "otherAnswers": ["conservateur", "ramasseur", "accumulateur"]
-        }
-      },
-      {
-        "id": "collection",
-        "type": "noun",
-        "en": {
-          "word": "collection",
-          "otherAnswers": ["set", "assortment", "group"]
+        {
+          "id": "collection",
+          "type": "noun",
+          "en": {
+            "word": "collection",
+            "otherAnswers": ["set", "assortment", "group"]
+          },
+          "fr": {
+            "word": "collection",
+            "otherAnswers": ["ensemble", "assortiment", "groupe"]
+          }
         },
-        "fr": {
-          "word": "collection",
-          "otherAnswers": ["ensemble", "assortiment", "groupe"]
-        }
-      },
-      {
-        "id": "crafts",
-        "type": "noun",
-        "en": {
-          "word": "crafts",
-          "otherAnswers": ["handicrafts", "hobbies", "arts"]
+        {
+          "id": "crafts",
+          "type": "noun",
+          "en": {
+            "word": "crafts",
+            "otherAnswers": ["handicrafts", "hobbies", "arts"]
+          },
+          "fr": {
+            "word": "travaux manuels, artisanat",
+            "otherAnswers": ["bricolage", "loisirs créatifs", "arts"]
+          }
         },
-        "fr": {
-          "word": "travaux manuels, artisanat",
-          "otherAnswers": ["bricolage", "loisirs créatifs", "arts"]
-        }
-      },
-      {
-        "id": "craft",
-        "type": "noun",
-        "en": {
-          "word": "craft",
-          "otherAnswers": ["handicraft", "trade", "art"]
+        {
+          "id": "craft",
+          "type": "noun",
+          "en": {
+            "word": "craft",
+            "otherAnswers": ["handicraft", "trade", "art"]
+          },
+          "fr": {
+            "word": "artisanat ; métier manuel",
+            "otherAnswers": ["travail manuel", "métier", "art"]
+          }
         },
-        "fr": {
-          "word": "artisanat ; métier manuel",
-          "otherAnswers": ["travail manuel", "métier", "art"]
-        }
-      },
-      {
-        "id": "craftsperson",
-        "type": "noun",
-        "en": {
-          "word": "craftsman/woman, craftsperson",
-          "otherAnswers": ["artisan", "artist", "maker"]
+        {
+          "id": "craftsperson",
+          "type": "noun",
+          "en": {
+            "word": "craftsman/woman, craftsperson",
+            "otherAnswers": ["artisan", "artist", "maker"]
+          },
+          "fr": {
+            "word": "artisan(e)",
+            "otherAnswers": ["ouvrier", "créateur", "fabricant"]
+          }
         },
-        "fr": {
-          "word": "artisan(e)",
-          "otherAnswers": ["ouvrier", "créateur", "fabricant"]
-        }
-      },
-      {
-        "id": "cycling",
-        "type": "noun",
-        "en": {
-          "word": "cycling",
-          "otherAnswers": ["biking", "riding", "spinning"]
+        {
+          "id": "cycling",
+          "type": "noun",
+          "en": {
+            "word": "cycling",
+            "otherAnswers": ["biking", "riding", "spinning"]
+          },
+          "fr": {
+            "word": "cyclisme",
+            "otherAnswers": ["vélo", "randonnée à vélo", "pédalage"]
+          }
         },
-        "fr": {
-          "word": "cyclisme",
-          "otherAnswers": ["vélo", "randonnée à vélo", "pédalage"]
-        }
-      },
-      {
-        "id": "cyclist",
-        "type": "noun",
-        "en": {
-          "word": "cyclist",
-          "otherAnswers": ["biker", "rider", "wheelman"]
+        {
+          "id": "cyclist",
+          "type": "noun",
+          "en": {
+            "word": "cyclist",
+            "otherAnswers": ["biker", "rider", "wheelman"]
+          },
+          "fr": {
+            "word": "cycliste",
+            "otherAnswers": ["vélo", "rouleur", "coureur"]
+          }
         },
-        "fr": {
-          "word": "cycliste",
-          "otherAnswers": ["vélo", "rouleur", "coureur"]
-        }
-      },
-      {
-        "id": "DIY",
-        "type": "noun",
-        "en": {
-          "word": "DIY (do it yourself)",
-          "otherAnswers": ["crafting", "handiwork", "home improvement"]
+        {
+          "id": "DIY",
+          "type": "noun",
+          "en": {
+            "word": "DIY (do it yourself)",
+            "otherAnswers": ["crafting", "handiwork", "home improvement"]
+          },
+          "fr": {
+            "word": "bricolage",
+            "otherAnswers": [
+              "travaux manuels",
+              "loisirs créatifs",
+              "réparations"
+            ]
+          }
         },
-        "fr": {
-          "word": "bricolage",
-          "otherAnswers": ["travaux manuels", "loisirs créatifs", "réparations"]
-        }
-      },
-      {
-        "id": "eat-out",
-        "type": "verb",
-        "en": {
-          "word": "eat out",
-          "otherAnswers": ["dine", "go out", "have a meal"]
+        {
+          "id": "eat-out",
+          "type": "verb",
+          "en": {
+            "word": "eat out",
+            "otherAnswers": ["dine", "go out", "have a meal"]
+          },
+          "fr": {
+            "word": "manger au restaurant",
+            "otherAnswers": ["dîner", "sortir manger", "prendre un repas"]
+          }
         },
-        "fr": {
-          "word": "manger au restaurant",
-          "otherAnswers": ["dîner", "sortir manger", "prendre un repas"]
-        }
-      },
-      {
-        "id": "energetic",
-        "type": "adj",
-        "en": {
-          "word": "energetic",
-          "otherAnswers": ["active", "lively", "vigorous"]
+        {
+          "id": "energetic",
+          "type": "adj",
+          "en": {
+            "word": "energetic",
+            "otherAnswers": ["active", "lively", "vigorous"]
+          },
+          "fr": {
+            "word": "énergétique, dynamique",
+            "otherAnswers": ["vivant", "actif", "vif"]
+          }
         },
-        "fr": {
-          "word": "énergétique, dynamique",
-          "otherAnswers": ["vivant", "actif", "vif"]
-        }
-      },
-      {
-        "id": "energetically",
-        "type": "adv",
-        "en": {
-          "word": "energetically",
-          "otherAnswers": ["actively", "vigorously", "lively"]
+        {
+          "id": "energetically",
+          "type": "adv",
+          "en": {
+            "word": "energetically",
+            "otherAnswers": ["actively", "vigorously", "lively"]
+          },
+          "fr": {
+            "word": "énergiquement",
+            "otherAnswers": ["activement", "vigoureusement", "vivement"]
+          }
         },
-        "fr": {
-          "word": "énergiquement",
-          "otherAnswers": ["activement", "vigoureusement", "vivement"]
-        }
-      },
-      {
-        "id": "enroll-in",
-        "type": "verb",
-        "en": {
-          "word": "enroll in",
-          "otherAnswers": ["register", "sign up", "join"]
+        {
+          "id": "enroll-in",
+          "type": "verb",
+          "en": {
+            "word": "enroll in",
+            "otherAnswers": ["register", "sign up", "join"]
+          },
+          "fr": {
+            "word": "s'inscrire à",
+            "otherAnswers": ["se joindre", "adhérer", "participer"]
+          }
         },
-        "fr": {
-          "word": "s'inscrire à",
-          "otherAnswers": ["se joindre", "adhérer", "participer"]
-        }
-      },
-      {
-        "id": "enrollment",
-        "type": "noun",
-        "en": {
-          "word": "enrollment",
-          "otherAnswers": ["registration", "sign-up", "participation"]
+        {
+          "id": "enrollment",
+          "type": "noun",
+          "en": {
+            "word": "enrollment",
+            "otherAnswers": ["registration", "sign-up", "participation"]
+          },
+          "fr": {
+            "word": "inscription",
+            "otherAnswers": ["enregistrement", "adhésion", "participation"]
+          }
         },
-        "fr": {
-          "word": "inscription",
-          "otherAnswers": ["enregistrement", "adhésion", "participation"]
-        }
-      },
-      {
-        "id": "gardening",
-        "type": "noun",
-        "en": {
-          "word": "gardening",
-          "otherAnswers": ["horticulture", "planting", "landscaping"]
+        {
+          "id": "gardening",
+          "type": "noun",
+          "en": {
+            "word": "gardening",
+            "otherAnswers": ["horticulture", "planting", "landscaping"]
+          },
+          "fr": {
+            "word": "jardinage",
+            "otherAnswers": [
+              "horticulture",
+              "plantation",
+              "aménagement paysager"
+            ]
+          }
         },
-        "fr": {
-          "word": "jardinage",
-          "otherAnswers": ["horticulture", "plantation", "aménagement paysager"]
-        }
-      },
-      {
-        "id": "garden-center",
-        "type": "noun",
-        "en": {
-          "word": "garden center",
-          "otherAnswers": ["nursery", "plant store", "garden shop"]
+        {
+          "id": "garden-center",
+          "type": "noun",
+          "en": {
+            "word": "garden center",
+            "otherAnswers": ["nursery", "plant store", "garden shop"]
+          },
+          "fr": {
+            "word": "jardinerie",
+            "otherAnswers": [
+              "pépinière",
+              "magasin de plantes",
+              "boutique de jardinage"
+            ]
+          }
         },
-        "fr": {
-          "word": "jardinerie",
-          "otherAnswers": ["pépinière", "magasin de plantes", "boutique de jardinage"]
-        }
-      },
-      {
-        "id": "hike",
-        "type": "verb",
-        "en": {
-          "word": "hike",
-          "otherAnswers": ["trek", "walk", "explore"]
+        {
+          "id": "hike",
+          "type": "verb",
+          "en": {
+            "word": "hike",
+            "otherAnswers": ["trek", "walk", "explore"]
+          },
+          "fr": {
+            "word": "randonner, faire de la randonnée",
+            "otherAnswers": ["marcher", "explorer", "balader"]
+          }
         },
-        "fr": {
-          "word": "randonner, faire de la randonnée",
-          "otherAnswers": ["marcher", "explorer", "balader"]
-        }
-      },
-      {
-        "id": "hiker",
-        "type": "noun",
-        "en": {
-          "word": "hiker",
-          "otherAnswers": ["trekker", "walker", "explorer"]
+        {
+          "id": "hiker",
+          "type": "noun",
+          "en": {
+            "word": "hiker",
+            "otherAnswers": ["trekker", "walker", "explorer"]
+          },
+          "fr": {
+            "word": "randonneur",
+            "otherAnswers": ["marcheur", "explorateur", "baladeur"]
+          }
         },
-        "fr": {
-          "word": "randonneur",
-          "otherAnswers": ["marcheur", "explorateur", "baladeur"]
-        }
-      },
-      {
-        "id": "hiking",
-        "type": "noun",
-        "en": {
-          "word": "hiking, hike",
-          "otherAnswers": ["trekking", "walking", "exploring"]
+        {
+          "id": "hiking",
+          "type": "noun",
+          "en": {
+            "word": "hiking, hike",
+            "otherAnswers": ["trekking", "walking", "exploring"]
+          },
+          "fr": {
+            "word": "randonnée",
+            "otherAnswers": ["marche", "exploration", "balade"]
+          }
         },
-        "fr": {
-          "word": "randonnée",
-          "otherAnswers": ["marche", "exploration", "balade"]
-        }
-      },
-      {
-        "id": "indoor-outdoor",
-        "type": "adj",
-        "en": {
-          "word": "indoor/outdoor",
-          "otherAnswers": ["inside/outside", "interior/exterior", "in/out"]
+        {
+          "id": "indoor-outdoor",
+          "type": "adj",
+          "en": {
+            "word": "indoor/outdoor",
+            "otherAnswers": ["inside/outside", "interior/exterior", "in/out"]
+          },
+          "fr": {
+            "word": "(d')intérieur / (d')extérieur",
+            "otherAnswers": [
+              "dedans/dehors",
+              "intérieur/extérieur",
+              "en/dedans"
+            ]
+          }
         },
-        "fr": {
-          "word": "(d')intérieur / (d')extérieur",
-          "otherAnswers": ["dedans/dehors", "intérieur/extérieur", "en/dedans"]
-        }
-      },
-      {
-        "id": "indoors-outdoors",
-        "type": "adv",
-        "en": {
-          "word": "indoors / outdoors",
-          "otherAnswers": ["inside/outside", "interior/exterior", "in/out"]
+        {
+          "id": "indoors-outdoors",
+          "type": "adv",
+          "en": {
+            "word": "indoors / outdoors",
+            "otherAnswers": ["inside/outside", "interior/exterior", "in/out"]
+          },
+          "fr": {
+            "word": "à l'intérieur / à l'extérieur",
+            "otherAnswers": [
+              "dedans/dehors",
+              "au-dedans/au-dehors",
+              "en/dedans"
+            ]
+          }
         },
-        "fr": {
-          "word": "à l'intérieur / à l'extérieur",
-          "otherAnswers": ["dedans/dehors", "au-dedans/au-dehors", "en/dedans"]
-        }
-      },
-      {
-        "id": "the-outdoors",
-        "type": "noun",
-        "en": {
-          "word": "the outdoors",
-          "otherAnswers": ["nature", "wilderness", "environment"]
+        {
+          "id": "the-outdoors",
+          "type": "noun",
+          "en": {
+            "word": "the outdoors",
+            "otherAnswers": ["nature", "wilderness", "environment"]
+          },
+          "fr": {
+            "word": "la nature",
+            "otherAnswers": ["environnement", "sauvage", "plein air"]
+          }
         },
-        "fr": {
-          "word": "la nature",
-          "otherAnswers": ["environnement", "sauvage", "plein air"]
-        }
-      },
-      {
-        "id": "job",
-        "type": "verb",
-        "en": {
-          "word": "job",
-          "otherAnswers": ["run", "jog", "sprint"]
+        {
+          "id": "job",
+          "type": "verb",
+          "en": {
+            "word": "job",
+            "otherAnswers": ["run", "jog", "sprint"]
+          },
+          "fr": {
+            "word": "faire du jogging, courir",
+            "otherAnswers": ["courir", "jogger", "galoper"]
+          }
         },
-        "fr": {
-          "word": "faire du jogging, courir",
-          "otherAnswers": ["courir", "jogger", "galoper"]
-        }
-      },
-      {
-        "id": "go-for-a-job",
-        "type": "exp",
-        "en": {
-          "word": "go for a job, go jogging",
-          "otherAnswers": ["run", "take a jog", "exercise"]
+        {
+          "id": "go-for-a-job",
+          "type": "exp",
+          "en": {
+            "word": "go for a job, go jogging",
+            "otherAnswers": ["run", "take a jog", "exercise"]
+          },
+          "fr": {
+            "word": "aller courir",
+            "otherAnswers": ["faire un jogging", "prendre un jog", "s'exercer"]
+          }
         },
-        "fr": {
-          "word": "aller courir",
-          "otherAnswers": ["faire un jogging", "prendre un jog", "s'exercer"]
-        }
-      },
-      {
-        "id": "keep-fit",
-        "type": "verb",
-        "en": {
-          "word": "keep fit",
-          "otherAnswers": ["stay healthy", "stay in shape", "maintain fitness"]
+        {
+          "id": "keep-fit",
+          "type": "verb",
+          "en": {
+            "word": "keep fit",
+            "otherAnswers": [
+              "stay healthy",
+              "stay in shape",
+              "maintain fitness"
+            ]
+          },
+          "fr": {
+            "word": "garder la forme, se maintenir en forme",
+            "otherAnswers": [
+              "rester en bonne santé",
+              "rester en forme",
+              "maintenir la forme"
+            ]
+          }
         },
-        "fr": {
-          "word": "garder la forme, se maintenir en forme",
-          "otherAnswers": ["rester en bonne santé", "rester en forme", "maintenir la forme"]
-        }
-      },
-      {
-        "id": "relax",
-        "type": "verb",
-        "en": {
-          "word": "relax",
-          "otherAnswers": ["rest", "unwind", "chill"]
+        {
+          "id": "relax",
+          "type": "verb",
+          "en": {
+            "word": "relax",
+            "otherAnswers": ["rest", "unwind", "chill"]
+          },
+          "fr": {
+            "word": "se reposer, se détendre",
+            "otherAnswers": ["se relaxer", "se décontracter", "se calmer"]
+          }
         },
-        "fr": {
-          "word": "se reposer, se détendre",
-          "otherAnswers": ["se relaxer", "se décontracter", "se calmer"]
-        }
-      },
-      {
-        "id": "relaxing",
-        "type": "adj",
-        "en": {
-          "word": "relaxing",
-          "otherAnswers": ["calming", "soothing", "restful"]
+        {
+          "id": "relaxing",
+          "type": "adj",
+          "en": {
+            "word": "relaxing",
+            "otherAnswers": ["calming", "soothing", "restful"]
+          },
+          "fr": {
+            "word": "relaxant",
+            "otherAnswers": ["calmant", "apaisant", "reposant"]
+          }
         },
-        "fr": {
-          "word": "relaxant",
-          "otherAnswers": ["calmant", "apaisant", "reposant"]
-        }
-      },
-      {
-        "id": "relaxation",
-        "type": "noun",
-        "en": {
-          "word": "relaxation",
-          "otherAnswers": ["rest", "peace", "calm"]
+        {
+          "id": "relaxation",
+          "type": "noun",
+          "en": {
+            "word": "relaxation",
+            "otherAnswers": ["rest", "peace", "calm"]
+          },
+          "fr": {
+            "word": "détente",
+            "otherAnswers": ["repos", "paix", "calme"]
+          }
         },
-        "fr": {
-          "word": "détente",
-          "otherAnswers": ["repos", "paix", "calme"]
-        }
-      },
-      {
-        "id": "sailing",
-        "type": "noun",
-        "en": {
-          "word": "sailing",
-          "otherAnswers": ["boating", "yachting", "cruising"]
+        {
+          "id": "sailing",
+          "type": "noun",
+          "en": {
+            "word": "sailing",
+            "otherAnswers": ["boating", "yachting", "cruising"]
+          },
+          "fr": {
+            "word": "voile",
+            "otherAnswers": ["navigation", "yachting", "croisière"]
+          }
         },
-        "fr": {
-          "word": "voile",
-          "otherAnswers": ["navigation", "yachting", "croisière"]
-        }
-      },
-      {
-        "id": "sail",
-        "type": "verb",
-        "en": {
-          "word": "sail, go sailing",
-          "otherAnswers": ["navigate", "cruise", "yacht"]
+        {
+          "id": "sail",
+          "type": "verb",
+          "en": {
+            "word": "sail, go sailing",
+            "otherAnswers": ["navigate", "cruise", "yacht"]
+          },
+          "fr": {
+            "word": "faire de la voile",
+            "otherAnswers": ["naviguer", "croisière", "yachting"]
+          }
         },
-        "fr": {
-          "word": "faire de la voile",
-          "otherAnswers": ["naviguer", "croisière", "yachting"]
-        }
-      },
-      {
-        "id": "season-ticket",
-        "type": "noun",
-        "en": {
-          "word": "season ticket",
-          "otherAnswers": ["membership", "pass", "subscription"]
+        {
+          "id": "season-ticket",
+          "type": "noun",
+          "en": {
+            "word": "season ticket",
+            "otherAnswers": ["membership", "pass", "subscription"]
+          },
+          "fr": {
+            "word": "abonnement (sport, transports)",
+            "otherAnswers": ["adhésion", "carte", "souscription"]
+          }
         },
-        "fr": {
-          "word": "abonnement (sport, transports)",
-          "otherAnswers": ["adhésion", "carte", "souscription"]
-        }
-      },
-      {
-        "id": "sewing",
-        "type": "noun",
-        "en": {
-          "word": "sewing",
-          "otherAnswers": ["stitching", "needlework", "embroidering"]
+        {
+          "id": "sewing",
+          "type": "noun",
+          "en": {
+            "word": "sewing",
+            "otherAnswers": ["stitching", "needlework", "embroidering"]
+          },
+          "fr": {
+            "word": "couture",
+            "otherAnswers": ["broderie", "piquage", "travail à l'aiguille"]
+          }
         },
-        "fr": {
-          "word": "couture",
-          "otherAnswers": ["broderie", "piquage", "travail à l'aiguille"]
-        }
-      },
-      {
-        "id": "sew",
-        "type": "verb",
-        "en": {
-          "word": "sew",
-          "otherAnswers": ["stitch", "embroider", "hem"]
+        {
+          "id": "sew",
+          "type": "verb",
+          "en": {
+            "word": "sew",
+            "otherAnswers": ["stitch", "embroider", "hem"]
+          },
+          "fr": {
+            "word": "coudre",
+            "otherAnswers": ["broder", "piquer", "ourler"]
+          }
         },
-        "fr": {
-          "word": "coudre",
-          "otherAnswers": ["broder", "piquer", "ourler"]
-        }
-      },
-      {
-        "id": "subscription",
-        "type": "noun",
-        "en": {
-          "word": "subscription",
-          "otherAnswers": ["membership", "enrollment", "sponsorship"]
+        {
+          "id": "subscription",
+          "type": "noun",
+          "en": {
+            "word": "subscription",
+            "otherAnswers": ["membership", "enrollment", "sponsorship"]
+          },
+          "fr": {
+            "word": "abonnement (magazine)",
+            "otherAnswers": ["adhésion", "inscription", "parrainage"]
+          }
         },
-        "fr": {
-          "word": "abonnement (magazine)",
-          "otherAnswers": ["adhésion", "inscription", "parrainage"]
-        }
-      },
-      {
-        "id": "subscriber",
-        "type": "noun",
-        "en": {
-          "word": "subscriber",
-          "otherAnswers": ["member", "follower", "supporter"]
+        {
+          "id": "subscriber",
+          "type": "noun",
+          "en": {
+            "word": "subscriber",
+            "otherAnswers": ["member", "follower", "supporter"]
+          },
+          "fr": {
+            "word": "abonné(e)",
+            "otherAnswers": ["membre", "suiveur", "supporteur"]
+          }
         },
-        "fr": {
-          "word": "abonné(e)",
-          "otherAnswers": ["membre", "suiveur", "supporteur"]
-        }
-      },
-      {
-        "id": "subscribe",
-        "type": "verb",
-        "en": {
-          "word": "subscribe",
-          "otherAnswers": ["join", "enroll", "sign up"]
+        {
+          "id": "subscribe",
+          "type": "verb",
+          "en": {
+            "word": "subscribe",
+            "otherAnswers": ["join", "enroll", "sign up"]
+          },
+          "fr": {
+            "word": "s'abonner",
+            "otherAnswers": ["adhérer", "s'inscrire", "participer"]
+          }
         },
-        "fr": {
-          "word": "s'abonner",
-          "otherAnswers": ["adhérer", "s'inscrire", "participer"]
-        }
-      },
-      {
-        "id": "trail",
-        "type": "noun",
-        "en": {
-          "word": "trail",
-          "otherAnswers": ["path", "track", "route"]
+        {
+          "id": "trail",
+          "type": "noun",
+          "en": {
+            "word": "trail",
+            "otherAnswers": ["path", "track", "route"]
+          },
+          "fr": {
+            "word": "sentier",
+            "otherAnswers": ["chemin", "piste", "itinéraire"]
+          }
         },
-        "fr": {
-          "word": "sentier",
-          "otherAnswers": ["chemin", "piste", "itinéraire"]
+        {
+          "id": "work-out",
+          "type": "verb",
+          "en": {
+            "word": "work out",
+            "otherAnswers": ["jog", "stretch", "lift"]
+          },
+          "fr": {
+            "word": "faire de l'exercice",
+            "otherAnswers": ["courir", "s'étirer", "soulever"]
+          }
         }
-      },
-      {
-        "id": "work-out",
-        "type": "verb",
-        "en": {
-          "word": "work out",
-          "otherAnswers": ["jog", "stretch", "lift"]
-        },
-        "fr": {
-          "word": "faire de l'exercice",
-          "otherAnswers": ["courir", "s'étirer", "soulever"]
-        }
-      }
-    ]
-  }
+      ]
+    }
+  ]
+}

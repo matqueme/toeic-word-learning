@@ -1,0 +1,39 @@
+CALLING THE HELPDESK Appeler le service d'assistance
+administrator (nom) administrateur 
+administrate (vb) administrer, gérer
+antivirus software (nom) logiciel antivirus
+assistance (nom) assistance, aide 
+assist (vb) aider 
+bug (nom) bogue, bug 
+call back (vb) rappeler
+call center (nom) centre d'appels
+concerned (adj) inquiet, préoccupé
+crash (vb) tomber en panne (PC)
+cut off (vb - Prét/PP : cut/cut) couper (téléphone, électricité)
+database (nom) base de données
+data (nom) données
+emergency (nom) urgence
+engaged (adj) occupé (en ligne)
+helpdesk (nom) service d'assistance
+outsource (vb) externaliser
+prompt (adj) rapide
+prompt (vb) inciter
+promptly (adv) rapidement
+put through (vb - Prét/PP : put/put) passer (au téléphone)
+reach (vb) joindre
+reachable (adj) joignable
+reboot (vb) redémarrer
+boot up (vb) démarrer
+scan (nom) scan
+scan (vb) scanner
+scanner (nom) scanner
+set up (vb - Prét/PP : set/set) installer
+setup (process) (nom) installation
+switch (nom) chargement 
+switch (vb) échanger, remplacer
+switch on / off (vb) allumer/éteindre
+upgrade (vb) actualiser, otpimiser 
+urgent (adj) urgen
+urgently (adv) d'urgence
+urgency (nom) urgence (insistance)
+ 

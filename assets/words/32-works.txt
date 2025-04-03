@@ -1,0 +1,64 @@
+assemble (vb) monter
+assembly line (nom) chaîne de montage
+disassemble (vb) démonter
+civil engineering (nom) génie civil
+equip (with) équiper (de)
+equipped (adj) équipé
+ill-equipped (adj) mal équipé
+equipment (nom indénombrable) matériel
+face mask (nom) masque
+factory (nom) usine
+factory-made (adj) industriel
+factory worker (nom) ouvrier(-ière) (d'usine)
+fix (vb) réparer, fixer
+foreman (nom) contremaître
+forklift truck (nom) chariot élévateur 
+fully (adj) complètement
+fully equipped (adj) tout équipé
+glove (nom) gant 
+hard hat (nom) casque de chantier 
+high visibility (nom) glet fluo
+hone (vb) aiguiser, perfectionner
+hone your skills (vb) affiner ses compétences
+laboratory (nom) laboratoire
+laboratory apparatus (nom) matériel de laboratoire
+lab coat (nom) blouse blanche
+ladder (nom) échelle
+machinery (nom indénombrable) machines
+maintain (vb) maintenir, entretenir
+well-maintained (adj) bien entretenu
+maintenance (nom) maintenance, entretien
+maintenance crew (nom) équipe d'entretien
+operate (vb) fonctionner, faire fonctionner
+operational (adj) opérationnel
+operator (nom) opérateur(-trice)
+oversee (vb - Prét/PP : oversaw/overseen) superviser
+overseer (nom) superviseur, contremaître
+plant (nom) usine
+power plant (nom) centrale électrique
+repair (nom) réparation
+repair (vb) réparer
+repairman (nom) réparateur 
+disrepair (nom) mauvais état, délabrement
+safe (adj) en sécurité
+safely (adv) prudemment
+safety (nom) sécurisé
+safety hazard (nom) danger
+safety measures (nom) mesures de sécurité
+safety net (nom) filet de sécurité
+safety goggles (nom) lunettes de protection
+shift (nom) poste ; équipe (de travail)
+work in shifts (vb) travailler par équipes, faire les 3/8
+shovel (nom) pelle
+shovel (vb) déblayer
+shut down (vb-Peét/PP : shut/shut) fermer
+shutdown (nom) arrêt
+undergo (vb - Prét/PP : underwent/undergone) subir
+undergo changes (vb) subir des modifications
+undergo renovations (vb) être en travaux
+utility (nom) service public (eau, électricité, gaz)
+utilitarian (adj) fonctionnel
+utilize (vb) se service de
+
+
+

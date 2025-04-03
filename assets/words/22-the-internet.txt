@@ -1,0 +1,40 @@
+at (sign), @ (nom) arobase
+banner (nom) bannière
+chat (vb) bavarder, discuter
+comment (nom) commentaire
+comment (vb) laisser un commentaire
+commentator (nom) commentateur(-trice)
+commentary (nom) commentaires (sport, documentaire)
+down (adj) panne
+enter (vb) entrer, saisir
+follow (vb) suivre
+follower (nom) abonné(e)
+following (nom) des fans, public
+font (nom) police de caractère
+hyphen (nom) trait d'union
+Internet service provider (ISP) (nom) fournisseur d'accès à Internet
+link (nom) lien
+linked (adj) relié
+load (vb) charger
+upload (vb) mettre en ligne
+download (vb) télécharger 
+networking (nom) réseautage 
+network (nom) réseau
+network (vb) réseauter
+online (adv) en ligne
+offline (adv) hors ligne
+password (nom) mot de passe
+password-protected (adj) protégé par un mot de passe
+post (nom) message, post
+post (vb) laisser un message, poster
+poster (nom) personne qui écrit un message
+sign in (vb) se connecter 
+sign out (vb) se déconnecter
+slash (nom) barre oblique
+tweet (nom) tweet
+tweet (vb) tweeter
+underscore (nom) tiret bas
+update (nom) mis à jour
+update (vb) mettre à jour
+username (nom) identifiant, nom d'utilisateur 
+

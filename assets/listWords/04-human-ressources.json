@@ -10,14 +10,14 @@
           "type": "verb",
           "en": {
             "word": "apply for",
-            "otherAnswers": ["interview for", "submit for", "register for"]
+            "otherAnswers": ["negotiate for", "qualify for", "request"]
           },
           "fr": {
             "word": "postuler sa candidature",
             "otherAnswers": [
-              "soumettre son dossier",
-              "envoyer sa lettre de motivation",
-              "présenter son CV"
+              "négocier pour",
+              "se qualifier pour",
+              "demander formellement"
             ]
           }
         },
@@ -26,11 +26,11 @@
           "type": "noun",
           "en": {
             "word": "applicant",
-            "otherAnswers": ["job seeker", "interviewee", "recruit"]
+            "otherAnswers": ["candidate", "contender", "prospect"]
           },
           "fr": {
             "word": "candidat",
-            "otherAnswers": ["chercheur d'emploi", "impétrant", "aspirant"]
+            "otherAnswers": ["postulant", "prétendant", "aspirant"]
           }
         },
         {
@@ -38,14 +38,14 @@
           "type": "noun",
           "en": {
             "word": "application",
-            "otherAnswers": ["résumé packet", "job proposal", "employment bid"]
+            "otherAnswers": ["submission", "request", "paperwork"]
           },
           "fr": {
             "word": "candidature",
             "otherAnswers": [
-              "dossier de recrutement",
-              "proposition d'emploi",
-              "acte de postulation"
+              "demande formelle",
+              "soumission",
+              "requête professionnelle"
             ]
           }
         },
@@ -54,11 +54,11 @@
           "type": "adjective",
           "en": {
             "word": "applied",
-            "otherAnswers": ["relevant", "practiced", "experiential"]
+            "otherAnswers": ["practical", "functional", "hands-on"]
           },
           "fr": {
             "word": "appliqué",
-            "otherAnswers": ["adopté", "effectif", "utilisé"]
+            "otherAnswers": ["pratique", "fonctionnel", "concret"]
           }
         },
         {
@@ -66,11 +66,11 @@
           "type": "verb",
           "en": {
             "word": "appoint",
-            "otherAnswers": ["promote", "elect", "install"]
+            "otherAnswers": ["designate", "assign", "select"]
           },
           "fr": {
             "word": "nommer",
-            "otherAnswers": ["promouvoir", "élire", "installer"]
+            "otherAnswers": ["désigner", "assigner", "sélectionner"]
           }
         },
         {
@@ -78,11 +78,11 @@
           "type": "adjective",
           "en": {
             "word": "appointed",
-            "otherAnswers": ["allocated", "designated", "set"]
+            "otherAnswers": ["scheduled", "arranged", "determined"]
           },
           "fr": {
             "word": "convenu, prévu",
-            "otherAnswers": ["programmé", "planifié", "calendrier"]
+            "otherAnswers": ["fixé", "arrangé", "déterminé"]
           }
         },
         {
@@ -90,11 +90,11 @@
           "type": "adjective",
           "en": {
             "word": "appointed",
-            "otherAnswers": ["elected", "promoted", "installed"]
+            "otherAnswers": ["designated", "selected", "chosen"]
           },
           "fr": {
             "word": "nommé",
-            "otherAnswers": ["élu", "promu", "installé"]
+            "otherAnswers": ["désigné", "sélectionné", "choisi"]
           }
         },
         {
@@ -102,11 +102,11 @@
           "type": "noun",
           "en": {
             "word": "appointee",
-            "otherAnswers": ["employee", "hiree", "recruit"]
+            "otherAnswers": ["designee", "selectee", "chosen person"]
           },
           "fr": {
             "word": "personne nommée",
-            "otherAnswers": ["employé", "recrue", "recruté"]
+            "otherAnswers": ["désigné", "sélectionné", "élu"]
           }
         },
         {
@@ -114,11 +114,11 @@
           "type": "noun",
           "en": {
             "word": "appointment",
-            "otherAnswers": ["promotion", "election", "installation"]
+            "otherAnswers": ["designation", "selection", "assignment"]
           },
           "fr": {
             "word": "nomination",
-            "otherAnswers": ["promotion", "élection", "installation"]
+            "otherAnswers": ["désignation", "sélection", "attribution"]
           }
         },
         {
@@ -126,11 +126,11 @@
           "type": "noun",
           "en": {
             "word": "appointment",
-            "otherAnswers": ["interview", "consultation", "session"]
+            "otherAnswers": ["meeting", "scheduling", "engagement"]
           },
           "fr": {
             "word": "rendez-vous",
-            "otherAnswers": ["entretien d'embauche", "consultation", "séance"]
+            "otherAnswers": ["réunion", "entrevue", "engagement"]
           }
         },
         {
@@ -138,19 +138,11 @@
           "type": "noun",
           "en": {
             "word": "appraisal",
-            "otherAnswers": [
-              "performance review",
-              "feedback session",
-              "evaluation meeting"
-            ]
+            "otherAnswers": ["assessment", "evaluation", "review"]
           },
           "fr": {
             "word": "évaluation",
-            "otherAnswers": [
-              "revue de performance",
-              "entretien annuel",
-              "bilan professionnel"
-            ]
+            "otherAnswers": ["estimation", "examen", "analyse"]
           }
         },
         {
@@ -158,11 +150,11 @@
           "type": "verb",
           "en": {
             "word": "appraise",
-            "otherAnswers": ["interview", "score", "measure"]
+            "otherAnswers": ["evaluate", "assess", "judge"]
           },
           "fr": {
             "word": "évaluer",
-            "otherAnswers": ["interviewer", "noter", "mesurer"]
+            "otherAnswers": ["estimer", "juger", "examiner"]
           }
         },
         {
@@ -170,11 +162,11 @@
           "type": "verb",
           "en": {
             "word": "assess",
-            "otherAnswers": ["measure", "test", "examine"]
+            "otherAnswers": ["evaluate", "gauge", "determine"]
           },
           "fr": {
             "word": "évaluer",
-            "otherAnswers": ["mesurer", "tester", "examiner"]
+            "otherAnswers": ["estimer", "jauger", "déterminer"]
           }
         },
         {
@@ -182,11 +174,11 @@
           "type": "noun",
           "en": {
             "word": "assessment",
-            "otherAnswers": ["test", "examination", "measurement"]
+            "otherAnswers": ["evaluation", "judgment", "appraisal"]
           },
           "fr": {
             "word": "évaluation",
-            "otherAnswers": ["test", "examen", "mesure"]
+            "otherAnswers": ["estimation", "jugement", "appréciation"]
           }
         },
         {
@@ -194,11 +186,11 @@
           "type": "noun",
           "en": {
             "word": "assessor",
-            "otherAnswers": ["interviewer", "reviewer", "tester"]
+            "otherAnswers": ["evaluator", "examiner", "judge"]
           },
           "fr": {
             "word": "contrôleur, expert",
-            "otherAnswers": ["interviewer", "testeur", "recruteur"]
+            "otherAnswers": ["évaluateur", "examinateur", "juge"]
           }
         },
         {
@@ -206,11 +198,11 @@
           "type": "noun",
           "en": {
             "word": "asset",
-            "otherAnswers": ["skill", "talent", "quality"]
+            "otherAnswers": ["resource", "advantage", "strength"]
           },
           "fr": {
             "word": "atout",
-            "otherAnswers": ["compétence", "talent", "qualité"]
+            "otherAnswers": ["ressource", "avantage", "force"]
           }
         },
         {
@@ -218,11 +210,11 @@
           "type": "noun",
           "en": {
             "word": "assets",
-            "otherAnswers": ["talents", "skills", "competencies"]
+            "otherAnswers": ["resources", "possessions", "holdings"]
           },
           "fr": {
             "word": "l'actif, les avoirs",
-            "otherAnswers": ["talents", "compétences", "aptitudes"]
+            "otherAnswers": ["ressources", "possessions", "biens"]
           }
         },
         {
@@ -230,11 +222,11 @@
           "type": "noun",
           "en": {
             "word": "attendance",
-            "otherAnswers": ["punctuality", "timekeeping", "showing up"]
+            "otherAnswers": ["participation", "appearance", "turnout"]
           },
           "fr": {
             "word": "présence",
-            "otherAnswers": ["ponctualité", "participation", "suivi horaire"]
+            "otherAnswers": ["participation", "apparition", "fréquentation"]
           }
         },
         {
@@ -242,15 +234,11 @@
           "type": "noun",
           "en": {
             "word": "attendant",
-            "otherAnswers": ["receptionist", "clerk", "administrator"]
+            "otherAnswers": ["assistant", "aide", "helper"]
           },
           "fr": {
             "word": "préposé",
-            "otherAnswers": [
-              "réceptionniste",
-              "employé administratif",
-              "agent d'accueil"
-            ]
+            "otherAnswers": ["assistant", "aide", "serviteur"]
           }
         },
         {
@@ -258,11 +246,11 @@
           "type": "verb",
           "en": {
             "word": "attend",
-            "otherAnswers": ["show up at", "join", "appear at"]
+            "otherAnswers": ["participate in", "be present at", "go to"]
           },
           "fr": {
             "word": "assister à",
-            "otherAnswers": ["se présenter à", "rejoindre", "se rendre à"]
+            "otherAnswers": ["participer à", "être présent à", "aller à"]
           }
         },
         {
@@ -271,17 +259,17 @@
           "en": {
             "word": "clock in / clock out",
             "otherAnswers": [
-              "record attendance",
-              "log work hours",
-              "register time"
+              "check in/out",
+              "register arrival/departure",
+              "timestamp work"
             ]
           },
           "fr": {
             "word": "pointer",
             "otherAnswers": [
-              "enregistrer ses heures",
-              "signer la feuille de présence",
-              "scanner son badge"
+              "badger",
+              "enregistrer arrivée/départ",
+              "chronométrer le travail"
             ]
           }
         },
@@ -290,15 +278,11 @@
           "type": "noun",
           "en": {
             "word": "credentials",
-            "otherAnswers": ["degrees", "certifications", "work history"]
+            "otherAnswers": ["qualifications", "background", "achievements"]
           },
           "fr": {
             "word": "qualifications, références",
-            "otherAnswers": [
-              "expériences",
-              "parcours professionnel",
-              "accréditations"
-            ]
+            "otherAnswers": ["diplômes", "attestations", "certifications"]
           }
         },
         {
@@ -306,11 +290,11 @@
           "type": "verb",
           "en": {
             "word": "dismiss",
-            "otherAnswers": ["let go", "release", "remove"]
+            "otherAnswers": ["terminate", "discharge", "fire"]
           },
           "fr": {
             "word": "renvoyer",
-            "otherAnswers": ["mettre fin au contrat", "libérer", "remercier"]
+            "otherAnswers": ["congédier", "licencier", "destituer"]
           }
         },
         {
@@ -318,19 +302,11 @@
           "type": "noun",
           "en": {
             "word": "dismissal",
-            "otherAnswers": [
-              "contract termination",
-              "job loss",
-              "employment end"
-            ]
+            "otherAnswers": ["termination", "discharge", "firing"]
           },
           "fr": {
             "word": "renvoi",
-            "otherAnswers": [
-              "rupture de contrat",
-              "perte d'emploi",
-              "fin d'emploi"
-            ]
+            "otherAnswers": ["congédiement", "licenciement", "destitution"]
           }
         },
         {
@@ -338,15 +314,11 @@
           "type": "verb",
           "en": {
             "word": "downsize",
-            "otherAnswers": ["streamline workforce", "cut staff", "reduce team"]
+            "otherAnswers": ["reduce", "shrink", "contract"]
           },
           "fr": {
             "word": "réduire les effectifs",
-            "otherAnswers": [
-              "rationaliser le personnel",
-              "diminuer le nombre d'employés",
-              "optimiser la main-d'œuvre"
-            ]
+            "otherAnswers": ["diminuer", "comprimer", "contracter"]
           }
         },
         {
@@ -354,15 +326,11 @@
           "type": "verb",
           "en": {
             "word": "fill out",
-            "otherAnswers": ["submit", "answer", "write on"]
+            "otherAnswers": ["complete", "finish", "populate"]
           },
           "fr": {
             "word": "remplir",
-            "otherAnswers": [
-              "compléter un formulaire",
-              "soumettre",
-              "écrire sur"
-            ]
+            "otherAnswers": ["compléter", "terminer", "saisir"]
           }
         },
         {
@@ -371,17 +339,17 @@
           "en": {
             "word": "give notice",
             "otherAnswers": [
-              "announce departure",
-              "tender resignation",
-              "submit two weeks"
+              "inform of departure",
+              "notify of leaving",
+              "declare intent"
             ]
           },
           "fr": {
             "word": "donner son préavis",
             "otherAnswers": [
-              "annoncer son départ",
-              "soumettre sa démission",
-              "informer de son intention de partir"
+              "notifier son départ",
+              "signaler son intention",
+              "avertir de sa sortie"
             ]
           }
         },
@@ -390,19 +358,11 @@
           "type": "noun",
           "en": {
             "word": "hire",
-            "otherAnswers": [
-              "new team member",
-              "staff addition",
-              "personnel acquisition"
-            ]
+            "otherAnswers": ["recruitment", "employment", "appointment"]
           },
           "fr": {
             "word": "recrue, personne embauchée",
-            "otherAnswers": [
-              "nouveau membre d'équipe",
-              "addition au personnel",
-              "acquisition de personnel"
-            ]
+            "otherAnswers": ["engagement", "nomination", "embauche"]
           }
         },
         {
@@ -410,11 +370,11 @@
           "type": "verb",
           "en": {
             "word": "hire",
-            "otherAnswers": ["onboard", "bring on", "sign"]
+            "otherAnswers": ["employ", "recruit", "engage"]
           },
           "fr": {
             "word": "embaucher, engager",
-            "otherAnswers": ["intégrer", "faire venir", "signer"]
+            "otherAnswers": ["recruter", "employer", "prendre"]
           }
         },
         {
@@ -422,11 +382,11 @@
           "type": "verb",
           "en": {
             "word": "lay off",
-            "otherAnswers": ["make redundant", "cut", "eliminate position"]
+            "otherAnswers": ["terminate", "discharge", "release"]
           },
           "fr": {
             "word": "licencier",
-            "otherAnswers": ["rendre redondant", "couper", "éliminer le poste"]
+            "otherAnswers": ["congédier", "remercier", "libérer"]
           }
         },
         {
@@ -434,18 +394,14 @@
           "type": "noun",
           "en": {
             "word": "layoffs",
-            "otherAnswers": [
-              "staff reductions",
-              "headcount cuts",
-              "personnel eliminations"
-            ]
+            "otherAnswers": ["terminations", "discharges", "job cuts"]
           },
           "fr": {
             "word": "licenciements économiques",
             "otherAnswers": [
-              "réductions de personnel",
-              "coupes d'effectifs",
-              "éliminations de postes"
+              "congédiements",
+              "suppressions d'emploi",
+              "mises à pied"
             ]
           }
         },
@@ -454,11 +410,11 @@
           "type": "noun",
           "en": {
             "word": "leave",
-            "otherAnswers": ["time away", "break", "off-duty period"]
+            "otherAnswers": ["absence", "vacation", "furlough"]
           },
           "fr": {
             "word": "congé",
-            "otherAnswers": ["temps libre", "pause", "période hors service"]
+            "otherAnswers": ["absence", "vacances", "permission"]
           }
         },
         {
@@ -466,11 +422,11 @@
           "type": "verb",
           "en": {
             "word": "leave",
-            "otherAnswers": ["resign from", "exit", "walk away"]
+            "otherAnswers": ["depart", "quit", "withdraw"]
           },
           "fr": {
             "word": "partir",
-            "otherAnswers": ["démissionner", "sortir", "s'en aller"]
+            "otherAnswers": ["quitter", "s'absenter", "se retirer"]
           }
         },
         {
@@ -478,18 +434,14 @@
           "type": "noun",
           "en": {
             "word": "sick leave",
-            "otherAnswers": [
-              "health absence",
-              "illness time",
-              "medical time off"
-            ]
+            "otherAnswers": ["medical leave", "health break", "illness absence"]
           },
           "fr": {
             "word": "congé maladie",
             "otherAnswers": [
-              "absence pour raison médicale",
-              "temps d'arrêt santé",
-              "temps de récupération"
+              "arrêt médical",
+              "repos thérapeutique",
+              "absence sanitaire"
             ]
           }
         },
@@ -499,17 +451,17 @@
           "en": {
             "word": "maternity leave",
             "otherAnswers": [
-              "childbirth absence",
-              "baby time",
-              "new parent leave"
+              "pregnancy leave",
+              "childbirth break",
+              "parental absence"
             ]
           },
           "fr": {
             "word": "congé maternité",
             "otherAnswers": [
-              "temps de naissance",
-              "congé pour enfantement",
-              "absence liée à la naissance"
+              "congé parental",
+              "absence puerpérale",
+              "repos postnatal"
             ]
           }
         },
@@ -518,15 +470,11 @@
           "type": "noun",
           "en": {
             "word": "manpower",
-            "otherAnswers": ["headcount", "labor force", "employee count"]
+            "otherAnswers": ["workforce", "staff", "personnel"]
           },
           "fr": {
             "word": "main-d'œuvre, effectifs",
-            "otherAnswers": [
-              "nombre d'employés",
-              "capacité de travail",
-              "capital humain"
-            ]
+            "otherAnswers": ["force de travail", "personnel", "équipe"]
           }
         },
         {
@@ -534,11 +482,11 @@
           "type": "verb",
           "en": {
             "word": "provide",
-            "otherAnswers": ["deliver", "distribute", "allocate"]
+            "otherAnswers": ["supply", "furnish", "offer"]
           },
           "fr": {
             "word": "fournir",
-            "otherAnswers": ["livrer", "distribuer", "allouer"]
+            "otherAnswers": ["approvisionner", "procurer", "offrir"]
           }
         },
         {
@@ -546,11 +494,11 @@
           "type": "adjective",
           "en": {
             "word": "provided",
-            "otherAnswers": ["allocated", "distributed", "delivered"]
+            "otherAnswers": ["supplied", "furnished", "offered"]
           },
           "fr": {
             "word": "fourni",
-            "otherAnswers": ["alloué", "distribué", "livré"]
+            "otherAnswers": ["approvisionné", "procuré", "offert"]
           }
         },
         {
@@ -558,11 +506,15 @@
           "type": "conjunction",
           "en": {
             "word": "provided",
-            "otherAnswers": ["contingent on", "dependent on", "subject to"]
+            "otherAnswers": ["assuming", "if", "supposing"]
           },
           "fr": {
             "word": "à condition que/de",
-            "otherAnswers": ["contingent à", "dépendant de", "sous réserve de"]
+            "otherAnswers": [
+              "pourvu que",
+              "pour autant que",
+              "en supposant que"
+            ]
           }
         },
         {
@@ -570,11 +522,11 @@
           "type": "noun",
           "en": {
             "word": "provision",
-            "otherAnswers": ["condition", "requirement", "specification"]
+            "otherAnswers": ["clause", "term", "stipulation"]
           },
           "fr": {
             "word": "disposition, provision",
-            "otherAnswers": ["condition", "exigence", "spécification"]
+            "otherAnswers": ["clause", "stipulation", "terme"]
           }
         },
         {
@@ -582,11 +534,11 @@
           "type": "noun",
           "en": {
             "word": "provider",
-            "otherAnswers": ["administrator", "distributor", "allocator"]
+            "otherAnswers": ["supplier", "vendor", "source"]
           },
           "fr": {
             "word": "fournisseur",
-            "otherAnswers": ["administrateur", "distributeur", "allocateur"]
+            "otherAnswers": ["prestataire", "vendeur", "source"]
           }
         },
         {
@@ -594,19 +546,11 @@
           "type": "verb",
           "en": {
             "word": "resign",
-            "otherAnswers": [
-              "depart voluntarily",
-              "hand in notice",
-              "terminate employment"
-            ]
+            "otherAnswers": ["quit", "step down", "withdraw"]
           },
           "fr": {
             "word": "démissionner",
-            "otherAnswers": [
-              "partir volontairement",
-              "remettre son préavis",
-              "terminer son emploi"
-            ]
+            "otherAnswers": ["quitter", "se retirer", "abandonner"]
           }
         },
         {
@@ -614,19 +558,11 @@
           "type": "noun",
           "en": {
             "word": "resignation",
-            "otherAnswers": [
-              "voluntary departure",
-              "contract termination",
-              "job exit"
-            ]
+            "otherAnswers": ["notice", "departure", "withdrawal"]
           },
           "fr": {
             "word": "démission",
-            "otherAnswers": [
-              "départ volontaire",
-              "résiliation de contrat",
-              "sortie d'emploi"
-            ]
+            "otherAnswers": ["préavis", "départ", "retrait"]
           }
         },
         {
@@ -634,11 +570,11 @@
           "type": "adjective",
           "en": {
             "word": "resigned",
-            "otherAnswers": ["accepting unwillingly", "surrendered", "yielding"]
+            "otherAnswers": ["accepting", "submissive", "acquiescent"]
           },
           "fr": {
             "word": "résigné",
-            "otherAnswers": ["acceptant à contrecœur", "rendu", "cédant"]
+            "otherAnswers": ["soumis", "acceptant", "acquiescent"]
           }
         },
         {
@@ -646,11 +582,11 @@
           "type": "adverb",
           "en": {
             "word": "resignedly",
-            "otherAnswers": ["with acceptance", "surrenderingly", "yieldingly"]
+            "otherAnswers": ["submissively", "acquiescently", "passively"]
           },
           "fr": {
             "word": "avec résignation",
-            "otherAnswers": ["avec acceptation", "en se rendant", "en cédant"]
+            "otherAnswers": ["avec soumission", "passivement", "docilement"]
           }
         },
         {
@@ -658,18 +594,14 @@
           "type": "noun",
           "en": {
             "word": "résumé",
-            "otherAnswers": [
-              "professional profile",
-              "work history",
-              "career document"
-            ]
+            "otherAnswers": ["biography", "portfolio", "vita"]
           },
           "fr": {
             "word": "CV, curriculum vitae",
             "otherAnswers": [
-              "profil professionnel",
-              "historique de travail",
-              "document de carrière"
+              "biographie professionnelle",
+              "dossier professionnel",
+              "parcours détaillé"
             ]
           }
         },
@@ -678,18 +610,14 @@
           "type": "noun",
           "en": {
             "word": "shortlist",
-            "otherAnswers": [
-              "final candidates",
-              "interview selection",
-              "qualified applicants"
-            ]
+            "otherAnswers": ["selection", "finalists", "top picks"]
           },
           "fr": {
             "word": "candidats finalistes",
             "otherAnswers": [
-              "sélection pour entretien",
-              "candidats qualifiés",
-              "liste finale"
+              "sélection restreinte",
+              "liste finale",
+              "meilleurs choix"
             ]
           }
         },
@@ -698,19 +626,11 @@
           "type": "verb",
           "en": {
             "word": "shortlist",
-            "otherAnswers": [
-              "filter candidates",
-              "narrow down",
-              "select for interview"
-            ]
+            "otherAnswers": ["preselect", "screen", "choose"]
           },
           "fr": {
             "word": "présélectionner",
-            "otherAnswers": [
-              "filtrer les candidats",
-              "réduire la liste",
-              "sélectionner pour entretien"
-            ]
+            "otherAnswers": ["trier", "sélectionner", "choisir"]
           }
         },
         {
@@ -718,15 +638,11 @@
           "type": "verb",
           "en": {
             "word": "take on",
-            "otherAnswers": ["bring aboard", "add to staff", "contract"]
+            "otherAnswers": ["recruit", "employ", "engage"]
           },
           "fr": {
             "word": "embaucher",
-            "otherAnswers": [
-              "faire monter à bord",
-              "ajouter au personnel",
-              "contracter"
-            ]
+            "otherAnswers": ["recruter", "employer", "engager"]
           }
         },
         {
@@ -735,17 +651,17 @@
           "en": {
             "word": "temp agency",
             "otherAnswers": [
-              "contract staffing firm",
-              "interim provider",
-              "short-term placement service"
+              "staffing service",
+              "employment bureau",
+              "recruitment agency"
             ]
           },
           "fr": {
             "word": "agence d'intérim",
             "otherAnswers": [
-              "société de placement temporaire",
-              "fournisseur de personnel temporaire",
-              "service d'emploi à court terme"
+              "bureau de placement",
+              "agence de recrutement",
+              "service d'emploi"
             ]
           }
         },
@@ -754,15 +670,11 @@
           "type": "noun",
           "en": {
             "word": "transfer",
-            "otherAnswers": ["department change", "job shift", "role movement"]
+            "otherAnswers": ["relocation", "reassignment", "shift"]
           },
           "fr": {
             "word": "mutation",
-            "otherAnswers": [
-              "changement de service",
-              "déplacement de poste",
-              "mouvement de rôle"
-            ]
+            "otherAnswers": ["réaffectation", "déplacement", "changement"]
           }
         },
         {
@@ -770,19 +682,11 @@
           "type": "verb",
           "en": {
             "word": "transfer",
-            "otherAnswers": [
-              "shift departments",
-              "change roles",
-              "move positions"
-            ]
+            "otherAnswers": ["relocate", "reassign", "move"]
           },
           "fr": {
             "word": "muter",
-            "otherAnswers": [
-              "changer de service",
-              "modifier les rôles",
-              "déplacer les positions"
-            ]
+            "otherAnswers": ["réaffecter", "déplacer", "transférer"]
           }
         },
         {
@@ -790,19 +694,11 @@
           "type": "adjective",
           "en": {
             "word": "transferable",
-            "otherAnswers": [
-              "cross-functional",
-              "multi-departmental",
-              "role-flexible"
-            ]
+            "otherAnswers": ["portable", "movable", "versatile"]
           },
           "fr": {
             "word": "transférable, polyvalent, applicable",
-            "otherAnswers": [
-              "multifonctionnel",
-              "interdépartemental",
-              "flexible en rôle"
-            ]
+            "otherAnswers": ["portable", "mobile", "adaptable"]
           }
         },
         {
@@ -810,19 +706,11 @@
           "type": "noun",
           "en": {
             "word": "transferral",
-            "otherAnswers": [
-              "position change",
-              "role movement",
-              "job transition"
-            ]
+            "otherAnswers": ["relocation", "reassignment", "movement"]
           },
           "fr": {
             "word": "transfert",
-            "otherAnswers": [
-              "changement de position",
-              "mouvement de rôle",
-              "transition d'emploi"
-            ]
+            "otherAnswers": ["déplacement", "réaffectation", "mouvement"]
           }
         },
         {
@@ -830,19 +718,11 @@
           "type": "noun",
           "en": {
             "word": "vacancy",
-            "otherAnswers": [
-              "job posting",
-              "employment opportunity",
-              "open role"
-            ]
+            "otherAnswers": ["opening", "position", "slot"]
           },
           "fr": {
             "word": "poste vacant",
-            "otherAnswers": [
-              "annonce d'emploi",
-              "opportunité d'emploi",
-              "rôle ouvert"
-            ]
+            "otherAnswers": ["ouverture", "position", "place disponible"]
           }
         },
         {
@@ -850,11 +730,11 @@
           "type": "adjective",
           "en": {
             "word": "vacant",
-            "otherAnswers": ["open", "unoccupied", "staffable"]
+            "otherAnswers": ["empty", "available", "unfilled"]
           },
           "fr": {
             "word": "libre",
-            "otherAnswers": ["ouvert", "inoccupé", "à pourvoir"]
+            "otherAnswers": ["vide", "disponible", "inoccupé"]
           }
         },
         {
@@ -862,15 +742,11 @@
           "type": "adverb",
           "en": {
             "word": "vacantly",
-            "otherAnswers": ["without focus", "mindlessly", "inattentively"]
+            "otherAnswers": ["absently", "emptily", "blankly"]
           },
           "fr": {
             "word": "d'un air absent",
-            "otherAnswers": [
-              "sans concentration",
-              "sans réflexion",
-              "sans attention"
-            ]
+            "otherAnswers": ["distraitement", "vaguement", "évasivement"]
           }
         }
       ]

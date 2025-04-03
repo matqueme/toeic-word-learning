@@ -1,0 +1,527 @@
+{
+  "categories": [
+    {
+      "id": "account-and-taxes",
+      "nameEn": "Accounting and Taxes",
+      "nameFr": "Comptabilité et Impôts",
+      "words": [
+        {
+          "id": "accounting",
+          "type": "name",
+          "en": {
+            "word": "accounting",
+            "otherAnswers": ["account", "accountant", "counting"]
+          },
+          "fr": {
+            "word": "comptabilité",
+            "otherAnswers": ["compatibilité", "compétitivité", "compte"]
+          }
+        },
+        {
+          "id": "accountable",
+          "type": "adj",
+          "en": {
+            "word": "accountable",
+            "otherAnswers": ["countable", "acceptable", "affordable"]
+          },
+          "fr": {
+            "word": "responsable",
+            "otherAnswers": ["raisonnable", "redevable", "reportable"]
+          }
+        },
+        {
+          "id": "accountant",
+          "type": "name",
+          "en": {
+            "word": "accountant",
+            "otherAnswers": ["accounting", "account", "counter"]
+          },
+          "fr": {
+            "word": "comptable",
+            "otherAnswers": ["compteur", "comptant", "compétent"]
+          }
+        },
+        {
+          "id": "accrue",
+          "type": "vb",
+          "en": {
+            "word": "accrue",
+            "otherAnswers": ["agree", "acute", "acquire"]
+          },
+          "fr": {
+            "word": "s'accumuler",
+            "otherAnswers": ["s'accoler", "s'accélérer", "accumuler"]
+          }
+        },
+        {
+          "id": "accrual",
+          "type": "name",
+          "en": {
+            "word": "accrual",
+            "otherAnswers": ["actual", "accurate", "accrue"]
+          },
+          "fr": {
+            "word": "accumulation",
+            "otherAnswers": ["accrétion", "accentuation", "accélération"]
+          }
+        },
+        {
+          "id": "adverse",
+          "type": "adj",
+          "en": {
+            "word": "adverse",
+            "otherAnswers": ["averse", "diverse", "reverse"]
+          },
+          "fr": {
+            "word": "défavorable",
+            "otherAnswers": ["négatif", "adverse", "désavantageux"]
+          }
+        },
+        {
+          "id": "adversely",
+          "type": "adv",
+          "en": {
+            "word": "adversely",
+            "otherAnswers": ["aversely", "diversely", "reversely"]
+          },
+          "fr": {
+            "word": "défavorablement",
+            "otherAnswers": [
+              "négativement",
+              "désavantageusement",
+              "adversement"
+            ]
+          }
+        },
+        {
+          "id": "adversity",
+          "type": "name",
+          "en": {
+            "word": "adversity",
+            "otherAnswers": ["diversity", "university", "adversary"]
+          },
+          "fr": {
+            "word": "adversité",
+            "otherAnswers": ["diversité", "adversaire", "aversion"]
+          }
+        },
+        {
+          "id": "audit",
+          "type": "name",
+          "en": {
+            "word": "audit",
+            "otherAnswers": ["credit", "addict", "adult"]
+          },
+          "fr": {
+            "word": "audit",
+            "otherAnswers": ["contrôle", "vérification", "révision"]
+          }
+        },
+        {
+          "id": "audit-vb",
+          "type": "vb",
+          "en": {
+            "word": "audit",
+            "otherAnswers": ["edit", "admit", "credit"]
+          },
+          "fr": {
+            "word": "auditer",
+            "otherAnswers": ["contrôler", "vérifier", "examiner"]
+          }
+        },
+        {
+          "id": "balance-sheet",
+          "type": "name",
+          "en": {
+            "word": "balance sheet",
+            "otherAnswers": ["balance seat", "balance meet", "balance fleet"]
+          },
+          "fr": {
+            "word": "bilan",
+            "otherAnswers": ["plan", "flan", "élan"]
+          }
+        },
+        {
+          "id": "bookkeeping",
+          "type": "name",
+          "en": {
+            "word": "bookkeeping",
+            "otherAnswers": ["book-reading", "book-selling", "bookmaking"]
+          },
+          "fr": {
+            "word": "comptabilité",
+            "otherAnswers": ["tenue des comptes", "comptage", "bouquinage"]
+          }
+        },
+        {
+          "id": "bookkeeper",
+          "type": "name",
+          "en": {
+            "word": "bookkeeper",
+            "otherAnswers": ["bookseller", "book lover", "booklender"]
+          },
+          "fr": {
+            "word": "comptable",
+            "otherAnswers": ["teneur de livres", "libraire", "commis"]
+          }
+        },
+        {
+          "id": "break-down",
+          "type": "vb",
+          "en": {
+            "word": "break down",
+            "otherAnswers": ["break up", "break in", "break out"]
+          },
+          "fr": {
+            "word": "décomposer",
+            "otherAnswers": ["analyser", "ventiler", "détailler"]
+          }
+        },
+        {
+          "id": "breakdown",
+          "type": "name",
+          "en": {
+            "word": "breakdown",
+            "otherAnswers": ["breakup", "breakthrough", "breakout"]
+          },
+          "fr": {
+            "word": "analyse",
+            "otherAnswers": ["répartition", "ventilation", "décomposition"]
+          }
+        },
+        {
+          "id": "cash-flow",
+          "type": "name",
+          "en": {
+            "word": "cash flow",
+            "otherAnswers": ["cash grow", "cash show", "cash blow"]
+          },
+          "fr": {
+            "word": "trésorerie",
+            "otherAnswers": ["flux de caisse", "liquidités", "disponibilités"]
+          }
+        },
+        {
+          "id": "deduct",
+          "type": "vb",
+          "en": {
+            "word": "deduct",
+            "otherAnswers": ["deduce", "reduce", "conduct"]
+          },
+          "fr": {
+            "word": "déduire",
+            "otherAnswers": ["retenir", "soustraire", "retrancher"]
+          }
+        },
+        {
+          "id": "deductible",
+          "type": "adj",
+          "en": {
+            "word": "deductible",
+            "otherAnswers": ["reducible", "deducible", "conductible"]
+          },
+          "fr": {
+            "word": "déductible",
+            "otherAnswers": ["défalcable", "imputable", "retranchable"]
+          }
+        },
+        {
+          "id": "deduction",
+          "type": "name",
+          "en": {
+            "word": "deduction",
+            "otherAnswers": ["reduction", "production", "induction"]
+          },
+          "fr": {
+            "word": "déduction",
+            "otherAnswers": ["retenue", "abattement", "soustraction"]
+          }
+        },
+        {
+          "id": "disposal",
+          "type": "name",
+          "en": {
+            "word": "disposal",
+            "otherAnswers": ["proposal", "disposal", "dispersal"]
+          },
+          "fr": {
+            "word": "disposition",
+            "otherAnswers": ["élimination", "cession", "liquidation"]
+          }
+        },
+        {
+          "id": "dispose-of",
+          "type": "vb",
+          "en": {
+            "word": "dispose of",
+            "otherAnswers": ["get rid of", "throw away", "discard"]
+          },
+          "fr": {
+            "word": "se débarrasser de",
+            "otherAnswers": ["se défaire de", "céder", "liquider"]
+          }
+        },
+        {
+          "id": "earmark",
+          "type": "vb",
+          "en": {
+            "word": "earmark",
+            "otherAnswers": ["bookmark", "landmark", "remark"]
+          },
+          "fr": {
+            "word": "réserver",
+            "otherAnswers": ["affecter", "destiner", "allouer"]
+          }
+        },
+        {
+          "id": "enclose",
+          "type": "vb",
+          "en": {
+            "word": "enclose",
+            "otherAnswers": ["include", "disclose", "inclose"]
+          },
+          "fr": {
+            "word": "joindre",
+            "otherAnswers": ["inclure", "annexer", "attacher"]
+          }
+        },
+        {
+          "id": "enclosed",
+          "type": "adj",
+          "en": {
+            "word": "enclosed",
+            "otherAnswers": ["included", "attached", "inside"]
+          },
+          "fr": {
+            "word": "ci-joint",
+            "otherAnswers": ["inclus", "annexé", "attaché"]
+          }
+        },
+        {
+          "id": "enclosure",
+          "type": "name",
+          "en": {
+            "word": "enclosure",
+            "otherAnswers": ["closure", "disclosure", "inclusion"]
+          },
+          "fr": {
+            "word": "pièce jointe",
+            "otherAnswers": ["annexe", "document joint", "inclusion"]
+          }
+        },
+        {
+          "id": "encounter-noun",
+          "type": "name",
+          "en": {
+            "word": "encounter",
+            "otherAnswers": ["meeting", "confrontation", "engagement"]
+          },
+          "fr": {
+            "word": "rencontre",
+            "otherAnswers": ["confrontation", "entrevue", "réunion"]
+          }
+        },
+        {
+          "id": "encounter-vb",
+          "type": "vb",
+          "en": {
+            "word": "encounter",
+            "otherAnswers": ["meet", "face", "confront"]
+          },
+          "fr": {
+            "word": "rencontrer",
+            "otherAnswers": ["aller au devant de", "affronter", "faire face à"]
+          }
+        },
+        {
+          "id": "figure-noun",
+          "type": "name",
+          "en": {
+            "word": "figure",
+            "otherAnswers": ["digit", "number", "numeral"]
+          },
+          "fr": {
+            "word": "chiffre",
+            "otherAnswers": ["nombre", "figure", "montant"]
+          }
+        },
+        {
+          "id": "ballpark-figure",
+          "type": "name",
+          "en": {
+            "word": "ballpark figure",
+            "otherAnswers": ["rough estimate", "approximation", "guesstimate"]
+          },
+          "fr": {
+            "word": "estimation",
+            "otherAnswers": ["approximation", "évaluation", "ordre de grandeur"]
+          }
+        },
+        {
+          "id": "figure-out",
+          "type": "vb",
+          "en": {
+            "word": "figure out",
+            "otherAnswers": ["work out", "solve", "calculate"]
+          },
+          "fr": {
+            "word": "comprendre",
+            "otherAnswers": ["décider", "calculer", "résoudre"]
+          }
+        },
+        {
+          "id": "findings",
+          "type": "name",
+          "en": {
+            "word": "findings",
+            "otherAnswers": ["results", "discoveries", "conclusions"]
+          },
+          "fr": {
+            "word": "conclusions",
+            "otherAnswers": ["résultats", "constatations", "découvertes"]
+          }
+        },
+        {
+          "id": "go-over",
+          "type": "vb",
+          "en": {
+            "word": "go over",
+            "otherAnswers": ["review", "examine", "check"]
+          },
+          "fr": {
+            "word": "étudier",
+            "otherAnswers": ["passer en revue", "examiner", "réviser"]
+          }
+        },
+        {
+          "id": "keep-track",
+          "type": "vb",
+          "en": {
+            "word": "keep track",
+            "otherAnswers": ["monitor", "follow", "trace"]
+          },
+          "fr": {
+            "word": "suivre",
+            "otherAnswers": ["garder trace", "surveiller", "contrôler"]
+          }
+        },
+        {
+          "id": "late-fee",
+          "type": "name",
+          "en": {
+            "word": "late fee",
+            "otherAnswers": ["penalty charge", "overdue fine", "delay payment"]
+          },
+          "fr": {
+            "word": "frais de retard",
+            "otherAnswers": [
+              "pénalités de retard",
+              "intérêts de retard",
+              "amende"
+            ]
+          }
+        },
+        {
+          "id": "owe",
+          "type": "vb",
+          "en": {
+            "word": "owe",
+            "otherAnswers": ["own", "ode", "owl"]
+          },
+          "fr": {
+            "word": "devoir",
+            "otherAnswers": [
+              "être redevable",
+              "avoir une dette",
+              "être endetté"
+            ]
+          }
+        },
+        {
+          "id": "owing",
+          "type": "adj",
+          "en": {
+            "word": "owing",
+            "otherAnswers": ["owed", "outstanding", "unpaid"]
+          },
+          "fr": {
+            "word": "à payer",
+            "otherAnswers": ["dû", "exigible", "impayé"]
+          }
+        },
+        {
+          "id": "owing-to",
+          "type": "prep",
+          "en": {
+            "word": "owing to",
+            "otherAnswers": ["due to", "because of", "on account of"]
+          },
+          "fr": {
+            "word": "en raison de",
+            "otherAnswers": ["à cause de", "du fait de", "étant donné"]
+          }
+        },
+        {
+          "id": "payroll",
+          "type": "name",
+          "en": {
+            "word": "payroll",
+            "otherAnswers": ["payment", "payday", "paychecks"]
+          },
+          "fr": {
+            "word": "masse salariale",
+            "otherAnswers": ["paie", "salaires", "rémunérations"]
+          }
+        },
+        {
+          "id": "set-aside",
+          "type": "vb",
+          "en": {
+            "word": "set aside",
+            "otherAnswers": ["put aside", "save", "reserve"]
+          },
+          "fr": {
+            "word": "mettre de côté",
+            "otherAnswers": ["réserver", "épargner", "économiser"]
+          }
+        },
+        {
+          "id": "take-home-pay",
+          "type": "name",
+          "en": {
+            "word": "take-home pay",
+            "otherAnswers": ["net salary", "net income", "net earnings"]
+          },
+          "fr": {
+            "word": "salaire net",
+            "otherAnswers": ["revenu net", "paie nette", "rémunération nette"]
+          }
+        },
+        {
+          "id": "tax-noun",
+          "type": "name",
+          "en": {
+            "word": "tax",
+            "otherAnswers": ["levy", "duty", "tariff"]
+          },
+          "fr": {
+            "word": "impôts",
+            "otherAnswers": ["taxe", "contribution", "prélèvement"]
+          }
+        },
+        {
+          "id": "tax-vb",
+          "type": "vb",
+          "en": {
+            "word": "tax",
+            "otherAnswers": ["levy", "impose", "charge"]
+          },
+          "fr": {
+            "word": "imposer",
+            "otherAnswers": ["taxer", "prélever", "assujettir"]
+          }
+        }
+      ]
+    }
+  ]
+}

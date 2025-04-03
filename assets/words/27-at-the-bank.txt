@@ -1,0 +1,45 @@
+approve (vb) approuver, donner son accord
+approving /disapproving (adj) approbateur/désaprobateur
+approval / disapproval (nom) approbation/désapprobation
+ATM (nom) distributeur
+balance (nom) solde
+balance a checkbook, balance the books (exp) tenir les comptes
+bank clerk (nom) guichetier(-ière), employé(e) de banque
+borrow (vb) emprunter
+borrower (nom) emprunteur(-euse)
+branch (nom) agence
+cash a check (vb) encaisser un chèque
+currency (nom) device
+deposit (nom) versement
+deposit (vb) déposer, verser
+depositor (nom) déposant
+extra charges (nom) frais annexes, suppléments
+funds (nom) fonds
+funding (nom) financement
+fund (vb) financer
+incur (vb) entrainer (coûts, frais)
+installment (nom) mensualité
+lend (vb - Prét/PP : lent/lent) prêter
+lender (nom) prêteur 
+loan (nom) prêt, emprunt 
+loan (vb) prêter
+money transfer (nom) virement
+mortgage (nom) crédit immobilier, hypothèse
+mortgage (vb) hypothéquer
+overdraft (nom) découvert
+overdrawn (adj) à découvert
+pay off (vb - Prét/PP : paid/paid) rembourser (un crédit)
+save (vb) mettre de côté
+savings (nom) épargne
+secure (adj) sécurisé, sûr
+secure (vb) sécuriser
+securely (adv) solidement
+short (of) (adj) à court (de)
+shortage (nom) manque, pénurie
+sign up for (vb) s'inscrire, s'abonner
+split (vb - Prét/PP : split/split) (se) partager, (se) répartir
+split the coest (exp) partager des frais 
+statement (nom) relevé de compte 
+up-front (adv) à l'avance
+withdraw (vb - Prét/PP : withdrew/withdrawn) retirer
+withdrawal (nom) retrait (au distributeur)

@@ -1,0 +1,487 @@
+{
+  "categories": [
+    {
+      "id": "calling-the-helpdesk",
+      "nameEn": "Calling the Helpdesk",
+      "nameFr": "Appeler le Service d'Assistance",
+      "words": [
+        {
+          "id": "administrator",
+          "type": "name",
+          "en": {
+            "word": "administrator",
+            "otherAnswers": ["supervisor", "manager", "technician"]
+          },
+          "fr": {
+            "word": "administrateur",
+            "otherAnswers": ["superviseur", "responsable", "technicien"]
+          }
+        },
+        {
+          "id": "administrate",
+          "type": "vb",
+          "en": {
+            "word": "administrate",
+            "otherAnswers": ["supervise", "coordinate", "operate"]
+          },
+          "fr": {
+            "word": "administrer",
+            "otherAnswers": ["superviser", "coordonner", "exploiter"]
+          }
+        },
+        {
+          "id": "antivirus-software",
+          "type": "name",
+          "en": {
+            "word": "antivirus software",
+            "otherAnswers": [
+              "firewall program",
+              "encryption tool",
+              "backup system"
+            ]
+          },
+          "fr": {
+            "word": "logiciel antivirus",
+            "otherAnswers": [
+              "pare-feu",
+              "outil de cryptage",
+              "système de sauvegarde"
+            ]
+          }
+        },
+        {
+          "id": "assistance",
+          "type": "name",
+          "en": {
+            "word": "assistance",
+            "otherAnswers": ["guidance", "consultation", "troubleshooting"]
+          },
+          "fr": {
+            "word": "assistance",
+            "otherAnswers": ["conseil", "dépannage", "orientation"]
+          }
+        },
+        {
+          "id": "assist",
+          "type": "vb",
+          "en": {
+            "word": "assist",
+            "otherAnswers": ["guide", "advise", "resolve"]
+          },
+          "fr": {
+            "word": "aider",
+            "otherAnswers": ["guider", "conseiller", "résoudre"]
+          }
+        },
+        {
+          "id": "bug",
+          "type": "name",
+          "en": {
+            "word": "bug",
+            "otherAnswers": ["malfunction", "defect", "issue"]
+          },
+          "fr": {
+            "word": "bogue",
+            "otherAnswers": ["dysfonctionnement", "anomalie", "problème"]
+          }
+        },
+        {
+          "id": "call-back",
+          "type": "vb",
+          "en": {
+            "word": "call back",
+            "otherAnswers": ["follow up", "reconnect", "respond"]
+          },
+          "fr": {
+            "word": "rappeler",
+            "otherAnswers": ["suivre", "reprendre contact", "répondre"]
+          }
+        },
+        {
+          "id": "call-center",
+          "type": "name",
+          "en": {
+            "word": "call center",
+            "otherAnswers": [
+              "support office",
+              "technical department",
+              "customer service"
+            ]
+          },
+          "fr": {
+            "word": "centre d'appels",
+            "otherAnswers": [
+              "bureau d'assistance",
+              "département technique",
+              "service client"
+            ]
+          }
+        },
+        {
+          "id": "concerned",
+          "type": "adj",
+          "en": {
+            "word": "concerned",
+            "otherAnswers": ["alarmed", "distressed", "uneasy"]
+          },
+          "fr": {
+            "word": "inquiet",
+            "otherAnswers": ["alarmé", "perturbé", "mal à l'aise"]
+          }
+        },
+        {
+          "id": "crash",
+          "type": "vb",
+          "en": {
+            "word": "crash",
+            "otherAnswers": ["malfunction", "freeze", "collapse"]
+          },
+          "fr": {
+            "word": "tomber en panne",
+            "otherAnswers": ["geler", "dysfonctionner", "cesser de fonctionner"]
+          }
+        },
+        {
+          "id": "cut-off",
+          "type": "vb",
+          "en": {
+            "word": "cut off",
+            "otherAnswers": ["terminate", "block", "remove"]
+          },
+          "fr": {
+            "word": "couper",
+            "otherAnswers": ["terminer", "bloquer", "supprimer"]
+          }
+        },
+        {
+          "id": "database",
+          "type": "name",
+          "en": {
+            "word": "database",
+            "otherAnswers": ["server", "storage system", "network"]
+          },
+          "fr": {
+            "word": "base de données",
+            "otherAnswers": ["serveur", "système de stockage", "réseau"]
+          }
+        },
+        {
+          "id": "data",
+          "type": "name",
+          "en": {
+            "word": "data",
+            "otherAnswers": ["records", "statistics", "content"]
+          },
+          "fr": {
+            "word": "données",
+            "otherAnswers": ["enregistrements", "statistiques", "contenu"]
+          }
+        },
+        {
+          "id": "emergency",
+          "type": "name",
+          "en": {
+            "word": "emergency",
+            "otherAnswers": ["breakdown", "failure", "disruption"]
+          },
+          "fr": {
+            "word": "urgence",
+            "otherAnswers": ["panne", "défaillance", "interruption"]
+          }
+        },
+        {
+          "id": "engaged",
+          "type": "adj",
+          "en": {
+            "word": "engaged",
+            "otherAnswers": ["unavailable", "active", "operating"]
+          },
+          "fr": {
+            "word": "occupé",
+            "otherAnswers": ["indisponible", "actif", "en fonction"]
+          }
+        },
+        {
+          "id": "helpdesk",
+          "type": "name",
+          "en": {
+            "word": "helpdesk",
+            "otherAnswers": [
+              "information center",
+              "assistance team",
+              "troubleshooting department"
+            ]
+          },
+          "fr": {
+            "word": "service d'assistance",
+            "otherAnswers": [
+              "centre d'information",
+              "équipe de dépannage",
+              "service de résolution"
+            ]
+          }
+        },
+        {
+          "id": "outsource",
+          "type": "vb",
+          "en": {
+            "word": "outsource",
+            "otherAnswers": ["delegate", "transfer", "assign"]
+          },
+          "fr": {
+            "word": "externaliser",
+            "otherAnswers": ["déléguer", "transférer", "confier"]
+          }
+        },
+        {
+          "id": "prompt-adj",
+          "type": "adj",
+          "en": {
+            "word": "prompt",
+            "otherAnswers": ["efficient", "timely", "responsive"]
+          },
+          "fr": {
+            "word": "rapide",
+            "otherAnswers": ["efficace", "ponctuel", "réactif"]
+          }
+        },
+        {
+          "id": "prompt-vb",
+          "type": "vb",
+          "en": {
+            "word": "prompt",
+            "otherAnswers": ["trigger", "stimulate", "induce"]
+          },
+          "fr": {
+            "word": "inciter",
+            "otherAnswers": ["déclencher", "stimuler", "provoquer"]
+          }
+        },
+        {
+          "id": "promptly",
+          "type": "adv",
+          "en": {
+            "word": "promptly",
+            "otherAnswers": ["efficiently", "speedily", "instantly"]
+          },
+          "fr": {
+            "word": "rapidement",
+            "otherAnswers": ["efficacement", "instantanément", "prestement"]
+          }
+        },
+        {
+          "id": "put-through",
+          "type": "vb",
+          "en": {
+            "word": "put through",
+            "otherAnswers": ["forward", "direct", "route"]
+          },
+          "fr": {
+            "word": "passer",
+            "otherAnswers": ["diriger", "acheminer", "rediriger"]
+          }
+        },
+        {
+          "id": "reach",
+          "type": "vb",
+          "en": {
+            "word": "reach",
+            "otherAnswers": ["access", "communicate with", "obtain"]
+          },
+          "fr": {
+            "word": "joindre",
+            "otherAnswers": ["accéder à", "communiquer avec", "obtenir"]
+          }
+        },
+        {
+          "id": "reachable",
+          "type": "adj",
+          "en": {
+            "word": "reachable",
+            "otherAnswers": ["attainable", "approachable", "obtainable"]
+          },
+          "fr": {
+            "word": "joignable",
+            "otherAnswers": ["atteignable", "abordable", "disponible"]
+          }
+        },
+        {
+          "id": "reboot",
+          "type": "vb",
+          "en": {
+            "word": "reboot",
+            "otherAnswers": ["refresh", "reload", "reconfigure"]
+          },
+          "fr": {
+            "word": "redémarrer",
+            "otherAnswers": ["rafraîchir", "recharger", "reconfigurer"]
+          }
+        },
+        {
+          "id": "boot-up",
+          "type": "vb",
+          "en": {
+            "word": "boot up",
+            "otherAnswers": ["launch", "activate", "load"]
+          },
+          "fr": {
+            "word": "démarrer",
+            "otherAnswers": ["lancer", "activer", "charger"]
+          }
+        },
+        {
+          "id": "scan-name",
+          "type": "name",
+          "en": {
+            "word": "scan",
+            "otherAnswers": ["inspection", "search", "detection"]
+          },
+          "fr": {
+            "word": "scan",
+            "otherAnswers": ["inspection", "recherche", "détection"]
+          }
+        },
+        {
+          "id": "scan-vb",
+          "type": "vb",
+          "en": {
+            "word": "scan",
+            "otherAnswers": ["inspect", "search", "review"]
+          },
+          "fr": {
+            "word": "scanner",
+            "otherAnswers": ["inspecter", "rechercher", "examiner"]
+          }
+        },
+        {
+          "id": "scanner",
+          "type": "name",
+          "en": {
+            "word": "scanner",
+            "otherAnswers": ["reader", "detector", "imaging tool"]
+          },
+          "fr": {
+            "word": "scanner",
+            "otherAnswers": ["lecteur", "détecteur", "outil d'imagerie"]
+          }
+        },
+        {
+          "id": "set-up",
+          "type": "vb",
+          "en": {
+            "word": "set up",
+            "otherAnswers": ["arrange", "prepare", "organize"]
+          },
+          "fr": {
+            "word": "installer",
+            "otherAnswers": ["arranger", "préparer", "organiser"]
+          }
+        },
+        {
+          "id": "setup",
+          "type": "name",
+          "en": {
+            "word": "setup",
+            "otherAnswers": ["system", "structure", "framework"]
+          },
+          "fr": {
+            "word": "installation",
+            "otherAnswers": ["système", "structure", "dispositif"]
+          }
+        },
+        {
+          "id": "switch-name",
+          "type": "name",
+          "en": {
+            "word": "switch",
+            "otherAnswers": ["toggle", "control", "button"]
+          },
+          "fr": {
+            "word": "chargement",
+            "otherAnswers": ["commande", "bouton", "levier"]
+          }
+        },
+        {
+          "id": "switch-vb",
+          "type": "vb",
+          "en": {
+            "word": "switch",
+            "otherAnswers": ["transfer", "alternate", "convert"]
+          },
+          "fr": {
+            "word": "échanger",
+            "otherAnswers": ["transférer", "alterner", "convertir"]
+          }
+        },
+        {
+          "id": "switch-on-off",
+          "type": "vb",
+          "en": {
+            "word": "switch on/off",
+            "otherAnswers": [
+              "activate/deactivate",
+              "start/stop",
+              "enable/disable"
+            ]
+          },
+          "fr": {
+            "word": "allumer/éteindre",
+            "otherAnswers": [
+              "activer/désactiver",
+              "démarrer/arrêter",
+              "mettre en marche/couper"
+            ]
+          }
+        },
+        {
+          "id": "upgrade",
+          "type": "vb",
+          "en": {
+            "word": "upgrade",
+            "otherAnswers": ["elevate", "renovate", "modernize"]
+          },
+          "fr": {
+            "word": "actualiser",
+            "otherAnswers": ["élever", "rénover", "moderniser"]
+          }
+        },
+        {
+          "id": "urgent",
+          "type": "adj",
+          "en": {
+            "word": "urgent",
+            "otherAnswers": ["crucial", "vital", "essential"]
+          },
+          "fr": {
+            "word": "urgent",
+            "otherAnswers": ["crucial", "vital", "essentiel"]
+          }
+        },
+        {
+          "id": "urgently",
+          "type": "adv",
+          "en": {
+            "word": "urgently",
+            "otherAnswers": ["critically", "vitally", "essentially"]
+          },
+          "fr": {
+            "word": "d'urgence",
+            "otherAnswers": ["impérativement", "vitalement", "essentiellement"]
+          }
+        },
+        {
+          "id": "urgency",
+          "type": "name",
+          "en": {
+            "word": "urgency",
+            "otherAnswers": ["necessity", "priority", "criticality"]
+          },
+          "fr": {
+            "word": "urgence",
+            "otherAnswers": ["nécessité", "priorité", "gravité"]
+          }
+        }
+      ]
+    }
+  ]
+}

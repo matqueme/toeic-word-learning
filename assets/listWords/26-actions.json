@@ -1,0 +1,707 @@
+{
+  "categories": [
+    {
+      "id": "at-actions",
+      "nameEn": "Healthcare Actions",
+      "nameFr": "Actions de Santé",
+      "words": [
+        {
+          "id": "advice-vb",
+          "type": "verb",
+          "en": {
+            "word": "advice",
+            "otherAnswers": ["advise", "devise", "advertise"]
+          },
+          "fr": {
+            "word": "conseiller",
+            "otherAnswers": ["concilier", "consoler", "consulter"]
+          }
+        },
+        {
+          "id": "advisor",
+          "type": "name",
+          "en": {
+            "word": "advisor",
+            "otherAnswers": ["adviser", "advise", "reviser"]
+          },
+          "fr": {
+            "word": "conseiller",
+            "otherAnswers": ["conseillère", "concilier", "consulter"]
+          }
+        },
+        {
+          "id": "advice-nom",
+          "type": "name",
+          "en": {
+            "word": "advice",
+            "otherAnswers": ["device", "devise", "service"]
+          },
+          "fr": {
+            "word": "conseil",
+            "otherAnswers": ["concile", "consigné", "concède"]
+          }
+        },
+        {
+          "id": "apply",
+          "type": "verb",
+          "en": {
+            "word": "apply",
+            "otherAnswers": ["reply", "comply", "supply"]
+          },
+          "fr": {
+            "word": "appliquer",
+            "otherAnswers": ["mettre", "supplier", "amplifier"]
+          }
+        },
+        {
+          "id": "application",
+          "type": "name",
+          "en": {
+            "word": "application",
+            "otherAnswers": ["appliance", "implication", "complication"]
+          },
+          "fr": {
+            "word": "application",
+            "otherAnswers": ["appliqué", "implication", "supplique"]
+          }
+        },
+        {
+          "id": "breakthrough",
+          "type": "name",
+          "en": {
+            "word": "breakthrough",
+            "otherAnswers": ["breakout", "breakdown", "outbreak"]
+          },
+          "fr": {
+            "word": "découverte capitale",
+            "otherAnswers": ["percée", "innovation majeure", "avancée"]
+          }
+        },
+        {
+          "id": "cavity",
+          "type": "name",
+          "en": {
+            "word": "cavity",
+            "otherAnswers": ["gravity", "cavern", "caution"]
+          },
+          "fr": {
+            "word": "carie",
+            "otherAnswers": ["cavité", "carré", "carte"]
+          }
+        },
+        {
+          "id": "dentist",
+          "type": "name",
+          "en": {
+            "word": "dentist",
+            "otherAnswers": ["dentistry", "dental", "dermatist"]
+          },
+          "fr": {
+            "word": "dentiste",
+            "otherAnswers": ["denture", "dentiaire", "dédaigner"]
+          }
+        },
+        {
+          "id": "dental",
+          "type": "adjective",
+          "en": {
+            "word": "dental",
+            "otherAnswers": ["mental", "gentle", "rental"]
+          },
+          "fr": {
+            "word": "dentaire",
+            "otherAnswers": ["dentiste", "durable", "dédalien"]
+          }
+        },
+        {
+          "id": "dentistry",
+          "type": "name",
+          "en": {
+            "word": "dentistry",
+            "otherAnswers": ["chemistry", "ministry", "dentist"]
+          },
+          "fr": {
+            "word": "soins dentaires",
+            "otherAnswers": [
+              "études dentaires",
+              "dentisterie",
+              "médecine dentaire"
+            ]
+          }
+        },
+        {
+          "id": "diet-nom",
+          "type": "name",
+          "en": {
+            "word": "diet",
+            "otherAnswers": ["dirt", "dent", "duel"]
+          },
+          "fr": {
+            "word": "régime",
+            "otherAnswers": ["diète", "alimentation", "repas"]
+          }
+        },
+        {
+          "id": "diet-vb",
+          "type": "verb",
+          "en": {
+            "word": "diet",
+            "otherAnswers": ["dine", "dust", "dart"]
+          },
+          "fr": {
+            "word": "suivre un régime",
+            "otherAnswers": ["faire un régime", "s'alimenter", "se restreindre"]
+          }
+        },
+        {
+          "id": "dietary",
+          "type": "adjective",
+          "en": {
+            "word": "dietary",
+            "otherAnswers": ["dietetic", "digitary", "dietary"]
+          },
+          "fr": {
+            "word": "alimentaire",
+            "otherAnswers": ["diététique", "nutritif", "nutritionnel"]
+          }
+        },
+        {
+          "id": "dietician",
+          "type": "name",
+          "en": {
+            "word": "dietician",
+            "otherAnswers": ["dietitian", "physician", "technician"]
+          },
+          "fr": {
+            "word": "diététicien",
+            "otherAnswers": ["diététicienne", "nutritionniste", "médecin"]
+          }
+        },
+        {
+          "id": "balanced-diet",
+          "type": "name",
+          "en": {
+            "word": "balanced diet",
+            "otherAnswers": ["healthy diet", "proper nutrition", "diet plan"]
+          },
+          "fr": {
+            "word": "alimentation équilibrée",
+            "otherAnswers": [
+              "régime équilibré",
+              "diète saine",
+              "nutrition équilibrée"
+            ]
+          }
+        },
+        {
+          "id": "emergency-room",
+          "type": "name",
+          "en": {
+            "word": "emergency room",
+            "otherAnswers": ["ER", "trauma center", "emergency ward"]
+          },
+          "fr": {
+            "word": "urgences",
+            "otherAnswers": [
+              "salle d'urgence",
+              "service d'urgence",
+              "service des urgences"
+            ]
+          }
+        },
+        {
+          "id": "eyeglasses",
+          "type": "name",
+          "en": {
+            "word": "eyeglasses",
+            "otherAnswers": ["glasses", "spectacles", "lenses"]
+          },
+          "fr": {
+            "word": "lunettes",
+            "otherAnswers": ["verres", "montures", "binocles"]
+          }
+        },
+        {
+          "id": "eyesight",
+          "type": "name",
+          "en": {
+            "word": "eyesight",
+            "otherAnswers": ["vision", "sight", "viewing"]
+          },
+          "fr": {
+            "word": "vue",
+            "otherAnswers": ["vision", "regard", "visibilité"]
+          }
+        },
+        {
+          "id": "eyestrain",
+          "type": "name",
+          "en": {
+            "word": "eyestrain",
+            "otherAnswers": ["eye fatigue", "eye stress", "optical strain"]
+          },
+          "fr": {
+            "word": "fatigue visuelle",
+            "otherAnswers": [
+              "fatigue oculaire",
+              "tension oculaire",
+              "fatigue des yeux"
+            ]
+          }
+        },
+        {
+          "id": "frame",
+          "type": "name",
+          "en": {
+            "word": "frame",
+            "otherAnswers": ["flame", "fringe", "foam"]
+          },
+          "fr": {
+            "word": "monture",
+            "otherAnswers": ["cadre", "structure", "armature"]
+          }
+        },
+        {
+          "id": "heal",
+          "type": "verb",
+          "en": {
+            "word": "heal",
+            "otherAnswers": ["seal", "deal", "meal"]
+          },
+          "fr": {
+            "word": "guérir",
+            "otherAnswers": ["cicatriser", "soigner", "traiter"]
+          }
+        },
+        {
+          "id": "healing",
+          "type": "adjective",
+          "en": {
+            "word": "healing",
+            "otherAnswers": ["helping", "healthy", "hearing"]
+          },
+          "fr": {
+            "word": "curatif",
+            "otherAnswers": ["guérissant", "thérapeutique", "médicinal"]
+          }
+        },
+        {
+          "id": "healer",
+          "type": "name",
+          "en": {
+            "word": "healer",
+            "otherAnswers": ["dealer", "feeler", "helper"]
+          },
+          "fr": {
+            "word": "guérisseur",
+            "otherAnswers": ["guérisseuse", "thérapeute", "soigneur"]
+          }
+        },
+        {
+          "id": "hygiene",
+          "type": "name",
+          "en": {
+            "word": "hygiene",
+            "otherAnswers": ["hygienic", "hydration", "hydrogen"]
+          },
+          "fr": {
+            "word": "hygiène",
+            "otherAnswers": ["propreté", "salubrité", "assainissement"]
+          }
+        },
+        {
+          "id": "hygienic",
+          "type": "adjective",
+          "en": {
+            "word": "hygienic",
+            "otherAnswers": ["hygiene", "hygienic", "hypnotic"]
+          },
+          "fr": {
+            "word": "hygiénique",
+            "otherAnswers": ["propre", "sanitaire", "aseptique"]
+          }
+        },
+        {
+          "id": "unhygienic",
+          "type": "adjective",
+          "en": {
+            "word": "unhygienic",
+            "otherAnswers": ["unsanitary", "dirty", "unclean"]
+          },
+          "fr": {
+            "word": "peu hygiénique",
+            "otherAnswers": ["insalubre", "malsain", "sale"]
+          }
+        },
+        {
+          "id": "dental-hygienist",
+          "type": "name",
+          "en": {
+            "word": "dental hygienist",
+            "otherAnswers": [
+              "oral hygienist",
+              "dental assistant",
+              "dental nurse"
+            ]
+          },
+          "fr": {
+            "word": "assistant dentaire",
+            "otherAnswers": [
+              "assistante dentaire",
+              "hygiéniste dentaire",
+              "aide dentiste"
+            ]
+          }
+        },
+        {
+          "id": "lenses",
+          "type": "name",
+          "en": {
+            "word": "lenses",
+            "otherAnswers": ["glasses", "contacts", "optics"]
+          },
+          "fr": {
+            "word": "verres",
+            "otherAnswers": ["lentilles", "lunettes", "optiques"]
+          }
+        },
+        {
+          "id": "medical-practitioner",
+          "type": "name",
+          "en": {
+            "word": "medical practitioner",
+            "otherAnswers": ["physician", "doctor", "clinician"]
+          },
+          "fr": {
+            "word": "praticien",
+            "otherAnswers": ["praticienne", "médecin", "docteur"]
+          }
+        },
+        {
+          "id": "nurse-nom",
+          "type": "name",
+          "en": {
+            "word": "nurse",
+            "otherAnswers": ["doctor", "caregiver", "healer"]
+          },
+          "fr": {
+            "word": "infirmier",
+            "otherAnswers": ["infirmière", "soignant", "aide-soignant"]
+          }
+        },
+        {
+          "id": "nurse-vb",
+          "type": "verb",
+          "en": {
+            "word": "nurse",
+            "otherAnswers": ["nurture", "care", "tend"]
+          },
+          "fr": {
+            "word": "soigner",
+            "otherAnswers": ["traiter", "s'occuper de", "prendre soin"]
+          }
+        },
+        {
+          "id": "nursing",
+          "type": "name",
+          "en": {
+            "word": "nursing",
+            "otherAnswers": ["healthcare", "caregiving", "treatment"]
+          },
+          "fr": {
+            "word": "profession d'infirmier",
+            "otherAnswers": ["soins", "soins infirmiers", "infirmerie"]
+          }
+        },
+        {
+          "id": "nursery",
+          "type": "name",
+          "en": {
+            "word": "nursery",
+            "otherAnswers": ["nursery school", "kindergarten", "daycare"]
+          },
+          "fr": {
+            "word": "chambre d'enfants",
+            "otherAnswers": ["pouponnière", "crèche", "garderie"]
+          }
+        },
+        {
+          "id": "optician",
+          "type": "name",
+          "en": {
+            "word": "optician",
+            "otherAnswers": ["optometrist", "ophthalmologist", "eye doctor"]
+          },
+          "fr": {
+            "word": "opticien",
+            "otherAnswers": [
+              "opticienne",
+              "lunettier",
+              "spécialiste en optique"
+            ]
+          }
+        },
+        {
+          "id": "recover",
+          "type": "verb",
+          "en": {
+            "word": "recover",
+            "otherAnswers": ["reclaim", "restore", "retrieve"]
+          },
+          "fr": {
+            "word": "se rétablir",
+            "otherAnswers": ["guérir", "récupérer", "se remettre"]
+          }
+        },
+        {
+          "id": "recovery",
+          "type": "name",
+          "en": {
+            "word": "recovery",
+            "otherAnswers": ["restoration", "recuperation", "rehabilitation"]
+          },
+          "fr": {
+            "word": "guérison",
+            "otherAnswers": ["rétablissement", "convalescence", "récupération"]
+          }
+        },
+        {
+          "id": "refer-to",
+          "type": "verb",
+          "en": {
+            "word": "refer to",
+            "otherAnswers": ["direct to", "send to", "recommend"]
+          },
+          "fr": {
+            "word": "diriger vers",
+            "otherAnswers": ["orienter vers", "adresser à", "recommander"]
+          }
+        },
+        {
+          "id": "referral",
+          "type": "name",
+          "en": {
+            "word": "referral",
+            "otherAnswers": ["reference", "recommendation", "transfer"]
+          },
+          "fr": {
+            "word": "recommandation",
+            "otherAnswers": ["orientation", "aiguillage", "directive"]
+          }
+        },
+        {
+          "id": "relieve",
+          "type": "verb",
+          "en": {
+            "word": "relieve",
+            "otherAnswers": ["release", "reduce", "remedy"]
+          },
+          "fr": {
+            "word": "soulager",
+            "otherAnswers": ["alléger", "apaiser", "atténuer"]
+          }
+        },
+        {
+          "id": "relief",
+          "type": "name",
+          "en": {
+            "word": "relief",
+            "otherAnswers": ["release", "remedy", "respite"]
+          },
+          "fr": {
+            "word": "soulagement",
+            "otherAnswers": ["allègement", "apaisement", "réconfort"]
+          }
+        },
+        {
+          "id": "researcher",
+          "type": "name",
+          "en": {
+            "word": "researcher",
+            "otherAnswers": ["scientist", "investigator", "analyst"]
+          },
+          "fr": {
+            "word": "chercheur",
+            "otherAnswers": ["chercheuse", "scientifique", "analyste"]
+          }
+        },
+        {
+          "id": "research-nom",
+          "type": "name",
+          "en": {
+            "word": "research",
+            "otherAnswers": ["study", "investigation", "analysis"]
+          },
+          "fr": {
+            "word": "recherche",
+            "otherAnswers": ["étude", "analyse", "investigation"]
+          }
+        },
+        {
+          "id": "research-vb",
+          "type": "verb",
+          "en": {
+            "word": "research",
+            "otherAnswers": ["study", "investigate", "examine"]
+          },
+          "fr": {
+            "word": "faire des recherches",
+            "otherAnswers": ["étudier", "enquêter", "analyser"]
+          }
+        },
+        {
+          "id": "resilience",
+          "type": "name",
+          "en": {
+            "word": "resilience",
+            "otherAnswers": ["resistance", "endurance", "strength"]
+          },
+          "fr": {
+            "word": "résistance",
+            "otherAnswers": ["ténacité", "résilience", "endurance"]
+          }
+        },
+        {
+          "id": "resilient",
+          "type": "adjective",
+          "en": {
+            "word": "resilient",
+            "otherAnswers": ["resistant", "tough", "strong"]
+          },
+          "fr": {
+            "word": "résistant",
+            "otherAnswers": ["tenace", "robuste", "solide"]
+          }
+        },
+        {
+          "id": "surgeon",
+          "type": "name",
+          "en": {
+            "word": "surgeon",
+            "otherAnswers": ["physician", "doctor", "operator"]
+          },
+          "fr": {
+            "word": "chirurgien",
+            "otherAnswers": ["chirurgienne", "médecin", "opérateur"]
+          }
+        },
+        {
+          "id": "surgical",
+          "type": "adjective",
+          "en": {
+            "word": "surgical",
+            "otherAnswers": ["medical", "clinical", "operative"]
+          },
+          "fr": {
+            "word": "chirurgical",
+            "otherAnswers": ["opératoire", "médical", "clinique"]
+          }
+        },
+        {
+          "id": "surgically",
+          "type": "adverb",
+          "en": {
+            "word": "surgically",
+            "otherAnswers": ["medically", "clinically", "operatively"]
+          },
+          "fr": {
+            "word": "chirurgicalement",
+            "otherAnswers": [
+              "par la chirurgie",
+              "de façon chirurgicale",
+              "médicalement"
+            ]
+          }
+        },
+        {
+          "id": "surgery",
+          "type": "name",
+          "en": {
+            "word": "surgery",
+            "otherAnswers": ["operation", "procedure", "treatment"]
+          },
+          "fr": {
+            "word": "intervention",
+            "otherAnswers": ["opération", "cabinet médical", "chirurgie"]
+          }
+        },
+        {
+          "id": "therapy",
+          "type": "name",
+          "en": {
+            "word": "therapy",
+            "otherAnswers": ["treatment", "rehabilitation", "counseling"]
+          },
+          "fr": {
+            "word": "thérapie",
+            "otherAnswers": ["traitement", "soin", "remède"]
+          }
+        },
+        {
+          "id": "therapeutic",
+          "type": "adjective",
+          "en": {
+            "word": "therapeutic",
+            "otherAnswers": ["healing", "remedial", "curative"]
+          },
+          "fr": {
+            "word": "thérapeutique",
+            "otherAnswers": ["curatif", "soignant", "médicinal"]
+          }
+        },
+        {
+          "id": "physical-therapy",
+          "type": "name",
+          "en": {
+            "word": "physical therapy",
+            "otherAnswers": [
+              "physiotherapy",
+              "rehabilitation",
+              "physical rehab"
+            ]
+          },
+          "fr": {
+            "word": "kinésithérapie",
+            "otherAnswers": [
+              "physiothérapie",
+              "rééducation",
+              "thérapie physique"
+            ]
+          }
+        },
+        {
+          "id": "tooth-decay",
+          "type": "name",
+          "en": {
+            "word": "tooth decay",
+            "otherAnswers": ["dental caries", "cavity", "dental decay"]
+          },
+          "fr": {
+            "word": "carie",
+            "otherAnswers": [
+              "carie dentaire",
+              "décomposition dentaire",
+              "dégradation des dents"
+            ]
+          }
+        },
+        {
+          "id": "wheelchair",
+          "type": "name",
+          "en": {
+            "word": "wheelchair",
+            "otherAnswers": ["mobility aid", "rolling chair", "wheeled chair"]
+          },
+          "fr": {
+            "word": "fauteuil roulant",
+            "otherAnswers": [
+              "chaise roulante",
+              "fauteuil mobile",
+              "siège roulant"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

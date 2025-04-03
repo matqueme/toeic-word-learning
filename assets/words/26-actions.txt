@@ -1,0 +1,54 @@
+advice (vb) conseiller
+advisor (nom) conseiller(-ère)
+advice (nom indénombrable) conseil 
+apply (vb) appliquer, mettre
+application (nom) application
+breakthrough (nom) découverte capitale
+cavity (nom) carie
+dentist (nom) dentiste
+dental (adj) dentaire
+dentistry (nom) soins dentaires, études dentaires
+diet (nom) régime
+diet (vb) suivre/faire un régime
+dietary (adj) alimentaire
+dietician (nom) diététicie(ne)
+balanced diet (nom) alimentation équilibrée
+ER, emergency room (nom) les urgences
+eyeglases (nom) lunettes
+eyesight (nom) vue
+eyestrain (nom) fatigue visuelle
+frame (nom) monture
+heal (vb) guérir, cicatriser
+healing (adj) curatif
+healer (nom) guérisseur(-euse)
+hygiene (nom) hygiène
+hygienic (adj) hygiénique
+unhygienic (adj) peu hygiénique
+dental hygienist (nom) assistant(e) dentaire
+lenses (nom) verres, lentilles
+medical practioner (nom) praticien(ne)
+nurse (nom) infirmier(-ière)
+nurse (vb) soigner
+nursing (nom) profession d'infirmier ; soins
+nursery (nom) chambre d'enfants
+optician (nom) opticien(-ne)
+recover (vb) se rétablir, guérir
+revocery (nom) guérison, rétablissement
+refer to (vb) diriger, orienter vers 
+referral (nom) recommandation
+relieve (of) (vb) soulager (de) 
+relief (nom) soulagement
+researcher (nom) chercheur (-euse)
+research (nom indénombrable) recherche
+research (vb) faire des recherches
+resilience (nom) résistance, ténacité 
+resilient (adj) résistant
+surgeon (nom) chirurgien(-ne)
+surgical (adj) chirurgical
+surgically (adv) par la chirurgie, chirurgicalement
+surgery  (nom) intervention (opération) ; cabinet médical (lieu)
+therapy (nom) thérapie
+therapeutic (adj) thérapeuthique
+physical therapy, physiotherapy (nom) kinésithérapie
+tooth decay (nom indénombrable) carie
+wheelchair (nom) fauteuil roulant

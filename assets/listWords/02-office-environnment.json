@@ -10,11 +10,11 @@
           "type": "noun",
           "en": {
             "word": "binder",
-            "otherAnswers": ["folder", "notebook", "clipboard"]
+            "otherAnswers": ["calendar", "envelope", "stapler"]
           },
           "fr": {
             "word": "classeur",
-            "otherAnswers": ["dossier", "cahier", "chemise"]
+            "otherAnswers": ["stylo", "enveloppe", "imprimante"]
           }
         },
         {
@@ -22,11 +22,11 @@
           "type": "verb",
           "en": {
             "word": "bind",
-            "otherAnswers": ["staple", "clip", "attach"]
+            "otherAnswers": ["type", "scan", "print"]
           },
           "fr": {
             "word": "relier",
-            "otherAnswers": ["agrafer", "attacher", "fixer"]
+            "otherAnswers": ["copier", "imprimer", "numériser"]
           }
         },
         {
@@ -34,11 +34,11 @@
           "type": "noun",
           "en": {
             "word": "cartridge",
-            "otherAnswers": ["toner", "ribbon", "ink"]
+            "otherAnswers": ["keyboard", "mouse", "cable"]
           },
           "fr": {
             "word": "cartouche",
-            "otherAnswers": ["toner", "encre", "ruban"]
+            "otherAnswers": ["clavier", "souris", "câble"]
           }
         },
         {
@@ -46,11 +46,11 @@
           "type": "noun",
           "en": {
             "word": "chair",
-            "otherAnswers": ["stool", "bench", "desk"]
+            "otherAnswers": ["lamp", "computer", "printer"]
           },
           "fr": {
             "word": "chaise",
-            "otherAnswers": ["tabouret", "fauteuil", "banc"]
+            "otherAnswers": ["lampe", "ordinateur", "imprimante"]
           }
         },
         {
@@ -58,15 +58,11 @@
           "type": "noun",
           "en": {
             "word": "swivel chair",
-            "otherAnswers": ["office chair", "armchair", "recliner"]
+            "otherAnswers": ["bookshelf", "filing cabinet", "desktop"]
           },
           "fr": {
             "word": "siège pivotant",
-            "otherAnswers": [
-              "fauteuil de bureau",
-              "chaise ergonomique",
-              "siège ajustable"
-            ]
+            "otherAnswers": ["bibliothèque", "téléphone", "écran"]
           }
         },
         {
@@ -74,11 +70,11 @@
           "type": "noun",
           "en": {
             "word": "clock",
-            "otherAnswers": ["watch", "timer", "calendar"]
+            "otherAnswers": ["stapler", "envelope", "telephone"]
           },
           "fr": {
             "word": "horloge",
-            "otherAnswers": ["montre", "minuteur", "pendule"]
+            "otherAnswers": ["agrafeuse", "enveloppe", "téléphone"]
           }
         },
         {
@@ -86,15 +82,11 @@
           "type": "adverb",
           "en": {
             "word": "clockwise",
-            "otherAnswers": ["rightward", "forward", "counterclockwise"]
+            "otherAnswers": ["upward", "downward", "backward"]
           },
           "fr": {
             "word": "dans le sens des aiguilles d'une montre",
-            "otherAnswers": [
-              "vers la droite",
-              "dans le sens horaire",
-              "dans le sens contraire des aiguilles d'une montre"
-            ]
+            "otherAnswers": ["vers le haut", "vers le bas", "en arrière"]
           }
         },
         {
@@ -102,11 +94,11 @@
           "type": "expression",
           "en": {
             "word": "like clockwork",
-            "otherAnswers": ["on time", "regularly", "precisely"]
+            "otherAnswers": ["by chance", "occasionally", "randomly"]
           },
           "fr": {
             "word": "ça ne rate jamais",
-            "otherAnswers": ["comme prévu", "avec précision", "à l'heure"]
+            "otherAnswers": ["par hasard", "de temps en temps", "aléatoirement"]
           }
         },
         {
@@ -114,14 +106,14 @@
           "type": "expression",
           "en": {
             "word": "go like clockwork",
-            "otherAnswers": ["run smoothly", "work perfectly", "be flawless"]
+            "otherAnswers": ["be complicated", "need revisions", "require help"]
           },
           "fr": {
             "word": "marcher comme sur des roulettes",
             "otherAnswers": [
-              "fonctionner parfaitement",
-              "se dérouler sans accroc",
-              "être bien huilé"
+              "être compliqué",
+              "nécessiter des révisions",
+              "avoir besoin d'aide"
             ]
           }
         },
@@ -130,11 +122,11 @@
           "type": "noun",
           "en": {
             "word": "desk",
-            "otherAnswers": ["table", "workstation", "counter"]
+            "otherAnswers": ["cabinet", "printer", "photocopier"]
           },
           "fr": {
             "word": "bureau",
-            "otherAnswers": ["table", "poste de travail", "comptoir"]
+            "otherAnswers": ["armoire", "imprimante", "photocopieuse"]
           }
         },
         {
@@ -142,15 +134,11 @@
           "type": "noun",
           "en": {
             "word": "desk lamp",
-            "otherAnswers": ["table lamp", "reading light", "office lamp"]
+            "otherAnswers": ["ceiling light", "calculator", "telephone"]
           },
           "fr": {
             "word": "lampe de bureau",
-            "otherAnswers": [
-              "lampe de table",
-              "lampe de lecture",
-              "éclairage de travail"
-            ]
+            "otherAnswers": ["plafonnier", "calculatrice", "téléphone"]
           }
         },
         {
@@ -158,11 +146,11 @@
           "type": "noun",
           "en": {
             "word": "desktop",
-            "otherAnswers": ["laptop", "workstation", "monitor"]
+            "otherAnswers": ["tablet", "scanner", "printer"]
           },
           "fr": {
             "word": "ordinateur de bureau; bureau",
-            "otherAnswers": ["portable", "écran", "poste de travail"]
+            "otherAnswers": ["tablette", "scanner", "imprimante"]
           }
         },
         {
@@ -171,17 +159,17 @@
           "en": {
             "word": "desktop publishing",
             "otherAnswers": [
-              "graphic design",
-              "word processing",
-              "digital layout"
+              "video editing",
+              "data analysis",
+              "web development"
             ]
           },
           "fr": {
             "word": "publication assistée par ordinateur, PAO",
             "otherAnswers": [
-              "conception graphique",
-              "traitement de texte",
-              "mise en page numérique"
+              "montage vidéo",
+              "analyse de données",
+              "développement web"
             ]
           }
         },
@@ -190,14 +178,18 @@
           "type": "noun",
           "en": {
             "word": "hot desking",
-            "otherAnswers": ["desk sharing", "flexible seating", "coworking"]
+            "otherAnswers": [
+              "telecommuting",
+              "team building",
+              "office decoration"
+            ]
           },
           "fr": {
             "word": "partage de bureaux",
             "otherAnswers": [
-              "bureaux flexibles",
-              "postes non attribués",
-              "espace de coworking"
+              "télétravail",
+              "renforcement d'équipe",
+              "décoration de bureau"
             ]
           }
         },
@@ -206,11 +198,11 @@
           "type": "noun",
           "en": {
             "word": "drawer",
-            "otherAnswers": ["cabinet", "shelf", "tray"]
+            "otherAnswers": ["doorknob", "window", "bookcase"]
           },
           "fr": {
             "word": "tiroir",
-            "otherAnswers": ["casier", "étagère", "compartiment"]
+            "otherAnswers": ["poignée", "fenêtre", "bibliothèque"]
           }
         },
         {
@@ -218,11 +210,11 @@
           "type": "noun",
           "en": {
             "word": "file",
-            "otherAnswers": ["folder", "document", "binder"]
+            "otherAnswers": ["computer", "desk", "monitor"]
           },
           "fr": {
             "word": "fichier, chemise",
-            "otherAnswers": ["dossier", "document", "classeur"]
+            "otherAnswers": ["ordinateur", "bureau", "écran"]
           }
         },
         {
@@ -230,11 +222,11 @@
           "type": "verb",
           "en": {
             "word": "file",
-            "otherAnswers": ["sort", "organize", "archive"]
+            "otherAnswers": ["print", "email", "delete"]
           },
           "fr": {
             "word": "classer",
-            "otherAnswers": ["archiver", "ranger", "organiser"]
+            "otherAnswers": ["imprimer", "envoyer", "supprimer"]
           }
         },
         {
@@ -242,11 +234,11 @@
           "type": "adverb",
           "en": {
             "word": "on file",
-            "otherAnswers": ["on record", "in storage", "archived"]
+            "otherAnswers": ["in progress", "discarded", "forgotten"]
           },
           "fr": {
             "word": "dans un fichier, sur fichier",
-            "otherAnswers": ["en archive", "enregistré", "documenté"]
+            "otherAnswers": ["en cours", "jeté", "oublié"]
           }
         },
         {
@@ -254,11 +246,11 @@
           "type": "noun",
           "en": {
             "word": "filing",
-            "otherAnswers": ["sorting", "organizing", "cataloging"]
+            "otherAnswers": ["printing", "scanning", "emailing"]
           },
           "fr": {
             "word": "archivage",
-            "otherAnswers": ["classement", "rangement", "documentation"]
+            "otherAnswers": ["impression", "numérisation", "envoi d'email"]
           }
         },
         {
@@ -266,18 +258,14 @@
           "type": "noun",
           "en": {
             "word": "filing cabinet",
-            "otherAnswers": [
-              "storage cabinet",
-              "document cabinet",
-              "records cabinet"
-            ]
+            "otherAnswers": ["computer desk", "water cooler", "trash bin"]
           },
           "fr": {
             "word": "classeur de rangement",
             "otherAnswers": [
-              "meuble de classement",
-              "armoire à dossiers",
-              "meuble d'archivage"
+              "bureau d'ordinateur",
+              "fontaine à eau",
+              "poubelle"
             ]
           }
         },
@@ -286,11 +274,11 @@
           "type": "noun",
           "en": {
             "word": "folder",
-            "otherAnswers": ["binder", "file", "envelope"]
+            "otherAnswers": ["pencil", "stapler", "calculator"]
           },
           "fr": {
             "word": "dossier, classeur",
-            "otherAnswers": ["pochette", "chemise", "porte-documents"]
+            "otherAnswers": ["crayon", "agrafeuse", "calculatrice"]
           }
         },
         {
@@ -298,11 +286,11 @@
           "type": "verb",
           "en": {
             "word": "fold",
-            "otherAnswers": ["bend", "crease", "collapse"]
+            "otherAnswers": ["type", "write", "erase"]
           },
           "fr": {
             "word": "plier",
-            "otherAnswers": ["replier", "courber", "rabattre"]
+            "otherAnswers": ["taper", "écrire", "effacer"]
           }
         },
         {
@@ -310,11 +298,11 @@
           "type": "noun",
           "en": {
             "word": "headphones",
-            "otherAnswers": ["earbuds", "speakers", "microphone"]
+            "otherAnswers": ["keyboard", "monitor", "mouse"]
           },
           "fr": {
             "word": "casque audio",
-            "otherAnswers": ["écouteurs", "enceintes", "microphone"]
+            "otherAnswers": ["clavier", "moniteur", "souris"]
           }
         },
         {
@@ -322,15 +310,11 @@
           "type": "noun",
           "en": {
             "word": "headset",
-            "otherAnswers": ["microphone", "earpiece", "headphones"]
+            "otherAnswers": ["keyboard", "printer", "scanner"]
           },
           "fr": {
             "word": "casque micro",
-            "otherAnswers": [
-              "micro-casque",
-              "écouteur avec micro",
-              "oreillette"
-            ]
+            "otherAnswers": ["clavier", "imprimante", "scanner"]
           }
         },
         {
@@ -338,11 +322,11 @@
           "type": "noun",
           "en": {
             "word": "ink",
-            "otherAnswers": ["toner", "cartridge", "marker"]
+            "otherAnswers": ["paper", "staple", "clip"]
           },
           "fr": {
             "word": "encre",
-            "otherAnswers": ["toner", "cartouche", "marqueur"]
+            "otherAnswers": ["papier", "agrafe", "trombone"]
           }
         },
         {
@@ -350,15 +334,11 @@
           "type": "noun",
           "en": {
             "word": "in tray",
-            "otherAnswers": ["inbox", "document tray", "mail bin"]
+            "otherAnswers": ["calendar", "pen holder", "bookend"]
           },
           "fr": {
             "word": "corbeille d'arrivée",
-            "otherAnswers": [
-              "bac d'entrée",
-              "boîte de réception",
-              "plateau de courrier"
-            ]
+            "otherAnswers": ["calendrier", "porte-stylo", "serre-livres"]
           }
         },
         {
@@ -366,14 +346,14 @@
           "type": "noun",
           "en": {
             "word": "out tray",
-            "otherAnswers": ["outbox", "send tray", "dispatch tray"]
+            "otherAnswers": ["pen holder", "business card holder", "note pad"]
           },
           "fr": {
             "word": "corbeille de départ",
             "otherAnswers": [
-              "bac de sortie",
-              "boîte d'envoi",
-              "plateau d'expédition"
+              "porte-stylo",
+              "porte-cartes de visite",
+              "bloc-notes"
             ]
           }
         },
@@ -382,11 +362,11 @@
           "type": "noun",
           "en": {
             "word": "notepad",
-            "otherAnswers": ["notebook", "journal", "planner"]
+            "otherAnswers": ["printer", "keyboard", "telephone"]
           },
           "fr": {
             "word": "bloc-notes",
-            "otherAnswers": ["carnet", "agenda", "cahier"]
+            "otherAnswers": ["imprimante", "clavier", "téléphone"]
           }
         },
         {
@@ -394,11 +374,11 @@
           "type": "verb",
           "en": {
             "word": "note down",
-            "otherAnswers": ["write down", "record", "jot down"]
+            "otherAnswers": ["highlight", "delete", "print"]
           },
           "fr": {
             "word": "prendre des notes",
-            "otherAnswers": ["noter", "inscrire", "consigner"]
+            "otherAnswers": ["surligner", "supprimer", "imprimer"]
           }
         },
         {
@@ -406,11 +386,11 @@
           "type": "noun",
           "en": {
             "word": "office",
-            "otherAnswers": ["workplace", "department", "workspace"]
+            "otherAnswers": ["cafeteria", "library", "lobby"]
           },
           "fr": {
             "word": "bureau",
-            "otherAnswers": ["lieu de travail", "service", "cabinet"]
+            "otherAnswers": ["cafétéria", "bibliothèque", "hall d'entrée"]
           }
         },
         {
@@ -418,15 +398,11 @@
           "type": "noun",
           "en": {
             "word": "head office",
-            "otherAnswers": ["headquarters", "main office", "central office"]
+            "otherAnswers": ["branch office", "warehouse", "retail store"]
           },
           "fr": {
             "word": "siège social",
-            "otherAnswers": [
-              "direction générale",
-              "maison mère",
-              "administration centrale"
-            ]
+            "otherAnswers": ["succursale", "entrepôt", "magasin"]
           }
         },
         {
@@ -434,11 +410,11 @@
           "type": "noun",
           "en": {
             "word": "photocopier, copier",
-            "otherAnswers": ["printer", "scanner", "fax machine"]
+            "otherAnswers": ["telephone", "computer", "shredder"]
           },
           "fr": {
             "word": "photocopieuse",
-            "otherAnswers": ["imprimante", "scanner", "télécopieur"]
+            "otherAnswers": ["téléphone", "ordinateur", "déchiqueteuse"]
           }
         },
         {
@@ -446,11 +422,11 @@
           "type": "noun",
           "en": {
             "word": "photocopy",
-            "otherAnswers": ["copy", "duplicate", "reproduction"]
+            "otherAnswers": ["receipt", "invoice", "memo"]
           },
           "fr": {
             "word": "photocopie",
-            "otherAnswers": ["copie", "duplicata", "reproduction"]
+            "otherAnswers": ["reçu", "facture", "mémo"]
           }
         },
         {
@@ -458,11 +434,11 @@
           "type": "verb",
           "en": {
             "word": "photocopy",
-            "otherAnswers": ["copy", "duplicate", "reproduce"]
+            "otherAnswers": ["scan", "email", "delete"]
           },
           "fr": {
             "word": "photocopier",
-            "otherAnswers": ["copier", "dupliquer", "reproduire"]
+            "otherAnswers": ["scanner", "envoyer par email", "supprimer"]
           }
         },
         {
@@ -470,11 +446,11 @@
           "type": "verb",
           "en": {
             "word": "refrain from",
-            "otherAnswers": ["avoid", "abstain from", "keep from"]
+            "otherAnswers": ["insist on", "proceed with", "continue with"]
           },
           "fr": {
             "word": "s'abstenir de",
-            "otherAnswers": ["éviter de", "se garder de", "se retenir de"]
+            "otherAnswers": ["insister sur", "procéder à", "continuer avec"]
           }
         },
         {
@@ -482,11 +458,11 @@
           "type": "verb",
           "en": {
             "word": "run out of",
-            "otherAnswers": ["deplete", "exhaust", "use up"]
+            "otherAnswers": ["accumulate", "collect", "gather"]
           },
           "fr": {
             "word": "manquer de, ne plus avoir de",
-            "otherAnswers": ["épuiser", "être à court de", "vider"]
+            "otherAnswers": ["accumuler", "collecter", "rassembler"]
           }
         },
         {
@@ -494,11 +470,11 @@
           "type": "noun",
           "en": {
             "word": "shelf",
-            "otherAnswers": ["bookcase", "rack", "cabinet"]
+            "otherAnswers": ["desk", "computer", "lamp"]
           },
           "fr": {
             "word": "étagère",
-            "otherAnswers": ["rayonnage", "bibliothèque", "casier"]
+            "otherAnswers": ["bureau", "ordinateur", "lampe"]
           }
         },
         {
@@ -506,11 +482,11 @@
           "type": "noun",
           "en": {
             "word": "shelving",
-            "otherAnswers": ["storage system", "bookcases", "racking"]
+            "otherAnswers": ["flooring", "lighting", "furniture"]
           },
           "fr": {
             "word": "rangement",
-            "otherAnswers": ["étagères", "rayonnage", "système de stockage"]
+            "otherAnswers": ["plancher", "éclairage", "mobilier"]
           }
         },
         {
@@ -518,11 +494,11 @@
           "type": "verb",
           "en": {
             "word": "shelve",
-            "otherAnswers": ["store", "arrange", "organize"]
+            "otherAnswers": ["print", "copy", "fax"]
           },
           "fr": {
             "word": "mettre en rayon, ranger",
-            "otherAnswers": ["stocker", "classer", "organiser"]
+            "otherAnswers": ["imprimer", "copier", "faxer"]
           }
         },
         {
@@ -531,17 +507,17 @@
           "en": {
             "word": "shelve a project",
             "otherAnswers": [
-              "postpone a project",
-              "cancel a project",
-              "suspend a project"
+              "accelerate a project",
+              "expand a project",
+              "invest in a project"
             ]
           },
           "fr": {
             "word": "abandonner, enterrer un projet",
             "otherAnswers": [
-              "reporter un projet",
-              "suspendre un projet",
-              "annuler un projet"
+              "accélérer un projet",
+              "élargir un projet",
+              "investir dans un projet"
             ]
           }
         },
@@ -550,11 +526,11 @@
           "type": "noun",
           "en": {
             "word": "stapler",
-            "otherAnswers": ["hole punch", "paper clip", "binder"]
+            "otherAnswers": ["pencil", "ruler", "eraser"]
           },
           "fr": {
             "word": "agrafeuse",
-            "otherAnswers": ["perforatrice", "trombone", "pince"]
+            "otherAnswers": ["crayon", "règle", "gomme"]
           }
         },
         {
@@ -562,11 +538,11 @@
           "type": "noun",
           "en": {
             "word": "staples",
-            "otherAnswers": ["paper clips", "pins", "fasteners"]
+            "otherAnswers": ["stamps", "rubber bands", "thumbtacks"]
           },
           "fr": {
             "word": "agrafes",
-            "otherAnswers": ["trombones", "épingles", "attaches"]
+            "otherAnswers": ["timbres", "élastiques", "punaises"]
           }
         },
         {
@@ -574,11 +550,11 @@
           "type": "verb",
           "en": {
             "word": "staple",
-            "otherAnswers": ["clip", "pin", "fasten"]
+            "otherAnswers": ["write", "print", "scan"]
           },
           "fr": {
             "word": "agrafer",
-            "otherAnswers": ["attacher", "épingler", "fixer"]
+            "otherAnswers": ["écrire", "imprimer", "scanner"]
           }
         },
         {
@@ -586,11 +562,11 @@
           "type": "noun",
           "en": {
             "word": "tape",
-            "otherAnswers": ["adhesive", "glue", "sticker"]
+            "otherAnswers": ["pen", "pencil", "marker"]
           },
           "fr": {
             "word": "ruban adhésif",
-            "otherAnswers": ["scotch", "adhésif", "bande collante"]
+            "otherAnswers": ["stylo", "crayon", "marqueur"]
           }
         },
         {
@@ -598,11 +574,11 @@
           "type": "verb",
           "en": {
             "word": "tape",
-            "otherAnswers": ["stick", "glue", "attach"]
+            "otherAnswers": ["write", "draw", "erase"]
           },
           "fr": {
             "word": "scotcher",
-            "otherAnswers": ["coller", "fixer", "attacher"]
+            "otherAnswers": ["écrire", "dessiner", "effacer"]
           }
         },
         {
@@ -610,15 +586,11 @@
           "type": "noun",
           "en": {
             "word": "tape dispenser",
-            "otherAnswers": ["stapler", "glue stick", "paper clip holder"]
+            "otherAnswers": ["pencil sharpener", "hole punch", "scissors"]
           },
           "fr": {
             "word": "dévidoir à ruban adhésif",
-            "otherAnswers": [
-              "porte-scotch",
-              "distributeur d'adhésif",
-              "support pour ruban"
-            ]
+            "otherAnswers": ["taille-crayon", "perforatrice", "ciseaux"]
           }
         },
         {
@@ -626,11 +598,11 @@
           "type": "verb",
           "en": {
             "word": "tape up",
-            "otherAnswers": ["seal", "secure", "wrap"]
+            "otherAnswers": ["write down", "stamp", "label"]
           },
           "fr": {
             "word": "fermer avec du ruban adhésif",
-            "otherAnswers": ["sceller", "emballer", "fixer"]
+            "otherAnswers": ["noter", "tamponner", "étiqueter"]
           }
         },
         {
@@ -638,15 +610,11 @@
           "type": "noun",
           "en": {
             "word": "wastepaper basket",
-            "otherAnswers": ["trash can", "garbage bin", "recycling bin"]
+            "otherAnswers": ["file cabinet", "bookshelf", "desk drawer"]
           },
           "fr": {
             "word": "poubelle, corbeille à papier",
-            "otherAnswers": [
-              "bac à déchets",
-              "poubelle de bureau",
-              "bac de recyclage"
-            ]
+            "otherAnswers": ["classeur", "bibliothèque", "tiroir de bureau"]
           }
         },
         {
@@ -654,19 +622,11 @@
           "type": "noun",
           "en": {
             "word": "water cooler",
-            "otherAnswers": [
-              "water dispenser",
-              "drinking fountain",
-              "beverage station"
-            ]
+            "otherAnswers": ["coffee maker", "microwave", "refrigerator"]
           },
           "fr": {
             "word": "fontaine à eau",
-            "otherAnswers": [
-              "distributeur d'eau",
-              "refroidisseur d'eau",
-              "point d'eau"
-            ]
+            "otherAnswers": ["cafetière", "micro-ondes", "réfrigérateur"]
           }
         }
       ]

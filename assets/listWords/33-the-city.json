@@ -1,0 +1,947 @@
+{
+  "categories": [
+    {
+      "id": "the-city",
+      "nameEn": "The City",
+      "nameFr": "La Ville",
+      "words": [
+        {
+          "id": "accomodations",
+          "type": "name",
+          "en": {
+            "word": "accomodations",
+            "otherAnswers": ["adaptations", "arrangements", "adjustments"]
+          },
+          "fr": {
+            "word": "aménagements",
+            "otherAnswers": ["adaptations", "installations", "logements"]
+          }
+        },
+        {
+          "id": "allocate-funds",
+          "type": "verb",
+          "en": {
+            "word": "allocate funds",
+            "otherAnswers": [
+              "distribute money",
+              "assign budget",
+              "designate resources"
+            ]
+          },
+          "fr": {
+            "word": "affecter un budget",
+            "otherAnswers": [
+              "distribuer des fonds",
+              "allouer des ressources",
+              "attribuer des finances"
+            ]
+          }
+        },
+        {
+          "id": "allocation",
+          "type": "name",
+          "en": {
+            "word": "allocation",
+            "otherAnswers": ["distribution", "assignment", "apportionment"]
+          },
+          "fr": {
+            "word": "répartition",
+            "otherAnswers": ["attribution", "distribution", "affectation"]
+          }
+        },
+        {
+          "id": "among",
+          "type": "preposition",
+          "en": {
+            "word": "among",
+            "otherAnswers": ["amidst", "between", "within"]
+          },
+          "fr": {
+            "word": "parmi",
+            "otherAnswers": ["entre", "au sein de", "au milieu de"]
+          }
+        },
+        {
+          "id": "between",
+          "type": "preposition",
+          "en": {
+            "word": "between",
+            "otherAnswers": ["amid", "among", "betwixt"]
+          },
+          "fr": {
+            "word": "entre",
+            "otherAnswers": ["parmi", "au milieu de", "d'entre"]
+          }
+        },
+        {
+          "id": "bike-lane",
+          "type": "name",
+          "en": {
+            "word": "bike lane",
+            "otherAnswers": ["cycle path", "cycling track", "bicycle route"]
+          },
+          "fr": {
+            "word": "piste cyclable",
+            "otherAnswers": ["voie cyclable", "bande cyclable", "couloir vélo"]
+          }
+        },
+        {
+          "id": "block",
+          "type": "name",
+          "en": {
+            "word": "block",
+            "otherAnswers": ["chunk", "section", "segment"]
+          },
+          "fr": {
+            "word": "pâté de maison",
+            "otherAnswers": ["bloc", "quartier", "îlot"]
+          }
+        },
+        {
+          "id": "build",
+          "type": "verb",
+          "en": {
+            "word": "build",
+            "otherAnswers": ["construct", "erect", "establish"]
+          },
+          "fr": {
+            "word": "construire",
+            "otherAnswers": ["bâtir", "édifier", "ériger"]
+          }
+        },
+        {
+          "id": "under-construction",
+          "type": "expression",
+          "en": {
+            "word": "under construction",
+            "otherAnswers": [
+              "being built",
+              "in development",
+              "work in progress"
+            ]
+          },
+          "fr": {
+            "word": "en construction",
+            "otherAnswers": [
+              "en chantier",
+              "en travaux",
+              "en cours d'aménagement"
+            ]
+          }
+        },
+        {
+          "id": "builder",
+          "type": "name",
+          "en": {
+            "word": "builder",
+            "otherAnswers": ["constructor", "contractor", "developer"]
+          },
+          "fr": {
+            "word": "maçon",
+            "otherAnswers": ["ouvrier du bâtiment", "constructeur", "bâtisseur"]
+          }
+        },
+        {
+          "id": "building",
+          "type": "name",
+          "en": {
+            "word": "building",
+            "otherAnswers": ["structure", "edifice", "construction"]
+          },
+          "fr": {
+            "word": "immeuble",
+            "otherAnswers": ["bâtiment", "édifice", "construction"]
+          }
+        },
+        {
+          "id": "city-hall",
+          "type": "name",
+          "en": {
+            "word": "city hall",
+            "otherAnswers": ["town hall", "municipal building", "civic center"]
+          },
+          "fr": {
+            "word": "mairie",
+            "otherAnswers": [
+              "hôtel de ville",
+              "municipalité",
+              "conseil municipal"
+            ]
+          }
+        },
+        {
+          "id": "construction-site",
+          "type": "name",
+          "en": {
+            "word": "construction site",
+            "otherAnswers": ["building site", "worksite", "development area"]
+          },
+          "fr": {
+            "word": "chantier",
+            "otherAnswers": [
+              "site de construction",
+              "zone de travaux",
+              "terrain en construction"
+            ]
+          }
+        },
+        {
+          "id": "corner",
+          "type": "name",
+          "en": {
+            "word": "corner",
+            "otherAnswers": ["angle", "bend", "turn"]
+          },
+          "fr": {
+            "word": "coin",
+            "otherAnswers": ["angle", "tournant", "croisement"]
+          }
+        },
+        {
+          "id": "crosswalk",
+          "type": "name",
+          "en": {
+            "word": "crosswalk",
+            "otherAnswers": [
+              "pedestrian crossing",
+              "zebra crossing",
+              "crossing"
+            ]
+          },
+          "fr": {
+            "word": "passage piétons",
+            "otherAnswers": [
+              "passage clouté",
+              "traversée piétonne",
+              "passage protégé"
+            ]
+          }
+        },
+        {
+          "id": "direct-adj",
+          "type": "adjective",
+          "en": {
+            "word": "direct",
+            "otherAnswers": ["straight", "immediate", "unambiguous"]
+          },
+          "fr": {
+            "word": "direct",
+            "otherAnswers": ["droit", "immédiat", "sans détour"]
+          }
+        },
+        {
+          "id": "direct-adv",
+          "type": "adverb",
+          "en": {
+            "word": "direct",
+            "otherAnswers": ["nonstop", "straight", "through"]
+          },
+          "fr": {
+            "word": "sans escale",
+            "otherAnswers": ["directement", "tout droit", "en ligne droite"]
+          }
+        },
+        {
+          "id": "direct-verb",
+          "type": "verb",
+          "en": {
+            "word": "direct",
+            "otherAnswers": ["guide", "lead", "manage"]
+          },
+          "fr": {
+            "word": "diriger",
+            "otherAnswers": ["guider", "orienter", "conduire"]
+          }
+        },
+        {
+          "id": "directions",
+          "type": "name",
+          "en": {
+            "word": "directions",
+            "otherAnswers": ["instructions", "guidance", "route"]
+          },
+          "fr": {
+            "word": "itinéraire",
+            "otherAnswers": ["indications", "trajet", "chemin"]
+          }
+        },
+        {
+          "id": "grant-noun",
+          "type": "name",
+          "en": {
+            "word": "grant",
+            "otherAnswers": ["subsidy", "funding", "endowment"]
+          },
+          "fr": {
+            "word": "subvention",
+            "otherAnswers": ["bourse", "allocation", "financement"]
+          }
+        },
+        {
+          "id": "grant-verb",
+          "type": "verb",
+          "en": {
+            "word": "grant",
+            "otherAnswers": ["allow", "award", "provide"]
+          },
+          "fr": {
+            "word": "accorder",
+            "otherAnswers": ["attribuer", "octroyer", "allouer"]
+          }
+        },
+        {
+          "id": "research-grant",
+          "type": "name",
+          "en": {
+            "word": "research grant",
+            "otherAnswers": [
+              "research funding",
+              "study award",
+              "academic subsidy"
+            ]
+          },
+          "fr": {
+            "word": "bourse de recherche",
+            "otherAnswers": [
+              "subvention de recherche",
+              "financement d'études",
+              "allocation de recherche"
+            ]
+          }
+        },
+        {
+          "id": "intersection",
+          "type": "name",
+          "en": {
+            "word": "intersection",
+            "otherAnswers": ["junction", "crossroads", "crossing"]
+          },
+          "fr": {
+            "word": "carrefour",
+            "otherAnswers": ["intersection", "croisement", "jonction"]
+          }
+        },
+        {
+          "id": "intersect",
+          "type": "verb",
+          "en": {
+            "word": "intersect",
+            "otherAnswers": ["cross", "meet", "converge"]
+          },
+          "fr": {
+            "word": "se croiser",
+            "otherAnswers": ["s'entrecouper", "se rejoindre", "se rencontrer"]
+          }
+        },
+        {
+          "id": "landscape-noun",
+          "type": "name",
+          "en": {
+            "word": "landscape",
+            "otherAnswers": ["scenery", "terrain", "vista"]
+          },
+          "fr": {
+            "word": "paysage",
+            "otherAnswers": ["panorama", "vue", "environnement"]
+          }
+        },
+        {
+          "id": "landscape-verb",
+          "type": "verb",
+          "en": {
+            "word": "landscape",
+            "otherAnswers": ["design", "garden", "cultivate"]
+          },
+          "fr": {
+            "word": "aménager",
+            "otherAnswers": ["jardiner", "embellir", "transformer"]
+          }
+        },
+        {
+          "id": "landscaping",
+          "type": "name",
+          "en": {
+            "word": "landscaping",
+            "otherAnswers": ["gardening", "terrain design", "land development"]
+          },
+          "fr": {
+            "word": "aménagement paysager",
+            "otherAnswers": [
+              "jardinage",
+              "conception paysagère",
+              "création d'espaces verts"
+            ]
+          }
+        },
+        {
+          "id": "landscaper",
+          "type": "name",
+          "en": {
+            "word": "landscaper",
+            "otherAnswers": [
+              "landscape gardener",
+              "garden designer",
+              "groundskeeper"
+            ]
+          },
+          "fr": {
+            "word": "paysagiste",
+            "otherAnswers": [
+              "jardinier",
+              "architecte paysagiste",
+              "concepteur d'espaces verts"
+            ]
+          }
+        },
+        {
+          "id": "library",
+          "type": "name",
+          "en": {
+            "word": "library",
+            "otherAnswers": ["bookstore", "archive", "collection"]
+          },
+          "fr": {
+            "word": "bibliothèque",
+            "otherAnswers": [
+              "médiathèque",
+              "centre documentaire",
+              "salle de lecture"
+            ]
+          }
+        },
+        {
+          "id": "librarian",
+          "type": "name",
+          "en": {
+            "word": "librarian",
+            "otherAnswers": ["archivist", "curator", "information specialist"]
+          },
+          "fr": {
+            "word": "bibliothécaire",
+            "otherAnswers": [
+              "documentaliste",
+              "archiviste",
+              "conservateur adjoint"
+            ]
+          }
+        },
+        {
+          "id": "chief-librarian",
+          "type": "name",
+          "en": {
+            "word": "chief librarian",
+            "otherAnswers": [
+              "head librarian",
+              "library director",
+              "lead archivist"
+            ]
+          },
+          "fr": {
+            "word": "conservateur",
+            "otherAnswers": [
+              "directeur de bibliothèque",
+              "responsable documentaire",
+              "bibliothécaire en chef"
+            ]
+          }
+        },
+        {
+          "id": "lost-and-found",
+          "type": "name",
+          "en": {
+            "word": "lost and found",
+            "otherAnswers": ["lost property", "found items", "missing items"]
+          },
+          "fr": {
+            "word": "objets trouvés",
+            "otherAnswers": [
+              "bureau des objets perdus",
+              "service des objets égarés",
+              "objets perdus et trouvés"
+            ]
+          }
+        },
+        {
+          "id": "mayor",
+          "type": "name",
+          "en": {
+            "word": "mayor",
+            "otherAnswers": ["city leader", "town official", "municipal head"]
+          },
+          "fr": {
+            "word": "maire",
+            "otherAnswers": ["édile", "premier magistrat", "bourgmestre"]
+          }
+        },
+        {
+          "id": "mayoral",
+          "type": "adjective",
+          "en": {
+            "word": "mayoral",
+            "otherAnswers": ["municipal", "civic", "urban"]
+          },
+          "fr": {
+            "word": "du maire",
+            "otherAnswers": ["municipal", "de la mairie", "édilitaire"]
+          }
+        },
+        {
+          "id": "deputy-mayor",
+          "type": "name",
+          "en": {
+            "word": "deputy mayor",
+            "otherAnswers": ["vice mayor", "assistant mayor", "associate mayor"]
+          },
+          "fr": {
+            "word": "maire adjoint",
+            "otherAnswers": [
+              "adjoint au maire",
+              "adjoint municipal",
+              "conseiller délégué"
+            ]
+          }
+        },
+        {
+          "id": "midway-adj",
+          "type": "adjective",
+          "en": {
+            "word": "midway",
+            "otherAnswers": ["middle", "central", "halfway"]
+          },
+          "fr": {
+            "word": "du milieu",
+            "otherAnswers": ["central", "intermédiaire", "médian"]
+          }
+        },
+        {
+          "id": "midway-adv",
+          "type": "adverb",
+          "en": {
+            "word": "midway",
+            "otherAnswers": ["halfway", "in the middle", "centrally"]
+          },
+          "fr": {
+            "word": "à mi-chemin",
+            "otherAnswers": [
+              "au milieu",
+              "à moitié parcours",
+              "entre deux points"
+            ]
+          }
+        },
+        {
+          "id": "misplace",
+          "type": "verb",
+          "en": {
+            "word": "misplace",
+            "otherAnswers": ["lose", "displace", "mislay"]
+          },
+          "fr": {
+            "word": "égarer",
+            "otherAnswers": ["perdre", "déplacer", "mal ranger"]
+          }
+        },
+        {
+          "id": "misplaced",
+          "type": "adjective",
+          "en": {
+            "word": "misplaced",
+            "otherAnswers": ["lost", "displaced", "mislaid"]
+          },
+          "fr": {
+            "word": "déplacé",
+            "otherAnswers": ["égaré", "mal rangé", "perdu"]
+          }
+        },
+        {
+          "id": "peak-noun",
+          "type": "name",
+          "en": {
+            "word": "peak",
+            "otherAnswers": ["summit", "apex", "zenith"]
+          },
+          "fr": {
+            "word": "sommet",
+            "otherAnswers": ["pic", "point culminant", "apogée"]
+          }
+        },
+        {
+          "id": "peak-verb",
+          "type": "verb",
+          "en": {
+            "word": "peak",
+            "otherAnswers": ["culminate", "climax", "crest"]
+          },
+          "fr": {
+            "word": "atteindre son apogée",
+            "otherAnswers": [
+              "culminer",
+              "atteindre son sommet",
+              "être à son maximum"
+            ]
+          }
+        },
+        {
+          "id": "at-its-peak",
+          "type": "expression",
+          "en": {
+            "word": "at its peak",
+            "otherAnswers": ["at maximum", "at its height", "at its zenith"]
+          },
+          "fr": {
+            "word": "à son apogée",
+            "otherAnswers": [
+              "à son maximum",
+              "à son sommet",
+              "à son plus haut niveau"
+            ]
+          }
+        },
+        {
+          "id": "peak-season",
+          "type": "name",
+          "en": {
+            "word": "peak season",
+            "otherAnswers": ["high season", "busy period", "prime time"]
+          },
+          "fr": {
+            "word": "haute saison",
+            "otherAnswers": [
+              "pleine saison",
+              "période d'affluence",
+              "saison touristique"
+            ]
+          }
+        },
+        {
+          "id": "peak-time",
+          "type": "name",
+          "en": {
+            "word": "peak time",
+            "otherAnswers": ["rush hour", "busy time", "prime time"]
+          },
+          "fr": {
+            "word": "heure de pointe",
+            "otherAnswers": [
+              "heure d'affluence",
+              "heure de grande circulation",
+              "période de pointe"
+            ]
+          }
+        },
+        {
+          "id": "peak-viewing-time",
+          "type": "name",
+          "en": {
+            "word": "peak viewing time",
+            "otherAnswers": ["prime time", "golden hours", "high audience time"]
+          },
+          "fr": {
+            "word": "heure de grande écoute",
+            "otherAnswers": [
+              "prime time",
+              "heures de forte audience",
+              "créneau d'audience maximale"
+            ]
+          }
+        },
+        {
+          "id": "press-conference",
+          "type": "name",
+          "en": {
+            "word": "press conference",
+            "otherAnswers": [
+              "media briefing",
+              "news conference",
+              "press briefing"
+            ]
+          },
+          "fr": {
+            "word": "conférence de presse",
+            "otherAnswers": [
+              "point presse",
+              "briefing médiatique",
+              "rencontre avec les médias"
+            ]
+          }
+        },
+        {
+          "id": "press-release",
+          "type": "name",
+          "en": {
+            "word": "press release",
+            "otherAnswers": [
+              "news release",
+              "media statement",
+              "official announcement"
+            ]
+          },
+          "fr": {
+            "word": "communiqué de presse",
+            "otherAnswers": [
+              "déclaration aux médias",
+              "annonce officielle",
+              "bulletin d'information"
+            ]
+          }
+        },
+        {
+          "id": "roadworks",
+          "type": "name",
+          "en": {
+            "word": "roadworks",
+            "otherAnswers": [
+              "road construction",
+              "highway maintenance",
+              "street repairs"
+            ]
+          },
+          "fr": {
+            "word": "travaux routiers",
+            "otherAnswers": [
+              "travaux de voirie",
+              "chantier routier",
+              "réfection de route"
+            ]
+          }
+        },
+        {
+          "id": "sign",
+          "type": "name",
+          "en": {
+            "word": "sign",
+            "otherAnswers": ["signpost", "marker", "indicator"]
+          },
+          "fr": {
+            "word": "panneau",
+            "otherAnswers": ["indication", "signal", "enseigne"]
+          }
+        },
+        {
+          "id": "signposted",
+          "type": "adjective",
+          "en": {
+            "word": "signposted",
+            "otherAnswers": ["marked", "indicated", "posted"]
+          },
+          "fr": {
+            "word": "balisé",
+            "otherAnswers": ["signalé", "indiqué", "marqué"]
+          }
+        },
+        {
+          "id": "signpost",
+          "type": "name",
+          "en": {
+            "word": "signpost",
+            "otherAnswers": ["signboard", "road sign", "direction post"]
+          },
+          "fr": {
+            "word": "panneau",
+            "otherAnswers": ["poteau indicateur", "enseigne", "balise"]
+          }
+        },
+        {
+          "id": "signal-noun",
+          "type": "name",
+          "en": {
+            "word": "signal",
+            "otherAnswers": ["sign", "indicator", "beacon"]
+          },
+          "fr": {
+            "word": "feu tricolore",
+            "otherAnswers": ["signal", "indication", "sémaphore"]
+          }
+        },
+        {
+          "id": "signal-verb",
+          "type": "verb",
+          "en": {
+            "word": "signal",
+            "otherAnswers": ["indicate", "show", "mark"]
+          },
+          "fr": {
+            "word": "indiquer",
+            "otherAnswers": ["signaler", "montrer", "marquer"]
+          }
+        },
+        {
+          "id": "state",
+          "type": "verb",
+          "en": {
+            "word": "state",
+            "otherAnswers": ["declare", "announce", "proclaim"]
+          },
+          "fr": {
+            "word": "déclarer",
+            "otherAnswers": ["affirmer", "énoncer", "formuler"]
+          }
+        },
+        {
+          "id": "as-stated",
+          "type": "expression",
+          "en": {
+            "word": "as stated",
+            "otherAnswers": ["as mentioned", "as indicated", "as specified"]
+          },
+          "fr": {
+            "word": "comme stipulé",
+            "otherAnswers": [
+              "conformément à",
+              "tel qu'indiqué",
+              "selon les termes"
+            ]
+          }
+        },
+        {
+          "id": "statement",
+          "type": "name",
+          "en": {
+            "word": "statement",
+            "otherAnswers": ["declaration", "announcement", "proclamation"]
+          },
+          "fr": {
+            "word": "déclaration",
+            "otherAnswers": ["énoncé", "communiqué", "affirmation"]
+          }
+        },
+        {
+          "id": "issue-statement",
+          "type": "verb",
+          "en": {
+            "word": "issue a statement",
+            "otherAnswers": [
+              "make a declaration",
+              "release an announcement",
+              "publish a release"
+            ]
+          },
+          "fr": {
+            "word": "faire une déclaration",
+            "otherAnswers": [
+              "publier un communiqué",
+              "émettre une annonce",
+              "diffuser un message"
+            ]
+          }
+        },
+        {
+          "id": "straight-on-prep",
+          "type": "preposition",
+          "en": {
+            "word": "straight on",
+            "otherAnswers": ["directly ahead", "right in front", "forward"]
+          },
+          "fr": {
+            "word": "droit devant",
+            "otherAnswers": ["en face", "devant soi", "en ligne droite"]
+          }
+        },
+        {
+          "id": "straight-on-adv",
+          "type": "adverb",
+          "en": {
+            "word": "straight on",
+            "otherAnswers": ["directly", "ahead", "forward"]
+          },
+          "fr": {
+            "word": "tout droit",
+            "otherAnswers": ["directement", "en avant", "sans tourner"]
+          }
+        },
+        {
+          "id": "sweep",
+          "type": "verb",
+          "en": {
+            "word": "sweep",
+            "otherAnswers": ["brush", "clean", "clear"]
+          },
+          "fr": {
+            "word": "balayer",
+            "otherAnswers": ["nettoyer", "brosser", "passer"]
+          }
+        },
+        {
+          "id": "sweeper",
+          "type": "name",
+          "en": {
+            "word": "sweeper",
+            "otherAnswers": ["street cleaner", "janitor", "cleaning machine"]
+          },
+          "fr": {
+            "word": "balayeur",
+            "otherAnswers": [
+              "balai mécanique",
+              "nettoyeur",
+              "agent de propreté"
+            ]
+          }
+        },
+        {
+          "id": "traffic",
+          "type": "name",
+          "en": {
+            "word": "traffic",
+            "otherAnswers": ["vehicles", "transport", "congestion"]
+          },
+          "fr": {
+            "word": "circulation",
+            "otherAnswers": ["trafic", "flux", "mouvement"]
+          }
+        },
+        {
+          "id": "heavy-traffic",
+          "type": "name",
+          "en": {
+            "word": "heavy traffic",
+            "otherAnswers": ["congestion", "gridlock", "busy roads"]
+          },
+          "fr": {
+            "word": "circulation dense",
+            "otherAnswers": ["fort trafic", "embouteillage", "encombrement"]
+          }
+        },
+        {
+          "id": "traffic-jam",
+          "type": "name",
+          "en": {
+            "word": "traffic jam",
+            "otherAnswers": ["congestion", "gridlock", "bottleneck"]
+          },
+          "fr": {
+            "word": "embouteillage",
+            "otherAnswers": ["bouchon", "encombrement", "ralentissement"]
+          }
+        },
+        {
+          "id": "traffic-lights",
+          "type": "name",
+          "en": {
+            "word": "traffic lights",
+            "otherAnswers": ["stop lights", "signals", "traffic signals"]
+          },
+          "fr": {
+            "word": "feux tricolores",
+            "otherAnswers": [
+              "feux de circulation",
+              "signalisation lumineuse",
+              "feux rouges"
+            ]
+          }
+        },
+        {
+          "id": "within-walking-distance",
+          "type": "expression",
+          "en": {
+            "word": "within walking distance",
+            "otherAnswers": ["nearby", "close by", "a short walk away"]
+          },
+          "fr": {
+            "word": "à deux pas",
+            "otherAnswers": ["à proximité", "tout près", "à distance de marche"]
+          }
+        }
+      ]
+    }
+  ]
+}

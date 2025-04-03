@@ -11,17 +11,17 @@
           "en": {
             "word": "account manager",
             "otherAnswers": [
-              "sales manager",
-              "client advisor",
-              "marketing director"
+              "event coordinator",
+              "project leader",
+              "district manager"
             ]
           },
           "fr": {
             "word": "chargé(e) de clientèle",
             "otherAnswers": [
-              "responsable commercial",
-              "gestionnaire de comptes",
-              "conseiller clientèle"
+              "directeur de production",
+              "chargé de mission",
+              "analyste marketing"
             ]
           }
         },
@@ -30,11 +30,11 @@
           "type": "adjective",
           "en": {
             "word": "accountable",
-            "otherAnswers": ["responsible", "liable", "answerable"]
+            "otherAnswers": ["trustworthy", "reliable", "dependable"]
           },
           "fr": {
             "word": "responsable",
-            "otherAnswers": ["imputable", "redevable", "comptable"]
+            "otherAnswers": ["fiable", "crédible", "engagé"]
           }
         },
         {
@@ -42,11 +42,11 @@
           "type": "verb",
           "en": {
             "word": "account for",
-            "otherAnswers": ["explain", "justify", "constitute"]
+            "otherAnswers": ["result in", "add up to", "stand for"]
           },
           "fr": {
             "word": "constituer, representer",
-            "otherAnswers": ["expliquer", "justifier", "équivaloir"]
+            "otherAnswers": ["composer", "détailler", "totaliser"]
           }
         },
         {
@@ -54,11 +54,11 @@
           "type": "name",
           "en": {
             "word": "account",
-            "otherAnswers": ["report", "statement", "description"]
+            "otherAnswers": ["narrative", "version", "record"]
           },
           "fr": {
             "word": "récit, témoignage",
-            "otherAnswers": ["compte rendu", "rapport", "déposition"]
+            "otherAnswers": ["histoire", "version", "déclaration"]
           }
         },
         {
@@ -66,14 +66,14 @@
           "type": "name",
           "en": {
             "word": "board member",
-            "otherAnswers": ["trustee", "director", "executive"]
+            "otherAnswers": ["stakeholder", "investor", "partner"]
           },
           "fr": {
             "word": "membre du conseil d'administration",
             "otherAnswers": [
-              "administrateur",
-              "dirigeant",
-              "conseiller exécutif"
+              "actionnaire",
+              "partenaire financier",
+              "membre du comité"
             ]
           }
         },
@@ -83,17 +83,17 @@
           "en": {
             "word": "board of directors",
             "otherAnswers": [
-              "executive committee",
-              "management team",
-              "advisory board"
+              "steering committee",
+              "oversight panel",
+              "governance body"
             ]
           },
           "fr": {
             "word": "conseil d'administration",
             "otherAnswers": [
-              "comité exécutif",
-              "comité de direction",
-              "conseil de surveillance"
+              "assemblée générale",
+              "bureau directeur",
+              "conseil stratégique"
             ]
           }
         },
@@ -103,17 +103,17 @@
           "en": {
             "word": "boardroom",
             "otherAnswers": [
-              "conference room",
-              "meeting hall",
-              "executive suite"
+              "headquarters",
+              "strategy room",
+              "directors' office"
             ]
           },
           "fr": {
             "word": "salle du conseil d'administration",
             "otherAnswers": [
-              "salle de conférence",
-              "salle de réunion",
-              "bureau de direction"
+              "salle des décisions",
+              "bureau stratégique",
+              "salle de direction"
             ]
           }
         },
@@ -123,17 +123,17 @@
           "en": {
             "word": "CEO (Chief executive officer)",
             "otherAnswers": [
-              "COO (Chief Operating Officer)",
-              "CFO (Chief Financial Officer)",
-              "CTO (Chief Technology Officer)"
+              "President",
+              "Managing Director",
+              "Executive Chairman"
             ]
           },
           "fr": {
             "word": "PDG (président-directeur général)",
             "otherAnswers": [
-              "DG (directeur général)",
-              "directeur des opérations",
-              "directeur général adjoint"
+              "président du conseil",
+              "directeur exécutif",
+              "administrateur principal"
             ]
           }
         },
@@ -143,17 +143,17 @@
           "en": {
             "word": "CFO (Chief financial officer)",
             "otherAnswers": [
-              "CEO (Chief Executive Officer)",
-              "CTO (Chief Technology Officer)",
-              "COO (Chief Operating Officer)"
+              "Finance Director",
+              "Treasurer",
+              "Budget Controller"
             ]
           },
           "fr": {
             "word": "directeur(-trice) financier(-ière)",
             "otherAnswers": [
-              "contrôleur financier",
-              "trésorier",
-              "responsable comptable"
+              "directeur du budget",
+              "chef de la comptabilité",
+              "gestionnaire des finances"
             ]
           }
         },
@@ -162,14 +162,14 @@
           "type": "name",
           "en": {
             "word": "clerk",
-            "otherAnswers": ["assistant", "secretary", "receptionist"]
+            "otherAnswers": ["coordinator", "administrator", "officer"]
           },
           "fr": {
             "word": "employé(e) de bureau",
             "otherAnswers": [
-              "secrétaire",
-              "assistant administratif",
-              "réceptionniste"
+              "agent administratif",
+              "préposé aux écritures",
+              "commis"
             ]
           }
         },
@@ -178,11 +178,11 @@
           "type": "adjective",
           "en": {
             "word": "clerical",
-            "otherAnswers": ["administrative", "office", "secretarial"]
+            "otherAnswers": ["procedural", "operational", "corporate"]
           },
           "fr": {
             "word": "de bureau, administratif",
-            "otherAnswers": ["secrétarial", "bureaucratique", "documentaire"]
+            "otherAnswers": ["organisationnel", "fonctionnel", "institutionnel"]
           }
         },
         {
@@ -190,15 +190,11 @@
           "type": "name",
           "en": {
             "word": "contractor",
-            "otherAnswers": ["freelancer", "consultant", "subcontractor"]
+            "otherAnswers": ["vendor", "supplier", "agent"]
           },
           "fr": {
             "word": "prestataire, contractuel(le), entrepreneur (en bâtiment)",
-            "otherAnswers": [
-              "consultant",
-              "travailleur indépendant",
-              "sous-traitant"
-            ]
+            "otherAnswers": ["fournisseur", "intervenant externe", "mandataire"]
           }
         },
         {
@@ -206,11 +202,11 @@
           "type": "adjective",
           "en": {
             "word": "contractual",
-            "otherAnswers": ["binding", "agreed", "legal"]
+            "otherAnswers": ["formal", "official", "documented"]
           },
           "fr": {
             "word": "contractuel",
-            "otherAnswers": ["conventionnel", "juridique", "légal"]
+            "otherAnswers": ["officiel", "formel", "stipulé"]
           }
         },
         {
@@ -218,11 +214,11 @@
           "type": "name",
           "en": {
             "word": "coworker",
-            "otherAnswers": ["colleague", "associate", "teammate"]
+            "otherAnswers": ["peer", "staff member", "team member"]
           },
           "fr": {
             "word": "collègue",
-            "otherAnswers": ["collaborateur", "confrère", "partenaire"]
+            "otherAnswers": ["camarade de travail", "compagnon", "associé"]
           }
         },
         {
@@ -230,14 +226,14 @@
           "type": "name",
           "en": {
             "word": "engineer",
-            "otherAnswers": ["technician", "specialist", "developer"]
+            "otherAnswers": ["architect", "scientist", "researcher"]
           },
           "fr": {
             "word": "ingénieur(e)",
             "otherAnswers": [
-              "technicien",
-              "spécialiste technique",
-              "concepteur"
+              "architecte",
+              "expert technique",
+              "chercheur scientifique"
             ]
           }
         },
@@ -246,11 +242,11 @@
           "type": "name",
           "en": {
             "word": "engineering",
-            "otherAnswers": ["technology", "mechanics", "development"]
+            "otherAnswers": ["construction", "manufacturing", "research"]
           },
           "fr": {
             "word": "ingénierie, technique",
-            "otherAnswers": ["technologie", "mécanique", "conception"]
+            "otherAnswers": ["construction", "industrie", "recherche appliquée"]
           }
         },
         {
@@ -258,11 +254,11 @@
           "type": "verb",
           "en": {
             "word": "engineer",
-            "otherAnswers": ["design", "develop", "create"]
+            "otherAnswers": ["build", "craft", "manufacture"]
           },
           "fr": {
             "word": "concevoir, construire",
-            "otherAnswers": ["développer", "élaborer", "planifier"]
+            "otherAnswers": ["fabriquer", "produire", "réaliser"]
           }
         },
         {
@@ -270,11 +266,11 @@
           "type": "name",
           "en": {
             "word": "executive",
-            "otherAnswers": ["manager", "director", "officer"]
+            "otherAnswers": ["official", "administrator", "authority"]
           },
           "fr": {
             "word": "cadre",
-            "otherAnswers": ["dirigeant", "responsable", "gestionnaire"]
+            "otherAnswers": ["administrateur", "agent de direction", "officiel"]
           }
         },
         {
@@ -282,11 +278,11 @@
           "type": "adjective",
           "en": {
             "word": "executive",
-            "otherAnswers": ["managerial", "administrative", "directorial"]
+            "otherAnswers": ["corporate", "authoritative", "commanding"]
           },
           "fr": {
             "word": "exécutif",
-            "otherAnswers": ["dirigeant", "décisionnaire", "administratif"]
+            "otherAnswers": ["directorial", "officiel", "autoritaire"]
           }
         },
         {
@@ -294,14 +290,14 @@
           "type": "name",
           "en": {
             "word": "executive (en avion)",
-            "otherAnswers": ["business class", "first class", "premium"]
+            "otherAnswers": ["comfort class", "priority seating", "elite cabin"]
           },
           "fr": {
             "word": "classe affaires",
             "otherAnswers": [
-              "première classe",
-              "classe premium",
-              "classe supérieure"
+              "classe privilège",
+              "section élite",
+              "espace premium"
             ]
           }
         },
@@ -310,11 +306,11 @@
           "type": "verb",
           "en": {
             "word": "execute",
-            "otherAnswers": ["implement", "perform", "accomplish"]
+            "otherAnswers": ["complete", "fulfill", "conduct"]
           },
           "fr": {
             "word": "mettre en œuvre",
-            "otherAnswers": ["exécuter", "réaliser", "appliquer"]
+            "otherAnswers": ["accomplir", "effectuer", "mener à bien"]
           }
         },
         {
@@ -323,17 +319,17 @@
           "en": {
             "word": "floor manager",
             "otherAnswers": [
-              "department supervisor",
-              "section chief",
-              "area manager"
+              "shop supervisor",
+              "retail coordinator",
+              "sales leader"
             ]
           },
           "fr": {
             "word": "chef de rayon",
             "otherAnswers": [
-              "responsable de secteur",
-              "superviseur de zone",
-              "chef de département"
+              "responsable de vente",
+              "coordinateur commercial",
+              "manager de surface"
             ]
           }
         },
@@ -342,14 +338,18 @@
           "type": "name",
           "en": {
             "word": "graphic designer",
-            "otherAnswers": ["art director", "visual artist", "illustrator"]
+            "otherAnswers": [
+              "web designer",
+              "digital artist",
+              "layout specialist"
+            ]
           },
           "fr": {
             "word": "graphiste",
             "otherAnswers": [
-              "designer",
-              "infographiste",
-              "directeur artistique"
+              "créateur visuel",
+              "concepteur artistique",
+              "spécialiste PAO"
             ]
           }
         },
@@ -358,11 +358,15 @@
           "type": "name",
           "en": {
             "word": "graphics",
-            "otherAnswers": ["visuals", "illustrations", "artwork"]
+            "otherAnswers": ["imagery", "designs", "visual elements"]
           },
           "fr": {
             "word": "graphisme, éléments visuels",
-            "otherAnswers": ["illustrations", "images", "design visuel"]
+            "otherAnswers": [
+              "créations artistiques",
+              "visuels",
+              "éléments de design"
+            ]
           }
         },
         {
@@ -370,11 +374,11 @@
           "type": "name",
           "en": {
             "word": "graph",
-            "otherAnswers": ["chart", "diagram", "plot"]
+            "otherAnswers": ["table", "grid", "figure"]
           },
           "fr": {
             "word": "graphique",
-            "otherAnswers": ["diagramme", "schéma", "courbe"]
+            "otherAnswers": ["tableau", "représentation", "figure"]
           }
         },
         {
@@ -382,18 +386,14 @@
           "type": "name",
           "en": {
             "word": "head of department",
-            "otherAnswers": [
-              "department manager",
-              "division leader",
-              "sector chief"
-            ]
+            "otherAnswers": ["unit leader", "team director", "branch manager"]
           },
           "fr": {
             "word": "chef de service",
             "otherAnswers": [
-              "responsable de département",
-              "directeur de division",
-              "chef de secteur"
+              "directeur d'unité",
+              "responsable d'équipe",
+              "manager de branche"
             ]
           }
         },
@@ -402,11 +402,11 @@
           "type": "adjective",
           "en": {
             "word": "departmental",
-            "otherAnswers": ["divisional", "sectional", "office-based"]
+            "otherAnswers": ["organizational", "functional", "structural"]
           },
           "fr": {
             "word": "du service, du département, du rayon",
-            "otherAnswers": ["sectoriel", "divisionnel", "administratif"]
+            "otherAnswers": ["organisationnel", "structurel", "par section"]
           }
         },
         {
@@ -415,17 +415,17 @@
           "en": {
             "word": "Human Resources director",
             "otherAnswers": [
-              "Personnel director",
-              "Talent manager",
-              "Staff administrator"
+              "Recruitment Manager",
+              "Training Coordinator",
+              "Employee Relations Officer"
             ]
           },
           "fr": {
             "word": "DRH (directeur(-trice) des ressources humaines)",
             "otherAnswers": [
-              "directeur du personnel",
-              "responsable RH",
-              "gestionnaire des talents"
+              "responsable du recrutement",
+              "directeur de formation",
+              "responsable des relations sociales"
             ]
           }
         },
@@ -434,11 +434,11 @@
           "type": "adjective",
           "en": {
             "word": "resourceful",
-            "otherAnswers": ["innovative", "creative", "inventive"]
+            "otherAnswers": ["adaptable", "versatile", "practical"]
           },
           "fr": {
             "word": "ingénieux, plein de ressources",
-            "otherAnswers": ["créatif", "débrouillard", "inventif"]
+            "otherAnswers": ["adaptable", "versatile", "astucieux"]
           }
         },
         {
@@ -446,11 +446,15 @@
           "type": "name",
           "en": {
             "word": "intern",
-            "otherAnswers": ["trainee", "apprentice", "student worker"]
+            "otherAnswers": ["volunteer", "assistant", "novice"]
           },
           "fr": {
             "word": "stagiaire",
-            "otherAnswers": ["apprenti", "étudiant en formation", "alternant"]
+            "otherAnswers": [
+              "bénévole",
+              "assistant débutant",
+              "aide temporaire"
+            ]
           }
         },
         {
@@ -458,14 +462,14 @@
           "type": "name",
           "en": {
             "word": "internship",
-            "otherAnswers": ["traineeship", "apprenticeship", "work placement"]
+            "otherAnswers": ["fellowship", "training program", "practicum"]
           },
           "fr": {
             "word": "stage en entreprise",
             "otherAnswers": [
-              "période d'apprentissage",
-              "formation pratique",
-              "immersion professionnelle"
+              "programme d'intégration",
+              "initiation professionnelle",
+              "expérience pratique"
             ]
           }
         },
@@ -475,17 +479,17 @@
           "en": {
             "word": "IT technician",
             "otherAnswers": [
-              "system administrator",
-              "help desk specialist",
-              "computer support specialist"
+              "network specialist",
+              "software consultant",
+              "digital support agent"
             ]
           },
           "fr": {
             "word": "informaticien(ne)",
             "otherAnswers": [
-              "technicien informatique",
-              "administrateur système",
-              "support technique"
+              "spécialiste réseau",
+              "expert logiciel",
+              "consultant digital"
             ]
           }
         },
@@ -495,17 +499,17 @@
           "en": {
             "word": "IT = Information Technology",
             "otherAnswers": [
-              "IS = Information Systems",
-              "CS = Computer Science",
-              "ICT = Information and Communication Technology"
+              "Digital Infrastructure",
+              "Computing Resources",
+              "Technical Systems"
             ]
           },
           "fr": {
             "word": "informatique",
             "otherAnswers": [
-              "technologies de l'information",
-              "systèmes d'information",
-              "numérique"
+              "infrastructure digitale",
+              "ressources techniques",
+              "systèmes numériques"
             ]
           }
         },
@@ -514,11 +518,15 @@
           "type": "name",
           "en": {
             "word": "job seeker",
-            "otherAnswers": ["applicant", "candidate", "prospect"]
+            "otherAnswers": ["recruit", "job hunter", "employment searcher"]
           },
           "fr": {
             "word": "demandeur(-euse) d'emploi",
-            "otherAnswers": ["candidat", "chercheur d'emploi", "postulant"]
+            "otherAnswers": [
+              "chercheur de travail",
+              "candidat potentiel",
+              "personne en recherche"
+            ]
           }
         },
         {
@@ -526,11 +534,11 @@
           "type": "verb",
           "en": {
             "word": "seek",
-            "otherAnswers": ["search", "look for", "pursue"]
+            "otherAnswers": ["hunt", "explore", "scout"]
           },
           "fr": {
             "word": "chercher",
-            "otherAnswers": ["rechercher", "poursuivre", "quêter"]
+            "otherAnswers": ["explorer", "traquer", "repérer"]
           }
         },
         {
@@ -538,11 +546,11 @@
           "type": "adjective",
           "en": {
             "word": "sought-after",
-            "otherAnswers": ["in-demand", "desirable", "popular"]
+            "otherAnswers": ["coveted", "valued", "prized"]
           },
           "fr": {
             "word": "recherché, convoité",
-            "otherAnswers": ["demandé", "prisé", "en vogue"]
+            "otherAnswers": ["précieux", "estimé", "très demandé"]
           }
         },
         {
@@ -550,11 +558,11 @@
           "type": "name",
           "en": {
             "word": "management",
-            "otherAnswers": ["administration", "leadership", "supervision"]
+            "otherAnswers": ["governance", "coordination", "oversight"]
           },
           "fr": {
             "word": "la direction, gestion",
-            "otherAnswers": ["administration", "encadrement", "pilotage"]
+            "otherAnswers": ["gouvernance", "coordination", "supervision"]
           }
         },
         {
@@ -562,11 +570,11 @@
           "type": "adjective",
           "en": {
             "word": "managerial",
-            "otherAnswers": ["administrative", "executive", "supervisory"]
+            "otherAnswers": ["organizational", "strategic", "operational"]
           },
           "fr": {
             "word": "de direction",
-            "otherAnswers": ["managérial", "d'encadrement", "de gestion"]
+            "otherAnswers": ["stratégique", "organisationnel", "opérationnel"]
           }
         },
         {
@@ -574,11 +582,11 @@
           "type": "name",
           "en": {
             "word": "manager",
-            "otherAnswers": ["director", "executive", "intern"]
+            "otherAnswers": ["supervisor", "coordinator", "administrator"]
           },
           "fr": {
             "word": "directeur(-trice), superviseur",
-            "otherAnswers": ["manager", "chef", "responsable"]
+            "otherAnswers": ["coordinateur", "administrateur", "gestionnaire"]
           }
         },
         {
@@ -586,11 +594,11 @@
           "type": "verb",
           "en": {
             "word": "manage",
-            "otherAnswers": ["supervise", "direct", "oversee"]
+            "otherAnswers": ["control", "coordinate", "handle"]
           },
           "fr": {
             "word": "gérer, diriger",
-            "otherAnswers": ["superviser", "administrer", "piloter"]
+            "otherAnswers": ["organiser", "orchestrer", "conduire"]
           }
         },
         {
@@ -599,17 +607,17 @@
           "en": {
             "word": "office manager",
             "otherAnswers": [
-              "administrative coordinator",
-              "facilities manager",
-              "operations supervisor"
+              "workplace coordinator",
+              "business administrator",
+              "facility supervisor"
             ]
           },
           "fr": {
             "word": "responsable administratif(-ive)",
             "otherAnswers": [
-              "chef de bureau",
-              "coordinateur administratif",
-              "gestionnaire de bureau"
+              "coordinateur de bureau",
+              "intendant",
+              "régisseur de locaux"
             ]
           }
         },
@@ -618,18 +626,14 @@
           "type": "name",
           "en": {
             "word": "PA (personal assistant)",
-            "otherAnswers": [
-              "EA (executive assistant)",
-              "secretary",
-              "administrative assistant"
-            ]
+            "otherAnswers": ["aide", "office coordinator", "support specialist"]
           },
           "fr": {
             "word": "assistant(e) de direction",
             "otherAnswers": [
-              "secrétaire particulier",
-              "assistant personnel",
-              "secrétaire de direction"
+              "aide personnel",
+              "coordinateur de bureau",
+              "adjoint administratif"
             ]
           }
         },
@@ -638,18 +642,14 @@
           "type": "name",
           "en": {
             "word": "sales rep, salesperson",
-            "otherAnswers": [
-              "account executive",
-              "sales consultant",
-              "business developer"
-            ]
+            "otherAnswers": ["merchandiser", "promoter", "dealer"]
           },
           "fr": {
             "word": "commercial(e), représentant(e)",
             "otherAnswers": [
-              "vendeur",
-              "conseiller commercial",
-              "attaché commercial"
+              "démarcheur",
+              "promoteur des ventes",
+              "négociateur"
             ]
           }
         },
@@ -659,14 +659,18 @@
           "en": {
             "word": "security guard",
             "otherAnswers": [
-              "security officer",
-              "watchman",
-              "security personnel"
+              "protection agent",
+              "safety officer",
+              "patrol officer"
             ]
           },
           "fr": {
             "word": "agent(e) de sécurité",
-            "otherAnswers": ["gardien", "vigile", "surveillant"]
+            "otherAnswers": [
+              "gardien de sûreté",
+              "agent de protection",
+              "officier de sécurité"
+            ]
           }
         },
         {
@@ -674,11 +678,11 @@
           "type": "adjective",
           "en": {
             "word": "secure",
-            "otherAnswers": ["safe", "protected", "stable"]
+            "otherAnswers": ["sturdy", "anchored", "fastened"]
           },
           "fr": {
             "word": "bien fixé",
-            "otherAnswers": ["sécurisé", "stable", "solide"]
+            "otherAnswers": ["attaché", "ancré", "immobilisé"]
           }
         },
         {
@@ -686,11 +690,11 @@
           "type": "verb",
           "en": {
             "word": "secure",
-            "otherAnswers": ["fasten", "protect", "safeguard"]
+            "otherAnswers": ["acquire", "procure", "obtain"]
           },
           "fr": {
             "word": "attacher, obtenir",
-            "otherAnswers": ["sécuriser", "fixer", "garantir"]
+            "otherAnswers": ["acquérir", "procurer", "assurer"]
           }
         },
         {
@@ -699,17 +703,17 @@
           "en": {
             "word": "site manager",
             "otherAnswers": [
-              "project manager",
-              "construction supervisor",
-              "field coordinator"
+              "location supervisor",
+              "facility director",
+              "premises coordinator"
             ]
           },
           "fr": {
             "word": "chef de chantier, responsable de site",
             "otherAnswers": [
-              "conducteur de travaux",
-              "directeur de site",
-              "gestionnaire de projet"
+              "superviseur de terrain",
+              "directeur de lieu",
+              "coordinateur de locaux"
             ]
           }
         },
@@ -718,18 +722,14 @@
           "type": "name",
           "en": {
             "word": "temp",
-            "otherAnswers": [
-              "temporary worker",
-              "seasonal employee",
-              "substitute"
-            ]
+            "otherAnswers": ["contractor", "interim worker", "relief staff"]
           },
           "fr": {
             "word": "intérimaire",
             "otherAnswers": [
-              "travailleur temporaire",
-              "remplaçant",
-              "saisonnier"
+              "employé temporaire",
+              "personnel de remplacement",
+              "travailleur occasionnel"
             ]
           }
         }

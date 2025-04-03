@@ -1,0 +1,515 @@
+{
+  "categories": [
+    {
+      "id": "at-other-health-professional",
+      "nameEn": "Health Professional Actions",
+      "nameFr": "Actions du Professionnel de Santé",
+      "words": [
+        {
+          "id": "balance",
+          "type": "verb",
+          "en": {
+            "word": "balance",
+            "otherAnswers": ["coordinate", "stabilize", "weigh"]
+          },
+          "fr": {
+            "word": "être en équilibre",
+            "otherAnswers": ["coordonner", "stabiliser", "peser"]
+          }
+        },
+        {
+          "id": "balanced",
+          "type": "adjective",
+          "en": {
+            "word": "balanced",
+            "otherAnswers": ["steady", "harmonious", "calibrated"]
+          },
+          "fr": {
+            "word": "équilibré",
+            "otherAnswers": ["stable", "harmonieux", "calibré"]
+          }
+        },
+        {
+          "id": "bend",
+          "type": "verb",
+          "en": {
+            "word": "bend",
+            "otherAnswers": ["curve", "flex", "arch"]
+          },
+          "fr": {
+            "word": "plier",
+            "otherAnswers": ["courber", "fléchir", "cambrer"]
+          }
+        },
+        {
+          "id": "bending",
+          "type": "adjective",
+          "en": {
+            "word": "bending",
+            "otherAnswers": ["curved", "flexible", "arched"]
+          },
+          "fr": {
+            "word": "sinueux",
+            "otherAnswers": ["courbé", "souple", "arqué"]
+          }
+        },
+        {
+          "id": "bend-down",
+          "type": "verb",
+          "en": {
+            "word": "bend down",
+            "otherAnswers": ["kneel", "stoop", "bow"]
+          },
+          "fr": {
+            "word": "se pencher",
+            "otherAnswers": ["s'agenouiller", "se courber", "s'incliner"]
+          }
+        },
+        {
+          "id": "unbend",
+          "type": "verb",
+          "en": {
+            "word": "unbend",
+            "otherAnswers": ["extend", "flatten", "stretch"]
+          },
+          "fr": {
+            "word": "redresser",
+            "otherAnswers": ["étendre", "aplatir", "étirer"]
+          }
+        },
+        {
+          "id": "clap",
+          "type": "verb",
+          "en": {
+            "word": "clap",
+            "otherAnswers": ["slam", "strike", "thump"]
+          },
+          "fr": {
+            "word": "applaudir",
+            "otherAnswers": ["claquer", "frapper", "cogner"]
+          }
+        },
+        {
+          "id": "climb",
+          "type": "verb",
+          "en": {
+            "word": "climb",
+            "otherAnswers": ["ascend", "scale", "hike"]
+          },
+          "fr": {
+            "word": "grimper",
+            "otherAnswers": ["ascendre", "escalader", "randonner"]
+          }
+        },
+        {
+          "id": "climber",
+          "type": "noun",
+          "en": {
+            "word": "climber",
+            "otherAnswers": ["mountaineer", "athlete", "explorer"]
+          },
+          "fr": {
+            "word": "alpiniste",
+            "otherAnswers": ["montagnard", "athlète", "explorateur"]
+          }
+        },
+        {
+          "id": "crouch",
+          "type": "verb",
+          "en": {
+            "word": "crouch",
+            "otherAnswers": ["squat", "huddle", "cower"]
+          },
+          "fr": {
+            "word": "s'accroupir",
+            "otherAnswers": ["s'accroupir", "se blottir", "se tapir"]
+          }
+        },
+        {
+          "id": "fold",
+          "type": "verb",
+          "en": {
+            "word": "fold",
+            "otherAnswers": ["crease", "overlap", "tuck"]
+          },
+          "fr": {
+            "word": "plier",
+            "otherAnswers": ["froisser", "superposer", "rentrer"]
+          }
+        },
+        {
+          "id": "folding",
+          "type": "adjective",
+          "en": {
+            "word": "folding",
+            "otherAnswers": ["portable", "foldable", "compact"]
+          },
+          "fr": {
+            "word": "pliant",
+            "otherAnswers": ["portatif", "pliable", "compact"]
+          }
+        },
+        {
+          "id": "unfold",
+          "type": "verb",
+          "en": {
+            "word": "unfold",
+            "otherAnswers": ["spread", "extend", "reveal"]
+          },
+          "fr": {
+            "word": "déplier",
+            "otherAnswers": ["étaler", "étendre", "révéler"]
+          }
+        },
+        {
+          "id": "get-into",
+          "type": "verb",
+          "en": {
+            "word": "get into",
+            "otherAnswers": ["enter", "board", "join"]
+          },
+          "fr": {
+            "word": "monter",
+            "otherAnswers": ["entrer", "embarquer", "rejoindre"]
+          }
+        },
+        {
+          "id": "get-on",
+          "type": "verb",
+          "en": {
+            "word": "get on",
+            "otherAnswers": ["board", "climb", "ascend"]
+          },
+          "fr": {
+            "word": "monter",
+            "otherAnswers": ["embarquer", "escalader", "ascendre"]
+          }
+        },
+        {
+          "id": "grab",
+          "type": "verb",
+          "en": {
+            "word": "grab",
+            "otherAnswers": ["seize", "grasp", "capture"]
+          },
+          "fr": {
+            "word": "attraper",
+            "otherAnswers": ["saisir", "agripper", "capturer"]
+          }
+        },
+        {
+          "id": "hit",
+          "type": "verb",
+          "en": {
+            "word": "hit",
+            "otherAnswers": ["strike", "impact", "collide"]
+          },
+          "fr": {
+            "word": "frapper",
+            "otherAnswers": ["heurter", "percuter", "cogner"]
+          }
+        },
+        {
+          "id": "kick",
+          "type": "verb",
+          "en": {
+            "word": "kick",
+            "otherAnswers": ["boot", "punt", "thrust"]
+          },
+          "fr": {
+            "word": "donner des coups de pieds",
+            "otherAnswers": ["botter", "shooter", "propulser"]
+          }
+        },
+        {
+          "id": "kickoff",
+          "type": "noun",
+          "en": {
+            "word": "kickoff",
+            "otherAnswers": ["launch", "start", "beginning"]
+          },
+          "fr": {
+            "word": "coup d'envoi",
+            "otherAnswers": ["lancement", "début", "démarrage"]
+          }
+        },
+        {
+          "id": "kneel",
+          "type": "verb",
+          "en": {
+            "word": "kneel",
+            "otherAnswers": ["genuflect", "bow", "prostrate"]
+          },
+          "fr": {
+            "word": "être à genoux",
+            "otherAnswers": ["s'agenouiller", "s'incliner", "se prosterner"]
+          }
+        },
+        {
+          "id": "knee",
+          "type": "noun",
+          "en": {
+            "word": "knee",
+            "otherAnswers": ["joint", "hinge", "articulation"]
+          },
+          "fr": {
+            "word": "genou",
+            "otherAnswers": ["articulation", "jointure", "rotule"]
+          }
+        },
+        {
+          "id": "lean",
+          "type": "verb",
+          "en": {
+            "word": "lean",
+            "otherAnswers": ["tilt", "incline", "slope"]
+          },
+          "fr": {
+            "word": "se pencher",
+            "otherAnswers": ["s'incliner", "pencher", "basculer"]
+          }
+        },
+        {
+          "id": "leaning",
+          "type": "adjective",
+          "en": {
+            "word": "leaning",
+            "otherAnswers": ["titled", "angled", "askew"]
+          },
+          "fr": {
+            "word": "penché",
+            "otherAnswers": ["incliné", "angulaire", "de travers"]
+          }
+        },
+        {
+          "id": "lie",
+          "type": "verb",
+          "en": {
+            "word": "lie",
+            "otherAnswers": ["rest", "repose", "recline"]
+          },
+          "fr": {
+            "word": "être allongé",
+            "otherAnswers": ["reposer", "s'étendre", "se coucher"]
+          }
+        },
+        {
+          "id": "lock",
+          "type": "verb",
+          "en": {
+            "word": "lock",
+            "otherAnswers": ["secure", "bolt", "fasten"]
+          },
+          "fr": {
+            "word": "fermer à clé",
+            "otherAnswers": ["sécuriser", "verrouiller", "bloquer"]
+          }
+        },
+        {
+          "id": "unlock",
+          "type": "verb",
+          "en": {
+            "word": "unlock",
+            "otherAnswers": ["open", "free", "release"]
+          },
+          "fr": {
+            "word": "déverrouiller",
+            "otherAnswers": ["ouvrir", "libérer", "débloquer"]
+          }
+        },
+        {
+          "id": "point",
+          "type": "verb",
+          "en": {
+            "word": "point",
+            "otherAnswers": ["indicate", "direct", "aim"]
+          },
+          "fr": {
+            "word": "pointer",
+            "otherAnswers": ["indiquer", "diriger", "viser"]
+          }
+        },
+        {
+          "id": "pointed",
+          "type": "adjective",
+          "en": {
+            "word": "pointed",
+            "otherAnswers": ["direct", "specific", "exact"]
+          },
+          "fr": {
+            "word": "précis",
+            "otherAnswers": ["direct", "spécifique", "exact"]
+          }
+        },
+        {
+          "id": "raise-hand",
+          "type": "verb",
+          "en": {
+            "word": "raise a hand",
+            "otherAnswers": ["signal", "participate", "request"]
+          },
+          "fr": {
+            "word": "lever la main",
+            "otherAnswers": ["signaler", "participer", "demander"]
+          }
+        },
+        {
+          "id": "reach-for",
+          "type": "verb",
+          "en": {
+            "word": "reach for",
+            "otherAnswers": ["stretch to", "extend for", "seek"]
+          },
+          "fr": {
+            "word": "tendre la main vers",
+            "otherAnswers": ["s'étirer vers", "s'étendre pour", "chercher"]
+          }
+        },
+        {
+          "id": "shake-hands",
+          "type": "verb",
+          "en": {
+            "word": "shake hands",
+            "otherAnswers": ["clasp", "connect", "meet"]
+          },
+          "fr": {
+            "word": "serrer la main",
+            "otherAnswers": ["étreindre", "connecter", "rencontrer"]
+          }
+        },
+        {
+          "id": "shaky",
+          "type": "adjective",
+          "en": {
+            "word": "shaky",
+            "otherAnswers": ["wobbly", "tremulous", "unsteady"]
+          },
+          "fr": {
+            "word": "tremblant",
+            "otherAnswers": ["vacillant", "frémissant", "instable"]
+          }
+        },
+        {
+          "id": "stand",
+          "type": "verb",
+          "en": {
+            "word": "stand",
+            "otherAnswers": ["arise", "position", "erect"]
+          },
+          "fr": {
+            "word": "être debout",
+            "otherAnswers": ["se lever", "se positionner", "se dresser"]
+          }
+        },
+        {
+          "id": "stretch",
+          "type": "verb",
+          "en": {
+            "word": "stretch",
+            "otherAnswers": ["elongate", "expand", "extend"]
+          },
+          "fr": {
+            "word": "étirer",
+            "otherAnswers": ["allonger", "dilater", "étendre"]
+          }
+        },
+        {
+          "id": "stretchy",
+          "type": "adjective",
+          "en": {
+            "word": "stretchy",
+            "otherAnswers": ["elastic", "pliable", "expandable"]
+          },
+          "fr": {
+            "word": "extensible",
+            "otherAnswers": ["élastique", "souple", "dilatable"]
+          }
+        },
+        {
+          "id": "struggle-with",
+          "type": "verb",
+          "en": {
+            "word": "struggle with",
+            "otherAnswers": ["combat", "battle", "confront"]
+          },
+          "fr": {
+            "word": "lutter avec",
+            "otherAnswers": ["combattre", "batailler", "affronter"]
+          }
+        },
+        {
+          "id": "throw",
+          "type": "verb",
+          "en": {
+            "word": "throw",
+            "otherAnswers": ["hurl", "fling", "cast"]
+          },
+          "fr": {
+            "word": "jeter",
+            "otherAnswers": ["lancer", "balancer", "projeter"]
+          }
+        },
+        {
+          "id": "throwaway",
+          "type": "adjective",
+          "en": {
+            "word": "throwaway",
+            "otherAnswers": ["disposable", "temporary", "discardable"]
+          },
+          "fr": {
+            "word": "jetable",
+            "otherAnswers": ["temporaire", "à jeter", "éphémère"]
+          }
+        },
+        {
+          "id": "wave",
+          "type": "verb",
+          "en": {
+            "word": "wave",
+            "otherAnswers": ["beckon", "signal", "gesture"]
+          },
+          "fr": {
+            "word": "faire un signe",
+            "otherAnswers": ["faire signe", "signaler", "gesticuler"]
+          }
+        },
+        {
+          "id": "wipe",
+          "type": "verb",
+          "en": {
+            "word": "wipe",
+            "otherAnswers": ["clean", "clear", "swab"]
+          },
+          "fr": {
+            "word": "essuyer",
+            "otherAnswers": ["nettoyer", "effacer", "éponger"]
+          }
+        },
+        {
+          "id": "wiper",
+          "type": "noun",
+          "en": {
+            "word": "wiper",
+            "otherAnswers": ["blade", "cleaner", "duster"]
+          },
+          "fr": {
+            "word": "essuie-glace",
+            "otherAnswers": ["lame", "nettoyeur", "époussette"]
+          }
+        },
+        {
+          "id": "wipe-out",
+          "type": "verb",
+          "en": {
+            "word": "wipe out",
+            "otherAnswers": ["eradicate", "obliterate", "annihilate"]
+          },
+          "fr": {
+            "word": "éradiquer",
+            "otherAnswers": ["anéantir", "éliminer", "exterminer"]
+          }
+        }
+      ]
+    }
+  ]
+}

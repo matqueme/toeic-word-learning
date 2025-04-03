@@ -1,0 +1,719 @@
+{
+  "categories": [
+    {
+      "id": "investments",
+      "nameEn": "Investments",
+      "nameFr": "Investissements",
+      "words": [
+        {
+          "id": "assets",
+          "type": "name",
+          "en": {
+            "word": "assets",
+            "otherAnswers": ["costs", "bonds", "profits"]
+          },
+          "fr": {
+            "word": "actifs",
+            "otherAnswers": ["passifs", "acquisitions", "actions"]
+          }
+        },
+        {
+          "id": "bankruptcy",
+          "type": "name",
+          "en": {
+            "word": "bankruptcy",
+            "otherAnswers": ["insolvency", "default", "collapse"]
+          },
+          "fr": {
+            "word": "faillite",
+            "otherAnswers": ["défaillance", "liquidation", "dépôt de bilan"]
+          }
+        },
+        {
+          "id": "bankrupt",
+          "type": "adjective",
+          "en": {
+            "word": "bankrupt",
+            "otherAnswers": ["insolvent", "broke", "ruined"]
+          },
+          "fr": {
+            "word": "insolvable",
+            "otherAnswers": ["failli", "ruiné", "en faillite"]
+          }
+        },
+        {
+          "id": "go_bankrupt",
+          "type": "verb",
+          "en": {
+            "word": "go bankrupt",
+            "otherAnswers": ["fail financially", "go under", "collapse"]
+          },
+          "fr": {
+            "word": "faire faillite",
+            "otherAnswers": [
+              "déposer le bilan",
+              "tomber en faillite",
+              "être ruiné"
+            ]
+          }
+        },
+        {
+          "id": "bid_noun",
+          "type": "name",
+          "en": {
+            "word": "bid",
+            "otherAnswers": ["offer", "proposal", "tender"]
+          },
+          "fr": {
+            "word": "offre",
+            "otherAnswers": ["enchère", "proposition", "soumission"]
+          }
+        },
+        {
+          "id": "bid_verb",
+          "type": "verb",
+          "en": {
+            "word": "bid",
+            "otherAnswers": ["offer", "tender", "propose"]
+          },
+          "fr": {
+            "word": "faire une offre",
+            "otherAnswers": ["enchérir", "proposer", "soumissionner"]
+          }
+        },
+        {
+          "id": "highest_bidder",
+          "type": "expression",
+          "en": {
+            "word": "highest bidder",
+            "otherAnswers": ["top bidder", "best offer", "winning bid"]
+          },
+          "fr": {
+            "word": "le plus offrant",
+            "otherAnswers": [
+              "meilleur enchérisseur",
+              "acquéreur principal",
+              "gagnant des enchères"
+            ]
+          }
+        },
+        {
+          "id": "bidding",
+          "type": "name",
+          "en": {
+            "word": "bidding",
+            "otherAnswers": ["auction", "offering", "tendering"]
+          },
+          "fr": {
+            "word": "enchères",
+            "otherAnswers": ["offres", "propositions", "soumissions"]
+          }
+        },
+        {
+          "id": "make_bid",
+          "type": "verb",
+          "en": {
+            "word": "make a bid",
+            "otherAnswers": ["place an offer", "submit proposal", "tender"]
+          },
+          "fr": {
+            "word": "faire une offre",
+            "otherAnswers": ["enchérir", "proposer", "soumissionner"]
+          }
+        },
+        {
+          "id": "boom_noun",
+          "type": "name",
+          "en": {
+            "word": "boom",
+            "otherAnswers": ["surge", "growth", "expansion"]
+          },
+          "fr": {
+            "word": "boom",
+            "otherAnswers": ["essor", "expansion", "croissance"]
+          }
+        },
+        {
+          "id": "boom_verb",
+          "type": "verb",
+          "en": {
+            "word": "boom",
+            "otherAnswers": ["surge", "grow", "expand"]
+          },
+          "fr": {
+            "word": "être en plein essor",
+            "otherAnswers": ["prospérer", "croître", "être en hausse"]
+          }
+        },
+        {
+          "id": "broker",
+          "type": "name",
+          "en": {
+            "word": "broker",
+            "otherAnswers": ["agent", "dealer", "intermediary"]
+          },
+          "fr": {
+            "word": "courtier",
+            "otherAnswers": ["intermédiaire", "négociant", "agent"]
+          }
+        },
+        {
+          "id": "commodity",
+          "type": "name",
+          "en": {
+            "word": "commodity",
+            "otherAnswers": ["product", "goods", "material"]
+          },
+          "fr": {
+            "word": "produit de base",
+            "otherAnswers": ["marchandise", "matière première", "denrée"]
+          }
+        },
+        {
+          "id": "diversify",
+          "type": "verb",
+          "en": {
+            "word": "diversify",
+            "otherAnswers": ["vary", "branch out", "expand"]
+          },
+          "fr": {
+            "word": "diversifier",
+            "otherAnswers": ["varier", "élargir", "étendre"]
+          }
+        },
+        {
+          "id": "diverse",
+          "type": "adjective",
+          "en": {
+            "word": "diverse",
+            "otherAnswers": ["varied", "different", "assorted"]
+          },
+          "fr": {
+            "word": "varié",
+            "otherAnswers": ["divers", "différent", "multiple"]
+          }
+        },
+        {
+          "id": "diversity",
+          "type": "name",
+          "en": {
+            "word": "diversity",
+            "otherAnswers": ["variety", "range", "assortment"]
+          },
+          "fr": {
+            "word": "diversité",
+            "otherAnswers": ["variété", "pluralité", "hétérogénéité"]
+          }
+        },
+        {
+          "id": "diversification",
+          "type": "name",
+          "en": {
+            "word": "diversification",
+            "otherAnswers": ["expansion", "variation", "broadening"]
+          },
+          "fr": {
+            "word": "diversification",
+            "otherAnswers": ["élargissement", "extension", "multiplication"]
+          }
+        },
+        {
+          "id": "dramatic",
+          "type": "adjective",
+          "en": {
+            "word": "dramatic",
+            "otherAnswers": ["striking", "remarkable", "significant"]
+          },
+          "fr": {
+            "word": "spectaculaire",
+            "otherAnswers": ["dramatique", "remarquable", "saisissant"]
+          }
+        },
+        {
+          "id": "dramatically",
+          "type": "adverb",
+          "en": {
+            "word": "dramatically",
+            "otherAnswers": ["strikingly", "remarkably", "significantly"]
+          },
+          "fr": {
+            "word": "de façon spectaculaire",
+            "otherAnswers": [
+              "dramatiquement",
+              "remarquablement",
+              "considérablement"
+            ]
+          }
+        },
+        {
+          "id": "equity",
+          "type": "name",
+          "en": {
+            "word": "equity",
+            "otherAnswers": ["capital", "ownership", "stock"]
+          },
+          "fr": {
+            "word": "fonds propres",
+            "otherAnswers": ["capitaux propres", "actions", "participation"]
+          }
+        },
+        {
+          "id": "increase",
+          "type": "name",
+          "en": {
+            "word": "increase",
+            "otherAnswers": ["growth", "rise", "gain"]
+          },
+          "fr": {
+            "word": "augmentation",
+            "otherAnswers": ["hausse", "croissance", "accroissement"]
+          }
+        },
+        {
+          "id": "increasingly",
+          "type": "adverb",
+          "en": {
+            "word": "increasingly",
+            "otherAnswers": ["progressively", "gradually", "more and more"]
+          },
+          "fr": {
+            "word": "de plus en plus",
+            "otherAnswers": ["progressivement", "graduellement", "davantage"]
+          }
+        },
+        {
+          "id": "decrease",
+          "type": "verb",
+          "en": {
+            "word": "decrease",
+            "otherAnswers": ["reduce", "decline", "diminish"]
+          },
+          "fr": {
+            "word": "baisser",
+            "otherAnswers": ["diminuer", "décroître", "réduire"]
+          }
+        },
+        {
+          "id": "initial_outlay",
+          "type": "name",
+          "en": {
+            "word": "initial outlay",
+            "otherAnswers": ["startup cost", "upfront investment", "seed money"]
+          },
+          "fr": {
+            "word": "mise de fonds initiale",
+            "otherAnswers": [
+              "investissement initial",
+              "capital de départ",
+              "coût initial"
+            ]
+          }
+        },
+        {
+          "id": "interest_rate",
+          "type": "name",
+          "en": {
+            "word": "interest rate",
+            "otherAnswers": [
+              "lending rate",
+              "borrowing cost",
+              "percentage yield"
+            ]
+          },
+          "fr": {
+            "word": "taux d'intérêt",
+            "otherAnswers": [
+              "taux d'emprunt",
+              "pourcentage d'intérêt",
+              "taux directeur"
+            ]
+          }
+        },
+        {
+          "id": "invest",
+          "type": "verb",
+          "en": {
+            "word": "invest",
+            "otherAnswers": ["fund", "finance", "back"]
+          },
+          "fr": {
+            "word": "investir",
+            "otherAnswers": ["placer", "financer", "mettre"]
+          }
+        },
+        {
+          "id": "investment",
+          "type": "name",
+          "en": {
+            "word": "investment",
+            "otherAnswers": ["funding", "financing", "venture"]
+          },
+          "fr": {
+            "word": "investissement",
+            "otherAnswers": ["placement", "financement", "mise"]
+          }
+        },
+        {
+          "id": "investor",
+          "type": "name",
+          "en": {
+            "word": "investor",
+            "otherAnswers": ["backer", "financier", "shareholder"]
+          },
+          "fr": {
+            "word": "investisseur",
+            "otherAnswers": ["bailleur", "financier", "actionnaire"]
+          }
+        },
+        {
+          "id": "level_off",
+          "type": "verb",
+          "en": {
+            "word": "level off",
+            "otherAnswers": ["stabilize", "plateau", "flatten"]
+          },
+          "fr": {
+            "word": "se stabiliser",
+            "otherAnswers": [
+              "atteindre un plateau",
+              "se niveler",
+              "s'équilibrer"
+            ]
+          }
+        },
+        {
+          "id": "level",
+          "type": "adjective",
+          "en": {
+            "word": "level",
+            "otherAnswers": ["flat", "even", "horizontal"]
+          },
+          "fr": {
+            "word": "horizontal",
+            "otherAnswers": ["plat", "nivelé", "égal"]
+          }
+        },
+        {
+          "id": "liabilities",
+          "type": "name",
+          "en": {
+            "word": "liabilities",
+            "otherAnswers": ["debts", "obligations", "commitments"]
+          },
+          "fr": {
+            "word": "passif",
+            "otherAnswers": ["dettes", "obligations", "engagements"]
+          }
+        },
+        {
+          "id": "liable",
+          "type": "adjective",
+          "en": {
+            "word": "liable",
+            "otherAnswers": ["responsible", "accountable", "answerable"]
+          },
+          "fr": {
+            "word": "responsable",
+            "otherAnswers": ["redevable", "comptable", "passible"]
+          }
+        },
+        {
+          "id": "be_liable_to",
+          "type": "verb",
+          "en": {
+            "word": "be liable to",
+            "otherAnswers": ["be prone to", "be at risk of", "be subject to"]
+          },
+          "fr": {
+            "word": "risquer de",
+            "otherAnswers": [
+              "être susceptible",
+              "être exposé à",
+              "être enclin à"
+            ]
+          }
+        },
+        {
+          "id": "plummet",
+          "type": "verb",
+          "en": {
+            "word": "plummet",
+            "otherAnswers": ["crash", "drop", "collapse"]
+          },
+          "fr": {
+            "word": "chuter",
+            "otherAnswers": ["s'effondrer", "dégringoler", "plonger"]
+          }
+        },
+        {
+          "id": "portfolio",
+          "type": "name",
+          "en": {
+            "word": "portfolio",
+            "otherAnswers": ["investments", "holdings", "assets"]
+          },
+          "fr": {
+            "word": "portefeuille",
+            "otherAnswers": ["placements", "titres", "actifs"]
+          }
+        },
+        {
+          "id": "proper",
+          "type": "adjective",
+          "en": {
+            "word": "proper",
+            "otherAnswers": ["correct", "appropriate", "suitable"]
+          },
+          "fr": {
+            "word": "correct",
+            "otherAnswers": ["approprié", "adéquat", "convenable"]
+          }
+        },
+        {
+          "id": "properly",
+          "type": "adverb",
+          "en": {
+            "word": "properly",
+            "otherAnswers": ["correctly", "appropriately", "suitably"]
+          },
+          "fr": {
+            "word": "correctement",
+            "otherAnswers": ["convenablement", "adéquatement", "comme il faut"]
+          }
+        },
+        {
+          "id": "real_estate",
+          "type": "name",
+          "en": {
+            "word": "real estate",
+            "otherAnswers": ["property", "land", "buildings"]
+          },
+          "fr": {
+            "word": "immobilier",
+            "otherAnswers": ["biens immobiliers", "propriété", "foncier"]
+          }
+        },
+        {
+          "id": "realtor",
+          "type": "name",
+          "en": {
+            "word": "realtor",
+            "otherAnswers": [
+              "estate agent",
+              "property broker",
+              "real estate agent"
+            ]
+          },
+          "fr": {
+            "word": "agent immobilier",
+            "otherAnswers": [
+              "courtier immobilier",
+              "négociateur immobilier",
+              "conseiller immobilier"
+            ]
+          }
+        },
+        {
+          "id": "share",
+          "type": "name",
+          "en": {
+            "word": "share",
+            "otherAnswers": ["stock", "equity", "stake"]
+          },
+          "fr": {
+            "word": "action",
+            "otherAnswers": ["part", "titre", "portion"]
+          }
+        },
+        {
+          "id": "shareholder",
+          "type": "name",
+          "en": {
+            "word": "shareholder",
+            "otherAnswers": ["stockholder", "investor", "owner"]
+          },
+          "fr": {
+            "word": "actionnaire",
+            "otherAnswers": ["détenteur d'actions", "investisseur", "associé"]
+          }
+        },
+        {
+          "id": "skyrocket",
+          "type": "verb",
+          "en": {
+            "word": "skyrocket",
+            "otherAnswers": ["soar", "surge", "explode"]
+          },
+          "fr": {
+            "word": "flamber",
+            "otherAnswers": ["s'envoler", "exploser", "grimper en flèche"]
+          }
+        },
+        {
+          "id": "slump_noun",
+          "type": "name",
+          "en": {
+            "word": "slump",
+            "otherAnswers": ["decline", "downturn", "recession"]
+          },
+          "fr": {
+            "word": "effondrement",
+            "otherAnswers": ["creux", "récession", "baisse"]
+          }
+        },
+        {
+          "id": "slump_verb",
+          "type": "verb",
+          "en": {
+            "word": "slump",
+            "otherAnswers": ["decline", "fall", "drop"]
+          },
+          "fr": {
+            "word": "décliner",
+            "otherAnswers": ["s'effondrer", "chuter", "baisser"]
+          }
+        },
+        {
+          "id": "speculator",
+          "type": "name",
+          "en": {
+            "word": "speculator",
+            "otherAnswers": ["investor", "gambler", "trader"]
+          },
+          "fr": {
+            "word": "spéculateur",
+            "otherAnswers": ["investisseur", "boursicoteur", "opérateur"]
+          }
+        },
+        {
+          "id": "speculate",
+          "type": "verb",
+          "en": {
+            "word": "speculate",
+            "otherAnswers": ["gamble", "bet", "venture"]
+          },
+          "fr": {
+            "word": "spéculer",
+            "otherAnswers": ["parier", "risquer", "jouer"]
+          }
+        },
+        {
+          "id": "stake",
+          "type": "name",
+          "en": {
+            "word": "stake",
+            "otherAnswers": ["interest", "share", "investment"]
+          },
+          "fr": {
+            "word": "intérêt",
+            "otherAnswers": ["part", "mise", "participation"]
+          }
+        },
+        {
+          "id": "at_stake",
+          "type": "adjective",
+          "en": {
+            "word": "at stake",
+            "otherAnswers": ["at risk", "in jeopardy", "on the line"]
+          },
+          "fr": {
+            "word": "en jeu",
+            "otherAnswers": ["en question", "en danger", "compromis"]
+          }
+        },
+        {
+          "id": "stakeholder",
+          "type": "name",
+          "en": {
+            "word": "stakeholder",
+            "otherAnswers": ["interested party", "participant", "investor"]
+          },
+          "fr": {
+            "word": "partie prenante",
+            "otherAnswers": ["acteur", "intervenant", "intéressé"]
+          }
+        },
+        {
+          "id": "stakes",
+          "type": "name",
+          "en": {
+            "word": "stakes",
+            "otherAnswers": ["risks", "interests", "investments"]
+          },
+          "fr": {
+            "word": "enjeu",
+            "otherAnswers": ["risques", "intérêts", "mises"]
+          }
+        },
+        {
+          "id": "stocks",
+          "type": "name",
+          "en": {
+            "word": "stocks",
+            "otherAnswers": ["shares", "equities", "securities"]
+          },
+          "fr": {
+            "word": "actions",
+            "otherAnswers": ["titres", "valeurs", "parts"]
+          }
+        },
+        {
+          "id": "stock_market",
+          "type": "name",
+          "en": {
+            "word": "stock market",
+            "otherAnswers": ["exchange", "bourse", "trading floor"]
+          },
+          "fr": {
+            "word": "bourse",
+            "otherAnswers": [
+              "marché boursier",
+              "marché des actions",
+              "marché financier"
+            ]
+          }
+        },
+        {
+          "id": "stockbroker",
+          "type": "name",
+          "en": {
+            "word": "stockbroker",
+            "otherAnswers": ["broker", "trader", "dealer"]
+          },
+          "fr": {
+            "word": "agent de change",
+            "otherAnswers": [
+              "courtier en bourse",
+              "agent boursier",
+              "négociant"
+            ]
+          }
+        },
+        {
+          "id": "yield_noun",
+          "type": "name",
+          "en": {
+            "word": "yield",
+            "otherAnswers": ["return", "profit", "income"]
+          },
+          "fr": {
+            "word": "rendement",
+            "otherAnswers": ["profit", "rapport", "revenu"]
+          }
+        },
+        {
+          "id": "yield_verb",
+          "type": "verb",
+          "en": {
+            "word": "yield",
+            "otherAnswers": ["produce", "generate", "return"]
+          },
+          "fr": {
+            "word": "rapporter",
+            "otherAnswers": ["produire", "générer", "céder"]
+          }
+        }
+      ]
+    }
+  ]
+}

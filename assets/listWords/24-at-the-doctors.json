@@ -1,0 +1,459 @@
+{
+  "categories": [
+    {
+      "id": "at-the-doctors",
+      "nameEn": "At the Doctor's",
+      "nameFr": "Chez le Médecin",
+      "words": [
+        {
+          "id": "appointment",
+          "type": "noun",
+          "en": {
+            "word": "appointment",
+            "otherAnswers": ["meeting", "consultation", "reservation"]
+          },
+          "fr": {
+            "word": "rendez-vous",
+            "otherAnswers": ["consultation", "visite", "entretien"]
+          }
+        },
+        {
+          "id": "blood",
+          "type": "noun",
+          "en": {
+            "word": "blood",
+            "otherAnswers": ["plasma", "serum", "tissue"]
+          },
+          "fr": {
+            "word": "sang",
+            "otherAnswers": ["plasma", "liquide", "sérum"]
+          }
+        },
+        {
+          "id": "blood-pressure",
+          "type": "noun",
+          "en": {
+            "word": "blood pressure",
+            "otherAnswers": ["heart rate", "temperature", "oxygen level"]
+          },
+          "fr": {
+            "word": "tension artérielle",
+            "otherAnswers": [
+              "rythme cardiaque",
+              "température corporelle",
+              "niveau d'oxygène"
+            ]
+          }
+        },
+        {
+          "id": "blood-test",
+          "type": "noun",
+          "en": {
+            "word": "blood test",
+            "otherAnswers": ["x-ray", "scan", "ultrasound"]
+          },
+          "fr": {
+            "word": "bilan sanguin",
+            "otherAnswers": ["radiographie", "échographie", "scanner"]
+          }
+        },
+        {
+          "id": "bleed",
+          "type": "verb",
+          "en": {
+            "word": "bleed",
+            "otherAnswers": ["ache", "cough", "heal"]
+          },
+          "fr": {
+            "word": "saigner",
+            "otherAnswers": ["tousser", "guérir", "trembler"]
+          }
+        },
+        {
+          "id": "checkup",
+          "type": "noun",
+          "en": {
+            "word": "checkup",
+            "otherAnswers": ["diagnosis", "screening", "examination"]
+          },
+          "fr": {
+            "word": "bilan de santé",
+            "otherAnswers": ["diagnostic", "dépistage", "consultation"]
+          }
+        },
+        {
+          "id": "consult",
+          "type": "verb",
+          "en": {
+            "word": "consult",
+            "otherAnswers": ["examine", "diagnose", "prescribe"]
+          },
+          "fr": {
+            "word": "consulter",
+            "otherAnswers": ["examiner", "diagnostiquer", "prescrire"]
+          }
+        },
+        {
+          "id": "consultation-room",
+          "type": "noun",
+          "en": {
+            "word": "consultation room",
+            "otherAnswers": ["waiting room", "operating room", "recovery room"]
+          },
+          "fr": {
+            "word": "salle d'examen",
+            "otherAnswers": [
+              "salle d'attente",
+              "bloc opératoire",
+              "salle de repos"
+            ]
+          }
+        },
+        {
+          "id": "consultant",
+          "type": "noun",
+          "en": {
+            "word": "consultant",
+            "otherAnswers": ["surgeon", "radiologist", "therapist"]
+          },
+          "fr": {
+            "word": "spécialiste",
+            "otherAnswers": ["chirurgien", "radiologue", "thérapeute"]
+          }
+        },
+        {
+          "id": "cure-noun",
+          "type": "noun",
+          "en": {
+            "word": "cure",
+            "otherAnswers": ["treatment", "therapy", "medicine"]
+          },
+          "fr": {
+            "word": "remède",
+            "otherAnswers": ["traitement", "thérapie", "médicament"]
+          }
+        },
+        {
+          "id": "cure-verb",
+          "type": "verb",
+          "en": {
+            "word": "cure",
+            "otherAnswers": ["treat", "diagnose", "prescribe"]
+          },
+          "fr": {
+            "word": "guérir",
+            "otherAnswers": ["traiter", "diagnostiquer", "prescrire"]
+          }
+        },
+        {
+          "id": "cured",
+          "type": "adjective",
+          "en": {
+            "word": "cured",
+            "otherAnswers": ["healed", "recovered", "healthy"]
+          },
+          "fr": {
+            "word": "guéri",
+            "otherAnswers": ["rétabli", "renvoyé", "traité"]
+          }
+        },
+        {
+          "id": "curable",
+          "type": "adjective",
+          "en": {
+            "word": "curable",
+            "otherAnswers": ["treatable", "manageable", "recoverable"]
+          },
+          "fr": {
+            "word": "guérissable",
+            "otherAnswers": ["traitable", "soignable", "recouvrable"]
+          }
+        },
+        {
+          "id": "gp",
+          "type": "noun",
+          "en": {
+            "word": "GP",
+            "otherAnswers": ["specialist", "surgeon", "consultant"]
+          },
+          "fr": {
+            "word": "généraliste",
+            "otherAnswers": ["spécialiste", "chirurgien", "consultant"]
+          }
+        },
+        {
+          "id": "harm",
+          "type": "verb",
+          "en": {
+            "word": "harm",
+            "otherAnswers": ["injure", "damage", "hurt"]
+          },
+          "fr": {
+            "word": "nuire",
+            "otherAnswers": ["blesser", "endommager", "détériorer"]
+          }
+        },
+        {
+          "id": "harmful",
+          "type": "adjective",
+          "en": {
+            "word": "harmful",
+            "otherAnswers": ["dangerous", "toxic", "risky"]
+          },
+          "fr": {
+            "word": "nuisible",
+            "otherAnswers": ["dangereux", "toxique", "risqué"]
+          }
+        },
+        {
+          "id": "harmless",
+          "type": "adjective",
+          "en": {
+            "word": "harmless",
+            "otherAnswers": ["safe", "benign", "mild"]
+          },
+          "fr": {
+            "word": "inoffensif",
+            "otherAnswers": ["sûr", "bénin", "léger"]
+          }
+        },
+        {
+          "id": "headache",
+          "type": "noun",
+          "en": {
+            "word": "headache",
+            "otherAnswers": ["migraine", "dizziness", "nausea"]
+          },
+          "fr": {
+            "word": "mal de tête",
+            "otherAnswers": ["migraine", "étourdissement", "nausée"]
+          }
+        },
+        {
+          "id": "health-insurance",
+          "type": "noun",
+          "en": {
+            "word": "health insurance",
+            "otherAnswers": [
+              "social security",
+              "pension plan",
+              "disability coverage"
+            ]
+          },
+          "fr": {
+            "word": "mutuelle de santé",
+            "otherAnswers": [
+              "sécurité sociale",
+              "régime de retraite",
+              "couverture invalidité"
+            ]
+          }
+        },
+        {
+          "id": "ill",
+          "type": "adjective",
+          "en": {
+            "word": "ill",
+            "otherAnswers": ["sick", "unwell", "diseased"]
+          },
+          "fr": {
+            "word": "malade",
+            "otherAnswers": ["souffrant", "indisposé", "infecté"]
+          }
+        },
+        {
+          "id": "illness",
+          "type": "noun",
+          "en": {
+            "word": "illness",
+            "otherAnswers": ["disease", "condition", "sickness"]
+          },
+          "fr": {
+            "word": "maladie",
+            "otherAnswers": ["affection", "pathologie", "trouble"]
+          }
+        },
+        {
+          "id": "injury",
+          "type": "noun",
+          "en": {
+            "word": "injury",
+            "otherAnswers": ["wound", "trauma", "fracture"]
+          },
+          "fr": {
+            "word": "blessure",
+            "otherAnswers": ["traumatisme", "fracture", "entorse"]
+          }
+        },
+        {
+          "id": "injured",
+          "type": "adjective",
+          "en": {
+            "word": "injured",
+            "otherAnswers": ["wounded", "damaged", "hurt"]
+          },
+          "fr": {
+            "word": "blessé",
+            "otherAnswers": ["meurtri", "traumatisé", "lésé"]
+          }
+        },
+        {
+          "id": "leaflet",
+          "type": "noun",
+          "en": {
+            "word": "leaflet",
+            "otherAnswers": ["brochure", "flyer", "guide"]
+          },
+          "fr": {
+            "word": "notice",
+            "otherAnswers": ["brochure", "prospectus", "guide"]
+          }
+        },
+        {
+          "id": "medication",
+          "type": "noun",
+          "en": {
+            "word": "medication",
+            "otherAnswers": ["medicine", "drug", "remedy"]
+          },
+          "fr": {
+            "word": "médicament",
+            "otherAnswers": ["remède", "produit", "traitement"]
+          }
+        },
+        {
+          "id": "physician",
+          "type": "noun",
+          "en": {
+            "word": "physician",
+            "otherAnswers": ["doctor", "surgeon", "practitioner"]
+          },
+          "fr": {
+            "word": "médecin",
+            "otherAnswers": ["docteur", "chirurgien", "thérapeute"]
+          }
+        },
+        {
+          "id": "prescription",
+          "type": "noun",
+          "en": {
+            "word": "prescription",
+            "otherAnswers": ["medication", "regimen", "treatment"]
+          },
+          "fr": {
+            "word": "ordonnance",
+            "otherAnswers": ["prescription", "traitement", "posologie"]
+          }
+        },
+        {
+          "id": "relapse-noun",
+          "type": "noun",
+          "en": {
+            "word": "relapse",
+            "otherAnswers": ["recurrence", "deterioration", "setback"]
+          },
+          "fr": {
+            "word": "rechute",
+            "otherAnswers": ["récidive", "aggravation", "régression"]
+          }
+        },
+        {
+          "id": "sibling",
+          "type": "noun",
+          "en": {
+            "word": "sibling",
+            "otherAnswers": ["relative", "offspring", "descendant"]
+          },
+          "fr": {
+            "word": "frère ou soeur",
+            "otherAnswers": ["parent", "enfant", "descendant"]
+          }
+        },
+        {
+          "id": "sick",
+          "type": "adjective",
+          "en": {
+            "word": "sick",
+            "otherAnswers": ["ill", "unwell", "infected"]
+          },
+          "fr": {
+            "word": "malade",
+            "otherAnswers": ["souffrant", "indisposé", "maladif"]
+          }
+        },
+        {
+          "id": "side-effects",
+          "type": "noun",
+          "en": {
+            "word": "side effects",
+            "otherAnswers": ["reactions", "complications", "consequences"]
+          },
+          "fr": {
+            "word": "effets secondaires",
+            "otherAnswers": ["réactions", "complications", "conséquences"]
+          }
+        },
+        {
+          "id": "stomach",
+          "type": "noun",
+          "en": {
+            "word": "stomach",
+            "otherAnswers": ["intestine", "liver", "kidney"]
+          },
+          "fr": {
+            "word": "estomac",
+            "otherAnswers": ["intestin", "foie", "rein"]
+          }
+        },
+        {
+          "id": "stomachache",
+          "type": "noun",
+          "en": {
+            "word": "stomachache",
+            "otherAnswers": ["indigestion", "cramp", "nausea"]
+          },
+          "fr": {
+            "word": "mal de ventre",
+            "otherAnswers": ["indigestion", "crampe", "nausée"]
+          }
+        },
+        {
+          "id": "tablet",
+          "type": "noun",
+          "en": {
+            "word": "tablet",
+            "otherAnswers": ["capsule", "syrup", "injection"]
+          },
+          "fr": {
+            "word": "comprimé",
+            "otherAnswers": ["gélule", "sirop", "injection"]
+          }
+        },
+        {
+          "id": "treatment",
+          "type": "noun",
+          "en": {
+            "word": "treatment",
+            "otherAnswers": ["care", "therapy", "intervention"]
+          },
+          "fr": {
+            "word": "traitement",
+            "otherAnswers": ["soin", "thérapie", "intervention"]
+          }
+        },
+        {
+          "id": "treat",
+          "type": "verb",
+          "en": {
+            "word": "treat",
+            "otherAnswers": ["cure", "heal", "medicate"]
+          },
+          "fr": {
+            "word": "soigner",
+            "otherAnswers": ["traiter", "médicamenter", "thérapeutiser"]
+          }
+        }
+      ]
+    }
+  ]
+}

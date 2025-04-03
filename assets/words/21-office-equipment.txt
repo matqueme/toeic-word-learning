@@ -1,0 +1,47 @@
+back up (vb) sauvegarder
+backup (nom) sauvegarde
+click (vb) cliquer
+coating (nom) revêtement
+coated (with) (adj) recouvert (de)
+coat (nom) couche
+coat (vb) enduire, enrober
+copier (nom) photocopieuse
+desktop (nom) oridnateur de bureau ; bureau (de l'ordinateur)
+device (nom) appareil, dispositif
+hand-held device (nom) appareil portable, appareil de poche
+drag and drop (vb) glisser-déposer
+feature (nom) caractéristique, fonction
+function (nom) fonction
+function (vb) fonctionner
+functional (adj) en état de marche, fonctionnel
+hardware (nom) matériel informatique
+key (nom) touche (du clavier)
+keyboard (nom) clavier
+key in (vb) saisir (au clavier)
+laptop (nom) ordinateur portable
+lap (nom) les genoux (quand on est assis)
+model (nom) modèle
+monitor (nom) moniteur (écran)
+monitor (vb) surveiller, suivre
+monitoring (nom) surveillance, suivi
+mouse (nom) souris 
+mousepad (nom) tapis de souris
+mouse over (vb) paser la souris sur
+plug in (vb) brancher, connecter
+plug (nom) fiche, prise (de courant)
+printer (nom) imprimante
+printer shop (nom) imprimerie
+printing (nom) impression
+print (vb) imprimer
+recharge (vb) recharger 
+rechargeable battery (nom) pile rechargeable
+select (vb) sélectionner
+a selection (of) (nom) un choix (de)
+share (vb) partager
+significant (adj) considérable
+significantly (adv) considérablement
+significance (nom) importance, signification
+software (nom indénombrable) logiciel
+swipe (vb) faire défiler, glisser
+user-friendly (adj) intuitif, convivial
+voicemail (nom) messagerie vovale

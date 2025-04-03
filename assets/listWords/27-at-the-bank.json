@@ -1,0 +1,515 @@
+{
+  "categories": [
+    {
+      "id": "at-the-bank",
+      "nameEn": "At the Bank",
+      "nameFr": "À la Banque",
+      "words": [
+        {
+          "id": "approve",
+          "type": "verb",
+          "en": {
+            "word": "approve",
+            "otherAnswers": ["improve", "remove", "reprove"]
+          },
+          "fr": {
+            "word": "approuver",
+            "otherAnswers": ["prouver", "retrouver", "éprouver"]
+          }
+        },
+        {
+          "id": "atm",
+          "type": "noun",
+          "en": {
+            "word": "ATM",
+            "otherAnswers": ["PIN", "CDM", "ARM"]
+          },
+          "fr": {
+            "word": "distributeur",
+            "otherAnswers": ["régulateur", "ordinateur", "calculateur"]
+          }
+        },
+        {
+          "id": "balance",
+          "type": "noun",
+          "en": {
+            "word": "balance",
+            "otherAnswers": ["finance", "advance", "allowance"]
+          },
+          "fr": {
+            "word": "solde",
+            "otherAnswers": ["sonde", "soulde", "monde"]
+          }
+        },
+        {
+          "id": "bank-clerk",
+          "type": "noun",
+          "en": {
+            "word": "bank clerk",
+            "otherAnswers": ["bank teller", "cashier", "bank officer"]
+          },
+          "fr": {
+            "word": "guichetier",
+            "otherAnswers": ["caissier", "banquier", "employé"]
+          }
+        },
+        {
+          "id": "borrow",
+          "type": "verb",
+          "en": {
+            "word": "borrow",
+            "otherAnswers": ["barrow", "burrow", "narrow"]
+          },
+          "fr": {
+            "word": "emprunter",
+            "otherAnswers": ["emporter", "imprimer", "emprunté"]
+          }
+        },
+        {
+          "id": "branch",
+          "type": "noun",
+          "en": {
+            "word": "branch",
+            "otherAnswers": ["ranch", "bench", "brunch"]
+          },
+          "fr": {
+            "word": "agence",
+            "otherAnswers": ["urgence", "absence", "essence"]
+          }
+        },
+        {
+          "id": "cash-check",
+          "type": "verb",
+          "en": {
+            "word": "cash a check",
+            "otherAnswers": ["write a check", "sign a check", "deposit a check"]
+          },
+          "fr": {
+            "word": "encaisser un chèque",
+            "otherAnswers": [
+              "émettre un chèque",
+              "signer un chèque",
+              "déposer un chèque"
+            ]
+          }
+        },
+        {
+          "id": "currency",
+          "type": "noun",
+          "en": {
+            "word": "currency",
+            "otherAnswers": ["money", "cash", "coin"]
+          },
+          "fr": {
+            "word": "devise",
+            "otherAnswers": ["monnaie", "valeur", "avise"]
+          }
+        },
+        {
+          "id": "deposit-noun",
+          "type": "noun",
+          "en": {
+            "word": "deposit",
+            "otherAnswers": ["credit", "payment", "investment"]
+          },
+          "fr": {
+            "word": "versement",
+            "otherAnswers": ["paiement", "placement", "virement"]
+          }
+        },
+        {
+          "id": "deposit-verb",
+          "type": "verb",
+          "en": {
+            "word": "deposit",
+            "otherAnswers": ["insert", "invest", "save"]
+          },
+          "fr": {
+            "word": "déposer",
+            "otherAnswers": ["verser", "placer", "transférer"]
+          }
+        },
+        {
+          "id": "depositor",
+          "type": "noun",
+          "en": {
+            "word": "depositor",
+            "otherAnswers": ["investor", "saver", "contributor"]
+          },
+          "fr": {
+            "word": "déposant",
+            "otherAnswers": ["épargnant", "client", "investisseur"]
+          }
+        },
+        {
+          "id": "extra-charges",
+          "type": "noun",
+          "en": {
+            "word": "extra charges",
+            "otherAnswers": ["fees", "costs", "expenses"]
+          },
+          "fr": {
+            "word": "frais annexes",
+            "otherAnswers": [
+              "frais supplémentaires",
+              "coûts additionnels",
+              "suppléments"
+            ]
+          }
+        },
+        {
+          "id": "funds",
+          "type": "noun",
+          "en": {
+            "word": "funds",
+            "otherAnswers": ["money", "capital", "assets"]
+          },
+          "fr": {
+            "word": "fonds",
+            "otherAnswers": ["argent", "capital", "ressources"]
+          }
+        },
+        {
+          "id": "funding",
+          "type": "noun",
+          "en": {
+            "word": "funding",
+            "otherAnswers": ["financing", "backing", "support"]
+          },
+          "fr": {
+            "word": "financement",
+            "otherAnswers": ["provision", "subvention", "budget"]
+          }
+        },
+        {
+          "id": "fund-verb",
+          "type": "verb",
+          "en": {
+            "word": "fund",
+            "otherAnswers": ["finance", "support", "back"]
+          },
+          "fr": {
+            "word": "financer",
+            "otherAnswers": ["soutenir", "subventionner", "investir"]
+          }
+        },
+        {
+          "id": "incur",
+          "type": "verb",
+          "en": {
+            "word": "incur",
+            "otherAnswers": ["accrue", "acquire", "occur"]
+          },
+          "fr": {
+            "word": "entrainer",
+            "otherAnswers": ["occasionner", "générer", "causer"]
+          }
+        },
+        {
+          "id": "installment",
+          "type": "noun",
+          "en": {
+            "word": "installment",
+            "otherAnswers": ["payment", "repayment", "settlement"]
+          },
+          "fr": {
+            "word": "mensualité",
+            "otherAnswers": ["paiement", "versement", "échéance"]
+          }
+        },
+        {
+          "id": "lend",
+          "type": "verb",
+          "en": {
+            "word": "lend",
+            "otherAnswers": ["loan", "give", "rent"]
+          },
+          "fr": {
+            "word": "prêter",
+            "otherAnswers": ["louer", "donner", "avancer"]
+          }
+        },
+        {
+          "id": "lender",
+          "type": "noun",
+          "en": {
+            "word": "lender",
+            "otherAnswers": ["creditor", "bank", "loaner"]
+          },
+          "fr": {
+            "word": "prêteur",
+            "otherAnswers": ["créancier", "créditeur", "banquier"]
+          }
+        },
+        {
+          "id": "loan-noun",
+          "type": "noun",
+          "en": {
+            "word": "loan",
+            "otherAnswers": ["credit", "debt", "advance"]
+          },
+          "fr": {
+            "word": "prêt",
+            "otherAnswers": ["emprunt", "crédit", "avance"]
+          }
+        },
+        {
+          "id": "loan-verb",
+          "type": "verb",
+          "en": {
+            "word": "loan",
+            "otherAnswers": ["lend", "provide", "advance"]
+          },
+          "fr": {
+            "word": "prêter",
+            "otherAnswers": ["accorder", "octroyer", "avancer"]
+          }
+        },
+        {
+          "id": "money-transfer",
+          "type": "noun",
+          "en": {
+            "word": "money transfer",
+            "otherAnswers": ["wire transfer", "bank transfer", "payment"]
+          },
+          "fr": {
+            "word": "virement",
+            "otherAnswers": ["transfert", "paiement", "règlement"]
+          }
+        },
+        {
+          "id": "mortgage-noun",
+          "type": "noun",
+          "en": {
+            "word": "mortgage",
+            "otherAnswers": ["loan", "debt", "lien"]
+          },
+          "fr": {
+            "word": "crédit immobilier",
+            "otherAnswers": ["hypothèque", "prêt immobilier", "emprunt"]
+          }
+        },
+        {
+          "id": "mortgage-verb",
+          "type": "verb",
+          "en": {
+            "word": "mortgage",
+            "otherAnswers": ["pledge", "pawn", "secure"]
+          },
+          "fr": {
+            "word": "hypothéquer",
+            "otherAnswers": ["gager", "engager", "garantir"]
+          }
+        },
+        {
+          "id": "overdraft",
+          "type": "noun",
+          "en": {
+            "word": "overdraft",
+            "otherAnswers": ["deficit", "debt", "shortage"]
+          },
+          "fr": {
+            "word": "découvert",
+            "otherAnswers": ["déficit", "débit", "solde négatif"]
+          }
+        },
+        {
+          "id": "overdrawn",
+          "type": "adjective",
+          "en": {
+            "word": "overdrawn",
+            "otherAnswers": ["indebted", "negative", "depleted"]
+          },
+          "fr": {
+            "word": "à découvert",
+            "otherAnswers": ["déficitaire", "négatif", "endetté"]
+          }
+        },
+        {
+          "id": "pay-off",
+          "type": "verb",
+          "en": {
+            "word": "pay off",
+            "otherAnswers": ["settle", "clear", "discharge"]
+          },
+          "fr": {
+            "word": "rembourser",
+            "otherAnswers": ["liquider", "solder", "acquitter"]
+          }
+        },
+        {
+          "id": "save",
+          "type": "verb",
+          "en": {
+            "word": "save",
+            "otherAnswers": ["store", "keep", "deposit"]
+          },
+          "fr": {
+            "word": "mettre de côté",
+            "otherAnswers": ["épargner", "économiser", "conserver"]
+          }
+        },
+        {
+          "id": "savings",
+          "type": "noun",
+          "en": {
+            "word": "savings",
+            "otherAnswers": ["reserve", "fund", "nest egg"]
+          },
+          "fr": {
+            "word": "épargne",
+            "otherAnswers": ["économies", "réserve", "placement"]
+          }
+        },
+        {
+          "id": "secure-adj",
+          "type": "adjective",
+          "en": {
+            "word": "secure",
+            "otherAnswers": ["safe", "protected", "guarded"]
+          },
+          "fr": {
+            "word": "sécurisé",
+            "otherAnswers": ["sûr", "protégé", "garanti"]
+          }
+        },
+        {
+          "id": "secure-verb",
+          "type": "verb",
+          "en": {
+            "word": "secure",
+            "otherAnswers": ["protect", "safeguard", "ensure"]
+          },
+          "fr": {
+            "word": "sécuriser",
+            "otherAnswers": ["protéger", "garantir", "assurer"]
+          }
+        },
+        {
+          "id": "securely",
+          "type": "adverb",
+          "en": {
+            "word": "securely",
+            "otherAnswers": ["safely", "firmly", "reliably"]
+          },
+          "fr": {
+            "word": "solidement",
+            "otherAnswers": ["sûrement", "fermement", "sécuritairement"]
+          }
+        },
+        {
+          "id": "short",
+          "type": "adjective",
+          "en": {
+            "word": "short",
+            "otherAnswers": ["lacking", "deficient", "insufficient"]
+          },
+          "fr": {
+            "word": "à court",
+            "otherAnswers": ["limité", "insuffisant", "manquant"]
+          }
+        },
+        {
+          "id": "shortage",
+          "type": "noun",
+          "en": {
+            "word": "shortage",
+            "otherAnswers": ["deficit", "lack", "scarcity"]
+          },
+          "fr": {
+            "word": "manque",
+            "otherAnswers": ["pénurie", "déficit", "insuffisance"]
+          }
+        },
+        {
+          "id": "sign-up",
+          "type": "verb",
+          "en": {
+            "word": "sign up for",
+            "otherAnswers": ["register for", "subscribe to", "enroll in"]
+          },
+          "fr": {
+            "word": "s'inscrire",
+            "otherAnswers": ["s'abonner", "s'enregistrer", "adhérer"]
+          }
+        },
+        {
+          "id": "split-verb",
+          "type": "verb",
+          "en": {
+            "word": "split",
+            "otherAnswers": ["divide", "share", "separate"]
+          },
+          "fr": {
+            "word": "partager",
+            "otherAnswers": ["diviser", "répartir", "séparer"]
+          }
+        },
+        {
+          "id": "split-cost",
+          "type": "expression",
+          "en": {
+            "word": "split the cost",
+            "otherAnswers": ["share expenses", "divide bills", "go dutch"]
+          },
+          "fr": {
+            "word": "partager des frais",
+            "otherAnswers": [
+              "diviser les coûts",
+              "répartir les dépenses",
+              "payer à deux"
+            ]
+          }
+        },
+        {
+          "id": "statement",
+          "type": "noun",
+          "en": {
+            "word": "statement",
+            "otherAnswers": ["report", "record", "account"]
+          },
+          "fr": {
+            "word": "relevé de compte",
+            "otherAnswers": ["extrait de compte", "état de compte", "bilan"]
+          }
+        },
+        {
+          "id": "up-front",
+          "type": "adverb",
+          "en": {
+            "word": "up-front",
+            "otherAnswers": ["beforehand", "in advance", "ahead"]
+          },
+          "fr": {
+            "word": "à l'avance",
+            "otherAnswers": ["d'avance", "préalablement", "au préalable"]
+          }
+        },
+        {
+          "id": "withdraw",
+          "type": "verb",
+          "en": {
+            "word": "withdraw",
+            "otherAnswers": ["extract", "remove", "take out"]
+          },
+          "fr": {
+            "word": "retirer",
+            "otherAnswers": ["prélever", "extraire", "sortir"]
+          }
+        },
+        {
+          "id": "withdrawal",
+          "type": "noun",
+          "en": {
+            "word": "withdrawal",
+            "otherAnswers": ["extraction", "removal", "deduction"]
+          },
+          "fr": {
+            "word": "retrait",
+            "otherAnswers": ["prélèvement", "sortie", "enlèvement"]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,823 @@
+{
+  "categories": [
+    {
+      "id": "marketing-and-advertising",
+      "nameEn": "Marketing and Advertising",
+      "nameFr": "Marketing et Publicité",
+      "words": [
+        {
+          "id": "account",
+          "type": "name",
+          "en": {
+            "word": "account",
+            "otherAnswers": ["discount", "amount", "acclaim"]
+          },
+          "fr": {
+            "word": "client",
+            "otherAnswers": ["cliché", "climat", "clinique"]
+          }
+        },
+        {
+          "id": "advertise",
+          "type": "verb",
+          "en": {
+            "word": "advertise",
+            "otherAnswers": ["advise", "adverse", "adventure"]
+          },
+          "fr": {
+            "word": "promouvoir",
+            "otherAnswers": ["provenir", "prouver", "produire"]
+          }
+        },
+        {
+          "id": "advertisement",
+          "type": "name",
+          "en": {
+            "word": "advertisement",
+            "otherAnswers": ["advancement", "announcement", "arrangement"]
+          },
+          "fr": {
+            "word": "publicité",
+            "otherAnswers": ["public", "publication", "pupitre"]
+          }
+        },
+        {
+          "id": "advertising",
+          "type": "name",
+          "en": {
+            "word": "advertising",
+            "otherAnswers": ["advancing", "analyzing", "advising"]
+          },
+          "fr": {
+            "word": "publicité",
+            "otherAnswers": ["publier", "public", "publicain"]
+          }
+        },
+        {
+          "id": "at-the-forefront",
+          "type": "adverb",
+          "en": {
+            "word": "at the forefront",
+            "otherAnswers": [
+              "at the frontline",
+              "at the frontier",
+              "at the foreground"
+            ]
+          },
+          "fr": {
+            "word": "à l'avant-garde",
+            "otherAnswers": [
+              "au premier plan",
+              "à l'avant-scène",
+              "à la pointe"
+            ]
+          }
+        },
+        {
+          "id": "brand",
+          "type": "name",
+          "en": {
+            "word": "brand",
+            "otherAnswers": ["band", "bland", "bread"]
+          },
+          "fr": {
+            "word": "marque",
+            "otherAnswers": ["masque", "marge", "marche"]
+          }
+        },
+        {
+          "id": "brand-recognition",
+          "type": "name",
+          "en": {
+            "word": "brand recognition",
+            "otherAnswers": [
+              "brand reputation",
+              "brand recollection",
+              "brand reception"
+            ]
+          },
+          "fr": {
+            "word": "notoriété",
+            "otherAnswers": ["notabilité", "nouveauté", "normalité"]
+          }
+        },
+        {
+          "id": "branding",
+          "type": "name",
+          "en": {
+            "word": "branding",
+            "otherAnswers": ["branding", "bracing", "braiding"]
+          },
+          "fr": {
+            "word": "création de marque",
+            "otherAnswers": [
+              "gestion de marque",
+              "image de marque",
+              "identité de marque"
+            ]
+          }
+        },
+        {
+          "id": "brandname",
+          "type": "name",
+          "en": {
+            "word": "brandname",
+            "otherAnswers": ["trademark", "brand logo", "brand image"]
+          },
+          "fr": {
+            "word": "nom de marque",
+            "otherAnswers": ["marque", "identité de marque", "logo de marque"]
+          }
+        },
+        {
+          "id": "broad",
+          "type": "adjective",
+          "en": {
+            "word": "broad",
+            "otherAnswers": ["road", "board", "bread"]
+          },
+          "fr": {
+            "word": "large",
+            "otherAnswers": ["général", "approximatif", "vaste"]
+          }
+        },
+        {
+          "id": "broadly",
+          "type": "adverb",
+          "en": {
+            "word": "broadly",
+            "otherAnswers": ["boldly", "barely", "briefly"]
+          },
+          "fr": {
+            "word": "en gros",
+            "otherAnswers": ["généralement", "largement", "amplement"]
+          }
+        },
+        {
+          "id": "broaden",
+          "type": "verb",
+          "en": {
+            "word": "broaden",
+            "otherAnswers": ["burden", "broken", "breaden"]
+          },
+          "fr": {
+            "word": "élargir",
+            "otherAnswers": ["étendre", "enrichir", "évaluer"]
+          }
+        },
+        {
+          "id": "commercial",
+          "type": "adjective",
+          "en": {
+            "word": "commercial",
+            "otherAnswers": ["commerce", "command", "communal"]
+          },
+          "fr": {
+            "word": "commercial",
+            "otherAnswers": ["commercant", "communal", "commode"]
+          }
+        },
+        {
+          "id": "commercially",
+          "type": "adverb",
+          "en": {
+            "word": "commercially",
+            "otherAnswers": ["commercially", "communally", "comically"]
+          },
+          "fr": {
+            "word": "commercialement",
+            "otherAnswers": ["communément", "complètement", "commodément"]
+          }
+        },
+        {
+          "id": "commercialize",
+          "type": "verb",
+          "en": {
+            "word": "commercialize",
+            "otherAnswers": ["compromise", "customize", "commoditize"]
+          },
+          "fr": {
+            "word": "commercialiser",
+            "otherAnswers": ["communiquer", "commémorer", "commander"]
+          }
+        },
+        {
+          "id": "endorse",
+          "type": "verb",
+          "en": {
+            "word": "endorse",
+            "otherAnswers": ["enforce", "enclose", "encode"]
+          },
+          "fr": {
+            "word": "approuver",
+            "otherAnswers": ["appuyer", "applaudir", "apporter"]
+          }
+        },
+        {
+          "id": "endorsement",
+          "type": "name",
+          "en": {
+            "word": "endorsement",
+            "otherAnswers": ["enforcement", "enhancement", "engagement"]
+          },
+          "fr": {
+            "word": "promotion",
+            "otherAnswers": ["soutien", "approbation", "protection"]
+          }
+        },
+        {
+          "id": "feasible",
+          "type": "adjective",
+          "en": {
+            "word": "feasible",
+            "otherAnswers": ["feeble", "flexible", "facile"]
+          },
+          "fr": {
+            "word": "réalisable",
+            "otherAnswers": ["faisable", "plausible", "raisonnable"]
+          }
+        },
+        {
+          "id": "unfeasible",
+          "type": "adjective",
+          "en": {
+            "word": "unfeasible",
+            "otherAnswers": ["infeasible", "unfeasibly", "unfavorable"]
+          },
+          "fr": {
+            "word": "irréalisable",
+            "otherAnswers": ["infaisable", "impossible", "improbable"]
+          }
+        },
+        {
+          "id": "unfeasibly",
+          "type": "adverb",
+          "en": {
+            "word": "unfeasibly",
+            "otherAnswers": ["unreasonably", "unusually", "unfairly"]
+          },
+          "fr": {
+            "word": "faisabilité",
+            "otherAnswers": ["facilité", "flexibilité", "fiabilité"]
+          }
+        },
+        {
+          "id": "fit-needs",
+          "type": "verb",
+          "en": {
+            "word": "fit needs",
+            "otherAnswers": ["fill needs", "find needs", "fix needs"]
+          },
+          "fr": {
+            "word": "répondre aux besoins",
+            "otherAnswers": [
+              "satisfaire les besoins",
+              "convenir aux besoins",
+              "remplir les besoins"
+            ]
+          }
+        },
+        {
+          "id": "good-fit",
+          "type": "expression",
+          "en": {
+            "word": "a good fit",
+            "otherAnswers": ["a great match", "a perfect match", "well suited"]
+          },
+          "fr": {
+            "word": "en adéquation",
+            "otherAnswers": ["bien adapté", "bien assorti", "bien ajusté"]
+          }
+        },
+        {
+          "id": "flagship-product",
+          "type": "name",
+          "en": {
+            "word": "flagship product",
+            "otherAnswers": [
+              "feature product",
+              "famous product",
+              "foremost product"
+            ]
+          },
+          "fr": {
+            "word": "produit phare",
+            "otherAnswers": [
+              "produit principal",
+              "produit vedette",
+              "produit emblématique"
+            ]
+          }
+        },
+        {
+          "id": "flyer",
+          "type": "name",
+          "en": {
+            "word": "flyer",
+            "otherAnswers": ["folder", "pamphlet", "leaflet"]
+          },
+          "fr": {
+            "word": "prospectus",
+            "otherAnswers": ["flyer", "dépliant", "tract"]
+          }
+        },
+        {
+          "id": "fulfill",
+          "type": "verb",
+          "en": {
+            "word": "fulfill",
+            "otherAnswers": ["follow", "furnish", "further"]
+          },
+          "fr": {
+            "word": "remplir",
+            "otherAnswers": ["réaliser", "répondre à", "satisfaire"]
+          }
+        },
+        {
+          "id": "fulfilling",
+          "type": "adjective",
+          "en": {
+            "word": "fulfilling",
+            "otherAnswers": ["full-filling", "fulfillment", "full feeling"]
+          },
+          "fr": {
+            "word": "épanouissant",
+            "otherAnswers": ["gratifiant", "satisfaisant", "enrichissant"]
+          }
+        },
+        {
+          "id": "unfulfilled",
+          "type": "adjective",
+          "en": {
+            "word": "unfulfilled",
+            "otherAnswers": ["unsatisfied", "uncompleted", "unrealized"]
+          },
+          "fr": {
+            "word": "insatisfait",
+            "otherAnswers": ["inassouvi", "inachevé", "incomplet"]
+          }
+        },
+        {
+          "id": "unfulfilling",
+          "type": "adjective",
+          "en": {
+            "word": "unfulfilling",
+            "otherAnswers": ["unsatisfying", "unrewarding", "unpleasant"]
+          },
+          "fr": {
+            "word": "peu gratifiant",
+            "otherAnswers": ["décevant", "insatisfaisant", "frustrant"]
+          }
+        },
+        {
+          "id": "fulfillment",
+          "type": "name",
+          "en": {
+            "word": "fulfillment",
+            "otherAnswers": ["fulfilling", "fullness", "fulltime"]
+          },
+          "fr": {
+            "word": "épanouissement",
+            "otherAnswers": ["accomplissement", "satisfaction", "réalisation"]
+          }
+        },
+        {
+          "id": "launch",
+          "type": "name",
+          "en": {
+            "word": "launch",
+            "otherAnswers": ["lunch", "laundry", "laughter"]
+          },
+          "fr": {
+            "word": "lancement",
+            "otherAnswers": ["lancer", "langage", "lanterne"]
+          }
+        },
+        {
+          "id": "launch-verb",
+          "type": "verb",
+          "en": {
+            "word": "launch",
+            "otherAnswers": ["lurch", "laugh", "leash"]
+          },
+          "fr": {
+            "word": "lancer",
+            "otherAnswers": ["lâcher", "laver", "laisser"]
+          }
+        },
+        {
+          "id": "lead",
+          "type": "verb",
+          "en": {
+            "word": "lead",
+            "otherAnswers": ["leak", "lean", "leap"]
+          },
+          "fr": {
+            "word": "mener",
+            "otherAnswers": ["devancer", "diriger", "démarrer"]
+          }
+        },
+        {
+          "id": "leading",
+          "type": "adjective",
+          "en": {
+            "word": "leading",
+            "otherAnswers": ["leaning", "learning", "leaping"]
+          },
+          "fr": {
+            "word": "éminent",
+            "otherAnswers": ["principal", "majeur", "dominant"]
+          }
+        },
+        {
+          "id": "in-the-lead",
+          "type": "adverb",
+          "en": {
+            "word": "in the lead",
+            "otherAnswers": ["ahead", "in front", "in control"]
+          },
+          "fr": {
+            "word": "en tête",
+            "otherAnswers": ["devant", "premier", "à la tête"]
+          }
+        },
+        {
+          "id": "market-leader",
+          "type": "name",
+          "en": {
+            "word": "market leader",
+            "otherAnswers": ["market dealer", "market reader", "market player"]
+          },
+          "fr": {
+            "word": "leader",
+            "otherAnswers": ["chef de file", "numéro un", "leader du marché"]
+          }
+        },
+        {
+          "id": "take-the-lead",
+          "type": "verb",
+          "en": {
+            "word": "take the lead",
+            "otherAnswers": ["make the leap", "take the leap", "take the lane"]
+          },
+          "fr": {
+            "word": "prendre la tête",
+            "otherAnswers": [
+              "prendre les devants",
+              "prendre l'initiative",
+              "prendre la première place"
+            ]
+          }
+        },
+        {
+          "id": "market",
+          "type": "name",
+          "en": {
+            "word": "market",
+            "otherAnswers": ["marker", "marked", "marble"]
+          },
+          "fr": {
+            "word": "marché",
+            "otherAnswers": ["marketing", "marchand", "marque"]
+          }
+        },
+        {
+          "id": "market-verb",
+          "type": "verb",
+          "en": {
+            "word": "market",
+            "otherAnswers": ["mark", "march", "marry"]
+          },
+          "fr": {
+            "word": "lancer",
+            "otherAnswers": ["commercialiser", "vendre", "promouvoir"]
+          }
+        },
+        {
+          "id": "marketable",
+          "type": "adjective",
+          "en": {
+            "word": "marketable",
+            "otherAnswers": ["remarkable", "measurable", "memorable"]
+          },
+          "fr": {
+            "word": "commercialisable",
+            "otherAnswers": ["monnayable", "vendable", "rentable"]
+          }
+        },
+        {
+          "id": "market-driven",
+          "type": "adjective",
+          "en": {
+            "word": "market-driven",
+            "otherAnswers": [
+              "market-focused",
+              "market-oriented",
+              "market-based"
+            ]
+          },
+          "fr": {
+            "word": "dicté par le marché",
+            "otherAnswers": [
+              "orienté marché",
+              "axé sur le marché",
+              "conduit par le marché"
+            ]
+          }
+        },
+        {
+          "id": "on-the-market",
+          "type": "expression",
+          "en": {
+            "word": "on the market",
+            "otherAnswers": ["for sale", "available", "in stores"]
+          },
+          "fr": {
+            "word": "en vente",
+            "otherAnswers": ["sur le marché", "disponible", "commercialisé"]
+          }
+        },
+        {
+          "id": "market-research",
+          "type": "name",
+          "en": {
+            "word": "market research",
+            "otherAnswers": ["market analysis", "market survey", "market study"]
+          },
+          "fr": {
+            "word": "étude de marché",
+            "otherAnswers": [
+              "analyse de marché",
+              "recherche marketing",
+              "sondage de marché"
+            ]
+          }
+        },
+        {
+          "id": "market-share",
+          "type": "name",
+          "en": {
+            "word": "market share",
+            "otherAnswers": ["market slice", "market segment", "market space"]
+          },
+          "fr": {
+            "word": "part de marché",
+            "otherAnswers": [
+              "portion du marché",
+              "segment de marché",
+              "pourcentage de marché"
+            ]
+          }
+        },
+        {
+          "id": "corner-the-market",
+          "type": "verb",
+          "en": {
+            "word": "corner the market",
+            "otherAnswers": [
+              "control the market",
+              "capture the market",
+              "command the market"
+            ]
+          },
+          "fr": {
+            "word": "dominer le marché",
+            "otherAnswers": [
+              "contrôler le marché",
+              "monopoliser le marché",
+              "s'emparer du marché"
+            ]
+          }
+        },
+        {
+          "id": "mislead",
+          "type": "verb",
+          "en": {
+            "word": "mislead",
+            "otherAnswers": ["misread", "misload", "mislead"]
+          },
+          "fr": {
+            "word": "tromper",
+            "otherAnswers": ["induire en erreur", "égarer", "mystifier"]
+          }
+        },
+        {
+          "id": "misleading",
+          "type": "adjective",
+          "en": {
+            "word": "misleading",
+            "otherAnswers": ["misreading", "misunderstanding", "mistreating"]
+          },
+          "fr": {
+            "word": "trompeur",
+            "otherAnswers": ["qui prête à confusion", "mensonger", "fallacieux"]
+          }
+        },
+        {
+          "id": "paradigm-shift",
+          "type": "name",
+          "en": {
+            "word": "paradigm shift",
+            "otherAnswers": [
+              "perspective change",
+              "pattern shift",
+              "profound change"
+            ]
+          },
+          "fr": {
+            "word": "changement de direction",
+            "otherAnswers": [
+              "changement de paradigme",
+              "virage stratégique",
+              "réorientation"
+            ]
+          }
+        },
+        {
+          "id": "poll",
+          "type": "name",
+          "en": {
+            "word": "poll",
+            "otherAnswers": ["pool", "pull", "pole"]
+          },
+          "fr": {
+            "word": "sondage",
+            "otherAnswers": ["enquête", "questionnaire", "consultation"]
+          }
+        },
+        {
+          "id": "promise",
+          "type": "name",
+          "en": {
+            "word": "promise",
+            "otherAnswers": ["premise", "promote", "premium"]
+          },
+          "fr": {
+            "word": "promesse",
+            "otherAnswers": ["engagement", "garantie", "parole"]
+          }
+        },
+        {
+          "id": "promise-verb",
+          "type": "verb",
+          "en": {
+            "word": "promise",
+            "otherAnswers": ["premise", "presume", "propose"]
+          },
+          "fr": {
+            "word": "promettre",
+            "otherAnswers": ["assurer", "garantir", "s'engager"]
+          }
+        },
+        {
+          "id": "promising",
+          "type": "adjective",
+          "en": {
+            "word": "promising",
+            "otherAnswers": ["promoting", "processing", "providing"]
+          },
+          "fr": {
+            "word": "prometteur",
+            "otherAnswers": ["encourageant", "favorable", "auspicieux"]
+          }
+        },
+        {
+          "id": "promote",
+          "type": "verb",
+          "en": {
+            "word": "promote",
+            "otherAnswers": ["promise", "provide", "propose"]
+          },
+          "fr": {
+            "word": "promouvoir",
+            "otherAnswers": ["favoriser", "encourager", "développer"]
+          }
+        },
+        {
+          "id": "promotional",
+          "type": "adjective",
+          "en": {
+            "word": "promotional",
+            "otherAnswers": ["professional", "proportional", "provisional"]
+          },
+          "fr": {
+            "word": "publicitaire",
+            "otherAnswers": ["promotionnel", "commercial", "marketing"]
+          }
+        },
+        {
+          "id": "promoter",
+          "type": "name",
+          "en": {
+            "word": "promoter",
+            "otherAnswers": ["provider", "producer", "protector"]
+          },
+          "fr": {
+            "word": "organisateur",
+            "otherAnswers": ["promoteur", "initiateur", "responsable"]
+          }
+        },
+        {
+          "id": "promotion",
+          "type": "name",
+          "en": {
+            "word": "promotion",
+            "otherAnswers": ["production", "provision", "proportion"]
+          },
+          "fr": {
+            "word": "publicité",
+            "otherAnswers": ["promotion", "offre", "campagne"]
+          }
+        },
+        {
+          "id": "range",
+          "type": "name",
+          "en": {
+            "word": "range",
+            "otherAnswers": ["rage", "rank", "rate"]
+          },
+          "fr": {
+            "word": "gamme",
+            "otherAnswers": ["série", "éventail", "assortiment"]
+          }
+        },
+        {
+          "id": "rank",
+          "type": "verb",
+          "en": {
+            "word": "rank",
+            "otherAnswers": ["rate", "range", "rant"]
+          },
+          "fr": {
+            "word": "classer",
+            "otherAnswers": ["ranger", "évaluer", "ordonner"]
+          }
+        },
+        {
+          "id": "schedule",
+          "type": "name",
+          "en": {
+            "word": "schedule",
+            "otherAnswers": ["scheme", "school", "scholar"]
+          },
+          "fr": {
+            "word": "planning",
+            "otherAnswers": ["délai", "calendrier", "programme"]
+          }
+        },
+        {
+          "id": "ahead-of-schedule",
+          "type": "expression",
+          "en": {
+            "word": "ahead of schedule",
+            "otherAnswers": [
+              "before deadline",
+              "early completion",
+              "fast delivery"
+            ]
+          },
+          "fr": {
+            "word": "en avance sur le planning",
+            "otherAnswers": [
+              "avant la date prévue",
+              "plus tôt que prévu",
+              "en avance sur le calendrier"
+            ]
+          }
+        },
+        {
+          "id": "behind-schedule",
+          "type": "expression",
+          "en": {
+            "word": "behind schedule",
+            "otherAnswers": ["delayed", "late delivery", "past deadline"]
+          },
+          "fr": {
+            "word": "en retard sur le planning",
+            "otherAnswers": [
+              "après la date prévue",
+              "plus tard que prévu",
+              "en retard sur le calendrier"
+            ]
+          }
+        },
+        {
+          "id": "on-schedule",
+          "type": "expression",
+          "en": {
+            "word": "on schedule",
+            "otherAnswers": ["as planned", "on time", "as expected"]
+          },
+          "fr": {
+            "word": "dans les délais",
+            "otherAnswers": [
+              "selon le planning",
+              "à l'heure prévue",
+              "comme prévu"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

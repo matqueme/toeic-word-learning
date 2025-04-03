@@ -1,0 +1,667 @@
+{
+  "categories": [
+    {
+      "id": "budgeting",
+      "nameEn": "Budgeting",
+      "nameFr": "Budgétisation",
+      "words": [
+        {
+          "id": "back-up-plan",
+          "type": "name",
+          "en": {
+            "word": "back-up plan",
+            "otherAnswers": ["emergency plan", "contingency plan", "safety net"]
+          },
+          "fr": {
+            "word": "plan B",
+            "otherAnswers": [
+              "plan de secours",
+              "alternative",
+              "solution de rechange"
+            ]
+          }
+        },
+        {
+          "id": "cut-back",
+          "type": "verb",
+          "en": {
+            "word": "cut back",
+            "otherAnswers": ["reduce", "decrease", "limit"]
+          },
+          "fr": {
+            "word": "faire des économies",
+            "otherAnswers": ["réduire", "diminuer", "limiter"]
+          }
+        },
+        {
+          "id": "cutback",
+          "type": "name",
+          "en": {
+            "word": "cutback",
+            "otherAnswers": ["reduction", "decrease", "saving"]
+          },
+          "fr": {
+            "word": "réduction",
+            "otherAnswers": ["diminution", "restriction", "économie"]
+          }
+        },
+        {
+          "id": "disposable-income",
+          "type": "name",
+          "en": {
+            "word": "disposable income",
+            "otherAnswers": [
+              "available income",
+              "spending money",
+              "after-tax income"
+            ]
+          },
+          "fr": {
+            "word": "revenu disponible",
+            "otherAnswers": [
+              "argent disponible",
+              "budget personnel",
+              "revenu après impôt"
+            ]
+          }
+        },
+        {
+          "id": "earn",
+          "type": "verb",
+          "en": {
+            "word": "earn",
+            "otherAnswers": ["make", "gain", "acquire"]
+          },
+          "fr": {
+            "word": "gagner",
+            "otherAnswers": ["toucher", "percevoir", "recevoir"]
+          }
+        },
+        {
+          "id": "earner",
+          "type": "name",
+          "en": {
+            "word": "earner",
+            "otherAnswers": ["worker", "employee", "provider"]
+          },
+          "fr": {
+            "word": "salarié",
+            "otherAnswers": ["travailleur", "source de revenu", "gagne-pain"]
+          }
+        },
+        {
+          "id": "earnings",
+          "type": "name",
+          "en": {
+            "word": "earnings",
+            "otherAnswers": ["income", "wages", "salary"]
+          },
+          "fr": {
+            "word": "revenus",
+            "otherAnswers": ["salaires", "gains", "rémunération"]
+          }
+        },
+        {
+          "id": "emergency-fund",
+          "type": "name",
+          "en": {
+            "word": "emergency fund",
+            "otherAnswers": ["rainy day fund", "safety fund", "reserve fund"]
+          },
+          "fr": {
+            "word": "fonds d'urgence",
+            "otherAnswers": [
+              "réserve d'urgence",
+              "épargne de précaution",
+              "coussin financier"
+            ]
+          }
+        },
+        {
+          "id": "expandable",
+          "type": "adjective",
+          "en": {
+            "word": "expandable",
+            "otherAnswers": ["optional", "discretionary", "non-essential"]
+          },
+          "fr": {
+            "word": "dont on peut se dispenser",
+            "otherAnswers": ["facultatif", "non-essentiel", "superflu"]
+          }
+        },
+        {
+          "id": "expenditure",
+          "type": "name",
+          "en": {
+            "word": "expenditure",
+            "otherAnswers": ["spending", "outlay", "cost"]
+          },
+          "fr": {
+            "word": "dépense",
+            "otherAnswers": ["débours", "frais", "coût"]
+          }
+        },
+        {
+          "id": "expensive",
+          "type": "adjective",
+          "en": {
+            "word": "expensive",
+            "otherAnswers": ["costly", "pricey", "high-priced"]
+          },
+          "fr": {
+            "word": "cher",
+            "otherAnswers": ["coûteux", "onéreux", "dispendieux"]
+          }
+        },
+        {
+          "id": "expenses",
+          "type": "name",
+          "en": {
+            "word": "expenses",
+            "otherAnswers": ["costs", "charges", "outlays"]
+          },
+          "fr": {
+            "word": "dépenses",
+            "otherAnswers": ["frais", "charges", "coûts"]
+          }
+        },
+        {
+          "id": "meet-expenses",
+          "type": "verb",
+          "en": {
+            "word": "meet expenses",
+            "otherAnswers": ["cover costs", "pay bills", "afford expenses"]
+          },
+          "fr": {
+            "word": "couvrir les dépenses",
+            "otherAnswers": [
+              "payer les factures",
+              "assumer les frais",
+              "subvenir aux besoins"
+            ]
+          }
+        },
+        {
+          "id": "fail",
+          "type": "verb",
+          "en": {
+            "word": "fail",
+            "otherAnswers": ["collapse", "go bankrupt", "default"]
+          },
+          "fr": {
+            "word": "échouer",
+            "otherAnswers": ["faire faillite", "faire défaut", "s'effondrer"]
+          }
+        },
+        {
+          "id": "failure",
+          "type": "name",
+          "en": {
+            "word": "failure",
+            "otherAnswers": ["bankruptcy", "collapse", "default"]
+          },
+          "fr": {
+            "word": "échec",
+            "otherAnswers": ["faillite", "manquement", "défaillance"]
+          }
+        },
+        {
+          "id": "failing",
+          "type": "name",
+          "en": {
+            "word": "failing",
+            "otherAnswers": ["weakness", "shortcoming", "flaw"]
+          },
+          "fr": {
+            "word": "faiblesse",
+            "otherAnswers": ["défaut", "lacune", "insuffisance"]
+          }
+        },
+        {
+          "id": "fail-to",
+          "type": "verb",
+          "en": {
+            "word": "fail to",
+            "otherAnswers": ["be unable to", "neglect to", "omit to"]
+          },
+          "fr": {
+            "word": "ne pas parvenir à",
+            "otherAnswers": ["être incapable de", "manquer de", "omettre de"]
+          }
+        },
+        {
+          "id": "fall-back-on",
+          "type": "verb",
+          "en": {
+            "word": "fall back on",
+            "otherAnswers": ["resort to", "rely on", "depend on"]
+          },
+          "fr": {
+            "word": "avoir recours à",
+            "otherAnswers": [
+              "avoir en réserve",
+              "se rabattre sur",
+              "compter sur"
+            ]
+          }
+        },
+        {
+          "id": "financial-statement",
+          "type": "name",
+          "en": {
+            "word": "financial statement",
+            "otherAnswers": [
+              "balance sheet",
+              "income statement",
+              "cash flow statement"
+            ]
+          },
+          "fr": {
+            "word": "bilan financier",
+            "otherAnswers": [
+              "état financier",
+              "compte de résultat",
+              "rapport financier"
+            ]
+          }
+        },
+        {
+          "id": "forecast-noun",
+          "type": "name",
+          "en": {
+            "word": "forecast",
+            "otherAnswers": ["prediction", "projection", "estimate"]
+          },
+          "fr": {
+            "word": "prévisions",
+            "otherAnswers": ["pronostic", "estimation", "projection"]
+          }
+        },
+        {
+          "id": "forecast-verb",
+          "type": "verb",
+          "en": {
+            "word": "forecast",
+            "otherAnswers": ["predict", "project", "estimate"]
+          },
+          "fr": {
+            "word": "prévoir",
+            "otherAnswers": ["estimer", "projeter", "pronostiquer"]
+          }
+        },
+        {
+          "id": "income",
+          "type": "name",
+          "en": {
+            "word": "income",
+            "otherAnswers": ["revenue", "earnings", "proceeds"]
+          },
+          "fr": {
+            "word": "revenu",
+            "otherAnswers": ["rentrée d'argent", "gains", "recettes"]
+          }
+        },
+        {
+          "id": "incoming",
+          "type": "adjective",
+          "en": {
+            "word": "incoming",
+            "otherAnswers": ["arriving", "entering", "new"]
+          },
+          "fr": {
+            "word": "entrant",
+            "otherAnswers": ["nouveau", "qui arrive", "à venir"]
+          }
+        },
+        {
+          "id": "income-tax",
+          "type": "name",
+          "en": {
+            "word": "income tax",
+            "otherAnswers": ["tax on earnings", "revenue tax", "personal tax"]
+          },
+          "fr": {
+            "word": "impôt sur le revenu",
+            "otherAnswers": [
+              "imposition",
+              "contributions fiscales",
+              "taxe sur les gains"
+            ]
+          }
+        },
+        {
+          "id": "net-income",
+          "type": "name",
+          "en": {
+            "word": "net income",
+            "otherAnswers": ["profit", "bottom line", "take-home pay"]
+          },
+          "fr": {
+            "word": "revenu net",
+            "otherAnswers": ["bénéfice net", "salaire après impôt", "gain net"]
+          }
+        },
+        {
+          "id": "gross-income",
+          "type": "name",
+          "en": {
+            "word": "gross income",
+            "otherAnswers": [
+              "total income",
+              "pre-tax income",
+              "earnings before tax"
+            ]
+          },
+          "fr": {
+            "word": "revenu brut",
+            "otherAnswers": [
+              "salaire avant déductions",
+              "revenu total",
+              "montant brut"
+            ]
+          }
+        },
+        {
+          "id": "lack-noun",
+          "type": "name",
+          "en": {
+            "word": "lack",
+            "otherAnswers": ["shortage", "deficiency", "absence"]
+          },
+          "fr": {
+            "word": "manque",
+            "otherAnswers": ["pénurie", "absence", "insuffisance"]
+          }
+        },
+        {
+          "id": "lack-verb",
+          "type": "verb",
+          "en": {
+            "word": "lack",
+            "otherAnswers": ["need", "require", "be short of"]
+          },
+          "fr": {
+            "word": "manquer",
+            "otherAnswers": ["être dépourvu de", "faire défaut", "ne pas avoir"]
+          }
+        },
+        {
+          "id": "outcome",
+          "type": "name",
+          "en": {
+            "word": "outcome",
+            "otherAnswers": ["result", "consequence", "effect"]
+          },
+          "fr": {
+            "word": "résultat",
+            "otherAnswers": ["issue", "conséquence", "effet"]
+          }
+        },
+        {
+          "id": "overcome-verb",
+          "type": "verb",
+          "en": {
+            "word": "overcome",
+            "otherAnswers": ["conquer", "defeat", "triumph over"]
+          },
+          "fr": {
+            "word": "surmonter",
+            "otherAnswers": ["vaincre", "triompher de", "résoudre"]
+          }
+        },
+        {
+          "id": "overcome-adj",
+          "type": "adjective",
+          "en": {
+            "word": "overcome",
+            "otherAnswers": ["exhausted", "overwhelmed", "beaten"]
+          },
+          "fr": {
+            "word": "épuisé",
+            "otherAnswers": ["submergé", "accablé", "dépassé"]
+          }
+        },
+        {
+          "id": "pension",
+          "type": "name",
+          "en": {
+            "word": "pension",
+            "otherAnswers": ["retirement fund", "annuity", "superannuation"]
+          },
+          "fr": {
+            "word": "retraite",
+            "otherAnswers": ["pension", "rente", "prestation de vieillesse"]
+          }
+        },
+        {
+          "id": "pensionable",
+          "type": "adjective",
+          "en": {
+            "word": "pensionable",
+            "otherAnswers": ["eligible", "qualifying", "entitled"]
+          },
+          "fr": {
+            "word": "ayant droit à une pension",
+            "otherAnswers": ["éligible à la retraite", "cotisant", "admissible"]
+          }
+        },
+        {
+          "id": "pension-plan",
+          "type": "name",
+          "en": {
+            "word": "pension plan",
+            "otherAnswers": ["retirement scheme", "401k", "superannuation fund"]
+          },
+          "fr": {
+            "word": "plan de retraite",
+            "otherAnswers": [
+              "régime de pension",
+              "caisse de retraite",
+              "fonds de pension"
+            ]
+          }
+        },
+        {
+          "id": "pensioner",
+          "type": "name",
+          "en": {
+            "word": "pensioner",
+            "otherAnswers": ["retiree", "senior citizen", "retired person"]
+          },
+          "fr": {
+            "word": "retraité",
+            "otherAnswers": ["pensionné", "personne âgée", "senior"]
+          }
+        },
+        {
+          "id": "petty-cash",
+          "type": "name",
+          "en": {
+            "word": "petty cash",
+            "otherAnswers": ["small funds", "cash box", "float"]
+          },
+          "fr": {
+            "word": "fond de caisse",
+            "otherAnswers": [
+              "petite caisse",
+              "menue monnaie",
+              "caisse d'appoint"
+            ]
+          }
+        },
+        {
+          "id": "project",
+          "type": "verb",
+          "en": {
+            "word": "project",
+            "otherAnswers": ["forecast", "estimate", "predict"]
+          },
+          "fr": {
+            "word": "prévoir",
+            "otherAnswers": ["estimer", "projeter", "anticiper"]
+          }
+        },
+        {
+          "id": "projected",
+          "type": "adjective",
+          "en": {
+            "word": "projected",
+            "otherAnswers": ["estimated", "forecasted", "anticipated"]
+          },
+          "fr": {
+            "word": "prévu",
+            "otherAnswers": ["prévisionnel", "estimé", "anticipé"]
+          }
+        },
+        {
+          "id": "projection",
+          "type": "name",
+          "en": {
+            "word": "projection",
+            "otherAnswers": ["forecast", "estimate", "prediction"]
+          },
+          "fr": {
+            "word": "prévision",
+            "otherAnswers": ["estimation", "projection", "pronostic"]
+          }
+        },
+        {
+          "id": "quarter",
+          "type": "name",
+          "en": {
+            "word": "quarter",
+            "otherAnswers": ["three-month period", "term", "period"]
+          },
+          "fr": {
+            "word": "trimestre",
+            "otherAnswers": ["quart d'année", "période de trois mois", "terme"]
+          }
+        },
+        {
+          "id": "quarterly",
+          "type": "adjective",
+          "en": {
+            "word": "quarterly",
+            "otherAnswers": ["three-monthly", "every quarter", "per quarter"]
+          },
+          "fr": {
+            "word": "trimestriel",
+            "otherAnswers": [
+              "chaque trimestre",
+              "tous les trois mois",
+              "par trimestre"
+            ]
+          }
+        },
+        {
+          "id": "scarce",
+          "type": "adjective",
+          "en": {
+            "word": "scarce",
+            "otherAnswers": ["limited", "sparse", "insufficient"]
+          },
+          "fr": {
+            "word": "rare",
+            "otherAnswers": ["limité", "insuffisant", "peu abondant"]
+          }
+        },
+        {
+          "id": "scarcely",
+          "type": "adverb",
+          "en": {
+            "word": "scarcely",
+            "otherAnswers": ["barely", "hardly", "rarely"]
+          },
+          "fr": {
+            "word": "à peine",
+            "otherAnswers": ["presque pas", "guère", "rarement"]
+          }
+        },
+        {
+          "id": "scarcity",
+          "type": "name",
+          "en": {
+            "word": "scarcity",
+            "otherAnswers": ["shortage", "lack", "deficit"]
+          },
+          "fr": {
+            "word": "pénurie",
+            "otherAnswers": ["manque", "rareté", "insuffisance"]
+          }
+        },
+        {
+          "id": "sound",
+          "type": "adjective",
+          "en": {
+            "word": "sound",
+            "otherAnswers": ["solid", "reliable", "secure"]
+          },
+          "fr": {
+            "word": "sain",
+            "otherAnswers": ["solide", "fiable", "sûr"]
+          }
+        },
+        {
+          "id": "sound-advice",
+          "type": "name",
+          "en": {
+            "word": "sound advice",
+            "otherAnswers": ["good counsel", "wise guidance", "useful tips"]
+          },
+          "fr": {
+            "word": "bons conseils",
+            "otherAnswers": [
+              "conseils judicieux",
+              "recommandations utiles",
+              "indications pertinentes"
+            ]
+          }
+        },
+        {
+          "id": "subsidiary",
+          "type": "name",
+          "en": {
+            "word": "subsidiary",
+            "otherAnswers": ["grant", "allowance", "aid"]
+          },
+          "fr": {
+            "word": "subvention",
+            "otherAnswers": [
+              "allocation",
+              "aide financière",
+              "soutien financier"
+            ]
+          }
+        },
+        {
+          "id": "subsidize",
+          "type": "verb",
+          "en": {
+            "word": "subsidize",
+            "otherAnswers": ["fund", "support", "finance"]
+          },
+          "fr": {
+            "word": "subventionner",
+            "otherAnswers": ["financer", "soutenir financièrement", "aider"]
+          }
+        },
+        {
+          "id": "turn-a-profit",
+          "type": "verb",
+          "en": {
+            "word": "turn a profit",
+            "otherAnswers": ["make money", "be profitable", "yield returns"]
+          },
+          "fr": {
+            "word": "entraîner des bénéfices",
+            "otherAnswers": [
+              "rapporter",
+              "être rentable",
+              "générer des profits"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
