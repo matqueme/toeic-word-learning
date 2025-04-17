@@ -21,6 +21,33 @@
       </div>
     </div>
 
+    <div v-if="incorrectQuestions.length > 0" class="mt-6 mb-6">
+      <h3 class="mb-3 text-xl font-semibold text-(--custom-brown-dark)">
+        Mots à réviser
+      </h3>
+      <div class="max-h-72 overflow-y-auto rounded-lg border border-(--custom-brown-light)/40 bg-(--custom-light) p-4">
+        <div v-for="(item, index) in incorrectQuestions" :key="index" 
+             class="mb-3 rounded-lg border border-(--custom-brown)/20 bg-white p-3 shadow-sm">
+          <div class="flex justify-between items-start">
+            <div>
+              <div class="font-medium text-(--custom-green-dark)">
+                {{ item.question._isFromEnglish ? 'Anglais:' : 'Français:' }} 
+                <span class="font-bold">{{ getQuestionWord(item.question) }}</span>
+              </div>
+              <div class="mt-1 text-(--custom-brown-dark)">
+                {{ item.question._isFromEnglish ? 'Français:' : 'Anglais:' }} 
+                <span class="font-bold">{{ getCorrectAnswer(item.question) }}</span>
+              </div>
+            </div>
+            <div class="text-red-500 text-sm">
+              <div>Votre réponse:</div>
+              <div class="font-medium">{{ item.userAnswer }}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <button
       @click="reset"
       class="w-full rounded-lg bg-(--custom-brown) px-6 py-3 font-bold text-white transition duration-150 hover:cursor-pointer hover:bg-(--custom-brown-light)"
@@ -37,6 +64,7 @@
 <script setup lang="ts">
 import { computed, ref, onMounted, watch } from 'vue';
 import { gsap } from 'gsap';
+import type { Word } from '../types/types';
 
 const confettiContainer = ref<HTMLDivElement | null>(null);
 
@@ -95,6 +123,7 @@ const createConfetti = () => {
 const props = defineProps<{
   score: number;
   total: number;
+  incorrectQuestions: { question: Word; userAnswer: string }[];
 }>();
 
 const emit = defineEmits<{
@@ -113,6 +142,14 @@ const percentage = computed(() => {
 
 const reset = () => {
   emit('reset');
+};
+
+const getQuestionWord = (question: Word) => {
+  return question._isFromEnglish ? question.en.word : question.fr.word;
+};
+
+const getCorrectAnswer = (question: Word) => {
+  return question._isFromEnglish ? question.fr.word : question.en.word;
 };
 
 const animateResults = () => {

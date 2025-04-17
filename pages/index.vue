@@ -53,6 +53,7 @@
         v-if="currentStep === 5"
         :score="score"
         :total="gameQuestions.length"
+        :incorrect-questions="incorrectQuestions"
         @reset="resetGame"
       />
     </div>
@@ -84,6 +85,7 @@ const selectedAnswer = ref<string | null>(null);
 const isCorrect = ref(false);
 const correctAnswer = ref<string | null>(null);
 const currentAnswerOptions = ref<string[]>([]);
+const incorrectQuestions = ref<{question: Word, userAnswer: string}[]>([]);
 
 // Charger les catégories au démarrage
 onMounted(async () => {
@@ -186,6 +188,12 @@ const checkAnswer = (option: string) => {
 
   if (isCorrect.value) {
     score.value++;
+  } else {
+    // Enregistrer la question incorrecte
+    incorrectQuestions.value.push({
+      question: gameQuestions.value[currentQuestionIndex.value],
+      userAnswer: option
+    });
   }
 
   showFeedback.value = true;
@@ -204,5 +212,6 @@ const resetGame = () => {
   currentStep.value = 1;
   selectedCategories.value = [];
   gameQuestions.value = [];
+  incorrectQuestions.value = [];
 };
 </script>
